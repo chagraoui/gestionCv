@@ -1,0 +1,75 @@
+assembleur
+java
+android
+ios
+windows phone
+j2ee
+jee
+java ee
+hebernate
+jsf
+jpa
+wildfly
+jboss
+jboss studio
+shell
+ejb
+spring
+scrum
+angularjs
+javascript
+php
+symfony2
+symfony
+oracle
+mysql
+pl/sql
+sql
+c
+c++
+c#
+.net
+dotnet
+asp.net
+maple
+scala
+vhdl
+matlab
+automation studio
+html5
+html
+css3
+css
+xml
+json
+cloudstack
+openstack
+virtualisation
+xenServer
+wampserver
+wamp
+kvm
+rest
+soap
+mvc
+uml
+pascal
+netbeans
+eclipse
+dreamweaver
+qt
+photoshop
+proteuse isis
+isis
+packet tracer
+teamviewer
+pack office
+word
+powerpoint
+excel
+linux
+windows
+ubuntu
+centos
+xubuntos
+opensuse

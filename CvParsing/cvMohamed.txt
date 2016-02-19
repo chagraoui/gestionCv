@@ -1,0 +1,78 @@
+
+15 
+Street
+ El Jel
+j
+len, Avenue Om Kalthoum, 
+Nabeul 
+8000 
+Tunisia
+         
+ 
+SLAMA MOHAMED
+  
+ 
+Engineering student in computer science
+2
+4
+ 
+years old
+linkedin.com/in/medslama
++
+ 
+216 24 309 228
+muhamed.slama@gmail.com
+ 
+/ 
+mohamed.slama@esprit.tn
+ pr
+
+
+
+
+
+
+Curriculum Vitae
+Education
+2013 - 2016		Computer science cycle.
+June 2013	Higher technical diploma in automatism and industrial IT at ISET Nabeul with honors.
+June 2010		baccalaureate – section : Technical.
+
+Internships 
+July – august 2015 	Internship at CompuTech (company specialized in the sales and maintenance of computer hardware).
+January 2013	Internship at Gias (General Alimentary Industrial Slama – Goldina – Vanoise – Nestlé – Maxwell House…)
+January 2012	Internship at Tunisian cable (Company leader in the production sector of the cables in Tunisia).
+January 2011	Internship at Siame (Society of Industrial Equipment and Electrical Equipments).
+
+Academic Projects 
+December 2015	Android Project: development of an android application, that provides informations about types of dinosaurs, pictures, videos and allows its users to discover locations via google map API.
+December 2015 	Networks administration Project: installation, configuration and interconnection of many network servers (web, Mail, DNS, DHCP, Streaming, High availability) on Window and Linux.
+November 2015 	.net Project: development of a web application that manages  public transport in Tunisia, allowing to its users to check the time tables of public means of transport, the main lines, the nearest station and offers them an online reservation.
+June 2015	End of year project:  development of an e-commerce system « Online Auction » which organises online sales and online auction based on Java EE using jsf technology, we used WEB Socket API for auctions and clustering to ensure high availability.
+March 2015 	Development and integration Project: development and integration of an e-learning system « Virtual University » with 3 different technologies: desktop application using (Java Swing), web application using (Symfony2) and mobile application using (j2me) . The agile scrum methodologie was adopted during five months in order to achieve the project.
+2012 – 2013 	Graduation Project: programming of a lifeboat controlled in two ways: manually by remote control or automatically by GPS - based on Arduino card with the language C ++.
+2011 – 2012	Home Automation Project: smart home programmed with the 16F877A microcontroller with language C.
+
+Competences 
+Programming
+Languages /Frameworks: 	Assembly, C, C++, C#, .Net, Java, J2ME, Android, Java EE, 
+                                                     XML, JavaScript, HTML5, CSS3, PHP, Symfony2, SQL, Pl/SQL.
+Databases : 			Oracle, MySQL.
+Modeling  languages: 	UML.
+Agile methodology:		Scrum.
+Operating systems : 		Windows, Linux.
+Softwares: 			Photoshop CS3, Proteus isis, Teamviewer, Packet Tracer, 
+                                                     Pack Office (Word, Excel, PowerPoint).
+
+Languages		English 	Excellent
+				French  	Excellent
+				Spanish 	Basic
+Arab	 	native
+
+Interests			Sports (Karate, football, spearfishing, Ping pong…),
+				Divers (Movies, Video games, lecture, Chess …).
+
+Work Experience
+Volunteer Work:	Member of Rahma Association in Nabeul.
+Summer work:		Electro Slama in Nabeul (company which sales home appliances)
+

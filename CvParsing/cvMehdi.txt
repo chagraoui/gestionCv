@@ -1,0 +1,82 @@
+Mehdi Chagraoui
+tunis
+SEIN
+SEIN
+SEIN
+
+Rue Makther resd:immtaiz
+Mourouj 5, Ben Arous,
+
+2074, TUNISIE
+H +216 53 608 534
+
+B mehdi.chagraoui@gmail.com
+Né le 12-02-1991
+
+Skype: chagraoui.mehdi
+
+Eléve ingénieur
+
+Expériences professionnelles
+Juillet-Aout 2015 (Stage) au sein de Tumalis.
+
+Mission :Application Web profil job maching
+Description : Création d’une application Front-end en Angularjs communiquant en REST avec back-end dévloppé
+en Spring MVC.
+Technologies et Outils : Angularjs,Spring MVC,REST.
+
+Février-Mai 2015 Projet fin d’année (Stage) - Polytech Centrale.
+Mission :Mise en place d’une platforme VOIP :
+Description : Configuration et mise ne place d’un serveur asterisk locale et configuration des softphone sur des
+différente platformes :(android,windows,linux) .
+Technologies et Outils : Asterisk,Zoiper,RTP,SIP.
+
+Juillet – Aout 2014 Projet académique polytech centrale.
+Mission :Application web de gestion de compte bancaire :
+Description :Analyse, conception et réalisation d’une application J2EE pour la gestion des comptes bancaires.
+Technologies et Outils : JAVA, Hibernate, Eclipse, MySQL Workbench, JSF, HTML.
+
+Octobre2012–
+Janvier2013
+
+conseiller technique SFR au sein de téléperformance.
+
+Février-Mai 2012 Projet fin d’étude (Stage)- AISA-Aviation It Services Africa .
+Mission : Etude et conception d’un réseau hautement disponible
+Description :Assurer la disponibilité du réseau (aeroport-agence-siége).
+Protocoles et Outils : GNS3,HSRP,HPVST,SDM.
+
+Juillet – Aout 2011 (Stage) au sein direction régionale des télécommunications –ben arous.
+Mission : Mise en place et configuration un reseau lan au sein de l’entreprise
+
+Formation
+2013 – en cours Ecole centrale polytechnique privée de tunis.
+
+Option : Systéme d’information
+2009 – 2012 Licence Appliquée en Administration des réseaux informatiques(ISI).
+
+Option :Administration des Réseaux et Service
+2009 Baccalauréat.
+
+Section Informatique. Mention bien.
+
+Connaissances informatiques
+Cisco CCNA (Cisco Certified Network Associate)
+
+Programmation JAVA, JAVA/J2EE ,AngularJS, PHP, PL/SQL, SQL, C, HTML, XML,
+Cloud Computing CloudStack,OpenStack,virtualisation, XenServer, KVM
+
+Architectures REST, MVC
+OS GNU/Linux ( Kubuntu, Ubuntu,CentOS),Windows
+
+Conception UML
+
+Langues
+Arabe Langue maternelle
+
+Français Niveau excellent
+Anglais Niveau académique
+
+Activités
+2013-2014 Président fondateur du club Centrale Cloud.
+Loisirs Musique, Sport,échec, randonnées, évènements culturels.
