@@ -5,17 +5,16 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
+
 public class GetOccurrence {
 
 	@SuppressWarnings("resource")
-	public static List<Map.Entry<String, Integer>> occ(BufferedReader in) throws IOException {
+	public static HashMap<String, Integer> occ(BufferedReader in) throws IOException {
 		// *********************Load Stop Words***************
 
 		List<String> StopWords = new ArrayList<String>();
@@ -78,19 +77,21 @@ public class GetOccurrence {
 		
 		final List<Map.Entry<String, Integer>> entries = new ArrayList<Map.Entry<String, Integer>>(
 				map.entrySet());
-
-		Collections.sort(entries, new Comparator<Entry<String, Integer>>() {
+		
+		HashMap<String, Integer> ht=new HashMap<String, Integer>();
+		for (final Entry<String, Integer> entry : entries) {
+			//System.out.println(entry.getValue() + "\t" + entry.getKey());
+			if(entry.getValue()>2)
+			ht.put(entry.getKey(), entry.getValue());
+		}
+		
+		/*Collections.sort(entries, new Comparator<Entry<String, Integer>>() {
 			public int compare(final Entry<String, Integer> e2,
 					final Entry<String, Integer> e1) {
 				return e1.getValue().compareTo(e2.getValue());
 			}
-		});
-
-		/*for (final Entry<String, Integer> entry : entries) {
-			System.out.println(entry.getValue() + "\t" + entry.getKey());
-
-		}*/
-	
-	return  entries;
+		});*/
+		
+	return  ht;
 	}
 }

@@ -10,10 +10,11 @@ public class GetLocation {
 	public static String location(BufferedReader in) throws IOException {
 		 
 		BufferedReader lp = new BufferedReader(new FileReader("listpays.txt"));
-		ArrayList<String> tab, pays;
+		ArrayList<String> tab, pays, adress;
 
 		tab = new ArrayList<String>();
 		pays = new ArrayList<String>();
+		adress = new ArrayList<String>();
 
 		String str;
 		while ((str = in.readLine()) != null) {
@@ -33,10 +34,10 @@ public class GetLocation {
 			for (String ele : pays) {
 				int x = ((elem.toLowerCase()).indexOf(ele));
 				if (x > 0) {
-					res= res+" "+ele;
+					adress.add(ele);
 				}
 			}
 		}
-		return res;
+		return adress.get(0);
 	}
 }
