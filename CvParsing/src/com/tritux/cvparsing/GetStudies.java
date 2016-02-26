@@ -33,8 +33,9 @@ public class GetStudies {
 			for (String ele : pays) {
 				int x = ((elem.toLowerCase()).indexOf(ele));
 				if (x > 0) {
-					//res = res + " " + ele;
-					re.add(ele);	
+					if (re.indexOf(ele)==-1)
+					{
+					re.add(ele);}	
 				}
 			}
 		}

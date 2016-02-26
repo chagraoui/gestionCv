@@ -27,6 +27,7 @@ public class GetAge {
 				Pattern pattern2 = Pattern.compile(AGE_PATTERN2);
 				Matcher matcher2 = pattern2.matcher(str);
 				
+				// verifier si age existe 
 				int x = (str.indexOf("ans"));
 				if (x > 0) {
 					String var="0";
@@ -47,6 +48,7 @@ public class GetAge {
 					
 				}
 				
+				//verfier format date exp 12/2/1991
 				if (matcher1.find()) {
 					String year[] = str.split("/");
 					String var=year[2].substring(0,4);
@@ -57,6 +59,9 @@ public class GetAge {
 					//System.out.println(yearCurent - y);
 					return yearCurent - y;
 				}
+			
+				
+				//verfier format date exp 12-26-1991
 				if (matcher2.find()) {
 					
 					String year[] = str.split("-");

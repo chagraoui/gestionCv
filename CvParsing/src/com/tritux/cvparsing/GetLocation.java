@@ -15,7 +15,7 @@ public class GetLocation {
 		tab = new ArrayList<String>();
 		pays = new ArrayList<String>();
 		adress = new ArrayList<String>();
-
+		
 		String str;
 		while ((str = in.readLine()) != null) {
 
@@ -34,10 +34,11 @@ public class GetLocation {
 			for (String ele : pays) {
 				int x = ((elem.toLowerCase()).indexOf(ele));
 				if (x > 0) {
-					adress.add(ele);
+					res= ele;
 				}
 			}
 		}
-		return adress.get(0);
+			return res;
+		
 	}
 }
