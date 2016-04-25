@@ -9,17 +9,18 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+import org.tritux.entites.Certification;
+import org.tritux.entites.Diplomes;
+
 public class CV {
 
-	// private Long id;
+	
 	private int age;
 	private String nom;
-	private String certifications;
-	 //private List<String>certifications;
-	// private String gender;
+	private ArrayList<Certification>certifications;
 	private String adresse;
 	private String email;
-	private ArrayList<String> diplomes;
+	private ArrayList<Diplomes> diplomes;
 	private Set<String> technologies;
 	private String num;
 	private HashMap<String, Integer> keywords;
@@ -71,12 +72,7 @@ public class CV {
 		return nom;
 	}
 
-	/**
-	 * @return the certif
-	 */
-	public String getcertifications() {
-		return certifications;
-	}
+
 
 	/**
 	 * @return the adresse
@@ -95,7 +91,7 @@ public class CV {
 	/**
 	 * @return the studies
 	 */
-	public ArrayList<String> getdiplomes() {
+	public ArrayList<Diplomes> getdiplomes() {
 		return diplomes;
 	}
 
@@ -113,6 +109,10 @@ public class CV {
 		return num;
 	}
 
+	public ArrayList<Certification> getCertifications() {
+		return certifications;
+	}
+
 	/**
 	 * @return the keywords
 	 */
@@ -120,17 +120,21 @@ public class CV {
 		return keywords;
 	}
 
-	/*
-	 * (non-Javadoc)
-	 * 
-	 * @see java.lang.Object#toString()
-	 */
 	@Override
 	public String toString() {
-		return "CV [age=" + age + ", name=" + nom + ", certif=" + certifications
-				+ ", adresse=" + adresse + ", mail=" + email + ", studies="
-				+ diplomes + ", skills=" + technologies + ", num=" + num
-				+ ", keywords=" + keywords + "]";
+		return "CV [age="
+				+ age
+				+ ", "
+				+ (nom != null ? "nom=" + nom + ", " : "")
+				+ (certifications != null ? "certifications=" + certifications
+						+ ", " : "")
+				+ (adresse != null ? "adresse=" + adresse + ", " : "")
+				+ (email != null ? "email=" + email + ", " : "")
+				+ (diplomes != null ? "diplomes=" + diplomes + ", " : "")
+				+ (technologies != null ? "technologies=" + technologies + ", "
+						: "") + (num != null ? "num=" + num + ", " : "")
+				+ (keywords != null ? "keywords=" + keywords + ", " : "")
+				+ (in != null ? "in=" + in : "") + "]";
 	}
-
+	
 }

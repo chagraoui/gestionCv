@@ -9,19 +9,22 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+import org.tritux.entites.Diplomes;
+
 public class ParsingCv {
 
 	public static void main(String[] args) throws IOException {
 	
 		BufferedReader in;
 			
-//			in= new BufferedReader(new FileReader("cvConverti/cv9.txt"));
+
+	in= new BufferedReader(new FileReader("cv.txt"));
 //			int age =GetAge.age(in);
 //			System.out.println(age);
 //			
 //			in= new BufferedReader(new FileReader("cvMehdi.txt"));
-//			String cert =GetCertif.certif(in);
-//			System.out.println(cert);
+			ArrayList<String> cert=GetCertif.certif(in);
+			System.out.println(cert);
 //			
 //			in= new BufferedReader(new FileReader("cvMehdi.txt"));
 //			String adresse =GetLocation.location(in);
@@ -43,11 +46,11 @@ public class ParsingCv {
 //			Set<String> comp=GetSkills.skills(in);
 //			System.out.println(comp);
 //			
-			in= new BufferedReader(new FileReader("cvMehdi.txt"));
-			ArrayList<String> studie=GetStudies.studies(in);
-			System.out.println(studie);
+//			in= new BufferedReader(new FileReader("cv.txt"));
+//			ArrayList<Diplomes> studie=GetStudies.studies(in);
+//			System.out.println(studie);
 //			
-//			in= new BufferedReader(new FileReader("cvMehdi.txt"));
+//			in= new BufferedReader(new FileReader("cv.txt"));
 //			HashMap<String, Integer> ooc=GetOccurrence.occ(in);
 //			System.out.println(ooc);
 	

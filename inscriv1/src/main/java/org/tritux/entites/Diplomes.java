@@ -63,4 +63,12 @@ public class Diplomes {
 		this.dateObtention = dateObtention;
 		this.profilDip = profilDip;
 	}
+
+	@Override
+	public String toString() {
+		return "Diplomes [" + (nom != null ? "nom=" + nom + ", " : "")
+				+ "dateObtention=" + dateObtention + "]";
+	}
+	
+	
 }

@@ -20,9 +20,15 @@ public class Technolgie {
 	@GeneratedValue
 	private Long idTechno;
 	private String nomTechno;
-	@ManyToMany(mappedBy = "technologies", cascade = CascadeType.ALL, fetch = FetchType.EAGER)
+	@ManyToMany(mappedBy = "technologies", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
 	@JsonIgnore
 	private Collection<Profil> profils = new ArrayList<Profil>();
+	
+	@ManyToMany(mappedBy = "technologiesOffre", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+	@JsonIgnore
+	private Collection<Offre> offres = new ArrayList<Offre>();
+	
+	
 	
 	public Long getIdTechno() {
 		return idTechno;
