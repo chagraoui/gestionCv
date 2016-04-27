@@ -4,9 +4,11 @@ import java.util.Collection;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.tritux.entites.Offre;
 import org.tritux.entites.Recruteur;
@@ -27,7 +29,7 @@ public class AdminRestService {
 	
 
 	@Autowired
-	OffreRepo offreRepo;
+	OffreRepo offreRepo; 
 	
 	
 	//web service pour ajouter un recruteur
@@ -48,8 +50,14 @@ public class AdminRestService {
 	//liste des recrutuer
 	@RequestMapping(value = "/listRecruteur", method = RequestMethod.GET)
 	public Collection<Recruteur> listRecruteur() {
-	
 		return recruteurRepo.findAll();
+	}
+	
+	
+	//supprimer recrutuer
+	@RequestMapping(value = "/supRecruteur/{id}", method = RequestMethod.DELETE)
+	public void  suprimerRecruteur(@PathVariable Long id ) {
+		 recruteurRepo.delete(id);
 	}
 	
 	

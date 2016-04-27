@@ -30,6 +30,14 @@ public class Technolgie {
 	
 	
 	
+	public Collection<Offre> getOffres() {
+		return offres;
+	}
+
+	public void setOffres(Collection<Offre> offres) {
+		this.offres = offres;
+	}
+
 	public Long getIdTechno() {
 		return idTechno;
 	}

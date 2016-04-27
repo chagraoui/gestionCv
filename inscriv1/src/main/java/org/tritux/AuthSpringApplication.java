@@ -45,6 +45,7 @@ public class AuthSpringApplication {
 		Profil p = new Profil();
 		p.setNom("mehdi");
 		p.setAge(25);
+		p.setEmail("mohamed.slama@esprit.tn");
 		profilRepo.save(p);
 
 		c.setProfil(p);

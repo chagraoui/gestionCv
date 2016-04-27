@@ -22,7 +22,7 @@ public class CV {
 	private String email;
 	private ArrayList<Diplomes> diplomes;
 	private Set<String> technologies;
-	private String num;
+	private String tel;
 	private HashMap<String, Integer> keywords;
 	// private Map <string,integer> experience;
 
@@ -51,7 +51,7 @@ public class CV {
 		this.technologies = GetSkills.skills(in);
 
 		this.in = new BufferedReader(new FileReader(cv));
-		this.num = GetPhoneNum.num(in);
+		this.tel = GetPhoneNum.num(in);
 
 		this.in = new BufferedReader(new FileReader(cv));
 		this.keywords = GetOccurrence.occ(in);
@@ -105,8 +105,8 @@ public class CV {
 	/**
 	 * @return the num
 	 */
-	public String getNum() {
-		return num;
+	public String getTel() {
+		return tel;
 	}
 
 	public ArrayList<Certification> getCertifications() {
@@ -132,7 +132,7 @@ public class CV {
 				+ (email != null ? "email=" + email + ", " : "")
 				+ (diplomes != null ? "diplomes=" + diplomes + ", " : "")
 				+ (technologies != null ? "technologies=" + technologies + ", "
-						: "") + (num != null ? "num=" + num + ", " : "")
+						: "") + (tel != null ? "tel=" + tel + ", " : "")
 				+ (keywords != null ? "keywords=" + keywords + ", " : "")
 				+ (in != null ? "in=" + in : "") + "]";
 	}
