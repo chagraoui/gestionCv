@@ -1,6 +1,8 @@
 package org.tritux.entites;
 
 import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.Collection;
 
 import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
@@ -11,6 +13,11 @@ public class Recruteur extends User implements Serializable  {
 	
 	private String nomRecruteur;
 	private String ServiceRecruteur;
+	
+	//private Collection<Offre> recOffres = new ArrayList<Offre>();
+	
+	
+	
 	/**
 	 * @return the nomRecruteur
 	 */

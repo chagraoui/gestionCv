@@ -1,4 +1,4 @@
-package org.tritux.repository;
+package org.tritux.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.tritux.entites.Offre;

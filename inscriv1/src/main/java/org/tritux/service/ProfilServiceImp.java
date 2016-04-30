@@ -4,8 +4,8 @@ import java.util.Collection;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.tritux.dao.ProfilRepo;
 import org.tritux.entites.Profil;
-import org.tritux.repository.ProfilRepo;
 
 @Service
 public class ProfilServiceImp implements ProfilService {
@@ -33,9 +33,7 @@ public class ProfilServiceImp implements ProfilService {
 		}
 		Profil saveProfil = profilRepo.save(p);
 		return saveProfil;
-
 	}
-
 	@Override
 	public Profil update(Profil p) {
 		Profil profilperssited = findOne(p.getIdCv());

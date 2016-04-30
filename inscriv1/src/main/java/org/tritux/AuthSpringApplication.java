@@ -6,15 +6,15 @@ import java.util.List;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.tritux.dao.ExperienceRepo;
+import org.tritux.dao.ProfilRepo;
+import org.tritux.dao.UserRepo;
 import org.tritux.entites.Admin;
 import org.tritux.entites.Candidat;
 import org.tritux.entites.Exeprience;
 import org.tritux.entites.Profil;
 import org.tritux.entites.Recruteur;
 import org.tritux.entites.User;
-import org.tritux.repository.ExperienceRepo;
-import org.tritux.repository.ProfilRepo;
-import org.tritux.repository.UserRepo;
 
 import com.fasterxml.jackson.core.JsonGenerationException;
 import com.fasterxml.jackson.databind.JsonMappingException;
@@ -50,11 +50,10 @@ public class AuthSpringApplication {
 
 		c.setProfil(p);
 
-		Exeprience e1= new Exeprience(1, "java");
-		Exeprience e2= new Exeprience(1, ".net");
+		Exeprience e1= new Exeprience(1, "angularjs");
+		Exeprience e2= new Exeprience(1, "spring");
 		e1.setProfil(p);
 		e2.setProfil(p);
-
 		experienceRepo.save(e1);
 		experienceRepo.save(e2);
 		

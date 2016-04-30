@@ -10,13 +10,13 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.tritux.dao.CertifRepo;
+import org.tritux.dao.DiplomesRepo;
+import org.tritux.dao.ExperienceRepo;
+import org.tritux.dao.ProfilRepo;
+import org.tritux.dao.TechnologieRepo;
+import org.tritux.dao.UserRepo;
 import org.tritux.entites.*;
-import org.tritux.repository.CertifRepo;
-import org.tritux.repository.DiplomesRepo;
-import org.tritux.repository.ExperienceRepo;
-import org.tritux.repository.ProfilRepo;
-import org.tritux.repository.TechnologieRepo;
-import org.tritux.repository.UserRepo;
 import org.tritux.service.ProfilService;
 
 @CrossOrigin
@@ -98,7 +98,6 @@ public class InscriptionService {
 		}
 		// *************************************************************************
 		profilService.update(p);
-		//c.setRole("candidat");
 		userRepo.save(c);
 		return(p.getIdCv());
 	}

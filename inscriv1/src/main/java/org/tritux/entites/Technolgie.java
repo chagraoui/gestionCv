@@ -16,9 +16,11 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 
 @Entity
 public class Technolgie {
+	
 	@Id
 	@GeneratedValue
 	private Long idTechno;
+	
 	private String nomTechno;
 	@ManyToMany(mappedBy = "technologies", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
 	@JsonIgnore

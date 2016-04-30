@@ -8,12 +8,12 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
+import org.tritux.dao.CandidatRepo;
+import org.tritux.dao.ProfilRepo;
+import org.tritux.dao.UserRepo;
 import org.tritux.entites.Candidat;
 import org.tritux.entites.Profil;
 import org.tritux.entites.Technolgie;
-import org.tritux.repository.CandidatRepo;
-import org.tritux.repository.ProfilRepo;
-import org.tritux.repository.UserRepo;
 import org.tritux.service.ProfilService;
 
 @RestController

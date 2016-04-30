@@ -19,7 +19,7 @@ public class Offre {
 	private String titreOffre;
 	private String descOffre;
 
-	@ManyToMany(cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+	@ManyToMany(cascade = CascadeType.ALL,fetch = FetchType.LAZY)
 	private Collection<Technolgie> technologiesOffre = new ArrayList<Technolgie>();
 
 	public String getTitreOffre() {
