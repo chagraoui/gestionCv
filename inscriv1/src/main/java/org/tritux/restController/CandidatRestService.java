@@ -12,9 +12,12 @@ import org.tritux.dao.CandidatRepo;
 import org.tritux.dao.ProfilRepo;
 import org.tritux.dao.UserRepo;
 import org.tritux.entites.Candidat;
+import org.tritux.entites.Offre;
 import org.tritux.entites.Profil;
 import org.tritux.entites.Technolgie;
 import org.tritux.service.ProfilService;
+
+import antlr.collections.List;
 
 @RestController
 @CrossOrigin()
@@ -29,24 +32,33 @@ public class CandidatRestService {
 	@Autowired
 	ProfilService profilService;
 
-	// retourner le profil par id
+	// retourner le user par id
 	@RequestMapping(value = "/profilUser/{id}", method = RequestMethod.GET)
 	public Profil profil1(@PathVariable Long id) {
 		Profil p = profilService.findOne(id);
 		return p;
 	}
 
-	// retourner le User par id
+	// retourner le profil par id
 	@RequestMapping(value = "/profilCand/{id}", method = RequestMethod.GET)
 	public Candidat profil(@PathVariable Long id) {
 		return candidatRepo.findOne(id);
 	}
 
+	//la liste des candidatres du condidat dont son id=?
+	@RequestMapping(value = "/candidatures/{id}", method = RequestMethod.GET)
+	public Collection<Offre> candidatures(@PathVariable Long id) {
+		return candidatRepo.findOne(id).getListCandidatures();
+	}
+	
+	
 	// retourner les technologie par id profil
-	@RequestMapping(value = "/protech/{id}", method = RequestMethod.GET)
+	@RequestMapping(value = "/profiltech/{id}", method = RequestMethod.GET)
 	public Collection<Technolgie> proftech(@PathVariable Long id) {
 		Profil p = profilService.findOne(id);
 		return p.getTechnologies();
 	}
+	
+	
 
 }

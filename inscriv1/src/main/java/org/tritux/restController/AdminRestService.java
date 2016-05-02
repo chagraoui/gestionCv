@@ -16,6 +16,7 @@ import org.tritux.dao.RecruteurRepo;
 import org.tritux.dao.TechnologieRepo;
 import org.tritux.entites.Candidat;
 import org.tritux.entites.Offre;
+import org.tritux.entites.Profil;
 import org.tritux.entites.Recruteur;
 import org.tritux.entites.Technolgie;
 
@@ -38,6 +39,12 @@ public class AdminRestService {
 	// **************************** CRUD RECRUTEUR
 	
 
+	// web service pour consulter rec par id
+	@RequestMapping(value = "/consulterRec/{id}", method = RequestMethod.GET)
+	public Recruteur profilRec(@PathVariable Long id) {
+		return recruteurRepo.findOne(id);
+	}
+	
 	// web service pour ajouter un recruteur
 	@RequestMapping(value = "/ajouterRec", method = RequestMethod.POST)
 	public Recruteur ajoutRec(@RequestBody Recruteur rec) {
@@ -61,11 +68,10 @@ public class AdminRestService {
 	// **************************** CRUD Candidat
 	
 
-	// web service pour ajouter un Candidat
-	@RequestMapping(value = "/ajouterCandidat", method = RequestMethod.POST)
-	public Candidat ajoutCandidat(@RequestBody Candidat cand) {
-		candidatRepo.save(cand);
-		return candidatRepo.findOne(cand.getId());
+	// web service pour consulter Candidat par id
+	@RequestMapping(value = "/consCandidat/{id}", method = RequestMethod.GET)
+	public Candidat consCandidat(@PathVariable Long id) {
+		return candidatRepo.findOne(id);
 	}
 
 	// liste des Candidat
@@ -80,15 +86,23 @@ public class AdminRestService {
 		candidatRepo.delete(id);
 	}
 
-	// ****************************************
+	// ************************************CRUD Offre
 	
-
+	//consulter offre par id
+	@RequestMapping(value = "/consulterOffre/{id}", method = RequestMethod.GET)
+	public Offre infoOffre(@PathVariable Long id) {
+		return offreRepo.findOne(id);
+	}
+	
 	// liste des offres publié
 	@RequestMapping(value = "/listOffre", method = RequestMethod.GET)
 	public Collection<Offre> listOffre() {
 		return offreRepo.findAll();
 	}
 
+	
+	// ************************************parite technologies
+	
 	// web service pour retrouner la list des technologies
 	@RequestMapping(value = "/listechno", method = RequestMethod.GET)
 	public Collection<Technolgie> listTechnologie() {

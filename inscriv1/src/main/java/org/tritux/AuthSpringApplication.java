@@ -7,11 +7,13 @@ import java.util.List;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.tritux.dao.ExperienceRepo;
+import org.tritux.dao.OffreRepo;
 import org.tritux.dao.ProfilRepo;
 import org.tritux.dao.UserRepo;
 import org.tritux.entites.Admin;
 import org.tritux.entites.Candidat;
 import org.tritux.entites.Exeprience;
+import org.tritux.entites.Offre;
 import org.tritux.entites.Profil;
 import org.tritux.entites.Recruteur;
 import org.tritux.entites.User;
@@ -30,7 +32,9 @@ public class AuthSpringApplication {
 		UserRepo userRepo = ctx.getBean(UserRepo.class);
 		ProfilRepo profilRepo = ctx.getBean(ProfilRepo.class);
 		ExperienceRepo experienceRepo = ctx.getBean(ExperienceRepo.class);
-
+		OffreRepo offreRepo=ctx.getBean(OffreRepo.class);
+		
+		
 		userRepo.save(new Admin("admin2", "root", "admin", "admin2"));
 		userRepo.save(new Admin("admin", "root", "admin", "super admin"));
 		userRepo.save(new Recruteur("recr", "recr", "recruteur",
@@ -38,7 +42,20 @@ public class AuthSpringApplication {
 
 		Candidat c = new Candidat("cand", "cand", "candidat");
 		userRepo.save(c);
-
+		
+		Recruteur r= new Recruteur("aa", "bb");
+		userRepo.save(r);
+		Offre o=new Offre("ingnieur", "ingénieur telecom", null);
+		
+		o.setDeposeur(r);
+		offreRepo.save(o);
+		
+		c.getListCandidatures().add(o);
+		o.getListCandidatureOffre().add(c);
+		//offreRepo.save(o);
+		//userRepo.save(c);
+		System.out.println(c);
+		
 		// List<User> etds = userRepo.findAll();
 		// etds.forEach(e -> System.out.println(e.getLogin()));
 

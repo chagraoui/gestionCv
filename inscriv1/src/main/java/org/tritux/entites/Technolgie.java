@@ -22,6 +22,7 @@ public class Technolgie {
 	private Long idTechno;
 	
 	private String nomTechno;
+	
 	@ManyToMany(mappedBy = "technologies", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
 	@JsonIgnore
 	private Collection<Profil> profils = new ArrayList<Profil>();
@@ -29,7 +30,6 @@ public class Technolgie {
 	@ManyToMany(mappedBy = "technologiesOffre", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
 	@JsonIgnore
 	private Collection<Offre> offres = new ArrayList<Offre>();
-	
 	
 	
 	public Collection<Offre> getOffres() {

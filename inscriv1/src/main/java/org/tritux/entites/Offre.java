@@ -1,5 +1,6 @@
 package org.tritux.entites;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Collection;
 
@@ -8,19 +9,45 @@ import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
+import javax.persistence.ManyToOne;
+import javax.persistence.OneToMany;
 
 @Entity
-public class Offre {
+public class Offre implements Serializable {
 
 	@Id
 	@GeneratedValue
 	private Long idOffre;
 	private String titreOffre;
 	private String descOffre;
-
+	@ManyToOne()
+	private Recruteur deposeur;
+	
+	@JoinTable(name = "technoligie_par_offre")
 	@ManyToMany(cascade = CascadeType.ALL,fetch = FetchType.LAZY)
 	private Collection<Technolgie> technologiesOffre = new ArrayList<Technolgie>();
+	
+	@JoinTable(name = "postuler")
+	@ManyToMany(cascade = CascadeType.ALL,fetch = FetchType.LAZY)
+	private Collection<Candidat> listCandidatureOffre = new ArrayList<Candidat>();
+	
+	public Collection<Candidat> getListCandidatureOffre() {
+		return listCandidatureOffre;
+	}
+
+	public void setListCandidatureOffre(Collection<Candidat> listCandidatureOffre) {
+		this.listCandidatureOffre = listCandidatureOffre;
+	}
+
+	public Recruteur getDeposeur() {
+		return deposeur;
+	}
+
+	public void setDeposeur(Recruteur deposeur) {
+		this.deposeur = deposeur;
+	}
 
 	public String getTitreOffre() {
 		return titreOffre;
@@ -56,7 +83,5 @@ public class Offre {
 		this.titreOffre = titreOffre;
 		this.descOffre = descOffre;
 		this.technologiesOffre = technologiesOffre;
-	}
-
-	
+	}	
 }

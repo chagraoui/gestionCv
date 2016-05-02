@@ -4,8 +4,12 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Collection;
 
+import javax.persistence.CascadeType;
 import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
+import javax.persistence.OneToMany;
+
+import com.fasterxml.jackson.annotation.JsonIgnore;
 
 @Entity 
 @DiscriminatorValue("recruteur")
@@ -14,10 +18,24 @@ public class Recruteur extends User implements Serializable  {
 	private String nomRecruteur;
 	private String ServiceRecruteur;
 	
-	//private Collection<Offre> recOffres = new ArrayList<Offre>();
-	
-	
-	
+	@JsonIgnore
+	@OneToMany(mappedBy="deposeur",cascade = CascadeType.ALL)
+	private Collection<Offre> recOffres;
+
+	public Recruteur(String login, String password, String role,
+			String nomRecruteur, String serviceRecruteur,
+			Collection<Offre> recOffres) {
+		super(login, password, role);
+		this.nomRecruteur = nomRecruteur;
+		this.ServiceRecruteur = serviceRecruteur;
+		this.recOffres = recOffres;
+	}
+	public Collection<Offre> getRecOffres() {
+		return recOffres;
+	}
+	public void setRecOffres(Collection<Offre> recOffres) {
+		this.recOffres = recOffres;
+	}
 	/**
 	 * @return the nomRecruteur
 	 */
