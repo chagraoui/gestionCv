@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.tritux.dao.CandidatRepo;
 import org.tritux.dao.OffreRepo;
@@ -16,7 +15,6 @@ import org.tritux.dao.RecruteurRepo;
 import org.tritux.dao.TechnologieRepo;
 import org.tritux.entites.Candidat;
 import org.tritux.entites.Offre;
-import org.tritux.entites.Profil;
 import org.tritux.entites.Recruteur;
 import org.tritux.entites.Technolgie;
 
@@ -100,7 +98,6 @@ public class AdminRestService {
 		return offreRepo.findAll();
 	}
 
-	
 	// ************************************parite technologies
 	
 	// web service pour retrouner la list des technologies

@@ -1,5 +1,7 @@
 package org.tritux.service;
 
+import java.util.Date;
+
 import javax.mail.MessagingException;
 import javax.mail.internet.MimeMessage;
 
@@ -26,6 +28,8 @@ public class SmtpMailSender {
 		helper.setText(body, true); // true indicates html
 		// continue using helper object for more functionalities like adding attachments, etc.  
 
+		Date d=new Date();
+		message.setSentDate(d);
 		javaMailSender.send(message);
 
 	}

@@ -1,8 +1,8 @@
 package org.tritux;
 
-import java.io.File;
+
 import java.io.IOException;
-import java.util.List;
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -16,11 +16,9 @@ import org.tritux.entites.Exeprience;
 import org.tritux.entites.Offre;
 import org.tritux.entites.Profil;
 import org.tritux.entites.Recruteur;
-import org.tritux.entites.User;
-
 import com.fasterxml.jackson.core.JsonGenerationException;
 import com.fasterxml.jackson.databind.JsonMappingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
+
 
 @SpringBootApplication
 public class AuthSpringApplication {
@@ -43,6 +41,9 @@ public class AuthSpringApplication {
 		Candidat c = new Candidat("cand", "cand", "candidat");
 		userRepo.save(c);
 		
+		Candidat c1 = new Candidat("mehdi", "chagraoui", "candidat");
+		userRepo.save(c1);
+		
 		Recruteur r= new Recruteur("aa", "bb");
 		userRepo.save(r);
 		Offre o=new Offre("ingnieur", "ingénieur telecom", null);
@@ -64,15 +65,26 @@ public class AuthSpringApplication {
 		p.setAge(25);
 		p.setEmail("mohamed.slama@esprit.tn");
 		profilRepo.save(p);
+		
+		Profil p1 = new Profil();
+		p.setNom("mohamed");
+		p.setAge(25);
+		p.setEmail("mehdi@centrale.tn");
+		profilRepo.save(p1);
+	
+
 
 		c.setProfil(p);
-
+		c1.setProfil(p1);
+		
+		userRepo.save(c1);
 		Exeprience e1= new Exeprience(1, "angularjs");
 		Exeprience e2= new Exeprience(1, "spring");
 		e1.setProfil(p);
 		e2.setProfil(p);
 		experienceRepo.save(e1);
 		experienceRepo.save(e2);
+		
 		
 	
 		
