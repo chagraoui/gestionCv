@@ -44,15 +44,20 @@ public class AuthSpringApplication {
 		Candidat c1 = new Candidat("mehdi", "chagraoui", "candidat");
 		userRepo.save(c1);
 		
-		Recruteur r= new Recruteur("aa", "bb");
+		Recruteur r= new Recruteur("aa", "bb","recruteur");
 		userRepo.save(r);
 		Offre o=new Offre("ingnieur", "ingénieur telecom", null);
+		Offre o1=new Offre("licence", "technicien qui maitrise le JAVA", null);
 		
+		o1.setDeposeur(r);
 		o.setDeposeur(r);
 		offreRepo.save(o);
 		
 		c.getListCandidatures().add(o);
 		o.getListCandidatureOffre().add(c);
+		
+		c.getListCandidatures().add(o1);
+		o1.getListCandidatureOffre().add(c);
 		//offreRepo.save(o);
 		//userRepo.save(c);
 		System.out.println(c);

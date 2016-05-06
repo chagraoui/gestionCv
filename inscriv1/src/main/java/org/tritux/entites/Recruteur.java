@@ -22,6 +22,7 @@ public class Recruteur extends User implements Serializable  {
 	@OneToMany(mappedBy="deposeur",cascade = CascadeType.ALL)
 	private Collection<Offre> recOffres;
 
+	
 	public Recruteur(String login, String password, String role,
 			String nomRecruteur, String serviceRecruteur,
 			Collection<Offre> recOffres) {

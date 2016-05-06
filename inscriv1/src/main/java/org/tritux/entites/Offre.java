@@ -25,6 +25,14 @@ public class Offre implements Serializable {
 	@ManyToOne()
 	private Recruteur deposeur;
 	
+	public Long getIdOffre() {
+		return idOffre;
+	}
+
+	public void setIdOffre(Long idOffre) {
+		this.idOffre = idOffre;
+	}
+
 	@JoinTable(name = "technoligie_par_offre")
 	@ManyToMany(cascade = CascadeType.ALL,fetch = FetchType.LAZY)
 	private Collection<Technolgie> technologiesOffre = new ArrayList<Technolgie>();
@@ -83,5 +91,18 @@ public class Offre implements Serializable {
 		this.titreOffre = titreOffre;
 		this.descOffre = descOffre;
 		this.technologiesOffre = technologiesOffre;
+	}
+
+	public Offre(Long idOffre, String titreOffre, String descOffre,
+			Recruteur deposeur, Collection<Technolgie> technologiesOffre,
+			Collection<Candidat> listCandidatureOffre) {
+		super();
+		this.idOffre = idOffre;
+		this.titreOffre = titreOffre;
+		this.descOffre = descOffre;
+		this.deposeur = deposeur;
+		this.technologiesOffre = technologiesOffre;
+		this.listCandidatureOffre = listCandidatureOffre;
 	}	
+	
 }
