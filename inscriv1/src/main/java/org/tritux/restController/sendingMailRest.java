@@ -19,9 +19,9 @@ import org.tritux.service.SmtpMailSender;
 import org.tritux.service.email;
 
 @RestController
-@CrossOrigin 
+@CrossOrigin
 public class sendingMailRest {
-	
+
 	@Autowired
 	private SmtpMailSender smtpMailSender;
 
@@ -31,36 +31,35 @@ public class sendingMailRest {
 	@Autowired
 	UserRepo userRepo;
 
+	// enovyer un email pour recuperation du mot de passe oublier
+	@RequestMapping(value = "/recupMail/{login}", method = RequestMethod.GET)
+	public String recupMail(@PathVariable String login)
+			throws MessagingException {
 
-	// enovyer un email pour recuperation du mot de passe oublier 
-	@RequestMapping(value = "/recupMail/{login}",method = RequestMethod.GET)
-	public String recupMail(@PathVariable String login) throws MessagingException {
-		
-		User u=userRepo.findBylogin(login);
-		Candidat c =candidatRepo.findOne(u.getId());
-		
-		smtpMailSender.send(c.getProfil().getEmail(), "Platforme Tritux:recuperer votre mot de passe",
-				"veuillez ne plus oublier votre mot de passe merde "+"\n"+ "votre mot de passe est "+"\t"+u.getPassword());
-		
+		User u = userRepo.findBylogin(login);
+		Candidat c = candidatRepo.findOne(u.getId());
+
+		smtpMailSender.send(c.getProfil().getEmail(),
+				"Platforme Tritux:recuperer votre mot de passe", "\n"
+						+ "votre mot de passe est " + "\t" + u.getPassword());
+
 		return "{\"email\": \"" + c.getProfil().getEmail() + "\"}";
 	}
-	
-	
-	
+
 	// enovyer un email
-	@RequestMapping(value = "/envoyerMail",method = RequestMethod.POST)
+	@RequestMapping(value = "/envoyerMail", method = RequestMethod.POST)
 	public String sendingmail(@RequestBody email e) throws MessagingException {
-		
-//		@RequestParam("to") String to,
-//		@RequestParam("subject") String subject,
-//		@RequestParam("body") String body
-		
+
+		// @RequestParam("to") String to,
+		// @RequestParam("subject") String subject,
+		// @RequestParam("body") String body
+
 		System.out.println(e.getTo());
 		System.out.println(e.getSubject());
 		System.out.println(e.getBody());
-		
-		smtpMailSender.send(e.getTo(),e.getSubject(),e.getBody());	
-		return "{\"email envoyer\": \"" + e.getTo()+ "\"}";
+
+		smtpMailSender.send(e.getTo(), e.getSubject(), e.getBody());
+		return "{\"email envoyer\": \"" + e.getTo() + "\"}";
 	}
 
 }

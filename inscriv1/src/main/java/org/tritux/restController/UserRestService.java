@@ -18,8 +18,7 @@ public class UserRestService {
 	@Autowired
 	UserRepo userRepo;
 
-	
-	//authentificatino
+	// authentificatino
 	@RequestMapping(value = "/auth1", method = RequestMethod.POST)
 	public User loginn(@RequestBody User ob) {
 

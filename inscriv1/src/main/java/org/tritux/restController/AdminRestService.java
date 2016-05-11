@@ -35,14 +35,13 @@ public class AdminRestService {
 	CandidatRepo candidatRepo;
 
 	// **************************** CRUD RECRUTEUR
-	
 
 	// web service pour consulter rec par id
 	@RequestMapping(value = "/consulterRec/{id}", method = RequestMethod.GET)
 	public Recruteur profilRec(@PathVariable Long id) {
 		return recruteurRepo.findOne(id);
 	}
-	
+
 	// web service pour ajouter un recruteur
 	@RequestMapping(value = "/ajouterRec", method = RequestMethod.POST)
 	public Recruteur ajoutRec(@RequestBody Recruteur rec) {
@@ -64,7 +63,6 @@ public class AdminRestService {
 	}
 
 	// **************************** CRUD Candidat
-	
 
 	// web service pour consulter Candidat par id
 	@RequestMapping(value = "/consCandidat/{id}", method = RequestMethod.GET)
@@ -85,13 +83,13 @@ public class AdminRestService {
 	}
 
 	// ************************************CRUD Offre
-	
-	//consulter offre par id
+
+	// consulter offre par id
 	@RequestMapping(value = "/consulterOffre/{id}", method = RequestMethod.GET)
 	public Offre infoOffre(@PathVariable Long id) {
 		return offreRepo.findOne(id);
 	}
-	
+
 	// liste des offres publié
 	@RequestMapping(value = "/listOffre", method = RequestMethod.GET)
 	public Collection<Offre> listOffre() {
@@ -99,7 +97,7 @@ public class AdminRestService {
 	}
 
 	// ************************************parite technologies
-	
+
 	// web service pour retrouner la list des technologies
 	@RequestMapping(value = "/listechno", method = RequestMethod.GET)
 	public Collection<Technolgie> listTechnologie() {

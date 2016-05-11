@@ -22,14 +22,13 @@ import org.xml.sax.SAXException;
 @CrossOrigin
 @RestController
 public class ParsingCvRest {
-	
-	@RequestMapping(method = RequestMethod.POST, value = "/upload")
-	public CV handleFileUpload(@RequestParam("file") MultipartFile file) 
-						throws IOException,SAXException, TikaException {
 
-		
+	@RequestMapping(method = RequestMethod.POST, value = "/upload")
+	public CV handleFileUpload(@RequestParam("file") MultipartFile file)
+			throws IOException, SAXException, TikaException {
+
 		InputStream cv = file.getInputStream();
-		
+
 		// ParseContext Used to pass context information to Tika parsers.
 		BodyContentHandler handler = new BodyContentHandler();
 		Metadata metadata = new Metadata();
@@ -41,16 +40,16 @@ public class ParsingCvRest {
 		pdfparser.parse(cv, handler, metadata, pcontext1);
 		cv.close();
 		System.out.println("Contents of the PDF :" + handler.toString());
-		
-		//remlpir le fichier text 
+
+		// remlpir le fichier text
 		String oout = "cv.txt";
 		FileOutputStream outputStream = new FileOutputStream(new File(oout));
 		outputStream.write(handler.toString().getBytes());
 		outputStream.close();
-		
-		CV cvfinale=new CV(oout);
+
+		CV cvfinale = new CV(oout);
 		System.out.println(cvfinale);
-		
-		return cvfinale;	
+
+		return cvfinale;
 	}
 }

@@ -69,6 +69,5 @@ public class Diplomes {
 		return "Diplomes [" + (nom != null ? "nom=" + nom + ", " : "")
 				+ "dateObtention=" + dateObtention + "]";
 	}
-	
-	
+
 }

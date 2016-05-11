@@ -20,7 +20,7 @@ import org.tritux.service.ProfilService;
 @CrossOrigin
 @RestController
 public class InscriptionService {
-	
+
 	@Autowired
 	ProfilService profilService;
 
@@ -47,7 +47,7 @@ public class InscriptionService {
 		// in.getExperiences(), in.getDiplomes(), in.getCertifications(),
 		// in.getTechnologies());
 
-		Profil p = new Profil(in.getNom(), in.getPrenom(), in.getEmail(),
+		Profil p = new Profil(in.getNom(), in.getEmail(),
 				in.getAge(), in.getAdresse(), in.getTel(), in.getSexe(), null,
 				null, null, in.getTechnologies());
 
@@ -97,7 +97,7 @@ public class InscriptionService {
 		// *************************************************************************
 		profilService.update(p);
 		userRepo.save(c);
-		return(p.getIdCv());
+		return (p.getIdCv());
 	}
 
 }

@@ -11,86 +11,100 @@ import javax.persistence.Id;
 import javax.persistence.Inheritance;
 import javax.persistence.InheritanceType;
 
-
 @Entity
-@Inheritance(strategy=InheritanceType.SINGLE_TABLE) 
-@DiscriminatorColumn(
-		name="roles",
-		discriminatorType=DiscriminatorType.STRING
-		)
-public class  User implements Serializable {
-	
-	@Id @GeneratedValue
+@Inheritance(strategy = InheritanceType.SINGLE_TABLE)
+@DiscriminatorColumn(name = "roles", discriminatorType = DiscriminatorType.STRING)
+public class User implements Serializable {
+
+	@Id
+	@GeneratedValue
 	private Long id;
-	@Column(unique = true)
+	//@Column(unique = true)
 	private String login;
 	private String password;
 	private String role;
-	
+
 	/**
 	 * @return the id
 	 */
 	public Long getId() {
 		return id;
 	}
+
 	/**
-	 * @param id the id to set
+	 * @param id
+	 *            the id to set
 	 */
 	public void setId(Long id) {
 		this.id = id;
 	}
+
 	/**
 	 * @return the login
 	 */
 	public String getLogin() {
 		return login;
 	}
+
 	/**
-	 * @param login the login to set
+	 * @param login
+	 *            the login to set
 	 */
 	public void setLogin(String login) {
 		this.login = login;
 	}
+
 	/**
 	 * @return the password
 	 */
 	public String getPassword() {
 		return password;
 	}
+
 	/**
-	 * @param password the password to set
+	 * @param password
+	 *            the password to set
 	 */
 	public void setPassword(String password) {
 		this.password = password;
 	}
+
 	/**
 	 * @return the role
 	 */
 	public String getRole() {
 		return role;
 	}
+
 	/**
-	 * @param role the role to set
+	 * @param role
+	 *            the role to set
 	 */
 	public void setRole(String role) {
 		this.role = role;
 	}
+
 	public User(String login, String password, String role) {
 		super();
 		this.login = login;
 		this.password = password;
 		this.role = role;
 	}
+
 	public User() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
+
 	public User(String login, String password) {
 		super();
 		this.login = login;
 		this.password = password;
 	}
-	/* (non-Javadoc)
+
+	/*
+	 * (non-Javadoc)
+	 * 
 	 * @see java.lang.Object#toString()
 	 */
 	@Override
@@ -100,9 +114,5 @@ public class  User implements Serializable {
 				+ (password != null ? "password=" + password + ", " : "")
 				+ (role != null ? "role=" + role : "") + "]";
 	}
-	
-	
-	
-	
 
 }

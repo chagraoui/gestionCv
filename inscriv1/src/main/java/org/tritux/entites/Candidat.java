@@ -20,8 +20,7 @@ public class Candidat extends User implements Serializable {
 
 	@OneToOne
 	private Profil profil;
-	
-	 
+
 	public Candidat(String login, String password, String role,
 			Collection<Offre> listCandidatures) {
 		super(login, password, role);
@@ -31,7 +30,7 @@ public class Candidat extends User implements Serializable {
 	@ManyToMany(mappedBy = "listCandidatureOffre", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
 	@JsonIgnore
 	private Collection<Offre> listCandidatures = new ArrayList<Offre>();
-	
+
 	public Collection<Offre> getListCandidatures() {
 		return listCandidatures;
 	}
@@ -75,7 +74,9 @@ public class Candidat extends User implements Serializable {
 		this.profil = profil;
 	}
 
-	/* (non-Javadoc)
+	/*
+	 * (non-Javadoc)
+	 * 
 	 * @see java.lang.Object#toString()
 	 */
 	@Override
@@ -83,5 +84,4 @@ public class Candidat extends User implements Serializable {
 		return "Candidat [" + (profil != null ? "profil=" + profil : "") + "]";
 	}
 
-	
 }

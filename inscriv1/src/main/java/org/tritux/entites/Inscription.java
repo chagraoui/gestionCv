@@ -7,11 +7,11 @@ import java.util.Collection;
 public class Inscription implements Serializable {
 
 	private String nom;
-	private String prenom;
+	//private String prenom;
 	private String email;
 	private int age;
 	private String adresse;
-	private int tel;
+	private Long tel;
 	private String sexe;
 	private String login;
 	private String password;
@@ -55,17 +55,17 @@ public class Inscription implements Serializable {
 	/**
 	 * @return the prenom
 	 */
-	public String getPrenom() {
-		return prenom;
-	}
+//	public String getPrenom() {
+//		return prenom;
+//	}
 
 	/**
 	 * @param prenom
 	 *            the prenom to set
 	 */
-	public void setPrenom(String prenom) {
-		this.prenom = prenom;
-	}
+//	public void setPrenom(String prenom) {
+//		this.prenom = prenom;
+//	}
 
 	/**
 	 * @return the email
@@ -115,7 +115,7 @@ public class Inscription implements Serializable {
 	/**
 	 * @return the tel
 	 */
-	public int getTel() {
+	public Long getTel() {
 		return tel;
 	}
 
@@ -123,7 +123,7 @@ public class Inscription implements Serializable {
 	 * @param tel
 	 *            the tel to set
 	 */
-	public void setTel(int tel) {
+	public void setTel(Long tel) {
 		this.tel = tel;
 	}
 
@@ -198,7 +198,8 @@ public class Inscription implements Serializable {
 
 	public void setDiplomes(Collection<Diplomes> diplomes) {
 		this.diplomes = diplomes;
-	}	
+	}
+
 	public Collection<Certification> getCertifications() {
 		return certifications;
 	}
@@ -207,15 +208,15 @@ public class Inscription implements Serializable {
 		this.certifications = certifications;
 	}
 
-	public Inscription(String nom, String prenom, String email, int age,
-			String adresse, int tel, String sexe, String login,
+	public Inscription(String nom, String email, int age,
+			String adresse, Long tel, String sexe, String login,
 			String password, String role, Collection<Exeprience> experiences,
 			Collection<Diplomes> diplomes,
 			Collection<Certification> certifications,
 			Collection<Technolgie> technologies) {
 		super();
 		this.nom = nom;
-		this.prenom = prenom;
+	//	this.prenom = prenom;
 		this.email = email;
 		this.age = age;
 		this.adresse = adresse;
@@ -234,7 +235,7 @@ public class Inscription implements Serializable {
 	public String toString() {
 		return "Inscription ["
 				+ (nom != null ? "nom=" + nom + ", " : "")
-				+ (prenom != null ? "prenom=" + prenom + ", " : "")
+				//+ (prenom != null ? "prenom=" + prenom + ", " : "")
 				+ (email != null ? "email=" + email + ", " : "")
 				+ "age="
 				+ age
@@ -255,7 +256,5 @@ public class Inscription implements Serializable {
 				+ (technologies != null ? "technologies=" + technologies : "")
 				+ "]";
 	}
-
-
 
 }

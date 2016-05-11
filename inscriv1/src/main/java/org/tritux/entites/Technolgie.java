@@ -13,25 +13,23 @@ import javax.persistence.ManyToMany;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
-
 @Entity
 public class Technolgie {
-	
+
 	@Id
 	@GeneratedValue
 	private Long idTechno;
-	
+
 	private String nomTechno;
-	
+
 	@ManyToMany(mappedBy = "technologies", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
 	@JsonIgnore
 	private Collection<Profil> profils = new ArrayList<Profil>();
-	
+
 	@ManyToMany(mappedBy = "technologiesOffre", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
 	@JsonIgnore
 	private Collection<Offre> offres = new ArrayList<Offre>();
-	
-	
+
 	public Collection<Offre> getOffres() {
 		return offres;
 	}
@@ -61,13 +59,12 @@ public class Technolgie {
 		this.nomTechno = nomTechno;
 	}
 
-
-
 	public Technolgie(Long idTechno, String nomTechno) {
 		super();
 		this.idTechno = idTechno;
 		this.nomTechno = nomTechno;
 	}
+
 	public Technolgie() {
 		// TODO Auto-generated constructor stub
 	}
@@ -92,7 +89,5 @@ public class Technolgie {
 				+ (idTechno != null ? "idTechno=" + idTechno + ", " : "")
 				+ (nomTechno != null ? "nomTechno=" + nomTechno : "") + "]";
 	}
-	
-	
 
 }

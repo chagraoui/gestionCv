@@ -23,8 +23,8 @@ public class ParsingCv {
 //			System.out.println(age);
 //			
 //			in= new BufferedReader(new FileReader("cvMehdi.txt"));
-			ArrayList<String> cert=GetCertif.certif(in);
-			System.out.println(cert);
+//			ArrayList<String> cert=GetCertif.certif(in);
+//			System.out.println(cert);
 //			
 //			in= new BufferedReader(new FileReader("cvMehdi.txt"));
 //			String adresse =GetLocation.location(in);
@@ -47,8 +47,8 @@ public class ParsingCv {
 //			System.out.println(comp);
 //			
 //			in= new BufferedReader(new FileReader("cv.txt"));
-//			ArrayList<Diplomes> studie=GetStudies.studies(in);
-//			System.out.println(studie);
+			ArrayList<Diplomes> studie=GetStudies.studies(in);
+			System.out.println(studie);
 //			
 //			in= new BufferedReader(new FileReader("cv.txt"));
 //			HashMap<String, Integer> ooc=GetOccurrence.occ(in);

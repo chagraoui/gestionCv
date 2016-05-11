@@ -9,10 +9,8 @@ import javax.persistence.Id;
 
 @Entity
 @DiscriminatorValue("admin")
-public class Admin extends User  implements Serializable{
-	
-	
-	
+public class Admin extends User implements Serializable {
+
 	private String nom;
 
 	/**
@@ -23,7 +21,8 @@ public class Admin extends User  implements Serializable{
 	}
 
 	/**
-	 * @param nom the nom to set
+	 * @param nom
+	 *            the nom to set
 	 */
 	public void setNom(String nom) {
 		this.nom = nom;
@@ -48,8 +47,5 @@ public class Admin extends User  implements Serializable{
 		super(login, password, role);
 		this.nom = nom;
 	}
-
-	
-	
 
 }
