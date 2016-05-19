@@ -62,7 +62,7 @@ public class CandidatRestService {
 
 	// postuler a une offre
 	@RequestMapping(value = "/user/{id}/offre/{idO}", method = RequestMethod.GET)
-	public Candidat profil(@PathVariable Long id, @PathVariable Long idO) {
+	public Candidat postuler(@PathVariable Long id, @PathVariable Long idO) {
 		Offre o = offreRepo.findOne(idO);
 		Candidat c = candidatRepo.findOne(id);
 

@@ -25,13 +25,13 @@ public class AuthSpringApplication {
 		org.springframework.context.ApplicationContext ctx = SpringApplication
 				.run(AuthSpringApplication.class, args);
 
-//		UserRepo userRepo = ctx.getBean(UserRepo.class);
+		UserRepo userRepo = ctx.getBean(UserRepo.class);
 //		ProfilRepo profilRepo = ctx.getBean(ProfilRepo.class);
 //		ExperienceRepo experienceRepo = ctx.getBean(ExperienceRepo.class);
 //		OffreRepo offreRepo = ctx.getBean(OffreRepo.class);
 //
 //		userRepo.save(new Admin("admin2", "root", "admin", "admin2"));
-//		userRepo.save(new Admin("admin", "root", "admin", "super admin"));
+		userRepo.save(new Admin("admin", "root", "admin", "super admin"));
 //		userRepo.save(new Recruteur("recr", "recr", "recruteur",
 //				"super Recruteur", "service informatique"));
 //

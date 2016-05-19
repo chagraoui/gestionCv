@@ -44,7 +44,7 @@ public class RecruteurRestService {
 
 	// web service pour consulter les offres du recruteur ayant le id=id
 	@RequestMapping(value = "/voirOffre/{id}", method = RequestMethod.GET)
-	public Collection<Offre> candidatures(@PathVariable Long id) {
+	public Collection<Offre> recruteurOffres(@PathVariable Long id) {
 
 		return recruteurRepo.findOne(id).getRecOffres();
 	}
