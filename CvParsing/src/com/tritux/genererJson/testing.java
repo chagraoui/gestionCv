@@ -2,11 +2,8 @@ package com.tritux.genererJson;
 
 import java.io.FileWriter;
 import java.io.IOException;
-
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-
-
 
 public class testing {
     public static void main(String[] args) throws IOException {    	

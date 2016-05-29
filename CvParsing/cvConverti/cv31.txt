@@ -1,0 +1,56 @@
+ASMA KRIMI 
+Date de naissance : 14/01/1993 
+Adresse : Cité El Ghazela Ariana. 
+Téléphone : +216 58463286 
+E-Mail : asma.kriimi@gmail.com 
+TECHNICIEN SUPERIEUR EN TELECOMMUNICATIONS 
+Formations 
+ Juin 2014 : Licence Appliquée en Sciences et Technologies de l’Information et de la 
+communication de l’Institut Supérieur des Etudes Technologiques en Communication 
+de Tunis (Iset’Com) : Parcours : Sécurité des réseaux ; Mention : Bien  
+ Juin 2011 : Baccalauréat Sciences expérimentales. 
+Expériences  
+Formations générales 
+Formations Professionnelles 
+ Décembre 2014 : Formation Anglais chez la société Ardia 
+ Travail Chez Ardia (ACTIA Group Recherche et Développement en Informatique 
+Appliquée) : Technicien de test et validation.  
+           Mission :  
+ Tester les nouvelles versions d’Android sur des tablettes et des smartphones avant leur 
+distribution dans le marché. 
+ Identifier et rapporter les problèmes (bugs) rencontrés lors du test et assurer leurs suivies. 
+ Participer aux suivies et la correction des bugs. 
+          Environnement technique : 
+ HP Quality Center, Ocygen, Bugzila, JIRA, NFC,Wifi , Widi , 3G/4GLTE, 
+Web , Android KitKat , Android L, Machine de travail Linux , MPTA, 
+Phoneflashtool et Crashtools. 
+ Février 2014 => Mai 2014 : Projet de Fin d’Etude chez ARDIA :  
+ L'étude, et la validation d’une application web de supervision et de 
+remontée d’informations précieuses pour les gestionnaires de garages et de 
+centres de contrôle technique. 
+ Réalisation d’une application qui a comme but de répondre aux besoins du 
+GROUPE ACTIA : Automatisation des tests IHM 
+ 2013_2014 : Mini projet (développement d’une application mobile). 
+ Aout 2013 : Stage technicien au sein de service informatique de la société 
+«Technique Inspection & Contrôle » 
+ Janvier 2013 : Stage ouvrier au sein de Tunisie Télécom de cité El Ghazela 
+Ariana 
+ Janvier 2012 : Stage d’initiation au sein de la poste Tunisienne. 
+Langues 
+Compétences 
+ Maitrise de la phase de la validation des produits destinés à être commercialisés 
+ Maîtrise de l’utilisation des outils d’automatisation des tests IHM. 
+  Programmation Web: HTML/CSS/PHP. 
+  Langage de programmation : C/ C#/.Java to Micro Edition/Matlab/VHDL/XML. 
+  Gestion des bases de données : Oracle Database/MySQL. 
+ Conception : StarUML 
+  Système d’exploitation : Windows/Linux. 
+ Arabe : Langue Maternelle. 
+ Français : lu, écrit et parlé. 
+ Anglais : lu, écrit et parlé. 
+ Espagnol : notions de base à l’écrit et à l’oral. 
+ Sport. 
+ Musique. 
+ Voyage. 
+ Décoration. 
+Centres d’intérêt  

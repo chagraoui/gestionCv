@@ -1,0 +1,164 @@
+Ingénieur Informatique  
+Confirmé(e) - Ecole d'ingénieur  
+Zied Khlif  
+Route de Tunis Km 2.5 Impasse Taktak  3002 
+Sfax  
+3002 Sfax  
+Tunisie  
+(+216) 22756840 - 26031183  
+- Développeur Web  
+- Responsable Système d’Informations  
+- Sécurité des applications Web  
+Expérience professionnelle 
+IT Manager 
+Depuis  
+Décembre 2013 
+Traveltodo  
+Mission : - Responsable Informatique 
+- veiller sur le bon fonction du parque informatique à l'aide de divers outils informatique 
+et une équipe de techniciens  
+- Proposer les solutions informatique pour améliorer la qualité de travaille et faciliter les 
+tâches 
+- Coopérer avec les différents fournisseur pour la réalisation des projets 
+- Valider tous les achats de n'importe quel matériel informatique 
+développeur web free-lance  
+Novembre 2012  
+Novembre 2013 
+IT INNOVATION  
+Mission : Développement des application web à base du langage PHP/MYSQL  
+Responsable Informatique 
+Octobre 2012  
+Novembre 2012 
+IBCNT  
+Mission : - Gestion du parc Informatique 
+- Supervision de l'équipe technique 
+- Administration serveur Mail 
+- Administration serveur FTP 
+- Administration serveur ESXi 
+Ingénieur Informatique 
+Février 2012  
+Septembre 2012 
+TUNET  
+Mission : Responsable Système d'informations : 
+- Chef de projet : développement d'application de gestion commerciale dans le cadre 
+de lancement de vente de l'ADSL dans les boutiques de Tunisiana. 
+- Développement de tableau de bord : Statistiques, indicateurs de qualité. 
+- Guider les Conseillers Client à l'usage de l'application de gestion commerciale.  
+Moyens : - Langage de développement : PHP 
+- SGBD : MySQL 
+- Éditeur : Zend Studio  
+Technicien Système d'Informations 
+Juin 2006  
+Janvier 2012 
+TUNET  
+Mission :  
+- Développement PHP/MySQL des applications internes de la société. 
+            > Application Revendeur 
+            > Gestion Commission Revendeur 
+            > Affectation des IP Fixes 
+            > Gestion des Types d'abonnement 
+            > Plateforme de notification : E-Mail , SMS 
+- Webmaster du site web Tunet. 
+- Hébergement des sites Web des clients : 
+            > Hébergement des sites Web 
+            > Assistance pour l'hébergement  
+- Administration des nom de domaines : 
+            > Administration du serveur DNS sous Linux  
+            > Pointage des domaines 
+Moyens :  
+- Langage de développement : PHP 
+- SGBD : MySQL 
+- Éditeur : Zend Studio 
+PFE : Projet de fin d’étude  
+Septembre 2005  
+Janvier 2006 
+Progress Engeneering  
+Mission :  
+- Développement d'un backoffice d'une application SMS. 
+Moyens :  
+- Langage de développement PHP 
+- SGBD : MySQL 
+- Éditeur Dreamweaver  
+Technicien 
+Janvier 2004  
+Février 2004 
+Progress Engeneering  
+Mission :  
+Développement d'une application en JAVA qui : 
+- Assure le dialogue entre un ordinateur et un standard téléphonique.  
+- Enregistre les appels entrants sortants dans une base de données.  
+Moyens :  
+- Langage de développement : JAVA 
+- SGBD : MySQL 
+- Éditeur : Jbuilder  
+Ouvrier 
+Janvier 2003  
+Février 2003 
+Maintenance Service  
+Mission :  
+Maintenance et réparation d'ordinateurs : 
+- Installation Windows. 
+- Récupération des données.  
+- Réparation matériels. 
+Diplômes et formations 
+Ecole Nationale d'Ingénieurs de Sfax (ENIS) 
+Novembre 2006 
+Janvier 2012 
+Ingénieur en Génie Informatique  
+ATIM 
+Décembre 2011 
+Décembre 2011 
+Sensibilisation aux techniques de vigilance informatique  
+et profilage de cybercriminels « Niveau 2 »  
+Spécialisation : Sécurité des Applications Web 
+Institut Supérieure des Etude Technologique de Sfax 
+Septembre 2003 
+Janvier 2006 
+Technicien Supérieur en Informatique    
+Spécialisation : Réseau Informatique 
+Compétences en informatique 
+Logiciels  
+- PHP/MySQL 
+- JAVA 
+- C++ 
+- Visual Basic 
+- SQL 
+- Javascript 
+- HTML 
+- AJAX 
+- C# 
+- XML 
+Langages  
+- MS Office (Word, Excel, PowerPoint, FrontPage)  
+- Dreamwaver, Zend Studio 
+- EasyPHP, WampServer 
+- Client FTP 
+- VNC, Bureau à distance, Putty, Cygwin 
+- Outlook Express 
+- Windows (Windows 2000 Server, Windows XP, Windows Vista, Windows Seven) 
+- Manipulation systèmes UNIX (Debian,Ubuntu, Open Suse, BackTrack) 
+- Access 
+- Web Service  
+- Oracle   
+Informations complémentaires  
+- Administration Réseau 
+- Sécurité Réseau 
+- Installation Réseau 
+- Etude Réseau 
+- Montage et maintenance de PC 
+- Certification Cisco CCNA 1 - 2 version 2 
+- Sécurité des applications Web 
+- Administration Serveur DNS 
+- Administration Serveur Web 
+Maîtrise linguistique 
+Français 
+Niveau oral : Scolaire Niveau écrit : Scolaire 
+Arabe 
+Niveau oral : Maternelle Niveau écrit : Maternelle 
+Anglais 
+Niveau oral : Scolaire Niveau écrit : Scolaire 
+Divers 
+Loisirs  
+-Sécurité informatique 
+-Basketball 
+-Musique 

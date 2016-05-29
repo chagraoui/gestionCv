@@ -1,0 +1,55 @@
+Nom et Prénom : Oueslati Mounir 
+Date de naissance : 13/11/1987 
+Adresse : 151 Cité des jardins   Béja 9000 
+Tel :(+216) 96741796 
+E-mail : mounir.oueslati@outlook.fr 
+m et Prénom : Oueslati Muni 
+Ingénieur en informatique 
+CURSUS ACADEMIQUE  
+2011-2014| Ecole Supérieure des Sciences Appliquées et de Management, Tunis, 
+ Tunisie 
+ Filière : Système Embarqué 
+Diplôme : Diplôme National d’ingénieur 
+Juin 2011| Institut Supérieur des Etudes Technologique, Béja, Tunisie 
+ Filière : Réseaux et Services Informatique 
+Diplôme : Licence Appliquée en Technologie Informatique 
+2007-2008 | Baccalauréat Sciences Expérimentales - Ibn Mandhour –Béja. 
+EXPERIENCE PROFSSIONNELLE 
+Février 2014 – juin 2014 | Projet de fin d'études, MedBac Technologie, Tunis, Tunisie 
+Sujet: Conception et Implémentation d'une application Web Service 
+des Cartes postales Virtuelles 
+Technologies : Primefaces, JQuery, HTML, CSS, JAX-WS, JSP, Servlet, 
+EJB, Hibernate, Entity Beans. 
+Juillet 2013- aout 2013 | Stage d'ingénieur, Golem Software, Tunis, Tunisie 
+ Sujet : Développement d'une application WPF 'Developer Aided Tool' 
+Technologies : C#, WPF, Sybase 
+Février 2012- juin 2012 | Projet fin d'année, Sesame, Tunis, Tunisie 
+Sujet : Conception et Implémentation d'un site web d'un annuaire des 
+restaurant en Tunise 
+Technologies : Primefaces, JQuery, HTML, CSS, JSP, Servlet, EJB, 
+Hibernate, EntityBeans 
+Février 2011- juin 2011 | Projet de fin d'études, Direction Régionales des Postes, Béja, Tunisie 
+Sujet : Développement d'une application d'analyse et gestion réseaux 
+Février 2010 | Stage Technicien, Direction Régional des Télécommunications, Béja 
+Sujet : Câblage pour les réseaux locaux 
+Février 2009 | Stage d'initiation, Centre de Distribution des Postes, Béja, Tunisie 
+ Sujet : Etude de système de Gestion des Services Télégraphique 
+COMPETENCES TECHNIQUES 
+Méthode de conception | Langage de modélisation objet unifié (UML). 
+Outils techniques | Power AMC, Rational Rose, Eclipse, Visual 
+ Studio 2008/2010/2012, Dreamweaver. 
+Systèmes | Windows Server 2003/2008/2012, Linux. 
+Programmation | C#, VB.Net, JAVA, C++, WPF, Entity Framework, XML, JEE, 
+ Servlet, JSF,JDBC, PrimeFaces, Hibernate, PHP/MYSQL, JS/Jquery, 
+ HTML5, CSS3. 
+Réseaux | CCNA1, OSI model. 
+SGBD | MS SQL Server 2008/2012, Oracle, Sybase. 
+Serveur d’application | Apache, Tomcat, Glassfish. 
+LANGUES  
+Arabe | Langue maternelle 
+Français | Courant 
+Anglais | Moyen 
+CENTRES D'INTÉRÊT 
+ Internet 
+ Cinéma 
+ Sport

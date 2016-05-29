@@ -1,0 +1,70 @@
+Sami Hachicha 
+Né le 23/10/1986  à Tunis 
+Etat civil : Célibataire 
+Adresse : 5 Bis Rue De Maroc 2050 Hammam-Lif  Tunisie 
+E-mail : hachicha_sami@hotmail.fr 
+ (+216) 23793488 
+Permis de conduire : B 
+Formations : 
+o 2010 – 2013 | Diplôme National D’Ingénieur En Informatique 
+       Université Privée De Sousse (UPS/ SUPTECH) 
+o 2008 – 2010 | Diplôme National D’Ingénieur En Informatique 
+École Nationale D'ingénieurs De Tunis (ENIT) 
+ (Arrêt Des Études Pour Des Raisons familiales...) 
+o 2005-2008 | Diplôme Technicien Supérieur en Informatique 
+Institut Supérieur Des Études Technologiques De Mahdia (ISET) 
+o 2001-2005 | Diplôme Baccalauréat Mathématiques 
+Lycée Secondaire D’Hammam-Lif 
+Expériences Professionnelles : 
+Du 24-09-2014  au 27-05-2015| Société ARTIC 
+o Développement des modules dans une application de gestion de vente, achat, stock, trésorerie, statistique 
+et comptabilité 
+o Développement des modules dans une application de gestion des personnels 
+o Développement des modules dans une application de gestion horaire basée sur la reconnaissance 
+faciale. 
+o Baie de brassage : montage, installation et configuration … 
+o Environnement Technique : Visual Studio 2010 , VB.NET , SQL SERVER 2008 , SQL SERVER 2012 , 
+Component One , Crystal reports , Team Foundation Server 
+Du 01-02-2013 au 15-07-2013 | Société ITS consulting  à Monastir (Stage PFE) 
+o Etude du cahier des charges 
+o Conception et développement d’applications de Gestion de Stock et Gestion Des projets 
+o Environnement Technique : visual studio 2008 ,VB6,VB.NET, MySQL server 5.0, MySQL-connector-
+odbc-3.51.30 , MySQL -connector-net-5.2.7,MySQL front,PowerDesigner 
+Du 20-09-2007 au 10-01-2008 | ISET Mahdia (Stage PFE) 
+o Conception et développement d'Intranet ISET Mahdia 
+o Environnement Technique : Dreamweaver,PHP, MySQL, Trendyflash.Site.Builder, Web Page Maker 
+v2.3,EasyPHP 1.8, Sothink SWF Easy v6.2
+Du 01-07-2007 au 01-08-2007 | Hôtel Sahara Beach à Monastir (stage Technicien ) 
+o Manipulation des commandes sur AS400 
+o Gérer les alertes du réseau (routeur et firewall Cisco ) 
+o Configurations et installations 
+o Environnement Technique : Vmware Workstation v5.5,nessus,nmap,wireshark 
+Du 18-01-2007 au 11-02-2007 | Smartfutur Solutions à Menzah 6 (stage 
+Perfectionnement ) 
+o  Réparation des ordinateurs (assemblage , nettoyage des composants …) 
+o Configuration d'un routeur SMC 
+o  Configurations et installations 
+Du 18-01-2006 au 11-02-2006 | Hôtel Sahara Beach à Monastir (stage D'initiation ) 
+o Installation windows xp et 2003 server 
+o Configurations et installations 
+Projets Académiques : 
+o Développement d'application de chat TCP et UDP ( VB6 ,access) 
+o Développement d'application de gestion de stock ( VB6,access ) 
+o Développement de site web UPSMobile ( PHP, Dreamweaver ) 
+Connaissances : 
+o Langages: VB6, VB.NET, JAVA ,J2EE, C, C++, commandes UNIX 
+o Méthodologie de conception : UML,Merise 
+o Outils :   Eclipse,   Visual   Studio   ,   Team   Foundation   Server,Component One,Crystal reports, 
+ArgoUML, PowerDesigner, Dreamweaver, Photoshop,Trendyflash Site Builder, webpagemaker 
+o Environnements: Windows ,Linux 
+o Base de données : Oracle,SQL,PL/SQL, MySQL ,MS Access 
+o Conception de page Web : PHP,Html,Javascript ,JSP,ASP, CSS ,XML 
+o CMS: Wordpress, Drupal, Prestashop 
+o Réseaux : Interconnexion des Réseaux, Réseaux Locaux, Sécurité Réseaux 
+Langues : 
+o Arabe     : Maternelle 
+o Français : Bon niveau lu, écrit et parlé 
+o Anglais   : Bon niveau lu, écrit et parlé 
+Divers : 
+o Sports et loisirs : Football, Basket-ball, Cinéma, Musique, Informatique, Lecture, décoration, 
+Photographie Professionnelle … 

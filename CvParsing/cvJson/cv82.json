@@ -1,0 +1,33 @@
+{
+  "age": 36,
+  "name": "Curriculum Vitae",
+  "adresse": "tunis",
+  "mail": "mnaouer.belhaj@gmail.com",
+  "studies": [
+    "baccalauréat"
+  ],
+  "num": "0021629584555",
+  "skills": [
+    "excel",
+    "rest",
+    "c",
+    "pack office",
+    "word",
+    "sql"
+  ],
+  "keywords": {
+    "cegid": 4,
+    "sens": 3,
+    "c": 3,
+    "business": 3,
+    "cab": 5,
+    "déploiement": 11,
+    "[tunis]": 4,
+    "prospection": 3,
+    "connaissance": 3,
+    "spécifiques": 3,
+    "mnaouer": 5,
+    "belhaj": 4,
+    "etc": 3
+  }
+}

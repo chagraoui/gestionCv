@@ -1,0 +1,108 @@
+ABBASSI AHMED 
+Né le 22/01/1982 
+MANAR 2092 Tunisie 
+Tél. mobile : 00216 23 22 82 01
+Email : hammouda_ab@hotmail.com 
+Titulaire du permis de conduire 
+                             CONSULTANT /FORMATEUR LINUX  certifié LPIC 
+Formation et cértification 
+2006 
+Ecole Supérieure de Technologie et d`Informatique à Carthage
+Tunisie, Ariana 
+Maitrise en informatique appliquée, Assez Bien 
+2008 
+Ecole Supérieure des Sciences Economiques et Commerciales de Tunis 
+Tunisie, Tunis 
+Mastère en commerce électronique, Assez Bien 
+2013 
+Certification LPI niveau 1LPI ID:  LPI000304161. Code de vérification : jk2mhe2lpd
+2006 
+CCNA: Networking Basics 
+Expériences professionnelles 
+2007 - Jusqu'à ce jour 
+PROFESSEUR D'ENSEIGNEMENT SECONDAIRE PERMANENT 
+INSTITUT PRÉPARATOIRE AUX ETUDES INGÉNIEUR EL MANAR, 
+Tunisie, Tunis Entreprise publique dans le secteur "enseignement / 
+formation / puériculture" -Algorithme et structure de donnée /TP Maple. 
+- Développement de site web dynamique (HTML5, PHP5/Mysql, JQuery , javascript et CSS).  
+- Unix /Linux (cours et TP).  
+- Cours et TP Sécurité Informatique.  
+- Base de données (cours et TP)  
+- Création et montage vidéo (sur Adobe première 6).  
+- Réseau local (cours et TP).  
+- C2I.  
+2013 - Jusqu'à ce jour 
+Formateur Administration LINUX et réseaux 
+Institut canadien collège Lasalle ,MANAR ARIANA 
+- Formateur en administration LINUX (cours de Soir )  
+- Administration des réseaux  
+- Administration Linux avancées (programmation ,configuration des services et la sécurité )  
+- Encadrement des stages et PFE  
+2008 - 2011 
+Développeur IPTV QT/C++
+ITI GROUPE, Tunisie, Ariana 
+Entreprise privée tunisienne dans le secteur "informatique / télécoms" 
+- Analyse, conception et réalisation d'un frontend IPTV en utilisant l’open source MythTV (C++ / Qt4, mysql)  
+- Développement d’une application de monitoring en temps réel d’un réseau IPTV et Set-Top-Box (qt3 en qt4 multi-threading, 
+Multicast, RTP, SQL, PHP 5, linux, mysql, socket).  
+- Développement d’un outil de messagerie sur Client/serveur (QT4, MYSQL, PHP, linux).  
+- Interfaçage avec application de gestion de chambre d’hôtel.  
+- Développement de plugins sur Set-Top-Box.  
+- Installation et configuration d'un serveur de monitoring Nagios.  
+2006 - 2008 
+ADMINISTRATEUR SYSTEME ET RESEAU 
+ACCELYA, Tunisie, Tunis (EX ADP) 
+Entreprise privée étrangère dans le secteur "informatique / télécoms" 
+- Gestion du parc machine LINUX 
+- Administration de la Base de donnée Oracle 9i(PL/SQL).  
+- Administration Serveur de messagerie ZIMBRA 
+- Refonte du système de sauvegarde avec script  
+- Développement d'outils de production automatisée et mise en ligne de statistiques avec shell /PHP .  
+- Configuration des services Linux (qmail, Shell, Samba, Proxy/Squid, FTP, DHCP, NFS).  
+- Administration du réseau LAN et WAN (Réseaux Internet, switch, WIMAX, VSAT, LS).  
+- Inspection et gestion du parc informatique (support technique).  
+Projets en FREELANCE 
+Consultant Technico-Fonctionnel OpenERP ( Janvier 2015 - 5 mois ) 
+- Missions : Démonstration Client, Spécification des besoins client, Intégration d’odoo, Formation des utilisateurs. 
+- Compétences fonctionnels : Gestion de stock, Gestion de flotte, GMAO/GPAO (CMMS/Manufacturing) 
+- Compétences techniques : Installation et administration d'odoo, Développement de nouveaux modules d’OpenERP , 
+postgreSQL ,  Python 
+Etude, migration et portage d'une application en C de Windows à Linux (octobre 2014 –janvier 2015) 
+http://www.lmosoft.com 
+- Etude, migration et portage d'une application C client serveur , qui communique avec un drivers X25 et le protocole TCp/IP pour 
+véhiculer les informations , de connection et état de Transcodeur GSM du réseau téléphonique ,dans un environnement 
+multithread ,socket ,  
+- environnement : Centos 6 ,windows 7 , Mysql  5 
+- outil: gcc , cfunctions-0.28 , 
+Langues pratiquées 
+Arabe : Maternelle 
+Français : Bilingue 
+Anglais : technique 
+Compétences informatiques 
+Python , QT/C++ 4 et 3 
+Niveau : moyen 
+LINUX / SHELL 
+Niveau : moyen 
+PHP/Mysql /JQUERY/HTML /CSS php 5 
+Niveau : moyen 
+Visal basic (VB) 2008 / 2006 
+Niveau : moyen  
+Cértification : LPIC-1 (Linux) & CCNA Cisco 
+Autres compétences 
+Bases de données : PL/SQL, ORACLE 9i (administration et développement), MySQL, MSAccess. 
+Langages de programmation : Qt4, Java/ J2EE, C/C++, Unix Shell, VB, Assembleur, perl,SSH ,SHELL 
+Langages de programmation Web : HTML, CSS, XML, DHTML, JavaScript, PHP, asp. 
+Technologies liées à java: Jquery ,ajax, EJB, servlets, JSP, RMI, JavaMail.  
+Systèmes : GNU/Linux (administration et utilisation quotidienne : Debian, Fedora, Mandrake,...),shell, ssh , FTP 
+Windows 9x/2000/NT/XP, Ms dos.  
+Modélisation et conception : UML, 
+MERISE. Connaissances réseaux :  
+Architecture et protocoles des réseaux LAN et WAN (wimax, VSAT, 
+LS). Bonne connaissance des protocoles TCP/IP et SNMP. 
+Connaissances de l’architecture Client/Serveur. 
+Serveur de fichier (Samba et NFS), Apache (avec SSL), Tomcat, DNS, DHCP, (NFS et Samba), 
+Radiocommunications cellulaires (GSM/UMTS).  
+Systèmes distribués (RPC, RMI, CORBA). Webservices (.net 
+/java). Autres: DBDesigner, Dreamweaver, ADOBE PHOTOSHOP. 
+Centres d'interêt 
+MUSIQUE, BRICOLAGE, CINEMA, VOYAGES. 

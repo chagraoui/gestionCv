@@ -1,0 +1,135 @@
+<meta charset="utf-8">
+<div class="login-container">
+
+    <div class="row">
+
+        <div class="col-sm-6">
+
+            <script type="text/javascript">
+                jQuery(document).ready(function($)
+                {
+                    // Reveal Login form
+                    setTimeout(function(){ $(".fade-in-effect").addClass('in'); }, 1);
+                    $("form#login .form-group:has(.form-control):first .form-control").focus();
+                });
+            </script>
+
+            <form method="post" role="form" class="login-form fade-in-effect">
+                <div class="login-header">
+                    <a href="#" class="logo">
+                        <img src="assets/images/tritux.png" alt="" width="150" />
+                        <h4>Créez votre compte -- Etape 2</h4>
+                    </a>
+                </div>
+
+                <p ng-init="user.role = 'candidat'"/>
+
+                <font color=’#000000′> Nom et Prénom : </font>
+                <div class="form-group">
+                    <!--<label class="control-label" for="name">Entrez votre nom</label>-->
+                    <input type="text" class="form-control" name="name" id="name" autocomplete="off" ng-model="user.nom" required/>
+                </div>
+
+                <font color=’#000000′> Email : </font>
+                <div class="form-group">
+                    <!--<label class="control-label" for="password">confirmez votre mot de passe</label>-->
+                    <input type="email" class="form-control" name="email" id="email" autocomplete="off" ng-model="user.email" required/>
+                </div>
+
+                <font color=’#000000′> Age : </font>
+                <div class="form-group">
+                    <!--<label class="control-label" for="name">Entrez votre nom</label>-->
+                    <input type="text" class="form-control" name="age" id="age" autocomplete="off" ng-model="user.age" required/>
+                </div>
+
+                    <font color=’#000000′>Diplôme & Année d'obtention : </font>
+                <div class="form-group" >
+                        <table class="table-condensed">
+                            <tr ng-repeat="diplome in user.diplomes">
+                                <td class="fa fa-close" ng-click="deleteDiplome($index)"></td>
+                            <td >
+                            <input type="text" class="form-control" name="diplome" id="diplome" autocomplete="off" ng-model="diplome.nom" required /></td>
+                            <td class="col-xs-3">   <input type="number" class="form-control" name="date" id="date" autocomplete="off" ng-model="diplome.dateObtention" required />
+                        </td></tr></table></div>
+
+
+
+                <font color=’#000000′> Certifications :  </font>
+                <div ng-form="certifForm">
+                    <div class="form-group">
+                    <div class="col-xs-9">
+                        <input type="text" class="form-control" name="newCertification" autocomplete="off" ng-model="certification.newNomCertif" required/>
+                    </div><div>
+                    <button class="btn btn-dark" type="button" ng-click="addCertif()" ng-disabled="certifForm.$invalid">Ajouter</button>
+                </div>
+                    </div>
+                </div>
+                <table class="table table-condensed">
+                    <tr ng-repeat="certification in user.certifications">
+                        <td class="fa fa-close" ng-click="deleteCertif($index)"></td>
+                        <td>
+                        <input type="text" class="form-control" name="certification"  autocomplete="off" ng-model="certification.nomCertif" required />
+                        </tr></table>
+
+
+
+                <font color=’#000000′> Adresse : </font>
+                <div class="form-group">
+                    <!--<label class="control-label" for="lastName">Entrez votre prénom</label>-->
+                    <input type="text" class="form-control" name="adresse" id="adresse" autocomplete="off" ng-model="user.adresse" required/>
+                </div>
+
+                <font color=’#000000′> Téléphone : </font>
+                <div class="form-group">
+                    <!--<label class="control-label" for="password">Entrez votre mot de passe</label>-->
+                    <input type="text" class="form-control" name="tel" id="tel" autocomplete="off" ng-model="user.tel" required/>
+                </div>
+
+                <font color=’#000000′> sexe : </font>
+                <div class="form-group">
+                    <SELECT name="sexe" ng-model="user.sexe" size="1" required class="form-control">
+                        <OPTION value="male">Male </OPTION>
+                        <OPTION value="femelle">Femelle</OPTION>
+                    </SELECT>
+                </div>
+
+                <div>
+                    <div ng-form="skillForm">
+                        <font color=’#000000′> Expérience : </font>
+                        <div class="form-group" >
+                            <div class="col-xs-6">
+                                <input type="text" name="domaine" ng-model="user.experiences.domaine" class="form-control" required/>
+                            </div>
+                            <div class="col-xs-3">
+                                <input value="1" type="number" class="form-control" placeholder="ans" min=1 max=20 ng-model="user.experiences.nbrAnsExp" required/>
+                            </div>
+                            <button type="submit" class="btn btn-dark" ng-disabled="skillForm.$invalid" ng-click="addSkill()">Ajouter</button>
+                        </div></div>
+
+                    <table>
+                        <tr ng-repeat="experience in user.experiences">
+                           <td> <span class="fa fa-close" ng-click="deleteSkill($index)"></span>&nbsp;&nbsp;&nbsp;</td>
+                            <td><span> <strong>Domaine : {{experience.domaine}} &nbsp;&nbsp;&nbsp;&nbsp; Année d'expérience : {{experience.nbrAnsExp}}</strong></span> </td>
+
+                        </tr>
+                    </table>
+
+                </div>
+
+                </br></br>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary  btn-block text-left" ng-click="inscription(user)">
+                       <i class="fa-check-square"></i>
+                        Confirmer
+                    </button>
+                </div>
+
+        </form>
+
+
+
+    </div>
+
+</div>
+
+</div>

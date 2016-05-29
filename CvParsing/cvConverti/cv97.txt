@@ -1,0 +1,37 @@
+                                                                                                                    
+     Elève Ingénieur en Informatique   
+                   à la recherche d’un stage d’Ingénieur  
+CURSUS Académique : 
+       Juin 2016, Ecole Supérieure de Technologie et de l’Informatique (E.S.T.I), Tunis, Tunisie. 
+  Diplôme : Ingénieur National Informatique (prévu). 
+       Juin 2013, Facultés des sciences de Tunis, Tunis, Tunisie. 
+  Filière : Physiques et Chimie. 
+  « Réussite dans le concours national d’entrée au cycle de formation d’ingénieur ». 
+       Juin 2011, Lycée Mahmoud el Mesaadi, El Fahes, Zaghouan, Tunisie. 
+  Filière : Sciences expérimentales. 
+                 Diplôme : Baccalauréat 
+Expérience professionnelle : 
+        Juillet-Août 2014, Banque Nationale d’Agricole, el Fahes, Zaghouan, Tunisie. 
+    Sujet : Initiation dans le domaine professionnel. 
+   Technologie : Gestion Bilan de jour.  
+Expérience pratique : 
+         Projet Web, JSF 2.0, Html5, CSS3, Javascript, Hibernate, Oracle 11g. 
+         Projet Réseau,  Configuration d’un réseau local virtuel(VLAN),  
+                                     Configuration de base d’un commutateur et d’un routeur Cisco. 
+         Projet Base de donnée, Administration Base de donnée Oracle 11g. 
+         Formations : Linux Professional Institut(LPIC), .NET, Cisco. 
+Compétence : 
+OS: Ubuntu,  Windows8. 
+Langages de programmation: C, C++, C embarqué, Assembleur, Java. 
+Technologies Web: JSF, EJB, HTML5, CSS3, PHP5, Ajax, JQuery, Javascript. 
+Framework: Entity Framework, Hibernate, JSF. 
+SGBD: Oracle 11g, Sql Developer, MySQL, Sql Server 2012, Sql Serveur Management Studio(SSMS).  
+Réseaux: CCNA3, CCNA2, CCNA1. 
+Conception: UML2, UML, Merise2, Merise. 
+I.D.E: Visual Studio 2013, Eclipse, Netbeans. 
+Microcontrôleurs : STM32. 
+ Langues:  
+ Anglais : Parlé Ecrit  Français : Parlé Ecrit  Allemand : Basique 
+ Expérience extra-professionnelle :  
+ 2013/14 croissant rouge tunisien Comité Régional Ariana: Membre.  
+Centre d’intérêt : Rédaction, Musique. 

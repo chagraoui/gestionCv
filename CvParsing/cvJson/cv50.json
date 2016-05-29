@@ -1,0 +1,47 @@
+{
+  "age": 30,
+  "name": "Sami Hachicha ",
+  "adresse": "tunis",
+  "mail": "hachicha_sami@hotmail.fr",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "23793488",
+  "skills": [
+    "rest",
+    "dreamweaver",
+    "c++",
+    "css",
+    "c",
+    "oracle",
+    "photoshop",
+    "windows",
+    "javascript",
+    "sql",
+    "eclipse",
+    "java",
+    "uml",
+    "xml",
+    "linux",
+    "j2ee",
+    ".net",
+    "php",
+    "mysql",
+    "html",
+    "pl/sql",
+    "word"
+  ],
+  "keywords": {
+    "dreamweaver": 3,
+    "web": 3,
+    "installations": 3,
+    "iset": 3,
+    "réseaux": 4,
+    "php": 3,
+    "mysql": 6,
+    "net": 4,
+    "vb": 7,
+    "sql": 4
+  }
+}

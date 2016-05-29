@@ -1,0 +1,36 @@
+{
+  "age": 25,
+  "name": "Andolsi Ramzi ",
+  "adresse": "tunis",
+  "mail": "andolsiramzi@gmail.com",
+  "studies": [
+    "licence",
+    "baccalauréat"
+  ],
+  "num": "22493547",
+  "skills": [
+    "c#",
+    "css",
+    "c",
+    "ubuntu",
+    "pascal",
+    "photoshop",
+    "virtualisation",
+    "windows",
+    "vhdl",
+    "javascript",
+    "excel",
+    "java",
+    "asp.net",
+    "linux",
+    "j2ee",
+    ".net",
+    "php",
+    "html",
+    "word",
+    "packet tracer"
+  ],
+  "keywords": {
+    "réseaux": 8
+  }
+}

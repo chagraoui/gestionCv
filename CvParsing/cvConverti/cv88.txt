@@ -1,0 +1,89 @@
+YOUNEB  MONOEM  
+INFORMATIONS PERSONNELLES 
+Nationalité : Tunisienne 
+Date de naissance: 02 Août 1984 
+Lieu de naissance : La Marsa –Tunis- Tunisie 
+Adresse : 14, rue Gabes, 2025 Carthage Yesmina, Tunis, Tunisie. 
+GSM : (+216) 90.18.95.91/ (+216) 23.638.643 
+E-mail : monoem.youneb@gmail.com 
+LinkedIin : tn.linkedin.com/pub/monoem-youneb/30/14b/570/ 
+CERTIFICATIONS 
+ 2015 : OCJP - Oracle Certified Professional, Java SE 6 Programmer  
+(Code : 237434400OCPJSE6P). 
+2015 : Cisco -Académie. 
+Production des formations en ligne 
+youtube: https://www.youtube.com/playlist?list=PLiLNIe6- SIDqXqK5SgjVpZh9kfEesY1Qs 
+EXPERIENCES PROFESSIONNELLES 
+Depuis Mars 2012 : Responsable informatique : ESA.  
+ - développement des sites web de l'école et des laboratoires de recherche. 
+ - développement des applications de gestion de foyer, gestion d'inventaire, 
+ gestion de scolarité, gestion des stages et gestion de parc automobile. 
+2008 - 2012: Développeur Web : CCK. 
+2008 : Développeur, Démonstrateur, Formateur, Assistance technique, Basic test 
+de produit Software: Société de développement Software EDP Tunisie Filiale de la 
+société EDP Consult AB (siège en Suède).  
+2006-2007 : Responsable informatique : Axium Nabeul. 
+FORMATIONS ACADEMIQUES  
+2014-2015 : Ingénieur Informatique spécialité Système d’information : Suptech. 
+2014-2015 : Mastère en Informatique et Nouvelle Technologie Educative : ISEFC. 
+2011 : Licence Appliqué en Science et Technologie de L’Information et de la 
+Communication : UVT. 
+2006 : Technicien Supérieur en Informatique de Gestion : ISET Charguia. 
+2003 : Bac Technique (Session principale juin). 
+STAGES 
+2015: Projet de Fin d'Etude Ingénieur : Mise en place d'une solution open source 
+«GESTION DOCUMENTAIRE ET TRAVAIL COLLABORATIF» et développement des 
+fonctionnalités spécifiques - Alfresco. 
+2014-2015 : Projet de Fin d'Etude  (Mastère NTE) : Modélisation et développement 
+d'une application Android «Sénarisation d'un cours de marketing de base en ligne», 
+administrée avec Symfony2 pour le ministère de formation.  
+2011 : Projet de Fin d’Etude (Licence LASTIC) : « Mise en place d’un outil de 
+supervision et d’administration du réseau national universitaire RNU» au sein du 
+Centre De Calcul El Khawarizmi CCK  Ministère de l’Enseignement Supérieur et de la 
+recherche scientifique. 
+2006 : Projet de Fin d’Etude (BTS): Création d’une application de « Gestion de Suivi 
+Administratif » au sein de la Société d’Ingénierie Informatique de communication 
+S2i Fournisseur DELL en Tunisie. 
+2005 : Stage de perfectionnement : Création d’une application «Gestion 
+d’Hébergement des Sites Web » au sein du Centre De Calcul El Khawarizmi CCK  
+Ministère de l’Enseignement Supérieur et de la recherche scientifique. 
+2004 : Stage de perfectionnement : Câblage de Réseau Informatique et 
+Participation à la foire au sein de la Société d’ Ingénierie Informatique de 
+communication S2i Fournisseur DELL en Tunisie. 
+2004 : Stage de perfectionnement : Création d’une application de « Gestion de 
+Moulin d’olive » au sein de la Société Avensys. 
+2003 : Stage d'initiation : Maintenance Informatique au sein de la Société 
+d’Ingénierie Informatique de communication S2i Fournisseur DELL en Tunisie. 
+FORMATIONS CONTINUES 
+2014: Formation Linux (OpenSuse). 
+2014 : Formation Symfony2, HTML5, Bootstrup. 
+2013 : Formation Android. 
+2010 : Participation à la Conférence internationale Systèmes d’Information et 
+Intelligence Economique organisée par l’Ecole Supérieure de commerce 
+Electronique (Tunisie) et l’Université de Nancy (France). 
+2010 : Formation en XML – Jquery – RSS. 
+2010 : Formation en Ajax. 
+2010 : Formation en Java. 
+2009 : Participation aux Septièmes journées d’études en Informatique EISINT2009, 
+organisées par le Département d’Informatique Appliquée à la Gestion de la Faculté 
+des Sciences Economiques et de Gestion de Sfax.  
+2008 : Formation en multimédia (Dreamweaver, Flash et Photoshop) au sein de 
+Centre Nation d’Informatique CNI. 
+2008 : Formation diplômante en Développement web au sein de Giga Formation. 
+2008 : Participation à la 3ème Rencontre de l’Université Internationale du 
+Multimédia UIM CANADA. 
+2008 : Formation en Réseau. 
+MES COMPETENCES 
+Développement web : PHP5, HTML5, Symfony2 et Bootstrap. 
+Développement des applications : Java/JavaEE, JSF, HIBERNATE SPRING.  
+Développement Mobile : Android. 
+Modélisation des projets : UML. 
+Traitement d’images , animation et montage: Adobe Flash, Adobe Photoshop, 
+Pinnacle. 
+Gestion des projets : MS Project. 
+LANGUES 
+Arabe : maternelle. 
+Français : intermédiaire. 
+Anglais : intermédiaire. 
+LOISIRS ET INTERETS PERSONNELS 
+Sport Nautique (Kanoe Kayak). 

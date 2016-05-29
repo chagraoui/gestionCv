@@ -1,0 +1,55 @@
+Mohammed El Hadki 
+23 ans 
+Adresse : Oulfa Casa Blanca 
+0633-05-24-43 
+elhadkimohammed@gmail.com                                        
+Formation 
+                                                                                        
+Ingénieur d’études et 
+développement 
+2011-2014  : Formation d’Ingénieur d’Etat à l’AIAC (Académie Internationale Mohammed VI de l’Aviation 
+Civile) CASABLANCA,  Option : Génie Informatique. 
+2009-2011  : Classes Préparatoires aux Grandes Ecoles, Option : TSI. 
+Juin 2009 : Baccalauréat, Option : Sciences et Technologies Électriques. 
+Expériences professionnelles 
+Depuis Janvier 2015: Stage Pré-embauche à ATOS Origin Casablanca. 
+  La migration des rapports du Business Object XI vers le WebFocus. 
+ Migration des Rapports et des graphes du Businness Object vers WebFocus. 
+ Création des Rapports et des graphes selon les besoins Clientèles. 
+ Elaboration des tests techniques. 
+ Outils : Business Object XI, Information Builders WebFocus. 
+Mars-Juillet 2014: Stage PFE à Centrale Laitière, DANONE Casablanca. 
+ La mise en place d’une plateforme décisionnelle pour la direction commerciale « Cube HHT (hand held 
+terminal ) » 
+ Détermination des dimensions et les KPIs pertinents.  
+ Conception et l’alimentation du Datamart.  
+ Création et génération des cubes OLAPs.  
+ Conception et création des tableaux de bord d’analyse  
+ Outils : SSIS (Sql Server Integration System), IBM Cognos Suite BI (IBM Cognos Configuration,  
+Framework Manager, Transformer, Analysis Studio) 
+Juillet-Aout 2013 : Stage technique à SisPay Casablanca. 
+ Participation à l’étude et la réalisation d’une caisse enregistreuse connectée avec une      
+douchette et une imprimante de ticket destinée aux sociétés pétrolières. 
+   Outils : PostgreSql, C#, Design Pattern MVC, Microsoft Visual Studio, BalsamiqMockups. 
+Juillet 2012 : Stage d’initiation au sein de l’Aéroport Fés-Sais. 
+Projets Réalisés 
+ Réalisation d’une application de gestion de facture pour un opérateur téléphonique (JAVA, POSTRESQL). 
+ Réalisation d’une application web de gestion des votes pour une compétition musicale(MVC). 
+ Réalisation d’une application web de réservation de jet-ski (MVC, Servlet, JSP). 
+ Test unitaire pour une application de gestion d’une bibliothèque (JUNIT, JAVA, UML, MYSQL). 
+ création d’une entreprise de développement informatique. 
+Compétences clés 
+                                 Langages : C/C++, Java/Jee6, PL/SQL, SQL, HTML, PHP, CSS,  XML, JavaScript, Prolog. 
+                Technologie Web : Web Services, RMI, Sockets, JSP. 
+Conception et Modélisation : Merise, UML.  
+Informatique Décisionnelle : Datawarehouse, Conception du tableau de bord ,Data mining,  
+     Base de Donnée(SGBD) : PostreSql, Mysql, SqlServer, Oracle 10g. 
+                                  Autres : Urbanisation des systèmes d’information (Architecture SOA) , Administration              
+ oracle, Assurance qualité logicielle, Architecture logicielle, Design pattern, Méthodes de développement, ITIL, 
+ Sécurité des SI, Assurance qualité logicielle, Architecture logicielle, Réseaux informatiques (TCP/IP, OSI),   
+Systèmes embarqués Android, Administration systèmes, Paradigmes de programmations et IA (Intelligence 
+artificielle, Systèmes experts, Théorie des langages, Programmation par contraintes, Programmation concurrente). 
+Langues 
+Arabe : Langue maternelle               Français : Bon niveau                       Anglais : Bon niveau 
+Intérêt & Activité 
+Loisirs : Sport, musique, voyage                              Membre actif du comité club culturel AIAC 

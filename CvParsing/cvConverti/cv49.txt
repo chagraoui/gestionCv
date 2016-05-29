@@ -1,0 +1,108 @@
+Curriculum Vitae Meher TAIEB                                                  Analyste Développeur 
+Page 1 sur 4 
+Meher TAIEB 
+24 Rue Imro El Kais, Hammam Chatt, 
+1164, Ben Arous 
+GSM : +216 50 479 321 
+E-mail : meher.taieb@gmail.com 
+Skype : meher.taieb 
+Analyste Développeur 
+FORMATIONS 
+ 29/06/2015 - 01/07/2015 : Cours 20486 - Developing ASP.NET MVC 4 Web Applications 
+chez Advancia Training 
+Dans ce cours, apprendront à développer des applications ASP.NET MVC avancées à l'aide 
+de technologies et outils .NET Framework 4.5. L'accent sera mis sur le codage des activités 
+qui améliorent les performances et l'évolutivité de l'application de site Web. ASP.NET MVC 
+seront introduite et comparé avec les Web Forms afin que les élèves sachent où chacun 
+devrait/pourrait être utilisé. 
+CURSUS SCOLAIRE 
+ 2009– 2012 : Diplôme Nationale d’Ingénieur en Génie Logiciel et Systèmes           
+                      d’Information à l’Institut Supérieur d’Informatique (ISI). 
+ 2006– 2009 : Diplôme Universitaire de Technologie en Administration des     
+                      Systèmes et des Réseaux à l’ISI. 
+ Juin 2006    : Baccalauréat Mathématiques. 
+     EXPÉRIENCES PROFESSIONNELLES 
+ Janvier 2015 – Aujourd’hui : Développeur DOTNET chez Poulina Group 
+Holding : 
+- Chef de projet développement informatique pour PGH (WORKFLOW Gestion des 
+Affaires Commerciales) 
+Description du projet : Développement d’une application intranet qui gère tous les 
+étapes de réalisation du projet (fiche déroulement de l’affaire) dès  l’appel d’offre ou 
+consultation jusqu’au bon de commande interne. 
+Intégration d'un processus WORKFLOW pour la confirmation des bons de commande 
+Curriculum Vitae Meher TAIEB                                                  Analyste Développeur 
+Page 2 sur 4 
+Développement d'un système de notification et d'alerte par messagerie type Web  
+Equipe-projet 1 Chef de projet, 1 ingénieur développement  
+Outils et environnement : SQL Server 2012, ASP.NET, C#, MVC, JavaScripts, Telerik, 
+Kendo. 
+- Chef de projet développement informatique pour PGH (WORKFLOW Contrat) 
+Description du projet : Cette application gère le cycle de vie des différents types de 
+contrat. Les contrats validés sont archivés dans FileNet avec  un code d’archivage 
+conforme à la structure de la sale d’archive (Salle, rangé, armoire, boite). 
+Lors de la conception de ce projet on a prévu le maximum de paramétrage : les circuits, 
+les taches, les modèles de contrat, les comités, les documents, la demande d’avis et la 
+demande d’information et les réclamations etc… 
+Conception des flux de WORKFLOW (processus, acteurs, rôles, étapes). 
+Développement d'une application de gestion des contrats du groupe PGH. 
+Développement d'un système de notification et d'alerte par messagerie type Web. 
+Grace à ce Workflow le temps d’établissement des contrats est réduit, et par 
+conséquent améliorer la productivité.  
+Equipe-projet 1 Chef de projet, 1 ingénieur développement  
+Outils et environnement : SQL Server 2008, ASP.NET, AJAX, Janus Web GridEX 
+Control for .NET, SMTP, Lotus Notes 
+ Mars 2014 – Décembre 2014 : Ingénieur Informatique chez Université 
+Centrale de Tunis: 
+- Développement des applications en (JAVA/J2EE, Hibernante, Struts2 et Spring) 
+liées aux sites du groupe  www.universitecentrale.net.  
+- Maintenance des sites du groupe. (www.centraletv.com et www.cela-uc.com) 
+ Janvier 2014 - Avril 2014 : Projet en Freelance (SCOR EMPLOI) 
+- Portail de l'emploi et de la formation en Tunisie  
+- Environnement et Outils : Struts2, Spring, Hibernate,JSP,CSS, MySQL. 
+ Septembre 2012 - Août 2013: Consultant Technique Compiere chez 
+Audaxis  Maghreb : 
+- Développement et maintenance du logiciel Open Source Compiere. (JAVA : 
+GWT, SQL Developer, Oracle). 
+Curriculum Vitae Meher TAIEB                                                  Analyste Développeur 
+Page 3 sur 4 
+     STAGES 
+ Janvier 2012 - Juin 2012 : Projet de fin d’études – Ingénieur en Génie Logiciel et 
+Systèmes d’Informations  chez Audaxis Maghreb : 
+- Formation technique sur l’ERP Compiere. 
+- Conception et développement d’un module achat et gestion des fournisseurs sur 
+l’ERP Compiere. 
+ Août 2011 : Stage Ingénieur au sein LB Consulting : 
+- Conception et développement d’une application de Gestion des Ressources 
+Humaines en Intranet en utilisant J2EE, JSP et MySQL. 
+ Juin 2010 - Août 2010 : Technicien Informatique au sein Hannibal Apparel 
+Développement Services (H.A.D.S) : 
+- Gestion de parc informatique 
+- Mise à jour de base des données 
+ Février 2009 - Juin 2009 : Projet de fin d’études chez Poulina Group Holding : 
+- Etude, conception et réalisation du système d’information d’une nouvelle filiale de 
+Poulina. 
+- Câblage Fibre Optique et RJ 45. 
+Domaines des compétences 
+Programmation : DotNET, C# MVC, JavaScripts, JAVA (J2SE, J2EE) 
+Serveurs d’application :  
+IIS, Tomcat 
+Conception : 
+UML, UML2,  Merise  
+SGBD :  
+MySQL, Access, Oracle 
+Frameworks ;  
+Struts, EJB 2 et 3, Hibernate, Spring, GWT, Android,  
+Logiciels  
+Visual Studio, SQL Server, Netbeans , Eclipse, SQL Developer, 
+Jasper Report, Dreamweaver 
+Curriculum Vitae Meher TAIEB                                                  Analyste Développeur 
+Page 4 sur 4 
+Information Générales 
+LANGUE : 
+ Arabe : Maternelle. 
+ Français : Bon niveau.   
+ Anglais : Anglais de spécialité : domaine de l’informatique, niveau moyen.   
+CENTRE D’INTERET: 
+ Volontariat et activités : Membre de Scouts tunisiens. 
+ Passions : Musique et voyages. 
+ Sport: Handball et football en amateur. 

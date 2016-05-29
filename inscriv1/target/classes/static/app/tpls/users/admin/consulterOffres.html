@@ -1,0 +1,36 @@
+
+<div class="panel panel-default">
+
+    <div class="panel-heading">
+        <div class="panel-title">
+            Liste des Offres
+        </div>
+    </div>
+
+
+    <div class="panel-body">
+
+        <table class="table table-bordered table-striped" id="example-2" style="width:100%">
+            <thead>
+            <tr>
+
+                <th width="30%">Titre</th>
+                <th width="50%">Description</th>
+                <th width="20%">Recruteur</th>
+
+            </tr>
+            </thead>
+
+            <tbody class="middle-align" >
+
+            <tr ng-repeat="offre in offres" >
+                <td>{{offre.titreOffre}}</td>
+                <td>{{offre.descOffre}}</td>
+                <td>{{offre.deposeur.login}}</td>
+            </tr>
+
+            </tbody>
+        </table>
+    </div>
+
+</div>

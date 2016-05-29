@@ -1,0 +1,71 @@
+Diplômée en Mastère en Informatique 
+Formations et diplômes                                                                                                                          .    
+1993-1999  Elève à l’école primaire cité Essalem Boumhal    
+1999  Diplôme de 6ième année primaire avec mention bien (15.85) 
+1999-2002  Elève au collège Abou Al Abbes Ahmad Al Abyani Boumhal 
+2002  Diplôme de 9ième année de l’enseignement de base avec mention bien 
+(14.18) 
+2002-2006  Lycéenne au lycée cité Essalem Boumhal  
+2006  Diplôme de baccalauréat spécialité « sciences expérimentales » avec 
+mention bien (15.53) 
+2006-2010  Etudiante à l’Ecole Supérieure de Sciences et Techniques de Tunis 
+« ESSTT »   
+2010  Diplôme de Maîtrise en Informatique avec mention assez bien (13.99) 
+2010-2011  Etudiante en première année Mastère de Recherche en Informatique à 
+l’ESSTT avec réussite (11.23)  
+2011-2013  Diplôme de Mastère en Informatique à l’ESSTT avec mention très bien 
+2014-2015  Diplôme de Formation en Anglais des affaires à l’EFC (Ecole de 
+Formation des Cadres) 
+Expériences professionnelles                                                                                                                 .  
+Juillet 2009                          Stage au sein de la boîte de développement « 2G 
+Technology ». Le sujet est une application de gestion des entretiens, des paiements et 
+des présences des téléacteurs au sein du centre d’appel « Call Control » 
+Février 2010 - Mai 2010             Stage au sein du Centre National de Recherche 
+Scientifique « CNRS ». Sujet intitulé « Système de gestion des dictionnaires 
+arborescents » 
+Septembre 2011 - Octobre 2011            Stage technique au sein de la société  Arab 
+Tunisian Lease Leasing « ATL Leasing » 
+Février 2014 - Mai 2015               Opératrice de traitement de données au sein de 
+l’agence Web « PRODEXO ».  
+Compétences                                                                                                                                             .  
+Langues  Arabe (Langue maternelle) 
+Français (lu, écrit, parlé) 
+Anglais (lu, écrit, parlé) 
+Italien (lu, écrit, parlé) 
+Espagnol (parlé) 
+Informatique  Os : Windows (2000, XP, Vista, 7, 8), UNIX  
+Nom et prénom          ALLAGUI Imèn 
+Adresse                    9 Rue Monji Bali cité Essalem Boumhal, Ben Arous 
+Téléphone                   71.21.76.93 
+Mobile                     24.87.71.89 
+E-mail                    imen.allagui@gmail.com 
+Date de naissance      04 Novembre 1987  
+Nationalité        Tunisienne                                                                                                                                          
+Logiciels de bureautique: Microsoft Word, Microsoft Excel, Microsoft 
+PowerPoint, Microsoft Access, Microsoft Publisher, Microsoft InfoPath 
+Langages de programmation et logiciels de programmation: C, C++, 
+JAVA, Pascal, Visual Basic.NET, Visual C++.NET, Prolog, MATLAB, XML, 
+Assembleur, Outil R 
+Base de données : bases de données relationnelles, SQL, ORACLE, PL-
+SQL, MySQL, Microsoft Access, WEKA 
+Multimédia et Web : Flash, Photoshop, PHP, HTML, JavaScript, Ajax, 
+CSS, Dreamweaver 
+Conception: UML, Merise, Rational Rose, PowerAMC, 
+OpenModelSphere, Edraw UML Diagram 
+Réseaux : Configuration, Conception, simulation avec Packet Tracer 
+(routeurs CISCO) 
+Autres : VMware, PlanoManager  
+Projets réalisés                                                                                                                                          .  
+2006-2007  1ère année du 1re  cycle : jeu vache taureau en C    
+2007-2008  2ième année du 1er  cycle : application de gestion des étudiants en C++, 
+site Web statique en HTML, lecteur de flux RSS en C++ 
+2008-2009  1ère année du  2ième cycle : jeu d’échec en JAVA, site Web dynamique 
+(gestion des employés) en PHP 4, site Web dynamique (site de ventes aux enchères) en 
+PHP 4, compilateur reconnaissant les symboles mathématiques  
+2009-2010  2ième année du 2ième cycle : distributeur automatique de boissons en 
+Visual Basic.Net 
+2010-2011  1ière année Mastère en Informatique : détecteur de spam en utilisant 
+WEKA 
+Informations supplémentaires                                                                                                              .  
+Passions  sports, apprendre de nouvelles langues. 
+Caractère  sociable, communicative, curieuse  

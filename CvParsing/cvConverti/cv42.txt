@@ -1,0 +1,68 @@
+INGENIEUR EN INFORMATIQUE
+SALAH OLFA
+Née le : 08/02/1990
+Tel : (+216) 53 694 349
+E-mail :salah.olfa.fst@gmail.com
+Formation
+2008/2009 : Diplôme délivré : Baccalauréat Mathématiques
+Mention Bien
+2010/2011 : Diplôme délivré : Concours national d’entrée aux écoles d’ingénieurs.
+Institue Préparatoire aux Etudes d’ingénieur de Nabeul.
+Admise parmi les 20 % premiers
+2013/2014 : Diplôme délivré : Diplôme Nationale d’ingénieur en informatique
+Faculté des Sciences de Tunis
+Compétences professionnelles
+Expérience :
+MSS : Méditerranée Software Solutions.
+Développeuse JAVAFX, Méthodologie Agile Scrum   (4mois)
+Stages :
+  Stage d’ingénieur :
+CERT : Centre d’Etude et de la Recherche des Télécommunications
+Sujet : Application Androïde : Gestion des contacts.
+Stage PFE :
+Novicia Télécom :
+Conception et réalisation d’une plateforme pour l’entreprise y intégrée une application 
+de formation en ligne (E-Learning).
+Mini-projet :
+-Conception et développement d’une base des données de la Ministère de l’enseignement 
+supérieur pour un concours donné: Oracle Forms, SQL.
+-Implémentation de l’algorithme de Welsh and Powell en JAVA. -
+Implémentation de l’algorithme de tri polyphasé en JAVA.
+-Projet réalisé en utilisant JAVA et les interfaces graphiques : implémentation d’un 
+mécanisme d’adresse en mémoire virtuelle : la segmentation qui divise un programme en un 
+certain nombre de blocs pour faciliter l'édition de liens, ainsi que le partage entre processus 
+des segments de données.
+-Application JEE : Gestion d’une bibliothèque.
+Centres d’intérêts
+Compétences
+- Langages de programmation: C,
+JAVA, JEE, PHP5, JAVASCRIPT,
+ActionScript, PROLOG, PASCAL, 
+VHDL, ASSEMBLEUR, JAVAFX.
+- Framework : JSF, HIBERNATE,
+SPRING, STRUTS. 
+- Bibliothèque JavaScript: JQUERY
+- Langages de balisage: HTML5,
+CSS3, XML, MXML. 
+- Développement mobile : ANDROID
+- Méthodes de modélisation: UML2,
+Merise, Merise2. 
+-Réseaux : Réseaux locaux,
+CISCO(CCNA1,CCNA2,CCNA3,CCNA4) 
+-Base de données : SQL, MYSQL,
+PL/SQL 
+-IDE : Eclipse, Dev C++, Adobe
+Dreamweaver, Adobe flash Builder. 
+Aptitudes :
+- Aptitude à la coordination, à 
+la gestion et au suivi. 
+- Rigueur et esprit méthodique.
+- Aptitude au travail en équipe.
+- Capacité d’adaptation à un
+environnement multiculturel. 
+Langues :
+Français
+-Anglais
+-Italien
+-Arabe
+Cinéma, Sport, Santé.

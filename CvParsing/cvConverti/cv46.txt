@@ -1,0 +1,157 @@
+Kridiss Manel 
+El Aouina, Résidence les Emeraudes appartement  
+D33 34 ans, Mariée  
+Tél : +216 29 521122 /+21698333671  
+E-mail : m.kridiss@gmail.com
+Ingénieur en Informatique
+Études: 
+Sept 2001- Juin 2007
+Juin 1999 
+Université libre de Tunis (ULT): Diplôme National d’Ingénieur 
+Informatiques (Diplôme reconnu par l’état) 
+Lycée secondaire El Manzeh 9: Baccalauréat Mathématiques 
+Expérience professionnelles: 
+Mars 2013-
+Août 2015 
+Simop  Tunisie : 
+Chef projet  Infrastructure & Consultant avant-Vente 
+-Microsoft  Windows server,  collaboration, system center
+-VMware  VSphere , VMware Site Recovery Manger, VMware Horizon View,
+Mirage , vRealize Automation)
+-Design des architectures (on-premise, cloud privé, cloud hybride)
+-Planification des projets
+-Suivi et gestion des opportunités (détection, développement, closing)
+-Présentation sur les produits  office 365, Azure, HP Blade system and storage.
+-Support avancé.
+Mai 2012 –Février 
+2013  
+Prologic Tunisie :   
+Consultant avant-vente système et infrastructure 
+-Accompagnement client
+-Définition des besoins et conception des architectures cibles
+-Réponse aux appels d’offre et consultation
+Octobre 2007-Avril 
+2012   
+Prologic Solutions : 
+-Audit sécurité (Active Directory, Base  de données Oracle, Base  de données SQL)
+-Intégrateur des solutions d’infrastructure Microsoft (Active Directory/ DNS/
+DHCP/ EXCHANGE/WSUS/Windows cluster/NLB
+-Consultant virtualisation des serveurs et des postes de travail (Microsoft Hyper-V, 
+VMware vsphere, VMware View)
+-Consultant HP Blade system and storage.
+Février - Mai 2007   Stage fin d’études à la CFT (Centre de Formation Technologique –  Tunis) 
+ Mise en place d’une Architecture de sécurité basée sur les logiciels libre : RedHat 4.0 
+Février-Mai 2003 Stage d’étude à la CNSS (Caisse Nationale de Sécurité Sociale)   
+Développement d’une application de Gestion des Prestations Familiales : Oracle 
+Août  2002 Stage d’étude Tunisair   
+Développement d’un site web 
+Formations:  
+Formation : Installation, Configuration et administration  de Microsoft  Windows 2008 server   
+Formation : Microsoft Desktop Optimization Pack  (MDOP)  
+Formation : Websense Certified Web Security Engineer  
+Certifications:  
+-MCP Microsoft Certified Professional  
+-MCSE Microsoft Certified Engineer  
+-MCTS Windows server virtualization  
+-MCTS Monitoring and operating a private cloud with system center 2012  
+-Websense Certified Web Security Engineer  
+-HP ASE - Server Solutions Integrator V8.1  
+-HP ASE - Server Solutions Architect V8  
+-HP ATP - Blade System Solutions Integrator V8.1  
+-HP ATP - Server Administrator V8  
+-HP ATP - Server Solutions V1  
+-HP ATP - Storage Solutions V1  
+-HP Technical Certified II - Enterprise Solutions [2012] (inactive)  
+-HP Technical Certified I - SMB Storage Solutions [2013] (R) (inactive)  
+Projets:  
+Assurance 
+BIAT 
+Etude, POC et planification de la mise en place  d’une VDI VMware Horizon View 
+Délice Etude, POC et planification de la mise en place  d’un PRA à la base de Vsphere replication 
+et VMware Site recovery manager 
+Lilas - Mise en place d’une structure Active directory basée sur des Child demain 
+-Mise en place d’un certificat  public pour sécuriser le flux exchanges 2010 web services 
+Materna - Mise en place d’une plateforme de virtualisation des serveurs  en cluster Hyper-V 2012 
+&  Exchange 2013  
+Bahri Groupe - Mise en place d’une plateforme de virtualisation des serveurs  en cluster Hyper-V 2012 &  Exchange 2013  
+UBCI - Proposition de deux baies de stockage HP 3par 7400 et une réplication  asynchrone  entre deux sites production-secours 
+Smarthost -Etude et planification de la mise en place d’une infrastructure Cloud SaaS et  IaaS    autour des technologies de virtualisation de Microsoft. (Stretched  
+Hyper-V cluster, cluster Exchange de plus de 5000 utilisateurs, SQL cluster, Dynamics 
+CRM …)  
+GMP -Mise en place d’une solution Vmware Vsphere 5.1 consolidée dans  un  BladeSystem c7000 avec intégration SAN « HP P2000 G3 Fibre Channel  »  
+Sesame -Mise en place d’une solution Vmware view consolidée dans  un   BladeSystem c7000 avec intégration SAN « HP P2000 G3 Fibre Channel  »   
+Lilas -Mise en place d’une plateforme de virtualisation Hyper-v  Windows Server  
+2008 R2   
+-Mise en place  de deux serveurs mailbox  Exchange 2010  virtuel  en  DAG  et de deux 
+serveurs Virtuels HUB/CAS en  NLB   
+-Installation et configuration du serveur System center Virtual Machine Manager 2008 R2 
+TPR -Mise en place d’une solution de Stockage  SAN « Modular Smart Array  ISCI  », Configuration du réseau SAN, configuration du client ISCSI Initiator  pour assurer  
+l’accès et la haute  disponibilité des volumes de stockage   
+-Mise en place d’une infrastructure Windows Server 2008 R2 (contrôleur de domaine 
+principale, contrôleur de domaine secondaire, serveurs de fichiers, serveur DHCP, Serveur 
+DNS, Gestion des réplications inter-site active directory)  
+-Mise en place d’une solution de messagerie Exchange 2010 à haute disponibilité des 
+serveurs de boite aux  lettres « DataBase Availability Group »  intégrant les différents rôles 
+(Mailbox, Hub, CAS)  
+Sotuver - Mise en place  d’une infrastructure Active Directory  (Organisation et  gestion  
+ de la structure Active directory, gestion des groupes et utilisateurs,                                              
+configuration des profils, publication et  partage de fichier, GPO) 
+Meditrac  
+-Mise en place  d’une infrastructure Active Directory  (Organisation et gestion de la 
+structure Active directory, gestion des groupes et utilisateurs, configuration des profils, 
+publication et  partage de fichier, création des stratégies de groupe)  
+Groupe 
+chimique  
+-Mise en place d’une infrastructure Windows Server 2003 Standard Edition (contrôleur de 
+domaine principale, contrôleur de domaine secondaire, serveurs de fichiers, serveur DHCP, 
+Serveur DNS, Gestion des réplications intra-site)  
+Setcar  
+-Mise en place d’un cluster SQL server 2000 sous Windows server 2003 Entreprise Edition 
+EPPM  
+-Mise en place d’une infrastructure de virtualisation Windows Server 2008 basé sur 
+Microsoft  Hyper-V.  
+-Mise en place d’une infrastructure Windows Server 2008 Entreprise Edition (contrôleur 
+de  domaine principale, contrôleur de domaine secondaire, serveurs de fichiers, serveur 
+DHCP, Serveur DNS, Gestion des réplications intra-site)      
+-Mise en place d’un cluster SQL server 2008 sous Windows server 2008 Entreprise Edition
+Parenin  -Mise en place d’une infrastructure de  messagerie  Exchange 2007   
+Topnet -Mise en place d’une solution  SAN « Modular Smart Array ISCI  »  
+Mise en place d’une infrastructure Windows Storage server 2003 (création des partages, 
+gestion des  Quotas  par Alertes et messages de notification, configuration des partages 
+NFS, Gestion des racines  DFS)  
+Groupe 
+Prologic 
+-Mise en place d’une solution HP BladeSystem c7000 avec intégration SAN  
+« Modular Smart Array Fibre Channel  »  
+-Mise en place d’une infrastructure Windows Server 2008 R2 (contrôleur de domaine 
+principale, contrôleur de domaine secondaire, stratégie de groupe, serveurs de fichiers, 
+serveur DHCP, Serveur DNS, Gestion des réplications inter-site active directory)  
+-Migration de domino vers Exchange 2007   « Cluster Standby  Replication », configuration 
+de la messagerie unifiée en intégration avec Cisco Call Manager  
+Délice  Mise en place d’une solution HP BladeSystem c7000 avec intégration SAN  
+« Modular Smart Array Fibre Channel  »  
+Institut 
+Pasteur 
+-Migration de domino vers Exchange 2007   « Cluster Standby  Replication » 
+Cabinet 
+Ferchiou 
+- Mise en place d’une infrastructure Windows Server 2003 Standard Edition  
+(contrôleur dedomaine principale, contrôleur de domaine secondaire, serveurs de fichiers) 
+-Mise en place d’un proxy ISA 2006  
+-Mise en place d’une passerelle antivirale http/smtp   Trend Micro « Interscan viruswall »  
+Autres compétences  
+Systèmes réseaux :  
+Administration et sécurité des réseaux (sous Unix et MS Windows).  
+Systèmes d’exploitation 
+Unix /Linux: Redhat.   
+MS Windows: 98/Me/2k/XP/2k3/Windows 2008 R2/Windows2012 R2.  
+Outils de conception et de 
+développement :  
+Méthodes de conception : Merise, UML.  
+Langages : Java, environnement .Net, C++, C, PHP, Html, XML, PL/SQL, VB.  
+SGBDR : Oracle8i, SQL Server.  
+Langues :  
+Arabe:   native (lu, écrit, parlé)       
+Français:  courant (lu, écrit, parlé)   
+Anglais:  courant (lu, écrit, parlé)  
+      

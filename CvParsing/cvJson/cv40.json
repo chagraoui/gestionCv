@@ -1,0 +1,51 @@
+{
+  "age": 0,
+  "name": "Curriculum Vitae Dhekra   +21697831505         dhekrabenncir@gmail.com    Mise à jour : 01/10/2015 ",
+  "certif": " Certification: Cisco Certified Network Associate,Toic. ",
+  "adresse": "tunis",
+  "mail": "dhekrabenncir@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "21697831505",
+  "skills": [
+    "c#",
+    "c++",
+    "c",
+    "oracle",
+    "html5",
+    "assembleur",
+    "windows",
+    "javascript",
+    "sql",
+    "java",
+    "jboss",
+    "uml",
+    "asp.net",
+    "linux",
+    "j2ee",
+    ".net",
+    "php",
+    "mysql",
+    "html",
+    "wamp",
+    "jsf",
+    "wampserver",
+    "centos"
+  ],
+  "keywords": {
+    "dhekrabenncir@gmail": 3,
+    "c": 3,
+    "dhekra": 3,
+    "web": 3,
+    "télécommunication": 4,
+    "réseaux": 3,
+    "mysql": 3,
+    "sousse": 4,
+    "net": 5,
+    "ingénieur": 3,
+    "asp": 4,
+    "sql": 4
+  }
+}

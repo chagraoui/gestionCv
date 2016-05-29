@@ -1,0 +1,79 @@
+Juin 2015              Réussite en deuxième année cycle ingénieur en informatique session principale 
+                                  Faculté des Sciences de Tunis 
+Juin 2014              Réussite en première année cycle ingénieur en informatique session principale 
+                               Faculté des Sciences de Tunis 
+Juillet 2013           Concours national d’entrée au cycle de formation d’ingénieur. 
+                             Institut Préparatoire aux Etudes des Ingénieurs El Manar (IPEIM) 
+Juin  2011             Obtention du diplôme de baccalauréat en sciences techniques, mention bien. 
+                             Lycée Technique de Grombalia 
+Juillet-Août 2015    Green Controle,  
+                                  Conception et implémentation d’un algorithme d’optimisation de l’utilisation de la 
+                                   mémoire flash. 
+                                   Environnement technique : STM32F4 microcontroleur, IAR, C-embarqué, mémoire 
+                                   flash.                        
+Avril 2015                 Faculté des Sciences de Tunis,  
+                                  Conception et développement d'un site web d'enchère. 
+                                Environnement technique : JEE, Primefaces, JSF 2.0, MVC 2, Oracle express 10g,  
+                                   XHTML, CSS, JavaScript, UML. 
+Mars 2015                Faculté des Sciences de Tunis,   
+                                  Développement d'une application mobile "whistle". 
+                                   Environnement technique : Android, Intent, Service. 
+Janvier 2015            Faculté des Sciences de Tunis,   
+                                  Conception et développement d'une application de gestion d'une agence de voyage. 
+                                   Environnement technique : Java, Oracle express 10g, MVC, UML.  
+Juin-Juillet 2014     LoGidas, stage d'été 
+                                  Conception et développement d'une application de gestion des personnels. 
+                                Environnement technique : MVC, MySQL, XHTML,  
+                                   Delphi (Embarcadero), UML. 
+Février 2014            Faculté des Sciences de Tunis, 
+                                  Conception et développement d’un site web pour une bibliothéque. 
+                                   Environnement technique : HTML5, PHP, CSS3, JavaScript, MySQL, UML. 
+                                 
+                    
+       
+                            
+Batnini Abdelwehed  
+23 ans 
+Rue de Justice n°184 Grombalia 
+Nabeul - Tunisie 
+Tél : (+216) 23 436 852 
+E-mail : abdelwehedbatnini@gmail.com 
+EXPERIENCES PROFESSIONNELLES & PROJETS 
+         
+       Elève ingénieur en informatique 
+       Faculté des sciences de Tunis 
+FORMATIONS 
+COMPETENCES 
+Systèmes 
+Linux (Ubuntu), Windows (XP, Vista, 7, 8). 
+Technologies 
+JSF, Hibernate, EJB, JPA, Session Bean, Entity Bean, Android, Web service soap et rest, cloud. 
+Environnements de développement 
+Eclipse, NetBeans, Dev C++, Dreamweaver, CodeBlocks, Xilinx, IAR, LabVIEW, Quartus, Adobe 
+Photoshop. 
+Base de données 
+SQL Server 2008, phpMyAdmin (PMA), Oracle, MySQL. 
+Langages 
+Java, C, #C, C++, C-embarqué, SQL, Embedded SQL,  XML, HTML5, XHTML, VHDL, Shell, PHP, JavaScript 
+et CSS3. 
+Architectures 
+MVC design pattern, JEE. 
+Conception 
+UML, MERISE.                                   
+                                   
+         Langues :              Arabe :     Langue maternelle. 
+                    Français : Lue +++, écrite+++, parlée ++. 
+                                                   Anglais :    Lue +++, écrite ++, parlée ++. 
+                                         Allemand : lue ++, écrite ++, parlée +.  
+                    
+                                                        
+          2014-2015 
+                Faculté des Sciences de Tunis, responsable évènementiel en FST GooGle club. 
+         Tunisian Collegiate Programming Contest, participation à la compétition de programmation TCPC 2014. 
+                2013-2014 
+               Faculté des Sciences de Tunis : Membre actif et organisateur en club Info+ (Organisation de TEDX).   
+         
+Centre d'intérêt 
+        
+      Musique, Internet, Football. 
+Vie associative 

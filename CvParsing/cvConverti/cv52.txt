@@ -1,0 +1,76 @@
+Expérience professionnelle 
+                NeoXam NX GP3  
+Juillet 2014 – Aujourd’hui          Ingénieur Recherche & développement fonctionnel 
+ Développement des évolutions du progiciel NXGP3 en  
+                                                          rapport avec les demandes clients en : 
+                                                                               France       : Paris Euro-VL(SGSS),CASEIS,Fastnet 
+                                                                               USA            : UBS,EFA, State Street 
+      Allemagne : NORDCON,WMAN,MAT 
+      Chine          : PAMC,CAMIC,TKAMC 
+                                                    Italie           : INTESA 
+      Brésil          : BBM 
+ La correction des retours clients et optimisation des 
+différents modules.  
+ Réalisation des différents cas de test sur les bases internes 
+avant livraison sur la base Client. 
+                                                                        
+ Technologie          : java, ADL (Langage propriétaire assimilé au C)  
+ Environnements : Windows/Unix. 
+ Métier                   : Finance de Marché. 
+ Méthodologie      : Scrum (Agile). 
+Formations : 
+Formation sur les généralités de la Finance. 
+Formation en SQL Querry. 
+ADL : Langage propriétaire  (Assimilé à C)  
+Formation en modèle de données GP3, solution Web leader pour la 
+gestion administratif et comptable en Europe.  
+                                SUNGARD  
+Janvier –Juin 2014                              Projet de fin d’études cycle ingénieur au sein de Sungard, Tunis    
+               Sujet : Refactoring des écrans  D'AAIA Application De Gestion De      
+Fonds  (GP3 progiciel de gestion de  portefeuille)    
+                                                     
+                                                                         ABIDI MERIEM     
+        Age              24 ans  
+               Tél               +216 93 029 561                                                INGENIEUR INFORMATIQUE 
+               Adresse      3 Cité Ichkel Tinja Bizerte  
+               E-mail          abidi.meriem2@gmail.com  
+                                                                                                     
+                   Tunisie Télécom  
+Juin 2012                                         Stage au sein de Tunisie Telecom, Tunis    
+                               Sujet : La mise en œuvre des équipements informatique  
+                                                              Présentation de la Division Service à la Clientèle  
+                                                 Service facturation et recouvrement                
+                                                                               
+                Projet Académique 
+-Conception et réalisation d’une base de données   d’orientation   
+universitaire.  
+Outils et environnement: SQL, PL/SQL, Oracle, Oracle Forms  
+-Conception et réalisation d’une application JAVA/JEE permettant 
+la gestion d’une bibliothèque (réalisée avec JSF, HIBERNATE).  
+-Développement d’un compilateur : Théorie de langage de 
+programmation en C 
+-Implémentation des algorithmes d'allocation des processeurs et 
+de gestion de la mémoire,  
+Outils et environnement: Eclipse, java (swing)  
+Formation Académique  
+2011-2014                                           Cycle d’ingénieur à la faculté des sciences de Tunis/Génie informatique   
+2009-2011                                           Cycle préparatoire à l’institut à l’étude des ingénieures de Bizerte  
+             (Physique/Chimie) 
+Juin 2009                                Baccalauréat Section Science  expérimentales (Mention bien)/Bizerte   
+Compétence Technique   
+    - Langages de développement     C, C++, HTML, Java, VHDL, ASSEMBLEUR  
+   - Conception et Architecture       UML, GOF Design Patterns, J2EE   
+   - Base de données                          MYSQL, Oracle  
+   - Systèmes d’exploitation            Microsoft Windows, Linux  
+   - Outils                                         Eclipse, SVN  
+   - Réseau                                          TCP-IP, Ethernet, Modèle OSI  
+   - Méthodologies                      Scrum, Méthodes agiles  
+   - Autres                                 Finance de marché   
+LANGUES 
+Arabe   
+Français     
+Langue maternelle 
+lu, écrit et parlé   
+Anglais   lu, écrit et parlé   
+CENTRES D’INTERETS 
+Voyage, Lecture 

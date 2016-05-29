@@ -1,0 +1,216 @@
+ Bilel AMRI 
+ Mobile : +216.22.95.88.46  
+Email : bilelwebdev@gmail.com 
+DEVELOPPEUR SENIOR DES APPLICATIONS WEB et mobiles 
+     
+Expert Technique en Zend Framework (1&2) / Symfony 2/ Magento  
+(~8 ans d’expérience) 
+Formation 
+Juin 2010 : Master en Management de projets, ISEAM Paris - France 
+Juin 2008 : DUT en Informatique – ISET MAHDIA 
+Domaines de compétences 
+Langages et Frameworks (niveau avancé) 
+PHP5/7: Zend Framework (1 & 2), Symfony (1 & 2), CakePHP (1 & 2), Doctrine, Magento, 
+Prestashop, Joomla, Drupal (toutes versions). Design Patterns (MVC, Di, Factory, AR, DAO, Registry, 
+Singleton, etc…), Memcached 
+Objective-C: Cocoa Touch, Xcode, Box 2D, Sparrow Game Engine 
+Java: Android SDK & NDK, JEE 
+JavaScript: jQuery, Sencha Touch, PhoneGap, jQuery Mobile 
+Frontend: HTML5 / CSS3 
+Systèmes, réseaux et bases de données (niveau avancé) 
+BDD: MySQL, Oracle, PostgreSQL 
+NoSQL: MongoDB, Cassandra (Clustering)  
+ETL: Talend 
+Network Programming: Sockets, NodeJS, Red5, Apache ActiveMQ, Asterisk 
+Systèmes d’exploitation: RedHat, Ubuntu, Debian, Mac OS X 10.x 
+Environnements collaboratifs: GIT, SVN 
+Management 
+Méthodes agiles (SCRUM & XP). 
+Test et validation (recettage). 
+Estimation des charges et affectation des tâches. 
+Livraison de projets pour clients finaux et clôture des dossiers financiers et techniques. 
+Expériences professionnelles 
+Dépuis le 01/02/2013  
+Poste: Lead Developer web et mobile  
+Entreprise : UZIK (agence web basée à Paris et orientée pour la clientèle de luxe) 
+Activités : 
+ Réalisation et développement des applications web (sites web à forte trafic, intranet, 
+applications métiers, e-commerce). 
+ Réalisation et développement des applications mobiles (iOS [iPhone et iPad], Android, sites 
+web mobiles). 
+ Conception des architectures complexes des systèmes d’information. 
+ Participation à la mise en place de la filiale de Tunis 
+Clients finaux pour lesquels j’ai participé au développement de leurs projets: 
+Hermès, Ricard S.A, Société Générale, Festival Calvi On The Rocks, Yquem, Colas. 
+Extraits des réalisations : 
+Projet Technologies  
+02/2013 – 06/2013 
+Plateforme RH officiel d’Hermès : 
+http://www.hermesemployeur.com/ 
+PHP5 & JS : Zend Framework 1.12, Doctrine 1.3 
+avec MySQL, Talend ETL (récupération des offres 
+d’emploi via des webservices SOAP), Zend-CLI, 
+jQuery, Grunt  
+07/2013 – 12/2013 
+Site officiel du concours Ricard S.A Live Music : 
+http://www.ricardsa-livemusic.com/ 
+PHP5 : Zend Framework 2, Doctrine 2 avec 
+MySQL, API Facebook, API Youtube, API 
+Twitter. 
+Frontend: Twitter Bootstrap, jQuery, Timeline js, 
+HTML5/CSS3 pour la version mobile 
+05/2013 – 08/2013 
+Application iPhone du festival CalviOnTheRocks : 
+http://bit.ly/13s7wYc 
+iOS 6 : Objective-C, Cocoa Touch, APN, Symfony 
+2(BO et webservices), google maps SDK 
+06/2013 – 08/2013 
+Application Android du festival CalviOnTheRocks : 
+http://bit.ly/12GPA61 
+Android SDK 5 à 17 : Java, Google Push 
+Notifications, Symfony 2 (BO et webservices), API 
+Google maps  
+01/2014 – 05/2014 
+Plateforme e-commerce de château d’Yquem (projet en 
+preprod) 
+PHP5: Magento 1.8 / Symfony 2 (Site editorial) 
+Frontend: jQuery, Grunt 
+06/2014 – 09/2014 
+Refonte de portail Colas.com 
+PHP 5 : Drupal 7 / Symfony 2 
+ETL : Migration de données avec Talend ETL 
+De 10/2014 – 12/2015 
+Grand projet confidentiel : Plateforme e-commerce web 
+et mobile + Portail WebTV + Solution ERP sur mesure 
+iOS8 & Android, Magento, ZF2, Prestashop 1.6, 
+Symfony 2, Silex 
+01/09/2011 – 31/01/2013  
+Poste: Lead Developer  
+Entreprise : Smart&Geek (Agence social Media basée à Paris) 
+Activités : 
+ Développement et conception des applications Facebook pour des clients grands comptes. 
+ Développement des applications web et mobiles sous-traitées via l’agence Parisienne 
+Smart&Geek. 
+ Conception et développement d’un environnement des jeux en ligne multi-utilisateurs en 
+temps réel pour le compte de Total Formula 1, via l’agence Smart And Geek. Cette 
+plateforme est basée sur les technologies : Node.js, Flex, RED5, Apache ActiveMQ, Java 
+Clients finaux pour lesquels j’ai participé au développement de leurs projets: 
+Groupama, Sogeti, Total, Total Formula 1, Thales Group, Ligue de football professionnel (LFP), Elite 
+Auto, BetClic. 
+Extraits des réalisations : 
+Projet Technologies  
+09/2011 – 05/ 2012 
+Jeu en ligne de simulation du Volvo Ocean Race 
+(pendant la course réelle) pour l’équipe de la voile de 
+Groupama (Victoire de Groupama dans la course). 
+PHP5 & JS : CakePHP 1.3, Ajax Push 
+Engine, jQuery, API Facebook 
+01/2013 – 08/2013  
+Participation au développement de l’application mobile 
+JobAroundMe 
+iOS & Android 
+07/2012 – 01/2013 
+Jeu multi-utilisateurs de Formula 1 pour Total sur la 
+page Facebook officielle: 
+https://www.facebook.com/F1TotalOfficial/app_3562765
+47767556 
+Groovy, protocole XMPP, RED5, Flex, 
+Box2D Game Engine, Node.js, Apache 
+ActiveMQ, Facebook API, Cassandra, 
+Memcached 
+01/06/2011 – 31/08/2011  
+Poste: Développeur web et Talend (mission freelance)  
+Entreprise : Open Vision 
+Activités : 
+ Conception d’un SI pour le ministère de l’Industrie Tunisienne : PHP/PostgreSQL. 
+ Migration de données depuis Oracle vers Postgres dans le cadre de projet SI du ministère de 
+l’industrie Tunisienne via l’ETL. 
+ Participation au recrutement des développeurs web. 
+09/02/2010 – 31/05/2011  
+Poste: Lead Developer  
+Entreprise : Polygone-4 Tunisie, Tunis (Filiale de la société installée en France NetCode Devpt LTD 
+spécialisée dans la téléphonie sur IP) 
+Activités : 
+ Développement des applications pour la VoIP (Voice Over IP). 
+ Mise en place des architectures réseaux pour les opérateurs téléphoniques utilisant les 
+technologies VoIP. 
+ Management de la filiale en Tunisie. 
+ Recherche et Développement (R&D). 
+Extraits des réalisations : 
+Projet Technologies  
+Application web de gestion des trafics téléphoniques en 
+temps réel exploitée par les fournisseurs, opérateurs et 
+clients dans le domaine de la VoIP. 
+Nombre JH : 120 
+PHP5 & Frontend: CakePHP 1.3, jQuery, 
+PHP AGI 
+VoIP: Asterisk,OpenSIPS 
+Programmation réseaux: Node.js 
+BDD : PostgreSQL, MongoDB 
+Développement d’un agent répondeur intelligent en utilisant 
+la technologie TextToSpeech. 
+Nombre JH : 90 
+Microsoft.NET: C#, Microsoft SAPI 
+VoIP: Asterisk,OpenSIPS 
+ BDD : MySQL Cluster 
+Réalisation d’une plateforme de gestion des entreprises 
+« clé en main » avec une infrastructure réseau, suivi 
+clients, live meetings et contrôle à distance des bureaux 
+délocalisés. Pour assurer les fonctionnalités Real Time. 
+Nombre JH : 90 
+Java & AS:  Grails Framework (Groovy), 
+Red5, Apache ActiveMQ, Flex  
+PHP5 : Zend Framework 
+Programmation réseaux: Node.js 
+BDD : Oracle 10g 
+01/05/2009 – 31/01/2010  
+Poste: Chef de projets web  
+Entreprise : Regency Agency, Tunis (Agence de communication globale opérant sur le marché 
+Tunisien) 
+Activités : 
+ Développement des portails web à forte trafic. 
+ Validation des maquettes graphiques. 
+ Développement des logiciels métiers de suivi clientèle. 
+ Réalisation des sites web pour e-commerce et e-learning 
+Clients finaux pour lesquels j’ai participé au développement de leurs projets: 
+Hôtels en Tunisie, Entreprises industrielles en Tunisie, agences de voyage, centres Thalasso & Spa. 
+Extraits des réalisations : 
+Projet Technologies  
+Portail Internet officiel de la chaine hôtelière 
+Hasdrubal. 
+Backend & Frontend : Joomla 1.5 (développement 
+spécifique), jQuery 
+Portail web de la chaine hôtelière Tej Marhaba. PHP5 & JS: Joomla 1.5 (développement spécifique), 
+jQuery 
+Package web standard et réutilisables pour la 
+réservation hôtelière en ligne. 
+PHP5 & JS: Composant+module+plugin Joomla 1.5 
+01/07/2008 – 30/04/2009  
+Poste: Développeur web  
+Entreprise : STMicroelectronics, Pôle technologique La Gazelle (Multinationale et Leader mondial 
+dans l’industrie des semi-conducteurs). 
+Activités : 
+ Développement des applications RH pour les filiales de la Tunisie et Turquie. 
+ Développement des logiciels spécifiques pour l’équipe R&D de Tunis. 
+ Réalisation des applications d’optimisation de production en collaboration avec Xerox. 
+Clients finaux pour lesquels j’ai participé au développement de leurs projets: 
+Xerox, ST Tunis, ST Izmir, pôle R&D, pôle MCD. 
+Extraits des réalisations : 
+Projet Technologies  
+Intranet de la Filiale en Tunisie (Tunis). Développement spécifique en Zend 
+Framework/Oracle 
+Intranet de la filiale en Turquie (Izmir). Développement spécifique en Zend 
+Framework/Oracle 
+Participation à la réalisation d’une solution d’optimisation 
+de production et de suivi de développement utilisée 
+officiellement par toutes les filiales du groupe partout dans 
+le monde. 
+Codendi, PHP5, SourceForge, Oracle 
+01/03/2008 – 30/06/2008  
+Poste: Développeur web  
+Entreprise : Yatinoo, Tunis. 
+Activités : 
+ Participation au développement de premier portail arabe équipé d’un moteur de recherche 
+100% Arabe basé sur ZF et MySQL. 
+Langues 
+Français (niveau courant); Anglais (bon niveau) ; Arabe  

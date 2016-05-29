@@ -1,0 +1,73 @@
+Ingénieur réseaux et télécommunication  
+Mariem BEN MBAREK 
+2 Rue de Damas Lafayette 1002 Tunis  
+benmbarek.mariem1@gmail.com 
++ 216 54 19 11 08 / 22 57 12 72   
+Etudes & formations  
+Diplôme national d'ingénieur, l’Institut Supérieur d’Informatique et des Techniques de 
+Communication ISITCOM, Téléinformatique. 
+    PFE : Planification et dimensionnement du réseau 4G LTE et développement d'une application 
+d'identification des zones rentables pour les opérateurs. 
+2014 : Certificat CCNA 1 (2,3 et 4 en cours ) 
+2012 : Certificat C2i 
+2011 : Licence appliquée en Science et Technologie de l’Information et de Télécommunication 
+Réseau et télécommunication, ISSAT, mention Bien. 
+2008 : Baccalauréat sciences expérimentales 
+Expériences professionnelles &  Stages  
+2015 : Stage professionnel, Direction de Système d’Information Elgazala Technopark, Pôle 
+Elgazala, Octobre & Novembre.   
+ Sujet : Aide à la réalisation des rapports de consultation, appel d'offre, dépouillement, 
+analyser les cahiers des charges de consultation et  les réponses aux appels d’offres... 
+2015 : Stage Ingénieur, Tunisie Telecom, centrale Hached, Février & Mars. 
+2015 : Stage Ingénieur, Tunisie Telecom, centrale Belvédère, Service DATA, Avril. 
+ Sujet : configuration des routeurs et  switches Cisco 
+2014 : Téléperformance, CDI, 4 mois, Conseillère clientèle, service technique  ''Bouygues 
+Telecom''. 
+2014 :Stage Ingénieur, Tunisie Telecom, Roaming  Direction Accès Radio, Equipe planification.  
+ Sujet : Etude  de la 4G  LTE, 4 mois. 
+2013 :Stage,  l'Office de l'Aviation Civile et des Aéroports Tunis Carthage, RSFTA, Aout.   
+ Sujet : Configuration des réseaux  sous Packet Tracer [routage, DHCP, NAT, ACL...]   
+ et configuration des routeurs Cisco. 
+2013 : Stage Ingénieur, Société Tunisienne d’Electricité et du Gaz, Juillet 
+2010 : Stage Technicien, Tunisie Telecom, centrale Hached, service GSM et GPRS, Aout  
+2010 : Stage Technicien, Agence Nationale des Fréquences, DRMCTF, Juillet 
+2010 : Stage Technicien, Tunisie Telecom, centrale Kasba, DEI, Juin. 
+2009 : Stage Ouvrier, Tunisie Telecom, centrale Belvédère, CCL & Tunipac , Juillet - Aout. 
+Connaissances & compétences  
+o Gestion de projets: AGILE, SCRUM 
+o Conception : UML 
+o Logiciels   :  Matlab, Atoll, Packet tracer, GNS3, VMware, VirtualBox, NetBeans, Eclipse,  StarUML 
+o Ingénierie télécoms : 
+           Dimensionnement & planification  des Mobile Network (GSM, GPRS, UMTS, LTE) 
+            Réseaux haut débit ( ATM, RNIS, MPLS),LAN/WAN 
+           Protocoles   réseaux IP (routing/switching/sécurité, IPv4/IPv6) 
+              Protocoles   VOIP : SIP , RTP 
+             Les produits Microsoft : Windows serveurs 2003 et 2008 R2 (AD,Exchange) 
+              Sécurité  du réseau   VPN, SSL, IpSec/SSL Radius, TACACs, DDoS, Proxy, load balanceur, IDS, IPS. 
+              Les produits Cisco (Switchs, routeur, Firewall, outils de supervision)  
+           Standards web W3C : HTML5, CSS3, JAVASCRIPT, jQuery, PHP5 
+             Théorie de l’information et du codage, Transmission de donnée, Traitement de signal, RFID,...     
+               
+Connaissances linguistiques  
+ Français   : Bonne (étude & travail chez TP ) 
+ Anglais     : Bonne (étude) 
+              Italien               : Débutant (2 ans, étude) 
+              Allemand         : Débutant (Faculté des lettres, des arts et des humanités de La Manouba) 
+ Persan               : Débutant (6 mois, centre culturelle Iranien de Tunis)  
+Centre d’intérêts 
+Lecture (projet 400 livres), Membre avec l’association TOUNISSIET, Secouriste, éducatrice 
+paire, Sodoku, Sport, Voyage. 
+2015 : Workshope, ELSEVIER, "Carer Building Workshop for STEM Women Scientists",10-13 
+November. 
+2015 : Formation avec TOUNISSIET, ةوعدلا و ريثأتلا  ىلع تاسايسلا ةماعلا , Novembre. 
+            : Formation avec TOUNISSIET, ةمدقم يف ليلحت و مسر تاسايسلا ةماعلا , Mars. 
+2010 : Formation avec l'association Tunisienne de Lutte contre les MST et le SIDA, Janvier  
+            : Sortie sur terrain, distribuer les préservatifs (ATL), Juin 
+2011 : Formation avec Croissant Rouge Tunisien, secourisme niveau I et  niveau II, Juin. 
+            : Des gardes en tant que secouriste avec l'Office National de la Protection Civile. 
+2009 : Educatrice paire avec Office National de la Famille et de la Population, Mars. 
+           : Des actions de sensibilisation au profit des jeunes, prévention contre les MST/SIDA, (ONFP), Juin. 
+Références   
+       M. Noureddine Fellah            @mail :  Noureddine.Fellah@tunisietelecom.tn               
+       M. Tarek BJAOUI                      @mail :  tarek.bejaoui@yahoo.fr 
+       M. Zouhaier GOUID                 @mail :  zouhair.gouid@tunisietelecom.tn 

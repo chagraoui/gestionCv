@@ -1,0 +1,142 @@
+Salem​ ​SAID 
+3 rue des villas​ • ​Sousse, Tunisie​ • ​4000 
+PHONE​ ​ +216 22.707.193 ​•​ ​E-MAIL​ salem.said.ing@gmail.com 
+Formation  Année 2014 : ​Diplôme national d’ingénieur en informatique 
+Année 2010: ​Classe préparatoire intégrée (CPI) 
+Années 2007-2009: ​L2 Licence Appliquée​ ​en Sciences et Technologies de 
+l'Information 
+Compétences 
+Languages: 
+C/C++, Prolog, Java EE, PHP, Ruby, HTML, JavaScript... 
+Développement: 
+Symfony2, Doctrine2, Drupal, AngularJS, Ionic, JQuery, Ajax, Node.js, 
+Bootstrap... 
+Productivité: 
+ SVN, Git, Composer, Gulp.JS, Grunt, Jasmine, Bower, LiveReload, 
+Blackfire ... 
+Analyse et conception:​ ​UML2, Merise 
+Outils: 
+-PhpStorm, WebStorm, Eclipse, MySql Workbench, VMware, 
+Redmine, Microsoft  Office, Open Office, Photoshop … 
+Administration: 
+-Linux(Debian), Lamp, Postfix, SVN, FTP, monit, webmin, MRTG, 
+Nagios… 
+Base de données : 
+-SQL: MySQL, Oracle PL/SQL 
+-NoSQL: MongoDB, CouchDB et Redis 
+Réseau: ​Certification Cisco: CCNA1, CCNA2 
+Formation: 
+-LPI 101 pour la certification de l'Institut professionnel de Linux. 
+-REST APIs avec Symfony2 (William Durand). 
+-Organisation du temps et des taches organisées par Proxym-IT et 
+USAID. 
+-Technique de communication organisée par Proxym-IT et USAID. 
+Langues:  
+-​Français ​ (​lu/écrit/parlé) 
+­​Anglais (lu/écrit) 
+Expérience  
+Professionnel 
+Développeur PHP/Drupal7 2016 [Business & Decision] 
+-Installer et configurer des modules Drupal. 
+-Diagnostiquer et corriger les bugs. 
+Liste des Projets Drupal: 
+ ​ ​www.smartunisia.tn  
+  ​www.cercle-kheireddine.org 
+  ​www.getit-tunisia.com  
+Développeur PHP/Symfony 2014 - 2015 [Proxym-IT] 
+-Conception et développement d’une API REST pour l’application web 
+mHealth Quality avec Symfony2. 
+Cette API est pour  l’equipe mobile (Android & iOS) de Proxym-IT. 
+-mHealth Quality: c’est une application pour donner une certification 
+scientifique des applis santé. 
+Développeur PHP/Symfony et AngularJS 2014 - 2015 [Proxym-IT]  
+-Développer la deuxième version de l'application Nicorette. 
+-Amélioration de l’ergonomie de l’application existante (Symfony2 et 
+ AngularJS). 
+-Développer des nouveaux web-services pour l'API REST Nicorette avec 
+Symfony2. 
+-Utiliser des nouveaux web-services du CRM et de la plateforme Janrain. 
+-Utiliser Google Tag Manager pour le tracking. 
+-Intégrer des nouvelles interfaces et fonctionnalités.  
+Développeur PHP/Symfony 2014 - 2015 [Proxym-IT] 
+-Conception et développement d’une partie de l'application mHealth 
+Quality avec le Framework Symfony2. 
+-mHealth Quality: c’est une application pour donner une certification 
+scientifique des applis santé. 
+Formateur AngularJS 2014 - 2015 [Proxym-IT] 
+-Organiser un workshop AngularJS pour former l'équipe Web et Worklight 
+de Proxym Group. 
+Présentation:  ​http://slides.com/salemsaid/angularjs/  
+Workshop: 
+https://github.com/SalemSaiid/AngularJS_Workshop_Proxym-IT  
+Développeur PHP/Symfony et AngularJS 2014 - 2015 [Proxym-IT] 
+-Conception et développement de l'API REST de l’application Frizbee avec 
+Symfony2. 
+-Intégrer le module de paiement MangoPay. 
+-Développement de l’application AngularJS de Frizbee. 
+-Frizbee: C’est une application web qui permet d'offrir des cadeaux à tout 
+moment. Emportez et utilisez des cartes cadeau partout. 
+Accompagnement (Symfony/AngularJS) 2014 - 2015 [Astrolab] 
+-Encadrer l'équipe Symfony et AngularJS de startup Astrolab. 
+Organiser la deuxième édition de ​SymfonyTN​ [Symfony Tunisia 
+community] 
+Il s’agit d’un événement unique dans un pays arabe et en Afrique, après le 
+succès de la première édition. Cette edition a été sponsorisé par 
+SensioLabs, GitHub...  
+Développeur PHP/Symfony et AngularJS 2014 - 2015  [Proxym-IT]: 
+-Conception et développement de l'application Nicorette avec Symfony2 et 
+AngularJS.  
+-Utiliser  la plateforme Janrain de gestion des profils clients. 
+-Synchroniser l'application avec un CRM. 
+-“J’accomplis l’Incroyable” de Nicorette: un programme de coaching 
+personnalisé se présentant sous la forme d’une WebApp. 
+Développeur PHP/Symfony 2014 - 2015 [Proxym-IT]: 
+-Conception et développement d’une plateforme interne pour l'équipe 
+Marketing et commerciale de Proxym Group. 
+-Développement d’un module pour la synchronisation de l’application avec 
+le serveur ​LDAP. 
+Développeur PHP/Symfony 2013 - 2014 [Proxym-IT]: 
+-Conception et développement d’un outil digital accessible via un 
+navigateur web et tablette pour permettre aux équipes de Carrefour 
+Banque de réaliser le plan de communication et de l'exportation pour 
+impression avec Symfony2. 
+-Développement d’un module pour la modification des plans de 
+communication en temps réel avec Faye, Node.js et Symfony2. 
+Développeur PHP/Symfony 2013 - 2014 [Proxym-IT]:  
+-Conception et développement la deuxième version de site my-ski.fr et 
+alpiski.com avec Symfony2. 
+-Amélioration de l’ergonomie de site existant. 
+Développeur PHP/Symfony 2013 - 2014 [Proxym-IT]:  
+Réaliser une application web avec le Framework Symfony2 qui propose aux 
+utilisateurs un​ ​moyen de créer, publier et partager leurs propres 
+événements.​   ​Lien vidéo Youtube​ ​(démo): ​http://youtu.be/0Q3v8vyL8f4 
+Projet EJB: (​EJB / SOAP / REST)​ ​2013 – 2014 
+C​réation d’une application distribuée qui se compose d'une couche métier 
+basée sur EJB et d'une couche service basée sur deux services web SOAP et 
+REST 
+Projet Java EE : (​Servlet/Javabean/JSP)​  ​2013 – 2014  
+Création d’un site e-commerce en Java EE fondé sur Servlet, Projet Java EE 
+JSP et Javabean.​ ​Lien vidéo Youtube (démo): ​http://youtu.be/driN7zT6g_o  
+Organiser la première édition de ​SymfonyTN​ [Symfony Tunisia 
+community] 
+Il s’agit d’un événement unique dans un pays arabe et en Afrique. 
+Stage ingénieur 2012 – 2013 [​Proxym-IT]  
+Création d’un site e-commerce avec le Framework Symfony2. 
+Lien vidéo Youtube​ ​(démo): ​http://youtu.be/8SqQ_5goxl  
+Projet PFA : (​Symfony2/Android/Postfix)​ ​2012 – 2013 
+C​réation d’un site web fondé sur le Framework PHP Symfony2 avec une 
+application​ ​Android et un Webmail fondé sur Postfix, POP3 et Roundcube​. 
+Projet Prolog: ​Intelligence artificielle​ ​2012 – 2013 
+Réalisation d’un analyseur lexicale et syntaxique pour la langue arabe en 
+utilisant SWI Prolog (​programme Prolog​). 
+Projet Java: ​Java (Client / Serveur)​ ​2012 – 2013 
+L​ogiciel de gestion des clubs fondé sur la technologie Client​ ​/​ ​Serveur. 
+Stage: ​Brava Computer​ ​2011 – 2012 
+S​upervision d’un réseau informatique avec Nagios via SNMP​. 
+Projet: ​Télémètre ultrason​ ​2008 - 2009 
+E​tude d’un télémètre ultrason avec simulation pour déterminer la distance 
+d’un objet de l’appareil (Programmation C / Systèmes ​embarqué​). 
+Loisirs  M​embre de la communauté tunisienne de Symfony. 
+S​éminaires et formations informatique, IT. 
+S​ports, lectures, émissions politiques, documentaires et cinéma … 
+• ​tn.linkedin.com/in/SalemSaiid   ​• ​SalemSaiid​ • ​@SalemSaiid 

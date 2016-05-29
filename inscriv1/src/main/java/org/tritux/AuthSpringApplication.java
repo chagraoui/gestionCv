@@ -31,7 +31,7 @@ public class AuthSpringApplication {
 //		OffreRepo offreRepo = ctx.getBean(OffreRepo.class);
 //
 //		userRepo.save(new Admin("admin2", "root", "admin", "admin2"));
-		userRepo.save(new Admin("admin", "root", "admin", "super admin"));
+//		userRepo.save(new Admin("admin", "root", "admin", "super admin"));
 //		userRepo.save(new Recruteur("recr", "recr", "recruteur",
 //				"super Recruteur", "service informatique"));
 //

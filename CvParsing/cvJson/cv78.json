@@ -1,0 +1,51 @@
+{
+  "age": 0,
+  "name": "JLASSI HAMDA              ",
+  "adresse": "tunis",
+  "mail": "jlassihamda@gmail.com",
+  "studies": [
+    "ingénieur",
+    "licence",
+    "baccalauréat"
+  ],
+  "num": "21055613",
+  "skills": [
+    "css",
+    "c++",
+    "html5",
+    "android",
+    "assembleur",
+    "symfony",
+    "ios",
+    "vhdl",
+    "sql",
+    "java",
+    "uml",
+    "xml",
+    "linux",
+    "html",
+    "netbeans",
+    "c",
+    "oracle",
+    "photoshop",
+    "windows",
+    "javascript",
+    "eclipse",
+    ".net",
+    "php",
+    "angularjs",
+    "word",
+    "symfony2",
+    "css3"
+  ],
+  "keywords": {
+    "c": 4,
+    "web": 7,
+    "intégration": 4,
+    "php": 4,
+    "html": 3,
+    "net": 3,
+    "référencement": 3,
+    "lézard_com": 4
+  }
+}

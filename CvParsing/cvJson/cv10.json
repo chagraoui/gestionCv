@@ -1,0 +1,39 @@
+{
+  "age": 27,
+  "name": "M HAMDI BACCOUCH ",
+  "adresse": "tunisie",
+  "mail": "Baccouch.hamdi1@gmail.com",
+  "studies": [
+    "licence",
+    "ingénieur"
+  ],
+  "num": "0021625392483",
+  "skills": [
+    "css",
+    "c++",
+    "c",
+    "oracle",
+    "qt",
+    "ubuntu",
+    "jee",
+    "symfony",
+    "javascript",
+    "sql",
+    "java",
+    "linux",
+    "mysql",
+    "html",
+    "jsf",
+    "symfony2"
+  ],
+  "keywords": {
+    "c": 5,
+    "oracle": 5,
+    "densité": 3,
+    "web": 3,
+    "oxia": 6,
+    "algorithmes": 3,
+    "mysql": 4,
+    "mailing": 3
+  }
+}

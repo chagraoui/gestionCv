@@ -1,0 +1,79 @@
+Curriculum Vitae 
+Ingénieur Nationale en génie Informatique 
+ENIT 
+Bechihi Améni   
+29 Rue du changement, Hamem Chot 
+Mob : (+216)97538010 ; 
+Email : bechihi.ameni@gmail.com 
+27 ans, mariée 
+Etudes  
+2010-2013: Diplôme d'Ingénieur en Informatique à l'Ecole Nationale d’Ingénieurs de Tunis (ENIT).  
+2007-2010: cycle préparatoire à l'IPEIM El MANAR.  
+2007: Baccalauréat sciences expérimentales.  
+Expériences professionnelles et projets académiques  
+Aout2015-Aujourd’hui : CDI chez ST2i GROUPE STUDI 
+Analyste d’affaire : Mise en place d’un système d’information de Gestion des affaires pénale de la Ministère 
+de la justice Tunisie. 
+Mars 2014-juillet 2015 : CDI chez ST2i GROUPE STUDI 
+Ingénieur Étude et Développement ECM Alfresco: Mise en place d’un système d’information de Gestion 
+des affaires pénale de la Ministère de la justice Tunisie. 
+IDE: Eclipse 
+Technologies: Bizagi, Postgresql, Oracle, Alfresco, Spring Surf, Javascript, Xml, HTML5, 
+Bootstrap, CSS3, Freemarker, UML(PowerAMC). 
+Méthodologie: SCRUM 
+Février 2013-Jun 2013 : PFE chez CNI 
+ Développement de projet  de Gestion des courriers/courriel sous Alfresco : 
+ Gestion des courriers départs et arrivés (travail collaboratif entre les organismes). 
+ Gestion des utilisateurs. 
+ Suivi du courrier (Workflow). 
+ Demande d’absence et délégation (Workflow).                                                                                                                                                    
+IDE: Eclipse 
+Technologies: Alfresco 4.2.c,  JBPM, Rational Rose(UML), SVN, JavaScript, Java,  Freemarker,  
+XML, HTML, CSS.  
+Septembre 2012-Octobre 2012 : Atelier Génie Logiciel 
+ Développement d’une application web de gestion des dons.  
+IDE: NetBeans  
+Technologies : J2EE, JSF, JPA, JDBC, Primefaces, EJB.  
+Méthodologie de travail : Agile (Scrum) 
+Juin 2012-Juillet 2012 : Stage Ingénieur chez Alcatel 
+ Développement d’une application de génération des graphes des statistiques à partir du serveur des licences 
+d’Alcatel.  
+Technologies utilisées : PHP, Gnuplot 
+Février 2011-Avril 2011 : PFA                                                                                                                             
+Développement d'une application sous Androïde d’un guide touristique avec une synthèse vocale. 
+IDE : Eclipse.  
+Technologies utilisées : MySql, PHP, Java, XML, Androïde. 
+Modélisation : Modélo(UML) 
+Juillet 2011 – Aout 2011 : Stage ouvrier chez TANKMED 
+Développement d’application base de données de gestion des courriers et des fax pour TANKMED  
+     Technologies utilisées : Access, VB  
+Novembre 2012 : Mini projet Oracle                                                                                                                       
+Implémentation de gestion bibliothèque avec ORACLE : Gérer les livres et les abonnés   
+Mai 2011 : Mini projet C ++                            
+Implémentation d’un jeu de labyrinthe en C ++  
+Décembre 2010: Mini projet C                                                                                                                     
+Développement d’application de gestion des patients chez un cabinet de médecin. 
+Compétences techniques :  
+ Langages de programmation :  
+C /C++, JAVA, SQL, PL /SQL, SQL 3, JavaScript, HTML5, XHTML, CSS, PHP5, XML.  
+Technologies Web :  
+Des bonnes connaissances en J2EE, Alfresco, les services web SOAP et REST, JSP, JSF, JPA, 
+Freemarker, webscript, SVN.  
+Serveurs d’applications :  
+GlassFish, TOMCAT  
+Logiciels de développement :  
+ECLIPSE, NetBeans, Dreamweaver, Wamp Server. 
+Logiciels de bases de données :  
+WampServer, PostgrSQL, Oracle et MySQL.  
+Méthodologie de modélisation et Architecture de conception :                                                                 
+UML, Merise, design pattern (MVC), architecteur (N-tiers). 
+Sommaire de Qualification  
+ Autonome, flexible et coopérative ;  
+ Motivée par les défis et bon esprit d’équipe ; 
+ Bonne gestion organisationnelle, sens de responsabilités et disponibilité.  
+Langues  
+ Arabe++  
+ Français++  
+ Anglais+  
+Loisirs et intérêt  
+ Sport, Dessin, Dance, Cinéma.  

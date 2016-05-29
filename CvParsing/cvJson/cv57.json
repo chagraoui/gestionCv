@@ -1,0 +1,49 @@
+{
+  "age": 28,
+  "name": "Curriculum vitae ",
+  "adresse": "tunis",
+  "mail": "mourad.hamdeniii@gmail.com",
+  "studies": [
+    "ingénieur",
+    "licence",
+    "baccalauréat"
+  ],
+  "skills": [
+    "c++",
+    "c",
+    "oracle",
+    "android",
+    "jee",
+    "windows",
+    "javascript",
+    "sql",
+    "eclipse",
+    "spring",
+    "java",
+    "uml",
+    "xml",
+    "linux",
+    "j2ee",
+    ".net",
+    "php",
+    "scrum",
+    "mysql",
+    "jpa",
+    "netbeans",
+    "jsf",
+    "pl/sql",
+    "ejb"
+  ],
+  "keywords": {
+    "spring": 5,
+    "swing": 3,
+    "java": 6,
+    "web": 3,
+    "primefaces": 3,
+    "android": 3,
+    "jee": 7,
+    "jsf": 3,
+    "hibernate": 5,
+    "sql": 3
+  }
+}

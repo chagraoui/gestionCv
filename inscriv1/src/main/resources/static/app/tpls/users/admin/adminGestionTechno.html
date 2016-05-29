@@ -1,0 +1,54 @@
+<!--
+<div data-ng-init="rep=['soda','beer','water','milk','wine','cognac']" class="container">
+<div ng-repeat="r in rep" ng-if="$index % 3 == 0" class="row">
+
+        <button class=" btn btn-white  btn-icon-standalone btn-icon-standalone-right" disabled>
+        <i class="fa-remove" ng-click="deleteSkill($index)"></i>
+        <span>{{rep[$index]}}</span>
+    </button><button class=" btn btn-white btn-icon btn-icon-standalone btn-icon-standalone-right">
+        <i class="fa-remove"></i>
+        <span>{{rep[$index + 1]}}</span>
+    </button><button class=" btn btn-white btn-icon btn-icon-standalone btn-icon-standalone-right">
+        <i class="fa-remove"></i>
+        <span>{{rep[$index + 2]}}</span>
+    </button>
+    </div></div>
+-->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap.tagsinput/0.4.2/bootstrap-tagsinput.css" />
+<script src="//cdn.jsdelivr.net/bootstrap.tagsinput/0.4.2/bootstrap-tagsinput.min.js"></script>
+
+<style type="text/css">
+    .bootstrap-tagsinput {
+        width: 100%;
+    }
+    .label {
+        line-height: 2 !important;
+    }
+</style>
+
+<form id="bootstrapTagsInputForm" method="post" class="form-horizontal">
+    <!--<div ng-init="rep = [{'nomTechno':'java'},{'nomTechno':'.net'},{'nomTechno':'.angularjs'}] ">-->
+    <div class="form-group">
+        <label class="col-xs-3 control-label">Thechnologies :</label>
+        <div class="col-xs-8"  ng-repeat="r in rep">
+            <input type="text" name="thechnologies" class="form-control"
+                ng-model="r.nomTechno"    data-role="tagsinput" />
+        </div>
+    <!--</div>-->
+    <div class="form-group">
+        <div class="col-xs-5 col-xs-offset-3">
+            <button type="submit" class="btn btn-default">Validate</button>
+        </div>
+    </div>
+    </div>
+</form>
+
+<script>
+    $(document).ready(function () {
+        $('#bootstrapTagsInputForm')
+                .find('[name="thechnologies"]')
+
+                .end()
+
+    });
+</script>

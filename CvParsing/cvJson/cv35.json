@@ -1,0 +1,25 @@
+{
+  "age": 0,
+  "name": "",
+  "adresse": "tunis",
+  "mail": "trabelsi.wyssal@yahoo.fr",
+  "studies": [
+    "baccalauréat",
+    "licence"
+  ],
+  "skills": [
+    "c",
+    "oracle",
+    "java",
+    "xml",
+    "android",
+    ".net",
+    "mysql",
+    "html",
+    "windows",
+    "word",
+    "javascript",
+    "sql"
+  ],
+  "keywords": {}
+}

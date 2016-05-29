@@ -1,0 +1,61 @@
+SAIDI Sarra 
+Enfidha,Sousse. 
+(+216) 25 243 556                  
+24 ans. 
+sarrasaidi6@gmail.com  
+      
+Ingénieur en génie informatique 
+Formation et diplômes 
+2011-2014 : Cycle ingénieur à l’Ecole Nationale d’Ingénieurs de Tunis (ENIT), 
+département Génie Informatique. 
+2009-2011 : Institut Préparatoire aux Ecoles d’Ingénieurs de Monastir (IPEIM), 
+section MP. 
+2008-2009 : Baccalauréat Sciences Mathématiques  mention bien au Lycée 
+Secondaire d’Enfidha. 
+Formations supplémentaires 
+Avril 2013 : Formation Symfony2 chez the best. 
+Aout 2013 : Formation J2EE chez Forma+. 
+Novembre 2013 : Formation ASP.MVC chez TunisiaWebDev. 
+Expériences professionnelles 
+Février – Mars 2015 : Chef de projet Java - AhlemNet 
+ Sujet : Etude et maintenance d’un projet d’extraction de données (Java, Putty, 
+WinSCP, Scripts shell).  
+Février - Mai 2014 : Projet de Fin d’Etude - l’Agence Tunisienne de la Formation 
+professionnelle (ATFP). 
+ Sujet : Conception et réalisation d’un portail d’entreprise pour l’ATFP 
+(Liferay, J2EE, Jboss). 
+Aout 2013 : Stage ingénieur à LEONI. 
+ Sujet : Conception et réalisation d’une application de gestion de stock (Java, 
+SWING). 
+Juillet 2012 : Stage Ouvrier à la Société des Ciments d’Enfidha (SCE). 
+ Sujet : Conception et réalisation d’un site web pour la société de ciments 
+d’enfidha (HTML5, CSS3, PHP5). 
+Compétence et connaissances techniques 
+J2EE : JSF, Primefaces,  EJB3, Tomcat, 
+Jboss, Hibernate, Spring, Liferay, 
+portlets. 
+Programmation : C/C++, Java, C#, 
+VB.Net, SQL, PL/SQL, Prolog, Lisp. 
+Développement Web : HTML, CSS, 
+PHP/Symfony2. 
+SGBD: Oracle, MySQL, Postgres, 
+Access. 
+Test Unitaire : JUnit. 
+Métode Agile : SCRUM 
+Systèmes d’exploitation: Windows 7, 
+Linux (Ubuntu). 
+Modélisation : UML 2.0, Merise.  
+Outils de modélisation : Power AMC, 
+Rational Rose, Visual paradigm, ArgoUML, 
+StarUML. 
+IDE : Eclipse, NetBeans, Visual studio, 
+Dreamweaver. 
+Autres : 
+Intelligence artificielle, recherche 
+opérationnelle, Workflow, Economie 
+générale, Droit de l’informatique, réseau. 
+Langues                                                                      Centres d’intérêt 
+Arabe : Maternelle.                                             Sport : Course à pied. 
+Français : Bilingue.                                            Loisirs : Musique.  
+Anglais : Courant. 
+                                                                                                            

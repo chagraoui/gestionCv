@@ -1,0 +1,81 @@
+Maroua GHARBI 
+Né le 29/10/1989 
+Maison de Culture Mnihla  
+2094 Ariana, Tunisie  
+Tel : 53 821 359 
+gharbi.mroua.89@gmail.com
+Skype : maroua.gharbi2 9/ 
+Né le 29/10/89 › 24 ans 
+Ingénieure Informatique 
+      Objectifs : Consolider mon expérience on me proposant de bonnes possibilités d’évolution  
+ Formation  
+2014            Faculté Des Sciences de Tunis : Diplôme National d’Ingénieur en Informatique. 
+2011            Faculté Des Sciences de Tunis : Licence Fondamentale d’Informatique. 
+2008            Terminale Scientifique : Baccalauréat Mathématiques. 
+  Compétences 
+Architecture                          : Java/J2EE (Eclipse RPC, Servlet, JSP, JSF, Hibernate, EJB, Web Services,                                                                                                 
+Swing) 
+Langages                             : Java, PHP, C/C++, HTML5, Css3, Java Script, XML, Android, SQL, PLSQL.  
+Base de données                  :   Oracle, MySQL, PostgreSQL 
+Outils                                   :  Dev-C++, Eclipse, NetBeans, Visual Studio, phpMyAdmin. 
+Server Web/Applications: Tomcat, WebLogic, WebSphere, Jboss, Glassfish. 
+Méthodes                             :    UML, Merise. 
+Environnements   :   Windows 9x/2000/NT/XP/7, Linux 
+  Expérience Professionnelle  
+ Mars 2015 : Certification JAVA/JEE : En cours 
+ Décembre 2014 – Mars 2015 : Linedata Tunisie › Poste : Ingénieure de développement Java/PLSQL 
+ Formation PL/SQL 
+ Formation EKIP V6  
+ Formation Métier (Leasing) 
+ Formation API 
+ Développement des APIs pour EKIP V7 
+ Janvier 2014 – Juin 2014 : Zen Solutions › Stage de fin d’études 
+Développement d’une application web et mobile qui assure le bon fonctionnement d’un Service d’E-Tourisme  
+ Technologies : Android, PHP5, Symphonie 2, MySQL, HTML5, CSS3, JavaScript, WampServer, Rest API, 
+JSON, Flux RSS, RWD 
+Juillet 2013 – Aout 2013 : Orange › Stage de perfectionnement 
+Conception et mise en œuvre d’une application permettant aux utilisateurs des Smartphones de bénéficier de 
+Juillet 2013 – Aout 2013 : Orange › Stage de perfectionnement 
+Conception et mise en œuvre d’une application permettant aux utilisateurs des Smartphones de bénéficier de 
+différents services offerts par les sites web destinés aux recherches des offres d’emplois Responsabilité, 
+tâche, réalisation... 
+ Technologies : Android, web service, Json, flux rss, svn. 
+Juillet 2012 – Aout 2012 : Focus › Stage de perfectionnement 
+Développement d’une application qui permet de formater des cartes connectées à des BBB (beagle 
+BoneBlack) en utilisant des web services soit en installant l’application sur pc ou via internet  
+ Technologies : JEE, JSF, Primefaces 
+Janvier 2011 – Juin 2011 › ST2I › Stage de fin d’étude 
+Conception et mise en œuvre d’une application pour la réalisation des audites internes 
+ Technologies : Java, Orale 11g 
+  Projets réalisés  
+Programmation Web :  
+ Réalisation d’une application web de gestion d’une bibliothèque à l’aide de JSF2.0, Framework Hibernate, 
+java, Oracle10g.  
+Compilation :  
+Création d'un outil logiciel permettant de normaliser une grammaire non contextuelle et la rendre prendre et 
+sous forme de Chomsky (en JAVA).  
+Création d'un compilateur en langage JAVA qui traduit les formules bien formées de la logique 
+propositionnelle en forme clausale.  
+Algorithmiques Avancés :  
+ Application directe de l'algorithme de backtrack2 pour résoudre le problème du mariage stable en JAVA.  
+Théorie de graphe :  
+ Création d'un outil logiciel permettant à l'utilisateur de dessiner facilement un graphe quelconque et de 
+déterminer l'arborescence de plus court chemin en se basant sur l'algorithme de Dijkstra (en JAVA).  
+Systèmes de fichiers et bases de données :  
+Création d'un système de gestion de base de données : Création d’une base de données pour la gestion du 
+système d'orientation du Baccalauréat à l’aide de l’outil Oracle Developor, et oracle forms.  
+Manipulation des fichiers :  
+Création d'un outil logiciel en langage C permettant la gestion des fichiers d'un support externe.  
+Gestion du stock de pièces de voiture en langage  
+Architecture des ordinateurs :  
+Conception et développement d’un mini-processeur de type CISC en VHDL.  
+Assembleur :  
+Création d'un outil logiciel en TASM permettant la manipulation des chaines de caractères.  
+Communication Client/serveur sous LUNIX :  
+ Réalisation de la connexion d'un client à un serveur pour calculer des sommes et de produits Matriciels en 
+utilisant le java-RMI.  
+ Langues  
+Français : Lu, écrit et parlé  
+Anglais : Lu, écrit et parlé 
+ Divers  
+Musique, Sport, Poésie. 

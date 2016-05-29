@@ -1,0 +1,21 @@
+{
+  "age": 27,
+  "name": "    Date de naissance : 10/09/1989 ",
+  "certif": "- Certification Iso 9001 version 2008 au sein de la remise documentaire ",
+  "adresse": "tunis",
+  "mail": "ghada.chaouachi@gmail.com",
+  "studies": [
+    "licence",
+    "baccalauréat"
+  ],
+  "num": "21628404675",
+  "skills": [
+    "excel",
+    "c",
+    "word",
+    "powerpoint"
+  ],
+  "keywords": {
+    "marketing": 5
+  }
+}

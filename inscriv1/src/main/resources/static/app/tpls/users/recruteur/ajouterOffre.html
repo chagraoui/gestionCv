@@ -1,0 +1,48 @@
+<!--      ************ Formulaire D'ajout offre *******         -->
+
+<div class="panel panel-default">
+
+    <div class="panel-body">
+
+
+        <form role="form" method="post" class="validate" >
+
+            <div class="form-group">
+                <label class="control-label"> Titre :</label>
+                <input type="text" class="form-control" name="titre" data-validate="required" ng-model="offre.titreOffre" data-message-required="Ce champs est obligatoire." placeholder="Titre de l'offre" />
+
+            </div>
+
+            <div class="form-group">
+                <label class="control-label"> Description :</label>
+
+                <input type="textarea" class="form-control" name="password" ng-model="offre.descOffre" data-validate="required" data-message-required="Ce champs est obligatoire." placeholder="Description" />
+
+            </div>
+
+            <div class="form-group">
+                <label class="control-label"> Technologies :</label>
+
+                <!--<select class="form-control" ng-model="selectedTechno" ng-options="techno as techno.nomTechno for techno in listTechno">
+                </select>-->
+                <ui-select multiple ng-model="offre.selectedTechno" theme="bootstrap" style="width:300px;">
+                    <ui-select-match placeholder="Selectionnez les technologies dans la liste...">{{$item.nomTechno}}</ui-select-match>
+                    <ui-select-choices repeat="item in listTechno | filter: $select.search">
+                        <div ng-bind-html="item.nomTechno | highlight: $select.search"></div>
+                    </ui-select-choices>
+                </ui-select>
+
+
+            </div>
+
+            </br></br>
+            <div class="form-group">
+                <input type="submit" name="submit" id="submit" value="Ajouter" ng-click="ajouterOffre(offre)" class="btn btn-success">
+                <button type="reset" class="btn btn-white">Reset</button>
+            </div>
+            <h3>{{msg}}</h3>
+
+        </form>
+
+    </div>
+</div>

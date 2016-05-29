@@ -1,0 +1,15 @@
+{
+  "age": 0,
+  "name": "Adresse : 6 rue Haffouz ",
+  "adresse": "tunis",
+  "mail": "basly_hichem@hotmail.com",
+  "studies": [],
+  "num": "0021653002605",
+  "skills": [
+    "c"
+  ],
+  "keywords": {
+    "sousse": 5,
+    "prospection": 3
+  }
+}

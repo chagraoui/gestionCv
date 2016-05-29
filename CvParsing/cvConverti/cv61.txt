@@ -1,0 +1,118 @@
+Bilel Werghi  
+94, rue Abderrahman Ben Zied Nogra-Ariana, Tunisie  
+(+216) 22 915 582  
+werghibilel1@gmail.com  
+26 ans, célibataire  
+Ingénieur en informatique  
+FORMATION ACADEMIQUE  
+2012 - 2015  
+2008 - 2011  
+Juin 2008  
+Cycle ingénieur à l'ULT Tunis (Université Libre de Tunis)  
+Parcours : génie informatique  
+Spécialité : Génie Logiciel  
+1èr cycle à l'ISSATM (Institut supérieur des sciences et de la technologie de mateur)  
+Parcours : Licence appliquée en Informatique industrielle.  
+Baccalauréat Mathématiques  
+- Lycée El-Chebbi Ettadhamen.  
+EXPERIENCES PROFESSIONNELLES ET ACADEMIQUES  
+Expériences Professionnels  
+Février 2015_  
+Juin 2015  
+juin 2014 -  
+Aout2014  
+Janvier 2012_  
+Mai2012  
+DYNAMIK : Projet de fin d'études cycle ingénieur  
+- Concevoir et développer une application mobile « Android » pour substituer un signal  
+d'appel téléphonique par un spot audio publicitaire Ce projet est composé de plusieurs  
+modules :  
+ Module de gestion de l'application  
+ Module de gestion des spots publicitaires  
+ Module du Datamining et statistique  
+Outils: Eclipse ADT, SDK Android, REST, JSON, Wildfly, SQLite.  
+Poste Tunisienne - Stage d'Eté  
+- Concevoir et développer une Plateforme web (JEE) pour la mise à jour et le suivi des cessions, 
+consiste à mettre en œuvre une application web accessible pour tous les agents de la Poste. 
+L'application a pour but de remplacer l'application Oracle Forms existante (qui tourne en client-serveur) 
+afin d'éliminer l'installation de cette application dans toutes les machines et de coordonner les 
+différents services (Paie, Comptabilité, RH).  
+Outils: Eclipse, MySQL, JEE, JSF, Hibernate, Bootstrap, 
+Primefaces, Apache Maven, Jasper Reports.  
+Ennakel Tunisie -Projet Fin d'étude licence- création d'une application pour Tester  
+régénération du filtre à Particule de la voiture.  
+Outils : Pic c, vb.net  
+              Projets Réalisés 
+Septembre 
+2015  
+Juillet 2015  
+Avril 2015  
+Février 2014-  
+Mai 2014  
+Janvier 2014  
+Avril 2013 -  
+Mai 2013  
+        Autres Activités  
+Projet Personnel3 
+Concevoir et développer une application de gestion hoteliers. 
+Outils: JPA, MYSQL, spring, Bootstrap, PrimeFaces, Apache Tomcat.  
+Projet Personnel2 
+Concevoir et développer une application de gestion du cabinet médical.  
+Outils: JPA, JSON, MYSQL, spring 4, AngularJS, Apache Maven, Apache 
+Tomcat.  
+Projet Personnel1 
+-Concevoir et développer un site du Commerce Electronique avec J2EE.  
+Outils: JPA, MySQL, Spring Bean, Spring Security, Spring MVC, Apache 
+Maven, Apache Tomcat Server.  
+ULT -Projet du Fin Année  
+- Concevoir et développer une application J2EE de gestion du parc automobile. 
+Outils: Hibernate, Spring, JSF, MySQL, Glassfish.  
+ULT - Projet trimestriel  
+-Concevoir et développer une application J2EE de gestion de bibliothèque.  
+Outils: Hibernate, Spring JSF, XML, MySQL, Apache Tomcat Server.  
+ULT - Mini Projet  
+-Gestion des réservations d'une auto-école.  
+Outils: HTML5, CSS3, MYSQL, PHP4.  
+- Membre au club Android au sein de l'ULT.  
+- Participation à un évènement de la formation JAVA/JEE.  
+     COMPETENCES TECHNIQUES  
+Langage de  
+programmation  
+Technologies web  
+CMS  
+Framework et API  
+C, C++, C#, JAVA, PL/SQL, VHDL, Assembleur.  
+Java EE, PHP5, Ajax/jQuery, HTML5, CSS3, JavaScript, XML, XHTML.  
+JOOMLA, WordPress, Drupal.  
+Hibernate, JSF,Spring,Primefaces,Struts,SpringMVC,Symfony2,Zend,Laravel,jQuery,NodeJS,  
+AngularJS, Bootstrap, JMS, JAX-RS, JAX-WS, Google Maps Android v2, JSON, Entity Framework, 
+ASP .NET MVC, Ruby on Rails.  
+Serveurs d'application        Glassfish, Apache Tomcat, Jboss, WildFly, Redis, Apache (wampserver).  
+Conception/  UML, Merise2, DesignPatterns, agile scrum, MVC, SOA.  
+Architectures  
+Bases de données  Oracle, MySQL, PostgreSQL, SQLite, SQLServeur, NoSQL.  
+Systèmes  
+d'exploitation  
+Outils de  
+développement  
+Certification  
+Outils bureautiques  
+Unix/Linux, Windows, Android.  
+Eclipse, NetBeans, DEV C++, Power AMC, Android studio, R pour les statistiques, WinDev, 
+Dreamweaver, WebStorm, Aptana Studio.  
+CCNA1, CCNA2.  
+Microsoft Office.  
+COMPETENCES LINGUISTIQUES  
+Français  
+Anglais  
+Arabe  
+DIVERS  
+Centres d'intérêt  
+Qualités  
+personnelles  
+Bon niveau  
+Niveau moyen (connaissances techniques)  
+Langue maternelle  
+Jeu de Carte(Belote), Lecture (articles de presse, magazines spécialisés), Internet,  
+Innovations et Technologies  
+Dynamique, Sociable, Organisé, Autonome  

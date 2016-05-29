@@ -1,0 +1,70 @@
+Mimouni Mahmoud (28 ans) 
+17, Rue Oumaia abou issilt al andoulsi ,Ibn Sina, Tunis 
+Mobile : + 216 50 82 53 82 
+E-mail : mimouni.mahmoud@gmail.com 
+Nationalité: Tunisienne 
+Ingénieur en Informatique 
+Objectif de carrière 
+Mon objectif majeur est de travailler dans un environnement de développement global et de challenger dans une boite 
+d’Informatique que ce soit dans le domaine du développement ou du consulting, où je pourrais appliquer et utiliser mes 
+capacités, et améliorer mes compétences en vue de grimper les échelons dans ma carrière professionnelle et contribuer 
+d’une manière significative au développement de l’entreprise. 
+Expérience professionnelle 
+Octobre 2014 : Ingénieur JAVA/J2EE chez OXIA 
+ Maintenance d'une application d'envoi de télégramme.  
+Technologies utilisées : java/JEE , Spring IOC ,JSF Richfaces ,WS, JasperReport.  
+ Test de performance de l'application  avec apache jmeter. 
+ Refonte d'une application de broadcast implémentée en JAVA. 
+Technologies utilisées : Javascript ;jquery ,websocket (node js) pour la gestion des réponses en temps réel.  
+ Développement d'un nouveau module d'une application de suivi.  
+Technologies utilisées: Spring MVC, java/JEE 
+Avril 2014 : Consultant GED chez ARCHIDOC 
+ Conception et développement des applications GED/workflow en PHP 5 avec des mission de consulting,  
+ Elaboration des études de besoin et collecte de données chez le client.  
+Juin 2012-Janvier 2013: Stage de projet de fin d’études chez Assurance Maghrebia  
+ Conception et réalisation d’une application Web de gestion de la facturation (Netbeans, Tomcat 6.0, Apache 
+Click, MySQL Server, Toplink, Java, UML, JFreeChart, Jasper Reports, Architecture MVC).  
+Avril 2012-Mai 2012 : Stage ingénieur à ESPRIT CLOUD 
+ Cloud Computing.  
+ Décembre 2011-Mars 2012 : Stage à la chaire de recherche de l’Université de Moncton Canada. 
+Etudes, diplômes & formations  
+2014 : Centre de formation CIFOP IMS 
+Certificat de formation Concepteur/Développeur Java/JEE 
+2008-2012: Diplôme d'Ingénieur en Informatique 
+Ecole Supérieure Privée d’Ingénierie et de Technologies (ESPRIT) en Tunisie. 
+2005-2008: Etudiant à l’institut préparatoire aux études d’ingénieur el Manar (section: Mathématiques-Physique). 
+2004-2005 : Diplôme de Baccalauréat (section: Mathématiques). 
+Projets universitaires 
+ Projet de fin d’année 2011: Générateur automatique de code JEE (Eclipse, GMF, EMF, Maven, Acceleo, Ant)  
+ Projet JEE : Mini projet gestion d’hôtel (JPA, Hibernate) 
+ Projet Génie logiciel : Site web et application Java de gestion de réservation pour SNCFT (Java, JDBC)  
+ Projet administration réseau : Installation de plusieurs serveurs sur différente machine) et assurer la communication 
+entre elles.  
+ Mini projets : 
+ Calculatrice & Gestion d’absence sur IPHONE (Objective C)  
+ Monitoring Réseau (Protocol SNMP) avec Java 
+ Boite Mail avec PHP 5  
+ Gestion de Champions League avec le C 
+ Gestion de Parc Informatique avec le C++  
+ Sécurité réseau : HTTPS, VPN, IDS/IPS(SNort), SSH 
+Domaines de compétences 
+Programmation : C, C++, Objective C, PHP, HTML, XHTML, JavaScript, JAVA, J2SE, J2ME, JEE (Hibernate, JPA) Spring 
+persistance, Spring MVC, Spring IOC. 
+Développement WEB : PHP, HTML, XHTML, JavaScript, CSS, CMS Joomla 1.0 et 1.5. 
+Systèmes de gestion de bases de données : MySQL, Oracle 
+Langage de modélisation : UML, Merise 
+Gestion des réseaux : Interconnexion des réseaux ,  Service et administration du réseau, Sécurité des Réseaux. 
+Systèmes d’exploitation : Microsoft (XP, Vista, Seven), Unix/ Linux OS (Ubuntu, RedHat, CentOS)  
+Autres: Gestion de projet,  Méthodes Agiles (SCRUM), Techniques de présentation,  Mini MBA. 
+Certification 
+ CCNA1 (Cisco Certified Network Associate) – Network Fundamentals.  
+Langues 
+ Arabe :             Langue maternelle 
+ Français : Bilingue 
+ Anglais : Professionnel 
+Intérêts 
+ 2007 – 2008 : Animateur à l’Organisation Nationale de l’Enfance Tunisienne ONET 
+ 2008 – 2009 : Directeur RH du bureau local de Carthage de l’ONET 
+ 1992 – 2000 : Karaté  
+ Les voyages, la photographie, la musique, le sport. 
+ Permis de conduite délivré en 2005. 

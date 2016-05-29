@@ -1,0 +1,109 @@
+Mohamed Aymen BEN MAHFOUDH
+11, rue de la Police – 2011 Denden.
+Tél. : (+216) 21 239 484
+Email : ben.mahfoudh.med.aymen@gmail.com
+Né le 21 avril 1989 (26 ans)
+Nationalité tunisienne
+Ce´libataire
+Objectif : Administrateur Re´seaux.
+Formation
+2010 – 2014 Ecole Nationale des Sciences de l’Informatique (ENSI), Manouba, Tunisie.
+Inge´nieur en Informatique (Syste`mes et Re´seaux Informatiques).
+2008 – 2010 Institut Pre´paratoire aux Etudes d’Inge´nieurs de Nabeul (IPEIN), Nabeul,
+Tunisie.
+Filie`re : Te´chnologie. Deux anne´es pre´paratoires aux e´tudes d’inge´nieurs.
+Rang du concours pre´paratoire : 191/1500.
+2007 – 2008 Baccalaure´at, Nabeul, Tunisie.
+Filie`re : Sciences Te´chnologiques. Mention : Bien.
+Certifications
+LPIC–1 : Administration Syste`me et Re´seaux Junior sous Linux a` LPI-MAGHREB.
+Identifiant LPI : LPI000330621.
+Code de ve´rification : qq3zh5rm8k.
+Formation et certification des examens 101 et 102.
+SUSE – CLA : Administration Syste`me et Re´seaux sous Suse certife´ Linux a` LPI-MAGHREB.
+Identifiant LPI : 10270717.
+Code de ve´rification : CLA-LPIqq3zh5rm8k.
+Certification Suse – Serveur Linux SUSE Entreprise 11.
+LPIC–2 : Administration Syste`me et Re´seaux Avance´e sous Linux a` LPI-MAGHREB.
+Identifiant LPI : LPI000330621.
+Code de ve´rification : hykmywsb32.
+Formation et certification des examens 201 et 202.
+Certificat de
+Participa-
+tion :
+OpenStack - IaaS Private Cloud - Configuration, de´ploiement et administration.
+Formation de 5 jours a` Hotel Diar El Medina – Hammamet, Tunisie.
+. Outils et langages : Cloud computing, Ubuntu LTS 12.O4, script Shell, Glance,
+MySQL, nova-novncproxy, nova-compute-kvm, nova networking, Cinder block storage,
+neutron networking, keystone.
+Anglais : Niveaux 4 et 5 avec un score de 92/100 a` A.M.I.D.E.A.S.T.
+Expe´riences professionnelles
+Fe´vrier –
+Aouˆt 2014
+(7 mois)
+Projet de fin d’e´tudes, HANA LAB, Tunisie.
+De´veloppement d’un protocole Cross–Walk dans les re´seaux de capteurs sans fils.
+Taˆches mene´es a` bien :
+· j’ai configure´ et de´veloppe´ un protocole de communication interne entre les couches :
+Re´seaux, Mac et Physique
+· j’ai ame´liore´ et incarne´ l’approche Cross-layer d’acheminement des paquets : 5 si-
+mulations et 5 tests du code et des parame`tres du protocole re´seaux
+· j’ai assure´ le bon de´roulement du protocole : le de´lai/taux de la couverture totale et
+partielle du re´seaux
+· Re´fe´rence : http ://www.hanalab.org/.
+. Outils et langages : Programmation C++, script shell, bash, Ubuntu 14.04, Ar-
+chitectures re´seaux, TCP/IP, OSI, OMNET++ 4.2, MIXIM 2.3.
+E´te´ 2013
+(2 mois)
+Stage en entreprise, La Poste Tunisienne, Tunisie.
+Conception et imple´mentation d’une plateforme E-Learning.
+Taˆches mene´es a` bien :
+· j’ai re´dige´ et adapte´ le cahier des charges aux besoins du client
+· j’ai de´veloppe´ une application web avec les 3 modules : formation e´le´ctronique a`
+distance, les services d’inscription et le paiement en ligne
+· j’ai de´ploye´ le site sur un serveur distant
+· Re´fe´rence : http ://www.mea-elearning.tn/fr/index.html.
+. Outils et langages : Programmation C# 4, MVC 2, ADO.net, IIS, VSTudio 2012,
+SQL Server 2012.
+Fe´vrier – Mai
+(4 mois)
+Projet de conception et de de´veloppement, ENSI, Tunisie.
+Taˆches mene´es a` bien :
+· j’ai re´dige´ et adapte´ le cahier des charges aux besoins des clients : les assure´s sociaux
+et les prestataires de soins (C.N.A.M.)
+· j’ai conc¸u et de´veloppe´ une application ANDROID pour les clients.
+. Outils et langages : Android, Eclipse, Java, Web Service XML/JSON, MySQL
+5.1, PHP 4, EasyPHP, phpmyadmin.
+E´te´ 2012
+(2 mois)
+Stage d’e´te´, ENSI, Tunisie.
+De´veloppement du jeu de tir en 1D, 2D et 3D.
+. Outils et langages : Programmation C/C++, Conception UML, Blender 2.7x,
+Ubuntu LTS 12.04.
+Compe´tences
+Syste`mes Linux : administration courante, optimisation du syste`me (SGF, noyau, paquet).
+Windows 7/8/8.1/10 : bon niveau, utilisation courante.
+Services
+re´seaux
+Administration des serveurs : DHCP, Bind9, SSH2, FTP, SaMBa, OpenLDAP, Active
+Directory, OpenSSL, Postfix, Postfixadmin, Dovecot, sendamil, suite Courier, Squid,
+Firewalling, Apache2, nginx, Tomcat kerberos, Linux Terminal Server Project, NFS.
+Se´curite´ Firewalling iptables, ufw, SSH2, Netfilter, fail2ban, OpenSSL, OpenVPN, scan de
+donne´es, NMAP, outil Metasploit, WireShark.
+Bases de
+donne´es
+Utilisation et administration courante de MySQL, utilisation de PostgreSQL, Oracle
+11g, SQL Server 2012.
+Virtualisation VMware, Hyper–V, KVM, Virtualbox, XEN server.
+Langages C/C++, Java, C#, PHP, Bash, UnixShell, Python, Perl.
+Centres d’Inte´reˆts
+Loisirs : Natation – Athle`tisme – Jeu d’e´chec.
+C.S.I. : Membre Actif de Club de la Se´curite´ Informatique.
+. Missions : Responsable des ressources humaines et formateur pour : SQL Injection,
+Blind SQL, Se´curite´ des re´seaux et Syste`mes sous KALI. . E´ve`nements : Crypto-
+graphie / se prote´ger contre les attaques / maintenir quelques exemples de Cracking.
+Langues
+Arabe : langue maternelle.
+Franc¸ais : langue courante.
+Anglais : langue maitrise´e.
+Allemand : niveau moyen.

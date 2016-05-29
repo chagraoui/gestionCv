@@ -1,0 +1,43 @@
+{
+  "age": 24,
+  "name": "Dhouaifi Anis  ",
+  "adresse": "tunis",
+  "mail": "anis.dhouaifi@esprit.tn",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "24565790",
+  "skills": [
+    "c#",
+    "rest",
+    "css",
+    "c",
+    "symfony",
+    "javascript",
+    "sql",
+    "eclipse",
+    "spring",
+    "java",
+    "uml",
+    "xml",
+    "php",
+    ".net",
+    "html",
+    "mysql",
+    "netbeans",
+    "mvc",
+    "jsf",
+    "ejb",
+    "pl/sql",
+    "soap"
+  ],
+  "keywords": {
+    "java": 3,
+    "web": 5,
+    "esprit": 5,
+    "google": 4,
+    "symfony": 3,
+    "sql": 4
+  }
+}

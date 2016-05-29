@@ -1,0 +1,41 @@
+{
+  "age": 27,
+  "name": "Nom et prénom : Ayari Dhouha  ",
+  "adresse": "tunis",
+  "mail": "dhouha.ayari@gmail.com",
+  "studies": [
+    "ingénieur",
+    "licence"
+  ],
+  "num": "97297965",
+  "skills": [
+    "c++",
+    "css",
+    "dreamweaver",
+    "c",
+    "oracle",
+    "android",
+    "pascal",
+    "windows",
+    "javascript",
+    "sql",
+    "eclipse",
+    "java",
+    "uml",
+    "xml",
+    "php",
+    "html",
+    "mysql",
+    "netbeans",
+    "pl/sql",
+    "packet tracer"
+  ],
+  "keywords": {
+    "isitcom": 4,
+    "web": 3,
+    "h": 3,
+    "réseaux": 6,
+    "sousse": 6,
+    "kef": 5
+  }
+}

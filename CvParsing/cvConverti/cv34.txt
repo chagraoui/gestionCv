@@ -1,0 +1,51 @@
+COMPETENCES
+Systèmes d'exploitation:
+Windows, Linux.
+Outils et Langages de
+programmation : JAVA/JEE, C.
+Solutions BI : Talend Open Studio
+, SQL Server (OLAP & OLTP)
+Analysis Services, Intégration
+Services, Reporting Services.
+Qlikview
+Méthodes de conceptions et
+d'analyse: Merise, UML.
+Plat-formes: Eclipse, NetBeans,
+visual studio.
+SGBD: Oracle, MySQL, Sql
+Server.
+Serveurs: Apache, JBoss,
+GlassFish.
+Frameworks: Hibernate, Zend.
+Réseaux : TCP/IP,LAN/WAN,STP
+Arabe: Courant
+Anglais: Pré-avancé
+Français: Avancé
+EXPERIENCES PROFESSIONNELLES
+Janvier 2014 : Participation au développement d’uneapplication après vente (Csharp)
+Mars – Juillet 2013: Stage de fin d'étude au sein de l’IPT
+Alimentation d’un entrepôt de données (avec les deux outils
+Talend et Microsoft SSIS)
+Alimenter une base cible (sql-server 2008) via quatre bases de
+production (oracle7,oracle9, sql-server 2005 et sql-server 2008)
+Visualisation de données (avec Crystal Report et Microsoft
+SSRS)
+Avoir des tableaux de bord concernant les budgets, les stocks
+magasin, le financement…
+Décembre 2012 : Formation chez Altium Designer
+Participation à une formation de conception Altium Designer pcb
+(conception des cartes électroniques).
+Juin 2012 : stage chez UbiqueDéveloppement de site web professionnel (php5 avec leFramework Zend).
+Ingénieur informatiques
+Nom et Prénom : Zioudi Sofien
+Age : 26
+Adresse : Mourouj 04 Ben Arous
+Tél: 0021621371178
+E-mail : zioudisofien@gmail.com
+FORMATIONS
+Actuellement : doctorant à l’ENIT (département traitement de signal).
+2010-2013:cycle Ingénieur Informatiques à la FST.
+2008-2010:cycle préparatoire aux études d'ingénieur à l'IPEIM El Manar.
+2007-2008: obtention Baccalauréat, section Technologie avec la mention Bien.
+CENTRES D’INTERETS
+Formations, programmation, Voyages, piscine.

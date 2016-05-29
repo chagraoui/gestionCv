@@ -1,0 +1,42 @@
+{
+  "age": 0,
+  "name": "1 Rue de reservoir",
+  "adresse": "tunis",
+  "mail": "rym.mahjoub@gmail.com",
+  "studies": [
+    "ingénieur",
+    "licence",
+    "baccalauréat"
+  ],
+  "num": "21652828247",
+  "skills": [
+    "matlab",
+    "c++",
+    "css",
+    "c",
+    "oracle",
+    "isis",
+    "pascal",
+    "assembleur",
+    "javascript",
+    "sql",
+    "eclipse",
+    "excel",
+    "java",
+    ".net",
+    "php",
+    "mysql",
+    "html",
+    "netbeans",
+    "word",
+    "packet tracer",
+    "powerpoint"
+  ],
+  "keywords": {
+    "java": 3,
+    "c": 4,
+    "focus": 3,
+    "vb": 3,
+    "févr": 3
+  }
+}

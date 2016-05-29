@@ -1,0 +1,103 @@
+  1/3 
+EXPERIENCE PROFESSIONNELLE 
+•Juin 2015-Aujourd’hui Développeur JAVA/JEE DEDALUS Tunisie 
+ Développement  X1V1-ARR projet 
+Environnement et 
+Technologies 
+ MongoDB/ SPRING/ Restful web service/ AngularJS/ 
+Eclipse/JMeter 
+•Février  2015-Mai 2015 Stage PFE CYNAPSYS It Hotspot 
+ Développement web JAVA/JEE 
+ Conception et développement d'une application web pour la 
+gestion des portefeuilles des projets 
+Environnement et 
+Technologies 
+ JEE/ Hibernate/ SPRING/ Primefaces/ Postgressql/ 
+Eclipse 
+• Juin 2014 –Juillet 2014 Stage ingénieur SIT SFBT 
+ Développement web ASP.NET 
+Curriculum vitae 
+2O12-2015 
+Ecole National d'Ingénieur de Carthage (ENICarthage) 
+EX: ESTI 
+ Diplôme National d’ingénieur en informatique (Mention 
+Bien) 
+2010-2012 Institut Préparatoire aux Etudes d’Ingénieurs de Tunis (IPEIT) 
+ Spécialité : Math-Physique(MP) 
+2010 Baccalauréat Mathématique : Mention Bien 
+Oumayma ZAYANI 
+18 rue Fatma Zahra, Elyasminette 
+Ben Arous - Tunis 
+Tél : +216 50 135 248 
+E-mail : 
+zayanioumaima@gmail.com 
+FORMATION 
+  2/3 
+ Conception et développement d'une application web pour la 
+gestion de frais Kilométriques des commerciaux de la société 
+Environnement et 
+Technologies 
+ ASP.NET/  Visual studio/ SQL Server 
+• Juin 2013 Stage CODIX 
+ Base de Données 
+ Conception et réalisation des Canvas d'aide à la décision 
+Environnement et 
+Technologies 
+ Oracle/ Oracle Forms 
+PROJETS 
+• Octobre 2014- 
+Décembre 2014 
+MINI PROJET  DEVELOPPEMENT JEE 
+ CONCEPTION ET DEVELOPPEMENT D’UNE APPLICATION WEB DE 
+GESTION DE LIBRAIRIE 
+Environnement et Technologies  JEE/ HIBERNATE / NETBEANS 
+• Octobre 2014- 
+Décembre 2015 
+MINI PROJET  DEVELOPPEMENT ANDROID 
+ CONCEPTION ET DEVELOPPEMENT D’UNE APPLICATION 
+ANDROID DE M-TOURISME 
+Environnement et Technologies  JAVA/ ECLIPSE/ GENYMOTION 
+• Janvier 2014- 
+Mai 2014 
+MINI PROJET DEVELOPPEMENT WEB 
+ DEVELOPPEMENT D’UN SITE WEB POUR NOTRE CLUB IEEE 
+AESS ESTI CHAPTER 
+Environnement et Technologies  PHP5 / HTML5/ CSS3/ JQUERY/ MYSQL 
+• Novembre 2013- 
+Décembre2013 
+MINI PROJET DEVELOPPEMENT JAVA 
+ CONCEPTION ET DEVELOPPEMENT D’UNE APPLICATION DE 
+GESTION D’UNE AGENCE DE LOCATION DE VOITURE. 
+Environnement et Technologies  JAVA STANDARD / SWING/ MYSQL 
+• Novembre 2013- 
+Décembre2013 
+MINI PROJET PROGRAMMATION SYSTEME 
+ DEVELOPPEMENT UNE APPLICATION CLIENT-SERVEUR 
+PERMETTANT LA GESTION DE STOCK D'UNE ENTREPRISE 
+  3/3 
+FORMATIONS 
+• MAI 2014  FORMATION ANDROID 
+Nom de l'établissement   ORANGE. 
+COMPETENCES PERSONNELLES 
+IDE: 
+ Visual  studio/ NetBeans/ Eclipse 
+Languages de 
+programmations: 
+ JAVA/JEE/C/C++/C#/.NET/PHP/JAVA SCRIPT/AngularJS 
+Modélisation: 
+  UML 
+Autres Outils: 
+ StarUml/PowerAMC 
+LANGAGES 
+FRANÇAIS  BON  NIVEAU : LECTURE, ECRITURE, EXPRESSION 
+ANGLAIS  EXCELLENT NIVEAU : LECTURE, ECRITURE, EXPRESSION 
+ARABE  EXCELLENT NIVEAU : LANGUE MATERNELLE 
+AUTRES 
+  ●Vice-President de AESS.ESTI (aerospace and electronic systems society) 2013-2014 
+  ●Membre IEEE 2012-2014 
+Environnement et Technologies  LINUX / C (THREAD, SOCKETS…) 
+• Mai 2013 
+Mini projet DEVELOPPEMENT C++ 
+Application de gestion d’un Hôtel qui offre les fonctions 
+standards de gestion : réservations des CHAMBRES… 
+Environnement et Technologies  C++/VISUAL STUDIO 

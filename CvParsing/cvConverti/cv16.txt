@@ -1,0 +1,57 @@
+  Curriculum vitæ 
+   Page 1 / 2  
+INFORMATION PERSONNELLE BORGI Ghassen  
+tunis, (Tunisie)  
+ (+216) 20135891     
+ ghassen.borgi@gmail.com  
+ 25 ans 
+EXPÉRIENCE 
+PROFESSIONNELLE   
+ÉDUCATION ET FORMATION   
+COMPÉTENCES 
+PERSONNELLES   
+EMPLOI RECHERCHÉ Ingénieur études et développement 
+12/2014–02/2015 Ingénieur études et développement 
+Carthage Technology & Training, lac 1 (Tunisie)  
+(Rruby on Rails, Node js , Express js, Websocket, Bootstrap, ubunto 14.04) 
+03/2014–10/2014 Stage de PFE 
+Carthage Technology & Training  
+La mise en place d’une solution de Business Intelligence et le développement d'une application JEE 
+pour la gestion du Datawarehouse, pour la société algérienne FADERCO (SagoBi 4.0 ,PostgeSQL 
+,Talend Open Studio, Mondrian OALP server, Highcharts, JEE, HIBERNATE,JPA,EJB,JSF,) 
+2011–2014 Ingénierie en informatique (Génie Logiciel)  
+ESPRIT Ecole Supérieure Privée d’Ingénierie et de Technologies 
+2008–2011 Licence fondamentale en informatique (Génie Logiciel)  
+ESTI Ecole supérieur de technologie et informatique 
+2008 Baccalauréat mathématique  
+STAGE Mars à Juin 2011: Stage au sein de Tunisie Telecom: Développement d’une application de gestion 
+des réclamations des lignes DATA (2TUP, c#, .NET, workflow, SQL server 2005) 
+Aout 2010: Stage au sein de Centre National d'inormatique : Réalisation d’une application de gestion 
+d’une bibliothèque (Merise, .NET,C#,SQL server 2008) 
+PROJETS REALISÉS Projet fin d’année 2013: Conception et réalisation d’une application web et d’une application mobile 
+qui consiste à mettre en oeuvre une solution bancaire qui permet l'accès à une variété de ses services 
+à l'aide de certains de ses techniques les plus utilisées.  
+▪ JEE, Web services, Primefaces, jsf, ejb, jpa 
+▪ Serveur d’application: JBoss 7.1 
+▪ Asp.net, C#, Entity Framework 
+▪ Application Mobile Windows phone SDK 7.8, Android 4.2, web services WCF 
+▪ Base de données: Mysql 
+     Page 2 / 2  
+Projet de fin d'études: La mise en place d’une solution de Business Intelligence et le développement 
+d'une application JEE pour la gestion du Datawarehouse, pour la société algérienne faderco:  SagoBi 
+4.0 ,PostgeSQL ,Talend Open Studio, Mondrian OALP server, Highcharts, JEE, 
+HIBERNATE,JPA,EJB,JSF 
+Gestion des comptes d'une banque: JEE, JPA, HIBERNATE, SPRING, SPRING MVC 
+Site de Commerce Electronique: JEE, JPA, HIBERNATE, SPRING, SPRING MVC, SPRING 
+Security, Junit 
+Compétences liées à l’emploi ▪ Langages et technologies de développements 
+Compétence en Java et les standards J2EE: JAVA, JEE, J2ME, SWING, HIBERNATE, 
+Spring Core, Spring MVC, JPA, EJB, JSF, PRIMEFACES 
+Développement Web: XML, HTML, CSS, JavaScript, Node js, Web 
+service(SOAP,WCF),JSP,Servlets, ruby on rails 
+Compétence en .NET: ASP.NET, C#, Entity Framework, WCF 
+SGBD: MySQL, SQL server 2008 
+Serveur: Apache Tomcat, Jboss 
+▪ Editeurs: Eclipse,Visual Studio 2010, Visual Studio 2008 R2 
+▪ Modélisation: UML, Merise 
+▪ Méthodes: AGILE (SCRUM) 

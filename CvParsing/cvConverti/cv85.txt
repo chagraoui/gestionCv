@@ -1,0 +1,54 @@
+ay Al Andalous,OUJDA                                          
+REDA CHOUIBA 
+ 28 ans, MAROCAIN 
+ 23, Rue Lisbonne Océan, Rabat 
+   06.71.56.34.87 
+  Reda.chouiba@gmail.com    
+      Ingénieur Études et Développement 
+.NET 
+Spécialiste sur les technologies Microsoft. 
+ Plus de trois ans d’expérience. 
+Formation               
+2015                 Formation professionnelle 70-486  Developing  ASP.NET  MVC4  web applications chez NeoSys – Rabat 
+2011             Ingénieur Etudes et développement de l’Ecole Marocaine des Sciences de I ’ingénieur EMSI - Rabat. 
+2008             Technicien spécialisé en développement informatique de l’institut spécialisé de technologie appliquée.                                      
+2006             Baccalauréat en Sciences Expérimentales.                                      
+             
+     Expériences              
+    Depuis janvier 2015        NeoSys S.A.S (Ingénieur Études et Développement .net)   
+                  - Développement et mise à jour de nouveaux modules du site français E-commerce Cdiscount. www.cdiscount.com 
+                  - Analyse et correction des bugs (site Cdiscount). 
+                  - Maintenance applicative, analyse, développement et correction des bugs de l’application interne CRONOS. 
+                    C#, .NET 4/4.5, ASP.NET Web Forms, ASP.NET MVC, Razor, WCF, LINQ to Entities, TFS, StyleCop analyzes, Code Analysis, Sonar,  
+                        SQL Server   2012, HTML, JQuery, Ajax, CSS, Scrum               
+     juin 2012 - décembre 2014 (2 ans et 5 mois)  SIS consultant-Rabat (Ingénieur Études et Développement  .net)  
+                  - Développement d’un progiciel GIMA-PRO : Gestion intégrée des marchés www.gima.ma 
+                  - Développement d’un module ‘ suivi de l’exécution des marchés : Application de gestion des appels d'offres destinée 
+                       aux  donneurs d'ordres publics et privés : SAFAQAT 
+                  - Développement d’un module : Recherche avancée multicritère pour l’application web Maroc Business. www.maroc-business.com                      
+                  - Développement d’une application web GESTCOM : pour la gestion des commerciaux/clients/prospects  au sein de la  
+                   société. Asp.net /c#/Architecture 3 tiers (IHM, BLL, Data access layer)/ SQL server (trigger, procedure stockée, fonction)                 
+                        Ajax/JavaScript/JQuery/web service/web chart /SQL Server Reporting Services (SSRS), authentification SSL par certificat. 
+      4mois         Agitech – Rabat (PFE)      
+       2011  
+               - Développement d’une application de gestion de : consultation, livraison, factures, achats et inventaire. 
+                   Dot.Net (VS 2010)/ SQL serveur 2008/ logiciel ERP (sage 100 gestion commercial et comptable – Objets métiers) Crystal report. 
+                 - Elaboration d’un programme de manipulation d’article .Le logiciel ERP SAGE 100(C#/SQL server/Trigger) 
+                 - Analyser, concevoir et participer au développement d’une application de gestion de pointage 
+                     Pointeuse (ZK software)/Dot.Net/ MySQL (MySQL Workbench)/UML (rational rose)  
+                                                  
+       2 mois          Administration  des Fonds du Travail –RABAT .Projet de fin d’année PFA  
+      2010          Etude, conception et mise en place de l’intranet de l’administration (Asp.NET/SQL Server)    
+              
+       2 mois          SCETAUROUTE A.A Succursale- RABAT  
+      2009         Etude, conception et réalisation d’une application winForms – gestion personnel (DOT.net/MySQL)  
+       2 mois         Agence urbaine (Projet de fin de formation)  
+      2008          Mise en place d’une application de gestion de stock commercial (DOT.net/SQL Server 2005)  
+ Compétences               
+Langages De Programmation : DOT.NET C#, Asp.net (Webforms/asp mvc), WCF / web services, XML, PL/SQL, HTML/CSS. 
+Framework & composants: Entity framework (code first), Nhibernate, LINQ to SQL, LINQ to Entities, web Services, webchart. 
+Outils d’intégration: Microsoft Visual SourceSafe, Team Foundation Server TFS 
+Conception et méthodes : UML, Merise. 
+Base des données : SQL Server, MySQL, Oracle     
+Langues :   Arabe (langue maternelle)              Français (bilingue)               Anglais (Niveau Moyen)  
+Centre d'intérêt :  Football,  journaux du net, randonnées. 

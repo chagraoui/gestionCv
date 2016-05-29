@@ -1,0 +1,66 @@
+Ikram Guelbi                                                      Consultante Technique                                                                                                          
+Née le 09/01/1991                                                                                                                                                                                                                                 
+Tél : (+216) 29 621 200                                                                                                                                                                                                                                                      
+e-mail :ikram.guelbi@gmail.com     
+Profil 
+Ayant débuté ma carrière professionnelle en Octobre 2014, je suis actuellement consultante technique chez HP Software 
+Professional Services. Spécialisée dans les produits HP CMS (Configuration Management System) ainsi que les produits 
+de gestion des services métiers à savoir HP BSM (Business Service Management).  
+Rigoureuse et appliquée dans mon travail, je cherche à mettre en œuvre mon savoir et savoir-faire au sein d’une 
+entreprise qui reconnaîtra mon engagement et mes capacités. J'apprécie le travail en équipe, injecter de l'énergie positive 
+et mener à bien mes projets. 
+Formation 
+2011-2014  Diplôme national d’ingénieur en Informatique Appliquée 
+                                          Spécialité ingénierie des systèmes distribués à l’ENISO (Ecole National d’ingénieurs de Sousse). 
+2009-2011    Etudes préparatoires à l’institut préparatoire aux études d’ingénieurs El_Manar. 
+2008-2009   Baccalauréat section mathématiques, mention très bien.  
+Expérience professionnelle 
+Présent –                      Consultante technique chez HP SW Professional services 
+Octobre 2014               Projet Centrica – UK: HP Software (UCMDB/ BSM/ SHR/OMI) 
+Mission : 
+- Installation des Patches release et déploiement des services delivery package. 
+- Intégrer des nouvelles solutions en suivant des plans d’intégration élaborés selon l’architecture 
+de la solution existante (vérification de la compatibilité entre les différents éléments à intégrer 
+sur la plate-forme et étude de l’impact sur le système).  
+- Participer à la documentation des nouvelles solutions ou les changements réalisés. 
+- Troubleshooting et résolution des problèmes de découverte (Applications discovery, Software 
+inventory, hosts discovery...). 
+- Troubleshooting et résolution des problèmes d’intégration (BSM, uCMDB..). 
+- Implémentation de scripts Python pour la génération de rapports. 
+- Maintenance des rapports. 
+- Configuration des Dashboards BSM pour une surveillance des performances applicatives de 
+bout en bout permettant d'isoler les problèmes en temps réel de toutes les applications, que ce 
+soit sur site, dans le cloud ou dans des environnements mobiles. 
+- Consolidation des événements, les mesures et la topologie des collecteurs (ETI, Hi, KPis) de 
+données de HP et de tiers vers la console de supervision de OMi. 
+- Développement d’Event Processing script en Groovy pour une corrélation entre les events pour 
+identifier plus rapidement ‘the root cause’, puis déclenche une correction automatisée. 
+- Respecter les processus ITIL (change management, CSI : amélioration continue de la solution) 
+- Implémentation de HP agile manager pour mettre en place une méthodologie agile, KANBAN, 
+pour le rapport d’activités et les tâches de l’équipe.  
+Février 2014 –      Stage de fin d’études chez Cynapsys 
+Juin 2014  
+ Le projet consiste en la mise en place mise en place d’un réseau social en utilisant le Framework 
+Symfony2 : 
+- Création du cahier des charges/ spécification des besoins et choix du Framework 
+- Création de la base de données MySQL. 
+- Utilisation du pattern de conception MVC pour le projet. 
+- Utilisation de l’ORM doctrine 2. 
+- Utilisation de Netbeans comme IDE. 
+- Développement du site web (frontend (TWIG) + backend). 
+- Administration de l’application (gestion des groupes, des actions menées et des utilisateurs de 
+l’application). 
+Compétences 
+Certifications:  HP AIS – BSM Operations Manager I v9. 
+TOEIC – Certificate of achievement- ETS 
+Langages/                     PHP5, Symfony2, Twig, Yml, JAVA, Swing, J2EE, Groovy, Python, C#, ASP.NET 
+Framework                     
+Modélisation /            UML, MVC. 
+Design Pateterns 
+Outils: HP BSM, HP UCMDB, HP Operation Manger I, HP Site scope, Xampp, Wireshark, Vmware.. 
+Outils de gestion        SVN. 
+de configuration 
+Process:                          ITIL foundation V3, Méthodologie Agile : HP Agile Manager 
+Langues :               Français: courant, Anglais : Professionnel  
+Centres d’intérêt 
+Sport: Fitness, spinning. Divers: voyages. 

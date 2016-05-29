@@ -1,0 +1,28 @@
+{
+  "age": 25,
+  "name": "Objectif Intégrer votre entreprise ",
+  "adresse": "",
+  "mail": "Turki_khadija@live.fr",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "21623797570",
+  "skills": [
+    "c#",
+    "spring",
+    "c++",
+    "c",
+    "java",
+    "uml",
+    "asp.net",
+    "j2ee",
+    "php",
+    ".net",
+    "jpa",
+    "jsf"
+  ],
+  "keywords": {
+    "lotus": 3
+  }
+}

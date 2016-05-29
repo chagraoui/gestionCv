@@ -1,0 +1,87 @@
+     
+ Jemaï Nizar 
+Né le 03 janvier 1986 
+Nationalité : tunisienne 
+Adresse: 3 Rue 8720 App 4B Bloc 57 1003 cité olympique 
+Tél: (+216) 29 404 947 
+E-mail: jemaii.nizar@gmail.com 
+Permis de conduire : B 
+FORMATION: 
+Mai 2011 : Brevet technicien supérieur en télécommunications option informatique 
+Juin 2009 : Diplôme universitaire du premier cycle en langue et littérature française 
+Juin 2004 : Baccalauréat sciences expérimentales 
+COMPETENCES: 
+Administration Systèmes : Maintenance et administration Windows (Xp/7/8/ Server 2003/Server 
+2008/Server2012 ),Active Directory, MS Exchange 2010, SQL Server 2008-2012, Microsoft Dynamic CRM, 
+Microsoft Sharepoint . 
+Réseaux : TCP/IP, NAT, VPN, LAN/WAN/WLAN, Routage, Vlan, Firewall, Câblage, adressage… 
+Matériels : Cisco (Routeur, Switch…), switchs 3COM, switchs DELL Powerconnect, routeur FORTIAGTE. 
+Virtualisation: Vmware Workstation, Oracle VirtualBox, Microsoft Hyper-V. 
+Logiciel de Sauvegadre : Symantec Backup Exec , Veeam Backup & Replication, Acronis. 
+Logiciel de supervision : Zabbix, Ip Switch What’s up Gold. 
+Logiciels de simulation : Cisco Pcket Tracer, Boson Netsim, GNS 3. 
+Autres : une moyenne connaissance des solutions linux et Voip (ASTERISK et Cisco Call Manager Express). 
+EXPERIENCES PROFESSIONNELLES : 
+Jan2013 (poste actuel) 
+Administrateur systèmes et réseaux : 
+-Gestion et administration des plateformes : Active Directory, DHCP,DNS, WSUS… 
+-Installation et configuration des équipements réseaux (switchs, point d’accès, 
+serveur, imprimantes… 
+-Supervision et traitement des incidents réseaux : VPN, problèmes de 
+connexions… 
+-Lecture et vérification de Logs de sécurité :Firewall… 
+-Assurer le Backup de données de l’entreprise via Veeam Backup 
+-Administration du la Voip : Asterisk, Cisco Call Manager Express. 
+-Maintenance du matériel informatique de l’entreprise et assurer sa 
+disponibilté. 
+-Rédiger et mettre à jour la documentation technique du réseau de 
+l’ entreprise. 
+-Support et assistance aux utilisateurs. 
+-Exécution  des procédures d’exploitation quotidiennes (infogérance). 
+Curriculum Vitae 
+Oct-Dec 2012 
+Commercial chez Mega Car : (location de voiture) 
+-Renseigner, conseiller et servir notre clientèle nationale et internationale. 
+-Satisfaire les exigences des clients. 
+-Traiter les réservations. 
+-Établir les contrats de location. 
+-Gérer le parc de véhicule. 
+-Effectuer diverses tâches administratives. 
+STAGES : 
+Sept-Oct 2009 
+UIB (service téléphonie) 
+-Assurer le bon fonctionnement du réseau téléphonique interne. Mise en place des 
+équipements de télécommunications (fax , téléphone analogique et numérique) 
+-Administration du PABX (contrôle des appels sortants, vérificationde la taxation, 
+initialisation du système). 
+-Faire des nouvelles installations téléphoniques (câblages). 
+Fev-Avril 2010 
+STEG (Centre de traitement informatique de la DRDN) 
+-Maintenance des ordinateurs (hardware et software). 
+-Exploitation du réseau. 
+-Configurer  et maintenir les routeurs  et les switchs Cisco. 
+-Installation et configuration des imprimantes réseaux. 
+Sep-oct 2010 et Fev-Avril 2011 
+HORIZON INFORMATIQUE (société de services) 
+-Réparation des ordinateurs (hardware et software) des clients. 
+-Installation de caméra de surveillance. 
+-Maintenance et administration de Windows (2000, XP, Vista et 7). 
+-Administration de Windows 2003 Server et MS-Exchange 2003 
+-Assistance technique au client par téléphone, e- mail et en ligne avec le logiciel 
+TEAM VIEWER. 
+LANGUES: 
+-Français: courant (lu, écrit, parlé) 
+-Anglais: bon niveau (anglais technique) 
+CERTIFICATIONS : 
+Janvier2014 : CCNA Explortion :Network  Fundamentals 
+Février2014 :CCNA Explortion : Routing Protocols and Concepts  
+Mars2014 : CCNA Explortion : LAN Switching and Wireless 
+Avril2014 CCNA Explortion : Accessing the WAN 
+Avril2014 :CCNA Security 
+Octobre2014 : (200-120) CCNA Cisco Certified Network Associate (Routing and Switching) 
+Décembre2014: (70-533) Implementing Microsoft Azure Infrastructure Solutions 
+Décembre2014 : Microsoft Certified Solutions Associate: Office 365. 
+COMPETENCES : 
+-Capacités d'écoute, d'organisation et d’adaptation aux différents horaires du travail. 
+-Adaptation rapide avec les nouvelles technologies. 
+-Autodidacte. 

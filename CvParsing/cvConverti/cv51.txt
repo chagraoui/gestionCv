@@ -1,0 +1,65 @@
+Marouane MIDA 
+6, rue de Monastir, Nouvelle Medina 3 
+2063 Ben Arous, Tunisie 
+Portable: (+216) 27 380 344 
+marwenmida@gmail.com 
+Né le: 29/3/1989 
+Permis de conduire: B 
+Expérience professionnelle 
+Ingénieur Support IT/CAD chez STMicroelectornics                                             Novembre 2014 - Septembre 2015 
+    CAD Support level 2 sur les Datacenters de l’Europe de l’Ouest (France, Tunis) 
+ Traitement des incidents et demandes remontés par le client (helpdesk) 
+ Responsable pour l’installation et la configuration des freewares (Service Management) 
+ Installation des outils internes de STMicroelectronics et des outils EDA (Electronic Design Automation) 
+comme Synopsys, Cadence, ARM… 
+ Gestion des licences (Flexlm) 
+ Gestion du cluster de Tunis (IBM PLATFORM LSF - RTM) 
+ Réalisation et mise en place des scripts pour l’amélioration et l’automatisation des taches pour  
+l’environnement CAD (bash, csh et  perl) 
+ Développement d’un outil de monitoring LSF dédié aux concepteurs CAD qui leur permet de simuler en temps 
+réel le nombre maximum des jobs qu’ils peuvent lancer selon les caractéristiques du cluster et observer les 
+graphes RTM de chaque jobs  
+ Administration réseau (câblage et configuration) - installation des serveurs (Hard) - administration système - 
+Remote desktop (VNC) 
+ Gestion de la téléphonie PABX Alcatel 
+Stage de fin d’étude chez SunGard                                                                                        Février 2014 - Juin 2014  
+ Implémentation d’une engine web pour la génération des différents scénarios de test pour la plateforme 
+reporting du produit Ambit Core Banking  
+ Langages/Outils : HTML5, CSS3, JavaScript, PHP4, Jquery, Json, XML, XSD 
+Stage d’été chez SunGard                                                                                                        Juin 2013 - Aout 2013 
+ Gestion de la documentation des messageries interbancaires via Steform 
+ Langages/Outils : Java, HTML5, CSS3, XML, XSLT, Corba 
+Stage d’été chez la Société Tunisienne de Banque [STB]                                                                           Aout 2012 
+ Réalisation d’un site web de gestion du parc informatique  
+ Langages/Outils : C#, SQL Server 2012, Visual Studio 2012 
+Stage de fin d’étude chez la Société Tunisienne d’Entreprise de Télécommunication [SOTETEL]  
+                                                                                                                                                  Janvier 2011- Mai 2011                                                                            
+ Mise en place d’une solution de supervision  
+ Langages/Outils : Nagios, CACTI, OSSIM, PHP4 
+Stage d’un mois au sein de la Société Tunisienne d’Entreprise de Télécommunication [SOTETEL]  
+                                                                                                                                                                          Mai 2010 
+ Mise en place d’un serveur Freeradius » 
+ Environnement technique : Ubuntu 8.04 lts 
+Etudes et diplômes 
+Diplôme National d’Ingénieur en génie informatique appliquée  
+   Ecole Supérieure de Technologie et d’Informatique [ESTI] 
+Diplôme de la Licence Appliquée en réseaux informatique  
+Ecole Supérieure de Technologie et d’Informatique [ESTI] 
+Baccalauréat « Mathématique »  
+Domaines de compétences 
+Système d’exploitation : GNU/LINUX (Debian, Red Hat),  Windows (toutes les versions) 
+Langages : C, C++, C#, PHP, JavaScript, Java, Shell  
+Web : HTML, CSS, JQuery, Ajax 
+Base de données et standards : MySQL, Oracle, SQL Server, SQL, PL/SQL, JSON, XML, XSD 
+Framework et spécifications : ASP.net, .Net 3.5+, GTK+, J2EE, Wordpress, Laravel 
+Modélisation & Méthodologies : Merise, UML, eXtreme Programming, scrum, TUP 
+Réseaux : Cisco Certified Network Associate [CCNA 1&3] 
+Mobile : Android, Phonegap 
+Microcontrôleur : STM32F1, STM32f4 
+Bureautique : Suite Microsoft Office 
+Langues 
+Arabe : Langue maternelle 
+Français : Parlé, écrit, lu [certifié DELF-B2] 
+Anglais :  Parlé, écrit, lu 
+Divers 
+Tennis, soccer, Natation, jeux vidéo 

@@ -1,0 +1,44 @@
+{
+  "age": 1,
+  "name": "Institut Supérieur d’Informatique et des Techniques de Communication de Hammam Sousse (ISITCom) : Ingénieur ",
+  "adresse": "tunis",
+  "mail": "hamzahawari@gmail.com",
+  "studies": [
+    "ingénieur",
+    "licence",
+    "baccalauréat"
+  ],
+  "num": "40438716",
+  "skills": [
+    "c#",
+    "matlab",
+    "c++",
+    "css",
+    "c",
+    "oracle",
+    "android",
+    "pascal",
+    "windows",
+    "sql",
+    "java",
+    "uml",
+    "xml",
+    "asp.net",
+    "linux",
+    "j2ee",
+    ".net",
+    "php",
+    "mysql",
+    "mvc"
+  ],
+  "keywords": {
+    "c#": 4,
+    "informatiques": 3,
+    "oracle": 3,
+    "linux": 3,
+    "réseaux": 5,
+    "net": 4,
+    "ingénieur": 4,
+    "asp": 3
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "age": 0,
+  "name": "Formation académique ",
+  "adresse": "tunis",
+  "mail": "houdahamouda90@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "skills": [
+    "matlab",
+    "excel",
+    "c++",
+    "c",
+    "isis",
+    "ios",
+    "vhdl",
+    "word"
+  ],
+  "keywords": {
+    "c": 3,
+    "fpga": 3,
+    "builder": 3,
+    "sopc": 3,
+    "nios": 3
+  }
+}

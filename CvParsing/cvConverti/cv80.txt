@@ -1,0 +1,207 @@
+Page 1 sur 3  
+Karim Ben Hammouda  
+DN :03/01/1988 
+ADR : Rue Nidhal Rodha Mahdia Tunisie
+Tel: (+216) 22 70 40 10  
+E-mail: Karim.hammouda.bhk@gmail.com
+CV : http://www.doyoubuzz.com/ben
+Ingénieur Informatique De Gestion
+FORMATIONS  
+2012- 2015 Génie Informatique de Gestion 
+Ecole Privée
+2007 - 2010 Licence fo
+Institut Supérieure de Gestion 
+2007 Baccalauréat technique
+LANGUES  
+    Français   Lu, écrit et parlé 
+    Anglais  Technique
+   Allemand  Notion de base
+CERTIFICATS ET FORMATIONS
+    Certificat  Certification professionnelle Cisco CCNA1
+    Formation Formation androïde 
+COMPETENCES TECHNIQUES
+Langages de Programmations 
+Component Framework 
+Serveurs  
+Middlewares  
+Bases de donnéeses  
+: Rue Nidhal Rodha Mahdia Tunisie 
+Karim.hammouda.bhk@gmail.com 
+http://www.doyoubuzz.com/ben- hammouda-karim 
+Curriculum vitæ   
+Ingénieur Informatique De Gestion
+Génie Informatique de Gestion  
+Ecole Privée: Polytechnique Sousse    
+Licence fondamentale en Informatique de Gestion
+Institut Supérieure de Gestion Sousse (ISGS) 
+Baccalauréat technique 
+Lu, écrit et parlé  
+Technique 
+Notion de base 
+CERTIFICATS ET FORMATIONS 
+Certification professionnelle Cisco CCNA1 
+Formation androïde  
+COMPETENCES TECHNIQUES 
+Langages de Programmations   asp.net - C/C++/C# - HTML/XML - PHP 
+Pascal  
+ Hibernate - SERVLET -richFaces - Ajax -
+Tomcat Apache, JBoss, 
+Web Services 
+-Oracle Database - MySQL - SQL server - 
+Ingénieur Informatique De Gestion 
+Gestion 
+PHP - JAVA - JavaScript - 
+ access   
+Page 2 sur 3  
+Méthodes de Conception  
+WebMaster 
+Plateforme de développement 
+Environnement de  
+développement intégré  
+Autres connaissance Gestion 
+EXPERIENCES 
+● Concepteur developpeur                   
+Ste elbaraka BTP(Freelance:  juillet
+Suivi mise en place de l'ERP "SIXE ERP"
+Assister et former les employées pour l'utilisation de l'ERP "SIXE ERP"
+ Conception et développement d’une application de gestion de stock et facturation
+Outil et méthode de conception
+Langage : c#  
+Progiciel de reporting : crystal reports
+Base de données : Sql server 2005
+IDE: Visual studio  
+● Concepteur developpeur                   
+App2date(stage PFE Major PFE en génie informatique de gestion:  Février 2015 
+2015)  
+Conception et développement d’une application web distrib
+location voiture  
+Outil et méthode de conception
+Langage : c#  
+Framework : Telerik 2013  
+Technologie : web services  
+Base de données : Sql server 2005, Linq to Sql 
+IDE: Visual studio  
+● Concepteur developpeur                            
+Creative Loft(stage d'été)  Sousse ( Juin 2014 
+ Conception et Réalisation d’une application pronostique sportif (site web et application androïde ) 
+Outil et méthode de conception :
+Langages : Java , XHTML  
+Base de données : MySQL  
+Technologie : JEE , Androïde 
+IDE: ECLIPSE  
+ UML - Merise II - Processus Unifié 
+EasyPHP - ,Dreamweaver 
+Plateforme de développement  J2EE, Android, .net 
+Eclipse - Android - NetBeans7.4 - Visuel Studio2010 
+Dreamweaver CS4 - joomla  PowerAMC, RationalRose, JDeveloper
+- Marché financière Comptabilité générale Economie 
+Econométrie Analyse financière Marketing 
+- Optimisation discrète Mathématique de la décision 
+- Ressource humaine  
+- Gestion chaine logistique Gestion production assisté par 
+ordinateur  
+Concepteur developpeur                                                                                    
+juillet 2015 (à aujourd'hui))  
+Suivi mise en place de l'ERP "SIXE ERP" Sotusoft 
+Assister et former les employées pour l'utilisation de l'ERP "SIXE ERP" 
+Conception et développement d’une application de gestion de stock et facturation. 
+Outil et méthode de conception : UML  
+crystal reports 
+: Sql server 2005 
+Concepteur developpeur                                                                                    
+App2date(stage PFE Major PFE en génie informatique de gestion:  Février 2015 
+Conception et développement d’une application web distribués en temps réel de gestion de multi agence de 
+Outil et méthode de conception : UML  
+: Sql server 2005, Linq to Sql  
+Concepteur developpeur                                                                                               
+Creative Loft(stage d'été)  Sousse ( Juin 2014 - Juillet 2014 ) 
+Conception et Réalisation d’une application pronostique sportif (site web et application androïde ) 
+Outil et méthode de conception : UML (Rational Rose7.0)  
+JEE , Androïde  
+Visuel Studio2010 - jasperReports - 
+joomla  PowerAMC, RationalRose, JDeveloper 
+Marché financière Comptabilité générale Economie 
+ncière Marketing  
+Optimisation discrète Mathématique de la décision  
+Gestion chaine logistique Gestion production assisté par 
+                                                                 
+                                                                 
+App2date(stage PFE Major PFE en génie informatique de gestion:  Février 2015 - Juin 
+ués en temps réel de gestion de multi agence de 
+                                                                    
+Conception et Réalisation d’une application pronostique sportif (site web et application androïde )  
+Page 3 sur 3  
+● Concepteur developpeur                                                                         
+Siège Banque Centrale Tunisie  ( Juillet 2013 
+ Conception et Réalisation d’une application de gestion des actions des formations. 
+ Outil et méthode de conception :
+ Langages : Java  
+ Base de données : MySQL 
+ Technologie : JEE  
+ IDE: NetBeans IDE 7.4  
+● Concepteur developpeur (Freelance)                              
+Brooklyn  Mascate (Liau Oman)  ( Juillet 2012 
+ Conception et développement du site interne de l’entreprise
+ Outil et méthode de conception :
+ Langages : PHP  
+ CMS(système de gestion de contenu) : Jo
+ Base de données : MySQL 
+● Enseignant informatique (Centre de formation)
+l’INSTITUE AL INTILAKA DE FORMATION ET DE PUBLICITE  Mahdia (Octobre 2010 
+Décembre 2011) 
+ Cours théorie et pratique qui couvre ces domaines:
+ Outil et méthode de conception : Merice (PowerAMC), UML(RationalRose7.0) 
+ Langages : Vb.net, Pascal  
+ Base de données : MySQL(EasyPHP), Access 
+ IDE: Visuel Studio  
+● Stage Gestionnaire                   
+Entreprise de bâtiment et travaux publiques TOUMI FREDJ  Sousse (Juillet 2010 
+Service comptabilité  
+● Concepteur developpeur                       
+TUNIPROD(Stage PFE cycle LMD)  Sousse (Janvier 2010 
+ Conception et Réalisation d’une application web de gestion de facturation en ligne 
+  Outil et méthode de conception :
+Langages : Java, iceFaces  
+Base de données : MySQL  
+Serveur d’application : Tomcat Apache Server6 
+Technologie : JEE, Hibernate 
+  IDE: Eclipse  
+● Stage                                    
+TUNISIE TELECOM(Stage)  Mahdia
+  Service client  
+             Service juridique 
+ncepteur developpeur                                                                         
+Siège Banque Centrale Tunisie  ( Juillet 2013 - Juillet 2013 ) 
+Conception et Réalisation d’une application de gestion des actions des formations.  
+Outil et méthode de conception : UML (Rational Rose7.0)  
+MySQL  
+Concepteur developpeur (Freelance)                                                                   
+Brooklyn  Mascate (Liau Oman)  ( Juillet 2012 - October 2012 ) 
+Conception et développement du site interne de l’entreprise 
+Outil et méthode de conception : Merice (PowerAMC), UML(RationalRose7.0) 
+CMS(système de gestion de contenu) : Joomla  
+MySQL  
+Enseignant informatique (Centre de formation)                                      
+l’INSTITUE AL INTILAKA DE FORMATION ET DE PUBLICITE  Mahdia (Octobre 2010 
+Cours théorie et pratique qui couvre ces domaines: 
+Outil et méthode de conception : Merice (PowerAMC), UML(RationalRose7.0) 
+Base de données : MySQL(EasyPHP), Access  
+Stage Gestionnaire                                                                            
+Entreprise de bâtiment et travaux publiques TOUMI FREDJ  Sousse (Juillet 2010 
+Concepteur developpeur                                                                                           
+TUNIPROD(Stage PFE cycle LMD)  Sousse (Janvier 2010 - Juin 2010) 
+Conception et Réalisation d’une application web de gestion de facturation en ligne  
+Outil et méthode de conception : Processus Unifier (Rational Rose7.0)  
+Tomcat Apache Server6  
+JEE, Hibernate  
+                                                                                                     
+Mahdia (Juin 2008 - Juin 2008) 
+ncepteur developpeur                                                                            
+                                      
+Merice (PowerAMC), UML(RationalRose7.0)  
+                                                   
+l’INSTITUE AL INTILAKA DE FORMATION ET DE PUBLICITE  Mahdia (Octobre 2010 - 
+Outil et méthode de conception : Merice (PowerAMC), UML(RationalRose7.0)  
+Entreprise de bâtiment et travaux publiques TOUMI FREDJ  Sousse (Juillet 2010 - Octobre 2010): 
+                                                                  
+                             

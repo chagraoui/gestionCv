@@ -1,0 +1,51 @@
+{
+  "age": 0,
+  "name": "6, rue de Monastir, Nouvelle Medina 3 ",
+  "certif": "Réseaux : Cisco Certified Network Associate [CCNA 1\u00263] ",
+  "adresse": "tunis",
+  "mail": "marwenmida@gmail.com",
+  "studies": [
+    "licence",
+    "ingénieur"
+  ],
+  "num": "27380344",
+  "skills": [
+    "css",
+    "c++",
+    "html5",
+    "android",
+    "ios",
+    "sql",
+    "java",
+    "uml",
+    "xml",
+    "linux",
+    "asp.net",
+    "j2ee",
+    "json",
+    "html",
+    "mysql",
+    "pl/sql",
+    "c#",
+    "c",
+    "oracle",
+    "ubuntu",
+    "windows",
+    "javascript",
+    "shell",
+    "php",
+    ".net",
+    "scrum",
+    "word",
+    "css3"
+  ],
+  "keywords": {
+    "css": 3,
+    "web": 3,
+    "xml": 3,
+    "cad": 4,
+    "php": 3,
+    "html": 3,
+    "sql": 4
+  }
+}

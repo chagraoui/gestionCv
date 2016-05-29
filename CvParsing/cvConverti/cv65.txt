@@ -1,0 +1,119 @@
+Experiences professionnels 
+2011-2014                Diplôme ‘Licence Appliquée en Sciences et Technologies de l’Information et des 
+Communications’  
+ Option      : Réseau et systéme de télécommunication  
+ Université : Institut supérieur des études technologiques en communication de Tunis 
+(Iset’com) 
+2010-2011                Baccalauréat Section Science expérimentale, Mention : Bien 
+ Lycée 9 avril 1938 (Sidi Bouzid) 
+Technicien Test et Validation à ARDIA ( Actia Recherche et Développement en Informatique 
+Appliquée - Tunisie) : 
+ Février 2015 - Mai 2015  
+ Etude du cahier des charges et des différentes spécifications afin de prendre connaissance des spécificités 
+produit  
+ Détermination des spécifications à tester en relevant toutes les défaillances qui peuvent intervenir au cours de 
+la vie du produit   
+ Conception des scénarios et des plans de tests afin de s’assurer du bon fonctionnement dans tous les modes 
+d'utilisation   
+ Réalisation des tests de validation fonctionnelle et de tests de non régression  
+ Rédaction des rapports de validation  
+ Proposition d’Amélioration des outils de validation  
+               Exemples de projets :  
+Jihed jellali 
+23 ans 
+Adresse : Cité el Ghazella  
+Route de Raoued Km 3.5 – 2083  
+Ariana  
+Tél : +21627794035 
+E-mail : jihed.jellali@gmail.com 
+Technicien licencié en 
+Sciences et Technologies de 
+l’Information et de la 
+communication 
+FORMATIONS 
+ Le constructeur suédois d’auto Volvo :  
+Responsabilités :          
+ Préparation et organisation des environnements de test (outil: Doors) 
+ Ecriture et mise à jours des tests case relatives aux spécifications client  
+(Requirement management) 
+ Exécution des compagnes de test (tests nominaux et test de robustesse) 
+ Détection des anomalies et rédaction des rapports d’erreur (outil: Mantis) 
+ Contrôle des corrections (test de non-régression) 
+Taches Effectuess : 
+ Validation du comportement du composant VCM relative à la gestion infotainement 
+ Validation du comportement Télématique et assistance dans la voiture par rapport 
+aux spécifications client à travers les réseaux de communication CAN, FlexRay et IP 
+sur les différents aspects tels que : MultiMedia, Interface Homme Machine, 
+Paramétrage Bluetooth, Paramétrage Wifi,.. 
+ Validation d’un portail Web EAEs (Entretiens Annuels 
+d’Evaluations) :  
+ Determiner les exigences à Tester 
+ Realisation des Test de non regression ,de disponibilite  de manipulation et de 
+robustesse sous une charge lourde de donnees tel que un flux de requete web,.. 
+ Redaction de rapports d’erreur (Microsoft Office 2013) 
+ A partir du Mai 2015 :                                      
+Expérience en tant que testeur dans un environnement de 
+développement agile d'intégration continue avec  Intel ( Intel Corp. Toulouse) 
+ Execution des Tests Fonctionnels, des tests de non regression et d'acceptance des builds Android pour 
+smartphones et tablettes 
+ Compréhension approfondie du processus de développement des builds et de l'intégration des patches. 
+ Connaissance de la documentation de l'utilisateur, documents de formation et les plans d'acceptation (UAT). 
+ récupération des résultats à partir des outputs des outils d'automatisation, vérification en cas d'erreur l'output 
+et reporter les problèmes au équipes concernées  
+ La remontées des anomalies en utilisant le système de suivi des bogues "BugTracker" (Bugzilla, JIRA) et les 
+problémes impliquant les fonctionnalités du build et les outuputs 
+ Le monitoring et le suivis des anomalies remontées en vérifiant leur résolutions et les commentaires des 
+developpeurs et les intégrateurs. 
+ Manipulations des hardwares et flashage des builds en utilisant des outils internes 
+o Outils informatique : Occygen,Phone flash tools , MPTA(Mobile PlatformTrace Analyzer),.. 
+Stage de fin d’études au sein de Tunisie Telecom Lac 
+ Février 2014 - Juin 2014 
+                                     
+Nom du sujet : « Développement d’une application de réalité augmentée sur Androïde » 
+Description : 
+La réalité augmentée est la faculté d’une application mobile à rajouter des informations sur un flux d’images 
+réelles de la caméra d’une tablette ou d’un Smartphone. Ce projet permettra de créer une application qui rajoute les 
+informations de géo localisation sur la vue de la caméra de l’utilisateur en temps réel. 
+Mini-projet au sein de l’iset’com  
+ Octobre 2013 - Janvier  2014 
+Nom du sujet: « Intégration, configuration et mise en place d’une solution de service et 
+administration de réseaux » 
+Description : 
+  C’est une solution open source qui sert à déployer des services réseaux via une interface commune, 
+l’administration de ces réseaux est  via une même interface open source (linux). 
+On a travaillé avec Centos, Ubuntu et Windows Server encore plus on a configuré et installé Active Directory, 
+DNS, DHCP et Exchange aussi on a travaillé avec VirtualHost et Nagios. 
+Stage d’été au sein de Tunisie Telecom (Sidi Bouzid)  
+ 01 Juillet 2013 – 31 Juillet 2013 
+Description : 
+CENTRES D’INTERETS 
+Compétences 
+Langues 
+Stagiaire chez le centre de transmission : présentation générale des protocoles de transmission PDH et SDH, 
+étude sur les équipements de multiplexages et exécution des ordres de travaux : mise en service, libération et 
+basculement, mesure de la qualité de transmission 
+Au niveau du centre de commutation : construction d’une nouvelle jonction telephonique, basculement et 
+résiliation d’une ligne telephonique, traitement d’une demande de suspension provisoire, travailler sur le GIS 
+(Geographic Information System) et executer ses fonctionnalités et ses applications. 
+Au niveau du secteur d’Energie : Connaitre la chaine d’alimentation des équipements de telecommunication 
+et sa compositions (redresseurs, convertisseurs, batteries d’accumulateurs, onduleurs...) 
+Stage au sein de Tunisie Telecom  (Sidi Bouzid) 
+ 09 Janvier 2012 – 04 Février 2012                  
+ Description : 
+Stagiaire chez Tunisie Telecom; configuration ADSL, comprendre comment travailler avec le workflow de 
+Tunisie Télècom , réception et traitement des recommandations des clients venus par le fournisseur pour l’ajout ou la 
+résiliation ou d’autres recommandation suivant le cas,comprendre l’architecture du réseau d’abonné,exploiter et 
+maintenir ce réseau 
+ IDE’s: Net Beans, Eclipse.  
+OS’s: Windows, Windows Server, Ubuntu, Centos, Fedora.  
+Langages : JAVA, Android, Langage C. 
+WEB et Multimedia : HTML, XML, JavaScript,  
+Bases de données : ORACLE, MySQL.  
+Conception et Modélisation : UML, Merise.  
+  Bureautique : Microsoft Office   
+Réseau : Packet Tracer, wireshark.  
+Français : lu, parlé et écrit.  
+Anglais : lu, parlé et écrit.  
+ Italien : niveau basique.  
+Football. 
+Lecture des magazines High Tech 

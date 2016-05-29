@@ -1,0 +1,44 @@
+{
+  "age": 8,
+  "name": "2014-2015                Diplôme National d’ingénieur : Génie logiciel  ",
+  "certif": "Réseaux informatiques                 Modèle OSI, TCP/IP, Cisco Networking : Certification CCNA2�",
+  "adresse": "tunis",
+  "mail": "manel.hammami7@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "21624139803",
+  "skills": [
+    "css",
+    "c",
+    "oracle",
+    "jee",
+    "windows",
+    "javascript",
+    "sql",
+    "eclipse",
+    "spring",
+    "java",
+    "jboss",
+    "uml",
+    "xml",
+    "linux",
+    "scrum",
+    "php",
+    "jpa",
+    "mysql",
+    "html",
+    "wamp",
+    "netbeans",
+    "jsf",
+    "wampserver"
+  ],
+  "keywords": {
+    "css": 3,
+    "java": 4,
+    "réseaux": 3,
+    "mysql": 5,
+    "html": 3
+  }
+}

@@ -1,0 +1,73 @@
+<div class="login-container">
+
+    <div class="row">
+
+        <div class="col-sm-6">
+
+            <script type="text/javascript">
+                jQuery(document).ready(function($)
+                {
+                    // Reveal Login form
+                    setTimeout(function(){ $(".fade-in-effect").addClass('in'); }, 1);
+
+                    // Set Form focus
+                    $("form#login .form-group:has(.form-control):first .form-control").focus();
+                });
+            </script>
+
+            <!-- Add class "fade-in-effect" for login form effect -->
+            <form name="registrationForm" method="post" role="form" class="login-form fade-in-effect">
+
+                <div class="login-header">
+                    <a href="#" class="logo">
+                        <img src="assets/images/tritux.png" alt="" width="150" />
+                        <h4>Créez votre compte -- Etape 1</h4>
+                    </a>
+
+                    <p></p>
+                </div>
+
+                <font color=’#000000′> Login : </font>
+                <div class="form-group">
+                    <!--<label class="control-label" for="name">Entrez votre login</label>-->
+                    <input type="text" class="form-control" name="login" id="login" autocomplete="off" ng-model="user1.login" />
+                </div>
+
+                <font color=’#000000′> Mot de passe : </font>
+                <div class="form-group">
+                    <!--<label class="control-label" for="name">Entrez votre mot de passe</label>-->
+                    <input type="password" class="form-control" name="password" id="password" autocomplete="off" ng-model="user1.password" ng-minlength="6" ng-maxlength="20"/>
+                    <span style="color:red" ng-show="registrationForm.password.$dirty && registrationForm.password.$invalid"></span>
+                    <span style="color:red" ng-show="registrationForm.password.$error.minlength">Minimum 6 caractères.  .</span>
+                    <span style="color:red" ng-show="registrationForm.password.$error.maxlength">Maximum 20 caractères.  .</span>
+                </div>
+
+                <font color=’#000000′> Confirmez votre mot de passe : </font>
+                <div class="form-group">
+                    <input type="password" name="confirmPassword" class="form-control"
+                           ng-model="confirmPassword"
+                           required compare-to="user1.password" />
+<span style="color:red" ng-show="registrationForm.confirmPassword.$dirty && registrationForm.confirmPassword.$invalid"></span>
+                <span style="color:red" ng-show="registrationForm.confirmPassword.$error.compareTo">Votre mot de passe n'est pas la même.</span>
+
+              </div>
+                <font color=’#000000′> Ajoutez votre cv : </font>
+
+                <div class="form-group">
+                <input type="file" name="file" class="form-control" file-model="myFile"/>
+                </div>
+
+</br>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary  btn-block text-left" ng-click="etape2(user1)">
+                        <i class="fa-arrow-circle-right"></i>
+                        Suivant
+                    </button>
+                </div>
+
+            </form>
+        </div>
+
+    </div>
+
+</div>

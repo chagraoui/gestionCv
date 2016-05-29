@@ -1,0 +1,20 @@
+{
+  "age": 0,
+  "name": "CHAKROUN MOHAMED AMINE          ",
+  "adresse": "tunis",
+  "mail": "aminechakroun@ymail.com",
+  "studies": [
+    "baccalauréat"
+  ],
+  "skills": [
+    "excel",
+    "c",
+    "windows",
+    "word",
+    "powerpoint"
+  ],
+  "keywords": {
+    "marsa": 3,
+    "commerciales": 3
+  }
+}

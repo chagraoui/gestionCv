@@ -1,0 +1,84 @@
+22, Rue 42356, El Agba, Tunis, Tunsie 
+2087 Tunis - Tunisie 
+Tél : (+216) 22 876 762 
+E-mail : sassi.ahmed.1990@gmail.com 
+Né le 06 Décembre 1990 à Tunis 
+24 ans, célibataire 
+MR Ahmed SASSI 
+SOFTWARE ENGINEER 
+Cursus  Académique 
+2013 - 2014 
+Ecole Nationale des Sciences de l’Informatique (ENSI), Tunis, Tunisie 
+ - Filière : Ingénierie Logicielle et Système d’information (ILSI) 
+ - Diplôme : Diplôme National d’Ingénieur en Informatique (Rang 6/317)  
+Juin 2011 Institut Préparatoire aux Etudes d’Ingénieurs de Tunis (IPEIT), Tunis, Tunisie 
+ - Filière : Mathématiques & Physique (MP) 
+ - Diplôme : Diplôme Fin des Etudes Universitaire du Premier Cycle 
+Concours national d'entrée aux cycles de formation d'ingénieurs, Tunisie(Rang: 172/1700) 
+Juin 2009 
+Lycée El Hrairia, Tunis, Tunisie 
+ - Filière : Mathématiques  
+ - Diplôme : Baccalauréat (Mention très bien)    
+Expérience  Professionnelle 
+Avril- Présent  Software Engineer –  SUNGARD FINANCIAL SYSTEMS, Pôle El Ghazela, Tunisie 
+- Mission : Développement d’applications dans le secteur de la finance  
+- Mots clefs : C/C++, SQL , Visual Studio 2012 
+Août – Février 2015   Software Developer  –  NEGUS GROUP, Centre Urbain Nord, Tunisie 
+- Mission : Conception et Développement des applications mobile 
+- Mots clefs : C#.Net, Windows phone , Visual Studio 2013, MVVM, Json, NUnit 
+Février – Juillet 2014 Projet de fin des études  –  NEGUS GROUP, Centre Urbain Nord, Tunisie 
+- Sujet : Conception et Développement d’une application de recherche des 
+centres d’intérêt sous Android  
+- Mots clefs : Java/J2EE (Spring, JSF, Hibernate, Hibernate Search, Richfaces), 
+XHTML, Json, Restful, Android,  Géolocalisation, Eclipse, Tomcat 
+Juillet – Aout 2013 Projet de Stage d’été  –   XTENSUS, Ariana, Tunisie 
+- Sujet : Conception et Développement d’un module de paramétrage J2EE pour 
+une solution de gestion 
+- Mots clefs : Java/J2EE (Spring, JSF, Hibernate, Richfaces), XHTML, CSS,  ERP, 
+Eclipse, Tomcat 
+Expérience  Pratique 
+Compétences  techniques 
+Janvier – Mai 2013 
+Projet de Conception et de Développement (PCD)  –  ENSI, Tunis, Tunisie 
+- Sujet : Création d'un site web  d’une université virtuelle 
+            (Authentification,  Forum, Gestion des actualités, Gestion des cours,  
+             Gestion des cours, Gestion des ressources humaines, Sondage et 
+             Planification)                 
+- Mots clefs : Java/J2EE (EJB, JPA,  JSF, Eclipse Link, Primefaces), XHTML, CSS 
+                   Glassfish, Eclipse 
+Juin – Octobre 2012 
+Projet de fin de 1ère année  –  ENSI, Tunis, Tunisie  
+ -  Sujet : Développement d’un système de reconnaissance gestuelle et  
+               vocale 
+ -  Mots clefs : C#, WPF.NET, XML, Microsoft Visual Studio 2010, MVVM,  MySQL, 
+kinect, BingMap 
+Janvier – Mai 2012 
+Projet programmation orienté objet –  ENSI, Tunis, Tunisie 
+ -  Sujet : Jeu 2D (interface graphique) 
+ -  Mots clefs : C++, QtCreator 
+Mars – Avril 2012 Projet théorie des langages  –  ENSI, Tunis, Tunisie 
+ -  Sujet : Développement d’un mini-compilateur : analyseur lexical, syntaxique et 
+sémantique                       
+ -  Mots clefs :  C, CodeBloocks 
+Langues 
+Programmation C, C++, C#.Net, Java, Pascal, HTML, XHTML, XML, CSS, Shell, SQL, 
+Assembleur, J2EE, Spring, JSF, Hibernate, Hibernate Search, Eclipse Link,  
+Richfaces, Primefaces, Android, Common-Lisp 
+Architectures 2-Tiers, 3-Tiers, SOA, Restful 
+Base de données Oracle, MySQL 
+Conception UML  
+Réseaux OSI, UDP, TCP/IP, OSPF, RIP  
+Réseaux locaux sans-fil (Wifi) 
+Systèmes d’exploitation Unix/Linux, Windows 
+Outils techniques Microsoft Visual Studio 2013, Eclipse, Matlab, Dreamweaver, QtCreator 
+Microsoft Expression blend, StarUML, PowerAMC, CodeBloocks, XMind, 
+pencil 
+Bureautique Microsoft Office(Access, Excel, FrontPage, PowerPoint, Word) 
+Arabe Maternelle 
+Français Bilingue 
+Anglais bien 
+Espagnol Basique 
+Centres d’intérêt 
+Activités associatives Membre actif (Jeune Chambre Internationale) 
+Sports pratiqués Karaté de compétition, Natation, Football   
+Loisirs Sorties, Musique, Cinéma, Jeux vidéo        

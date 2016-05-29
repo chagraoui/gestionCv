@@ -1,0 +1,23 @@
+{
+  "age": 27,
+  "name": "Inès Zguidane ",
+  "adresse": "tunis",
+  "mail": "ines.zguidane@gmail.com",
+  "studies": [
+    "baccalauréat"
+  ],
+  "num": "55056616",
+  "skills": [
+    "excel",
+    "rest",
+    "c",
+    "php"
+  ],
+  "keywords": {
+    "oct": 3,
+    "anglais": 3,
+    "manar": 3,
+    "el": 3,
+    "france": 3
+  }
+}

@@ -1,0 +1,205 @@
+Khaled HALLEB 
+Tél : (+216) 99 73 86 83 
+Email : halleb.khaled@gmail.com 
+Né le : 21-08-1988 
+Adresse : Cité ben Younes - Tunis 
+Etat civil : Célibataire 
+INGENIEUR D'ETUDES ET DÉVELOPPEMENT: JAVA/J2EE 
+EXPERIENCE PROFESSIONNELLE 
+Depuis  Février    
+        2015 
+Société OXIA : Maintenance du Système d’information de NordNet groupe Orange,  
+                           Conception et développement des nouveaux modules 
+     Description : Le système d’information de Nordnet est composé  par une trentaine des  
+                          applications, dans ce cadre nous intervenons pour maintenir, optimiser les projets 
+                          existants, préparer, valider les spécifications, concevoir, développer et 
+                          reseter  les nouveaux  besoins. Ces modules sont tous  sous forme des  
+                          webservices REST/SOAP selon les besoins techniques consommable  
+                          par des clients PHP  mobile…  et couvrent la gestion d’offres, abonnés, 
+                          suivit/facturation de consommation pour le fournisseur d’accès internet  
+                          NordNet – groupe Orange, gestion de création/résiliation des contrats. 
+                          L’équipe est partagée entre la Tunisie et la France et on suit la métrologie Scrum  
+                          (Sprint de 2 semaines, Planning poker, Sprint planning, daily meeting se font par 
+                          Call confs entre les équipes) 
+      Tâches : 
+ Participer dans les différentes Scrum meeting (planning poker, sprint planning, 
+   rétrospectives, démos) 
+ Estimation des charges et des délais 
+ Rédaction des spécifications détaillée 
+ Développement 
+ Mise en production et suivi 
+ Documentation Technique 
+     Technologies : UML, spring 3, spring data, hibernate 3, apache cxf, docx4j, Junit,  
+                            SpringDbUnit Maven, 
+     Environnement : Eclipse kepler, soap ui, Mysql 5, Tomcat 7, SVN, Jira, Confluence. Stach,  
+                                Bamboo. 
+Aout 2014- 
+Janvier 2015 
+Société THINK TANK : Application de gestion  de risques dans les banques 
+     Description : Développement d’une application de risques dans les banques. Cette  
+                         application permet de contrôler les transactions bancaires, génère de  
+                         alertes pour les personnes dans la black liste, blanchissement d’argent  
+                         suivit des transactions d’une personne, elle fournit encore un module  
+                         d’analyse GFA …  
+                         Il d’agit d’une application multi-client qui tourne sur plusieurs  
+                         environnements différents (serveur web, base de données).  
+     Tâches :  
+ Participation au cadrage et estimation du projet 
+ Membre de l'équipe architecture du projet qui a pour rôle, la conception des 
+nouvelles fonctionnalités et des changements et la veille sur la maintenabilité et 
+la performance de la solution 
+ Rédaction de la Documentation technique et fonctionnelle des modules  
+ Responsable de la maintenabilité de la solution de génération des rapports 
+basée sur Docx4j. 
+ Développement des procédures stockées optimisées 
+ Développement de l'interface de monitoring des « Batch jobs » de la 
+plateforme via JMX 
+ Analyse et résolution des problèmes soulevés par le client 
+     Technologies : UML, Spring 3, Struts 1, apache poi, Hibernate 3 
+                            docx4j, ant. 
+     Environnement: Eclipse indigo, Oracle 11g, Mysql 5, DB2, Tomcat 6,  
+                               Oracle weblogic, WebSphere-IBM, CVS. 
+Mai  - Juillet   
+2014 
+Société THINK TANK : Application de gestion et de test des matériaux au sien 
+                                          d’AUDI 
+     Description : Développement d’une solution de gestion des projets et de test  de 
+                          matériaux au sien d’AUDI, cette application stock les détails de 
+                          matériaux, test de compatibilité, résultat de recherche de méthode de 
+                          soudure… 
+     Tâches :  
+ Estimation des charges et des délais 
+ Rédaction des spécifications détaillée 
+ Développement 
+ Mise en production et suivi 
+ Documentation Technique 
+    Technologies : PL/SQL, Oracle APEX. 
+     Environnement : Oracle 11g, Oracle APEX 4.2. 
+Janvier-Avril 
+2014 
+Société THINK TANK : Application de gestion des projets 
+     Description : Développement d’une solution de gestion des projets composée de              
+                         deux applications : 
+Progress tracking system (PTS) : cette première application fournit les 
+fonctionnalités nécessaires de gestion de projets, affectation de ressources, 
+planification des installations, gestion des tickets et la planification des congés. 
+Quality assurance system (PTS-QA) : préparation des tests unitaires, création 
+de tests suite (succession de tests unitaires). A chaque installation un test suite 
+doit être affecté (interface de l’application PTS), cette affectation génère la liste 
+de tests à effectuer pour la version encours. Elle offre des statistiques sur le 
+travail fait (pourcentage de succès et d’échec pour chaque membre du projet). 
+     Tâches :  
+ Membre de l'équipe architecture du projet  
+ Rédaction des spécifications détaillée 
+ Développement et code review 
+     Technologies : UML, Spring 3, JSF 2, apache poi, Icefaces 3, Hibernate 3, ant. 
+     Environnement : Eclipse indigo, MYSQL 5, Tomcat 6, CVS. 
+   Janvier-Mai 
+2014 
+Freelance : Application de gestion de stock (SMS) 
+     Description : Développement d’une application de gestion de stock (SMS : stock 
+                        management system) qui fournit les fonctionnalités de gestion de 
+                        produits classés par catégories, gestion et suivit de chiffre d’affaires 
+                        par client ou par fournisseur. Des alertes de manque du stock sont   
+                        déclenchées si le stock d’un produit attient  son stock minimal.  
+                        La préparation de devis et de facture ce fait  selon les Templates 
+                        prédéfinies pour chaque client (Excel et PDF).  
+     Tâches :  
+ Conception 
+ Développement et code review 
+ Mise en Prod et suivi 
+ Interface client 
+     Technologies: UML, Hibernate 4, Spring 4(Ioc, MVC), Spring Security 3, jQuery  
+                           easy ui, apache poi, jasperReport, Maven.  
+      Environnement : Eclipse Kepler, Tomcat 7, MySQL 5, iReport 5, SVN. 
+Mars- Décembre 
+2013 
+Société THINK TANK - application de gestion des registres de commerce 
+     Description : Développement d’une application de gestion des registres de commerce 
+                       De l’état tunisien. L’application est composée de deux parties : 
+RCL : installée dans tous les tribunaux du ministère de droits, elle fournit 
+les fonctionnalités de gestion des dossiers juridiques au sein de chaque 
+tribunal (personne physique ou morale). 
+RCC : installée dans toutes les API appartenant à l’INNORPI. Cette partie 
+est fondée sur la partie RCL en consommant les informations saisies dans 
+le but de fournir une vue globale sur le marché dans tous les domaines à 
+partir de fiche d’identité, bilan… Chaque personne qui désir avoir une idée 
+sur le domaine dont lequel il souhaite ouvrir son propre projet, peut 
+acheter les fiches ou les bilans de ses concourants des guichets des API ou 
+en visitant le portail de l’INNORPI. 
+     Tâches :  
+ Maintenance et suivi 
+ Rédaction des spécifications détaillée 
+      Technologies: UML, Hibernate 3, Spring 2, Struts1, JavaScript, JasperReport, ant. 
+       Environnement : Eclipse indigo, Oracle 10g, Tomcat 5, Talend 4, Unison, iReport, CVS. 
+Aout 2012-Février 
+2013 
+Société THINK TANK - Solution de vente en ligne 
+ Description : Implémentation d’une solution de vente en ligne dont les boutiques   
+                      peuvent s’inscrire pour présenter leurs services et articles ou pour  
+                      déclarer son partenariat. 
+                      L’application fournit les fonctionnalités paiement en ligne, de gestion de 
+                      commandes, personnalisation les modes de paiement. 
+                      Elle définit 3 espaces  selon le profile d’utilisateur :  
+BOS : shop back office : espace d’administration pour les boutiques. 
+BOA : Admin back office : espace d’administration des boutiques inscrites 
+Front office : espace client public, passer des commandes, payer en ligne, 
+réception des news… 
+     Tâches :  
+ Membre de l'équipe architecture du projet  
+ Rédaction des spécifications détaillée 
+ Conception 
+ Développement et code review 
+Technologies : UML, Hibernate 3, EJB 3, Clean-Ajax, JAX-RS, FOP, JavaScript 
+                          jQuery, JAAS, Maven. 
+Environnement : Eclipse indigo, MYSQL 5, Jboss7, SVN. 
+Février-Juin 
+2012 
+Société  INTERCOM CONSULTING -SAAS destinée aux agences de voyages  
+                                                                     (Stage PFE) 
+Description: Développement d'une application web sous forme d’un SAAS destinée  
+                    aux agences de voyages avec un back office commun pour toutes les 
+                    agences de voyages abonnés, développement d’un front office pour une 
+                    première agence cliente qui consomme les services fournis par le back  
+                    office et migration de données existantes dans une base de données  
+                    Access. L’application est divisée en modules selon la spécificité de métier. 
+                    L’abonnement aux services dépend des modules inclus. 
+                    Architecturalement parlant, l’application est composée d’un noyau 
+                    (kernel) du regroupe les fonctionnalités basiques et communes pour les 
+                    agences de voyages, chaque module est un projet nommé base_xxx 
+                    selon le domaine. 
+                      La préparation de livrable (delivery) se fait selon le build profiles du  
+                    client. 
+Tâches :  
+ Rédaction du cahier des charges 
+ Rédaction des spécifications détaillée 
+ Conception et développement 
+ Mise en Prod et suivi 
+Technologies: UML, JSF 2, Icefaces 3, Hibernate 3, Spring3 Ioc, Spring security3, 
+                         JAX-WS, Apache CXF, JasperReport. 
+Environnement: Eclipse indigo, MYSQL 5, tomcat 6, Talend 4, iReport, SVN. 
+COMPETENCES 
+Langages Java (SE, JEE), JavaScript, androïde, Flex, SQL, PLSQL. 
+Framework 
+Technologies Web 
+Hibernate, Spring, EJB3, JSF (Icefaces, PrimeFaces, RichFaces), Struts, Clean- Ajax, 
+Maven, jQuery easyui, ant. 
+Bases de données MySQL, Oracle 10g, SQLITE. 
+Serveurs Apache Tomcat, JBoss. 
+Systèmes 
+d'exploitation 
+Windows, Unix / Linux (Ubuntu). 
+FORMATION 
+2009-2012 ENSI 
+Elève ingénieur à l'Ecole Nationale des Sciences de l'Informatique 
+Option : SIC 
+2007 - 2009 IPEIB 
+Cycle Préparatoire aux grandes écoles d'ingénieurs à l’institut préparatoire aux études 
+d’ingénieur de Bizerte 
+Section : Mathématiques Physique 
+2007  Baccalauréat Mathématiques, Mention Bien. 
+LANGUES 
+Anglais Parlée : Bien maitrisée. Lue : Bien maitrisée. Ecrite: Bien maitrisée. 
+Français Parlée : Bien maitrisée. Lue : Bien maitrisée. Ecrite: Bien maitrisée. 
+Divers 
+    Sport, Internet, lecture, permis de conduite 

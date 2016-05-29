@@ -1,0 +1,74 @@
+Hassèn CHERIF  
+Ingénieur en Informatique 
+Né à Djerba, Tunisie, le 22/10/1990 
+Avenue de Madrid 
+1001, Tunis, Tunisie 
+  hassene.chrif@gmail.com – 00 216 96 59 55 50 
+Formation 
+09 / 2011 – 07 / 2014                                            
+09 / 2009 – 06 / 2011                                             
+  Juin  2009                                             
+Expérience professionnelle 
+ 07 / 2014 – 11 / 2015                                       
+ 02 / 2014 – 06 / 2014                             
+ 07 / 2013 – 08 / 2013                                       
+ 02 / 2013 – 03 / 2013                                       
+ 02 / 2012 – 04 / 2012                                       
+ 02 / 2012 – 04 / 2012                                       
+Formation d’ingénieur Informatique, ENSI : Ecole Nationale des Sciences de 
+l’Informatique, Manouba, Tunisie.    Filière : Réseaux et Systèmes Répartis (RSR),  
+Majeur de la promotion 2013/2014 avec la mention Bien 
+Cycle préparatoire aux études d’ingénieurs ; IPEIT : Institut préparatoire aux 
+études d’ingénieurs de Tunis. Filière : Math-Physique 
+Admis au concours national d'entrée aux écoles d'ingénieurs. Rang 325/3800 
+Diplôme Baccalauréat, Lycée 7 Novembre Houmet Souk Djerba – Tunisie. 
+Filières : Mathématique 
+Mention : Très bien 
+Chef de projet PHP – WebDesignbyMGI  La Marsa Tunisie 
+Contribution aux différentes activités de la société 
+- Etude, Conception et réalisation des sites web. 
+- Hébergement, test et référencement. 
+- Maintenance et mise à jour. 
+- Rédaction des manuels d’utilisations et assistance clients. 
+- Encadrement des stagiaires pour les projets de fin d’études.     
+Projet de fin d’études – WebDesignbyMGI  La Marsa Tunisie 
+Conception et développement d’un site web pour la gestion des annonces immobilières - 
+Foreclosure-Spain. 
+Outils : Symfony2.3, PHP5, HTML5, CSS3, JavaScript, jQuery, Ajax. 
+Stage d’immersion en entreprise – SQLI Services, Manouba Tunisie 
+Conception et développement d’un site web pour la gestion d’un annuaire des entreprises 
+électronique. 
+Outils : Symfony2.2, PHP5, HTML5, CSS3,  JavaScript.  
+Mini projet académique en PHP5 – ENSI 
+Développement d’un site web de location de voitures.  
+Outils : PHP5, HTML5, CSS3   
+Projet académique de développement en C – ENSI 
+Développement du jeu Mastermind en 2D 
+Outils : C, SDL, FMOD 
+Mini projet académique en  C++ – ENSI 
+Implémentation du jeu ‘Tour de Hanoï’ en orientée objet  
+Outils : C++, SDL 
+Compétences techniques 
+Langues 
+Centres d’intérêt 
+Langages de programmation : PHP5, C, C++, Pascal, Prolog, Assembleur, Unix Shell 
+Développement Web : PHP5,  HTML5, CSS3, Bootstrap,  JavaScript, Ajax 
+Technologies: Symfony2 
+CMS: WordPress, OpenCart, PrestaShop 
+Bases de données : SQL, PL/SQL, MySQL, Oracle, Bases de données réparties 
+Méthode de conception : UML 
+Gestion de version : Git 
+Systèmes répartis : RPC, RMI, CORBA, MOM, Web service 
+Réseaux : LAN, Modèle OSI, Protocoles de communication internet (TCP/IP, RIP, OSPF, RTP, RTCP, RTSP, 
+IPV6, IPV4...), Réseaux locaux (norme IEEE), Les algorithmes de routage QoS. 
+Divers : Ordonnancement temps réel, Recherche Opérationnelle, Complexité des algorithmes. 
+Arabe :  Langue maternelle 
+                      
+Français : Lu, écrit, parlé 
+                   
+Anglais : Lu, écrit, parlé 
+                
+Espagnol : Débutant 
+             
+Sport et loisirs : Tennis, Volley-ball, Natation, Cinéma, Casse-têtes. 
+Sciences : Mathématique, Physique. 

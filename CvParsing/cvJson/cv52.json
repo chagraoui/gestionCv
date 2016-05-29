@@ -1,0 +1,40 @@
+{
+  "age": 0,
+  "name": "Expérience professionnelle ",
+  "adresse": "tunis",
+  "mail": "abidi.meriem2@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "21693029561",
+  "skills": [
+    "c++",
+    "c",
+    "oracle",
+    "assembleur",
+    "jee",
+    "windows",
+    "vhdl",
+    "sql",
+    "eclipse",
+    "java",
+    "uml",
+    "linux",
+    "j2ee",
+    "scrum",
+    "html",
+    "mysql",
+    "pl/sql",
+    "jsf"
+  ],
+  "keywords": {
+    "java": 4,
+    "c": 5,
+    "oracle": 3,
+    "bizerte": 3,
+    "gp": 3,
+    "finance": 3,
+    "sql": 3
+  }
+}

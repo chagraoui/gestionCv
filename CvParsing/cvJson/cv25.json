@@ -1,0 +1,42 @@
+{
+  "age": 25,
+  "name": "Mohamed Raouadi                                                                             ",
+  "adresse": "tunis",
+  "mail": "mohamedraouadi@gmail.com",
+  "studies": [
+    "baccalauréat",
+    "ingénieur"
+  ],
+  "num": "52207851",
+  "skills": [
+    "c#",
+    "c++",
+    "css",
+    "dreamweaver",
+    "c",
+    "ubuntu",
+    "jee",
+    "windows",
+    "javascript",
+    "sql",
+    "eclipse",
+    "spring",
+    "java",
+    "asp.net",
+    "linux",
+    "php",
+    ".net",
+    "jpa",
+    "mysql",
+    "html",
+    "netbeans",
+    "jsf",
+    "ejb",
+    "centos"
+  ],
+  "keywords": {
+    "jee": 3,
+    "jsf": 3,
+    "juil": 3
+  }
+}

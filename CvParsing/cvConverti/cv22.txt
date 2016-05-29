@@ -1,0 +1,71 @@
+2014-2015                Diplôme National d’ingénieur : Génie logiciel  
+     Ecole Supérieure Privée d'Ingénierie et de Technologies(ESPRIT)  
+2007-2008                Maitrise en informatique appliquée à la gestion 
+  Ecole Supérieure des Sciences Economiques et Commerciales de Tunis (ESSECT) 
+2003-2004                Baccalauréat Mathématiques  
+                                Lycée Ibn Abi Dhieph – Téboursouk 
+Du 01/11/2008� Entreprise Camilleri Electricité �
+À Aujourd’hui Responsable IT  
+- Approvisionnement, Supervision, maintenance, entretien de l’ensemble des équipements 
+informatique 
+- Administration, Contrôle et dépannage des Systèmes et réseaux 
+- Assistance technique et formation du personnel sur les nouvelles Technoloqies adaptées 
+- Administration de Base de données et Gestion de stock et de parc automobile. 
+- Définition et planification des besoins logiciels 
+- Conception, Développment et mise en place de nouvelles solutions logicielles 
+Du 01/02/2008� Compagnie Tunisienne des Ressorts à lames « COTREL »�
+Au 30/04/2008 Stage de Projet de Fin d’études pour l’obtention de diplôme de Maitrise en 
+informatique de Gestion 
+Page 1/3 
+         
+Née le 01 Septembre 1985 à Téboursouk Béja 
+Résidence Essaâda Menzeh 7 Bloc F, appart 5 
+Tunis – Tunisie 
+Tel :     + 216 24 139 803 
+E-mail : manel.hammami7@gmail.com 
+Célibataire 
+Nationalité Tunisienne 
+Permis  B 
+En poste 
+EXPERIENCES PROFESIONNELLES 
+FORMATIONS 
+Du 01/07/2005� Office National De la Télédiffusion 
+Au 31/07/2005 Stage d'initiation à la vie Professionnelle 
+   Direction de la qualité et du développement de Réseaux : Service Informatique 
+Projets Réalisés 
+� Conception, Développement et mise en place d'un Workflow de Gestion, Suivi et Evaluation  des 
+projets dans le domaine de la signalisation ferroviaire.   
+JEE, Jbpm, JPA/Hibernate, MySqL, JBoss, JSF, HTML, CSS, Javascript    
+� Conception, Développement et mise en place d’une application de gestion de stock Magasin et 
+de parc-automobile 
+  Java, JDBC, MySQL 
+� Conception, Développement et mise en place d’une application de gestion de réclamation Client 
+Java, Scrum, SVN 
+� Conception, Développment et mise en place d’une application de Gestion d’absences des 
+étudiants 
+Java, JDBC, MySQL 
+� Développement d'une application Web : Gestion et suivi des machines et des ouvriers. 
+PHP, Mysql, Tomcat, CSS, HTML 
+Langage de programmation                           Java, C, php, sql 
+Technologies                                                      JEE (Servlet,  jsp …) 
+Librairie & Framework                                                 JSF, spring, JPA/Hibernate, JUnit 
+Web & Serveurs                                                Tomcat, WampServer, XML, HTML, CSS, JavaScript  
+Moteur de Workflow                     Jbpm 
+Enterprise Content Management (ECM)                    Nuxeo Platform 
+Système de Gestion����Base de Données (SGBD)  Oracle, Microsoft SQL SERVER, MySQL 
+Page 2/3 
+COMPETENCS TECHNIQUES 
+�����������	         Arabe   : Langue maternelle 
+          Français  : Professionnel 
+         Anglais  : Courant 
+          Allemand  : Notions de base 
+COMPE 
+       Musique : Grands classiques de la musique orientale, musique alternative. 
+       Navigation  internet : Actualités, articles scientifiques, mode, cuisine et Gastronomie 
+Méthodologies et Processus de développement     XP, Scrum, 2TUP 
+Systèmes d’exploitation               Windows, Linux (Redhat) 
+Réseaux informatiques                 Modèle OSI, TCP/IP, Cisco Networking : Certification CCNA2�
+���	��������������� ������ � �����������Merise, UML 
+������������������������������                             Eclipse, Netbeans 
+Page 3/3 
+CENTRES D’INTERETS 

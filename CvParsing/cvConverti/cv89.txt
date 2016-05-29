@@ -1,0 +1,126 @@
+Younes BEN TLILI 
+Portable : (+216) 97973692 
+ Email: ybentlili@gmail.com 
+Né le : 29/07/1987 
+Nationalité : Tunisien 
+Ingénieur Développeur Android 
+Résumé 
+- Développeur Android à très hautes compétences dans le domaine.  
+- Possibilité de gérer une équipe.  
+- Très motivant pour le travail collaboratif et associatif. 
+Objectifs 
+- Gérer une équipe des développeurs Mobiles dans une société à des très hauts nouveaux de 
+projets. 
+- Assurer  la qualité de son code, son développement. 
+Expérience professionnelle 
+Aout/2013 -- Aujourd'hui : Développeur Android 
+ Société : STREAMWIDE Tunisie 
+•  Projet Visual Voice Mail Client : 
+- Responsable sur le projet Android VVMC : Visual Voice Mail Client : Application de 
+messagerie vocale utilisé par plusieurs opérateurs dans le monde (SFR, Bouyougs : 
+France, Personal : Argentine…) : 
+- Rédaction de Spécifications Techniques et des Releases Notes pour le client pour le 
+Projet VVMC.         
+- Exemples Liens sur Google Play : ATT&T, SFR  
+Technologies utilisées : Android, Java, Standard OMTP, Protocol IMAP, Java Mail, SQlite, SVN, 
+Jenkins, Ant, Messagerie Vocale 
+•  Projet Bzoo Messenger : 
+- Bzoo Messenger est une application dédié à n’importe quel utilisateur à envoyer des 
+messages IP (text, fichier image, vidéo, audio....). 
+- Rédaction des spécifications techniques du Projet. 
+- Participation au développement du Projet. 
+- Lien sur Google Play : Bzoo Messenger . 
+Technologies utilisées : Android, Java, Protocol SIP, GSON, JSON, Jenkis, SQlite 
+•  Projet TOTR  : Team On The Run 
+- TOTR est une application dédié à une utilisation Business et permet d’envoyer des messages 
+IP (text, fichier image, vidéo, audio....). 
+- Rédaction des spécifications techniques du Projet. 
+- Participation au développement du Projet. 
+- Lien sur Google Play : TOTR 
+- Technologies utilisées : Android, Java, Protocol SIP, GSON, JSON, Jenkis, SQlite. 
+October 2013 -- Juin/2014: Enseignant  Master des Applications Mobile à 
+Institut Supérieur des Etudes Technologies de Rades   
+ Mission 
+•  Proposer des Travaux Pratiques Android Natif : 14 semaines 
+•  Enseigner un cours pour les applications Cross-Plateformes PhoneGap  
+•  Proposer des Travaux Pratiques Titanium  
+Septembre/2012  -- Juillet/2013 : Développeur Web et Mobile   
+ Société : Edatis Web Agency Tunisie 
+ Site Web : Ibiza Services   
+- Un site web pour localiser, acheter des biens dans l’île IBIZA situé en Espagne.  
+Environnement Technique : PHP, CMS PrestaShop 1.4.6, Jquery, CSS, SVN 
+ The4Cornes :    
+- Une application mobile à base de PhoneGap pour vendre des Sandwitch à Paris en France.  
+Environnement Technique : Android, iOS, PhoneGap, Jquery Mobile 
+ Emailing Edatis :    
+- Une application mobile en deux version Android et iOS natifs pour la plateforme Emailing 
+d’Edatis.  
+Environnement Technique : Java, Android, iOS, APNS, Objectif-c 
+Avril/2012  -- Septembre /2012 : Développeur et Chef de Projet Android   
+ Société : AXELARIS Tunisie 
+- Chef de Projet pour une équipe de 5 personnes 
+- Scrum Master  
+- Communication avec le PDG et la direction Marketing pour la spécification de besoins. 
+- Développement des applications Android pour l’équipement Setp Top Box STB. 
+ Launcher STB :    
+- Développer le launcher par défaut pour le STB.  
+Environnement Technique : Android,Java,Sqlite 
+ VOD: Video On Demand   
+- VOD est une application Android pour être en courant de derniers films et séries  
+Environnement Technique : Android,Java,Sqlite, Jackson Parser, EMD API 
+ Projet Jenkis + Redmine + GIT :    
+- Mise en place d’un environnement complet de travail à base de Jenkis pour l’intégration 
+continue et la géneration des apks, Redmine pour la gestion de projets et Git comme outil 
+de versionning. 
+ Décembre /2011  -- Février /2012 : Développeur Android   
+ Société : AnyPli Monsatir – Tunisie 
+- Développeur Android sous la responsabilité d’un Chef de Projet. 
+ Mplay3 :    
+- Mplay3 est une application Android que permet de télécharger et écouter des mp3 suite à 
+un abonnement facturé par les moteurs de Billing en France.  
+- Lien Mplay3 : Mplay3  
+Environnement Technique : Android, SAX Parser, Sqlite, Mobile Payment, GIT 
+ Capitales Quiz:  
+- C’est un jeu Offline que permet de localiser des capitales de Monde sur une carte en mode 
+Offline 
+- Lien Google Play : Capitales Quiz 
+Environnement Technique : Android,Java,Sqlite, JSON Parser, Sqlite, GIT 
+Etudes et diplômes 
+• 2008-2011 Cycle ingénieur en informatique 
+Etablissement : Faculté des sciences Tunis el Manar FST 
+Diplôme : Diplôme d'Ingénieur en Informatique 
+• 2006-2008 Cycle préparatoire aux études des ingénieurs 
+Etablissement : Ecole préparatoire IPEIM : Institut Préparatoire aux Etudes Ingénieurs Monsatir 
+Section : Mathématique Physique 
+• 2006 Baccalauréat 
+Etablissement : Lycée Ahd JADID Douz - Tunisie 
+Section : Mathématique 
+Mention : Bien 
+Domaines de compétences 
+Techniques :  
+• Technologies Mobiles : Android SDK, iOS, PhoneGap, Titanium, JqueryMobile, Sencha Touc. 
+• Langage de programmation : Java, Php, Objectif-c, C# 
+• Développement web : HTML, XML, Web Service, AJAX, JavaScript, XML, SAX, DOM, CMS 
+Prestashop 
+• Outils de développement: Netbeans, Eclipse, Android Studio, XCode. 
+• Système d'exploitation: Windows, Ubuntu, Mac OS. 
+• Conception : UML. 
+• logiciels de Versionning : SVN, GIT 
+Organisationnelles : 
+• Prise de décision, Sens de priorités, Analyse, Grande capacité de travail, Autonomie, Sens du 
+travail en équipe 
+Articles Publiés  
+• tunandroid.com  
+Divers  
+• Animateur de plusieurs sessions de formations avec les communautés Tunisiens Tunandroid et 
+Tunis-GDG 
+• Membre de l’équipe organisationnelle des évènements : DroidCon Tunis 2012, 2013 
+Langues 
+• Arabe : Langue maternelle 
+• Français : Très Bien 
+• Anglais : Très Bien 
+• Allemand : Débutant 
+Divers 
+• Lecture 
+•  Membre confirmé sur le site developpez.com 
+• Sports 

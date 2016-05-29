@@ -1,0 +1,21 @@
+{
+  "age": 0,
+  "name": "FORMATIONS ET DIPLOMES  ",
+  "adresse": "tunis",
+  "mail": "baccouche.sofiene@yahoo.fr",
+  "studies": [
+    "ingénieur"
+  ],
+  "num": "22732356",
+  "skills": [
+    "matlab",
+    "c++",
+    "c",
+    "pascal"
+  ],
+  "keywords": {
+    "c": 4,
+    "ingénieur": 3,
+    "maintenance": 6
+  }
+}

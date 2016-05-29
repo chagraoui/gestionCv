@@ -1,0 +1,116 @@
+ Nom et Prénom : HATMANI Karim 
+Situation Social : célibataire 
+Nationalité : Tunisien 
+Téléphone : +216 53 588 302  
+E-mail : hatmani_karim@hotmail.com 
+Curriculum vitae 
+ FORMATION 
+Obtention de diplôme Mastère de recherche en Génie du 
+Logiciel spécialité Systèmes Intelligents en Imagerie et Vision 
+Artificielle (SIIVA). (Institut supérieur d’informatique Ariana)  
+2011-2014: 
+Obtention diplôme d’ingénieur Génie Logiciel et Système 
+d’information à l’ISI (Institut supérieur d’informatique Ariana) 
+2010-2011 : 
+Premiers cycles (technicien supérieur en informatique d’ISET 
+Sousse) Obtention  de  diplôme  technicien  supérieur  en  
+informatique  de  l’institut supérieur des études technologique de 
+Sousse) 
+2005-2008 : 
+Baccalauréat en Science expérimentale 2005 : 
+COMPETENCES TECHNIQUES : 
+C#.net, VB.net, ASP mvc2.net, Java, C , VB6, SQL, 
+PL/SQL,TALEND, ABAP,APAP OO… 
+Langage de programmation : 
+Netbeans, Eclipse, Xcode , Interface Builder .Net … Environnement de 
+Développement: 
+Merise , UML2.0 ,  Processus unifié . Méthodologie : 
+Mysql, sqlserver 2005, oracle 10G Base de données : 
+Dreamweaver, HTML, XML, CSS, JavaScript, Jquery, Ajax, 
+ASP mvc.net, JSP, PHP, Google map API… 
+Concept et Outils 
+Multimédia et Web : 
+Crystal reports, jasper Outils de reportant : 
+J2EE, Linq (.net) Technologie Connu : 
+Windows,UNIX ,Mac OS Système d’exploitation : 
+SCRUM,  logiciel de gestion de versions:SVN Gestion du Projet : 
+SIG,DATA Warehouse ,ERP(SAP:ABAP) ,GED ... 
+Autre connaissance: 
+� Resume: Beau_Monde 
+� Page 2 | +216 53588302 
+Expériences Professionnelles  
+Déc. 2014 à   E-cherif  
+Fév. 2015      Ingénieur de développement Web (Symfony ,.Net) 
+Projets et Travaux Universitaires 
+ 2014 Projet de fin d’étude au sein du laboratoire SIIVA à l’ISI : Réalisation d’un 
+prototype d’aide au diagnostic du mélanome basé sur l’indexation  
+multidimensionnelle et la recherche des images couleurs. (Netbeans IDE, 
+Matlab, JMatlink, PostgreSQL). 
+2013 Création d’application Android Code de la route 
+2013 Mini Projet Site Web e-commerce Symfony2.0 
+2011 Projet Fin d’étude ingénieur de 6 mois au sein de Proxym-IT : développement   
+des jeux et de Framework de communication pour i phone en exploitant les 
+fonctionnalités de Game Kit 
+2011 Stage d’été au sein de HIKMA FOODS   et Création de 
+logiciel  de  traçabilité  de l’huile  d’olive(C#.net, SQL 
+server, technologie Linq)  
+2011 Mini projet  mise en place d’un site web de gestion des emplois de temps 
+(HTML, CSS, SQL server, C#, ASP mvc2, webservice, Java script, Ajax, Linq) 
+2010 Développement d’un site web pour agence de transport de colis (HTML, CSS, 
+SQL server, C#, ASP mvc2, webservice, Java script, Ajax, Linq) 
+2010 Mini projet Mise en place d’un portail web pour intermédiaire chez la bourse 
+(partie client desktop, partie web, partie webservice)(HTML, CSS, SQL 
+server#, ASP mvc2, webservice, Java script, Ajax, Linq) 
+2010 Mini  projet  Mise  en  Place  d’un  système  de  recherche d’image par 
+Contenu (segmentation d’image) avec l’architecture  client-serveur ( 
+NetBeans , MySQL, J2EE) 
+2009 Mini projet Mise en place d’un site web d’une agence de voyage en exploitant 
+les fonctionnalités de Google Maps API (HTML , Jsp ,jquery , java script, ajax , 
+J2EE , MySQL, Google maps api) 
+2009 Mini projet (réalisation d’un mini compilateur pascal : bison, Flex) 
+2009 Mini projet Conception et réalisation d’un programme de traitement d’image 
+sous  C++ 
+2008 PFE Gestion d’un System de Gestion Commercial de Société Pneu elHana : 
+Outils : VB.net, SQL server Conception : UML 
+2007 Stage technicien Réalisation d’application pour un médecin(Merise, VB6) 
+� Resume: Beau_Monde 
+� Page 3 | hatmani_karim@hotmail.com 
+STAGES  
+Stage de PFE 
+Mastère 2014 : 
+Période : 6 Mois 
+Société: SIIVA (Systèmes Intelligents en Imagerie et Vision 
+Artificielle) à l’ISI 
+Sujet : Réalisation d’un prototype d’aide au diagnostic du 
+mélanome basé sur l’indexation multidimensionnelle et 
+la recherche des images couleurs 
+Stage de PFE 
+ingénieur 2011 : 
+Période : 6 Mois 
+Société: Proxym-IT Sousse 
+Sujet : développement de jeu sur iphone 
+Stage ingénieur 
+2010 : 
+Période : 3 Mois 
+Société: Hikma Foods 
+Sujet : système de traçabilité de l’huile d’olive 
+Stage de PFE 
+technicien 2008 : 
+Période :5 Mois 
+Société: Pneu elHana 
+Sujet : System de Gestion Commercial 
+Outils : VB.net, SQL server Conception : 
+Stage technicien : 
+2007 
+Période : 1 mois 
+Société : développement informatique Sousse 
+Sujet : Système de Gestion de Cabinet d’un Médecin 
+Stage Ouvrier : 2006 Période : 1 mois 
+Etablissement : Hôpital Universitaire Farhat Hached 
+LANGUES 
+� Arabe Langue maternelle 
+� Français (lu, écrit, parlé) Assez bon 
+� Anglais (lu, écrit, parlé) Assez bon 
+DIVERS 
+� Sports : Football 
+� AUTRE : Membre de club freeways à ISI 

@@ -1,0 +1,44 @@
+{
+  "age": 0,
+  "name": "Ingénieur en informatique ",
+  "adresse": "tunis",
+  "mail": "mohamedmajdeb@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "25215398",
+  "skills": [
+    "c#",
+    "c++",
+    "css",
+    "c",
+    "qt",
+    "html5",
+    "android",
+    "photoshop",
+    "sql",
+    "eclipse",
+    "java",
+    "uml",
+    "asp.net",
+    "linux",
+    ".net",
+    "php",
+    "html",
+    "mysql",
+    "mvc",
+    "netbeans",
+    "css3"
+  ],
+  "keywords": {
+    "c#": 3,
+    "c": 6,
+    "framework": 3,
+    "sept": 3,
+    "web": 5,
+    "saventio": 4,
+    "net": 7,
+    "ingénieur": 3
+  }
+}

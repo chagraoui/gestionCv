@@ -1,0 +1,146 @@
+Assafar Abdelkrim                                                                                                                 
+  : 49, Rue de salé, 14000  Kenitra 
+      : (+212)668996716 
+@    : assafar.karim@yahoo.fr 
+          31 ans, Marié 
+Depuis Août 2011: Chef de service SI Bancassurance Groupe MAMDA-MCMA 
+Expériences  professionnelles                                                                  7 ans 
+Août 2011 
+A ce jour 
+Groupe MAMDA-MCMA  
+Chef de service SI : Département Vie & Banque Assurance.  
+ Outil  d’Aide à la décision – Reporting Commercial Bancassurance: 
+o Tâche :  
+- Validation du cahier des charges et du SFD 
+- Analyse et conception du projet. 
+- Développement et Encadrement des ressources. 
+- Tests unitaires/ Tests de non-régression. 
+o Framework & tech: Symphony 2, PHP5.  
+o Outils: Eclipse, Dreamweaver CS6, SqlServer 2005. 
+ Projet  Application mobile Epargne sous Android et IOS: 
+o Tâche :  
+- Analyse et conception du projet. 
+- Validation du cahier des charges et du SFD 
+- Conception des IHM Mobile.  
+- Développement et Encadrement des ressources. 
+- Tests unitaires/ Tests de non-régression. 
+o Framework & tech: PhoneGAP, JQuery Mobile.  
+o Outils: Eclipse, Dreamweaver CS6, SqlServer 2005. 
+ Projet  Produit Epargne Retraite : 
+o Tâche :  
+- Analyse et suivie du projet avec le prestataire(ARCHOS) 
+- Validation du cahier des charges et du SFD 
+- Validation de la conception et des interfaces de règlement 
+Sinistre/Rachat Total/Avance.  
+- Réalisation des Tests unitaires/ Tests de non-régression. 
+o Framework & tech : Hibernate, Struts.  
+o Outils: Eclipse, SVN,SqlServer 2005. 
+ Projet  Produit Décès & Hospitalisation : 
+o Tâche :  
+- Elaboration du cahier des charges et du SFD 
+- Analyse, conception et suivie du projet. 
+- Développement et Encadrement des ressources. 
+- Réalisation des Tests unitaires/ Tests de non-régression. 
+o Framework & tech : PHP5 
+o Outils: Dreamweaver CS6, SqlServer 2005. 
+ Projet Epargne Education : 
+o Tâche :  
+- Elaboration du cahier des charges et du SFD 
+- Analyse, conception et suivie du projet. 
+- Développement et Encadrement des ressources. 
+- Réalisation des Tests unitaires/ Tests de non-régression. 
+o Framework & tech : PHP5 
+o Outils: Dreamweaver CS6, SqlServer 2005. 
+ Projet  Rentes AT (Accidents du travail) : 
+o Tâche :  
+- Elaboration du cahier des charges et du SFD 
+- Analyse, conception et suivie du projet. 
+- Développement et Encadrement des ressources. 
+- Réalisation des Tests unitaires/ Tests de non-régression. 
+o Framework & tech : Microsoft .Net 3.5 , C# 
+o Outils: Visuel studio 2008, SqlServer 2005. 
+Septembre 2009 
+Août 2011 
+Eurafric-Information (EAI), DSI BMCE BANK 
+Analyste Programmeur Sénior  
+ Projet  E-TRADE / VIREMENT INTERNATIONAL : 
+o Tâche : Conception et réalisation des Services Asynchrones / 
+Synchrones +  Modification de l’application 4GL existante.  
+o Framework & tech : Hibernate,  création des services et interaction 
+avec un  middleware, EJB3, 4GL/Informix, iReport.  
+o Outils: Eclipse, Websphere Server, Oracle 10G, Informix, SVN, Maven. 
+ Projet REMISE DOCUMENTAIRE ET PORTE FEUILLE IMPORT : 
+o Tâche : Conception et réalisation de la solution avec INFORMIX/4GL.  
+o Outils & Tech: Ultra-Edit, Putty, Script Shell UNIX, 4GL,Informix,SVN. 
+ Projet CENTRALISATION DES TRANSFERTS  MRE : 
+o Tâche : Conception et réalisation de la solution.  
+o Outils & Tech: Ultra-Edit, Putty, Script Shell UNIX, 4GL, Informix, 
+SVN. 
+ Module Réalisation des Avis en Devise (département Développement banque) : 
+o Tâche : Traitement des Demandes d’évolution.  
+o Outils & Tech: Ultra-Edit, Putty, Script Shell UNIX, 4GL, Informix, 
+SVN. 
+Janvier 2008   
+Septembre 2009 
+CNIA ES SAADA Assurance  
+Analyste Programmeur Junior 
+ FUSION DE LA COMPTABILITE  D’ES SAADA ET CNIA ASSURANCE: 
+o Tâche : -   Programmation des packages et  procédures.  
+- Réalisation des interfaces comptables. 
+- Réalisation des interfaces entre la base production  et le 
+Logiciel CODA France. 
+o Framework & tech: Microsoft .net framework 2.0,Oracle, 
+PL/SQL,VB.NET. 
+o Outils: TOAD, Visual studio 2005. 
+ Migration de la base de données d’ES SAADA Assurance à CNIA 
+Assurance: 
+o Tâche : -  Réalisation des scripts de migration.  
+- Conception et réalisation des interfaces de migration. 
+o Framework & tech: Microsoft .net framework 2.0,Oracle, 
+PL/SQL,VB.NET. 
+o Outils: TOAD, Visual studio 2005. 
+ Conception et Réalisation d’une Calculette ASSUR’SANTE (déployée 
+dans les agences de CNIA Assurance) : 
+o Tâche : -   Réalisation des procédures stockées.  
+- Conception et réalisation des interfaces. 
+o Framework & tech: Microsoft .net framework 2.0, SQL Server, 
+PL/SQL, VB.NET. 
+o Outils: SQL Server Management Studio, Visual studio 2005. 
+ Site Web dynamique  - Assurance AMO/AMC   : 
+o Tâche : -   Réalisation des procédures stockées.  
+- Conception et réalisation des interfaces. 
+o Framework & tech: Microsoft .net framework 2.0, SQL Server, 
+PL/SQL, C#.NET, Aspx.net. 
+o Outils: TOAD, Visual studio 2005. 
+Formation 
+2007 –  2008                 Master2 Offshore Qualité  Logiciel à l’université Ibn Tofail, Faculté des sciences, Kenitra, Maroc. 
+2006 – 2007                  Master1 Offshore en Qualité  Logiciel à l’université Ibn Tofail, Faculté des sciences, Kenitra,Maroc. 
+2005 –  2006              Licence mathématiques et informatique, université Ibn Tofail, Faculté des sciences, Kenitra, Maroc. 
+2004 – 2005              DEUG en mathématiques et informatique, université Ibn Tofail, Faculté des sciences, Kenitra, Maroc  
+2002                             Baccalauréat en sciences mathématiques A -lycée ABDELMALEK ESSADI, Kenitra. 
+Formation complémentaire : 
+2009                            Formation .NET : 
+                                       Formation de 3 mois en asp.net, LinQ, WCF, WPF et Ajax extensions 
+Stages  
+2008 
+PFE : Stage de 6 mois au sein la CNIA Assurance : 
+Conception et Réalisation d’un site Web dynamique avec C# et ASP.NET. 
+2005  
+Stage de 2 mois dans un bureau comptable : 
+Conception et réalisation d’un système de comptabilité avec VB6.  
+Compétences Techniques 
+Système d’exploitation : 
+ Windows XP, Linux/Unix, MS-DOS, MACOS. 
+ Modélisation :  La méthode Merise et le langage UML2 
+Langages :  C/C++, Java, OpenGL, 4GL, SQL, PL/SQL, Java Script, HTML, PHP, C#, VB.NET,     
+WPF, WCF, Ajax extensions, ASP.NET, VB 6, Assembleur, tcl/ tk, Bash, JSP, J2EE. 
+Gestion : 
+ Gestion de projet, Gestion d’Entreprise, Marketing, Management, comptabilité (Bonne 
+Maîtrise du logiciel CODA). 
+SGBD :  Oracle (8i, 9i et 10g), Access, MySQL, SQL Server2000\2005, IMFORMIX. 
+Qualité :  Génie Logiciel, Processus Qualité et Processus Qualité du Logiciel. 
+Divers 
+Langue: 
+Arabe : Courant,   Français : Courant,   Anglais : Assez bien 
+Loisirs : 
+Natation, Internet 

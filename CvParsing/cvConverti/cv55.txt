@@ -1,0 +1,59 @@
+                 
+                                                                          
+ 2012/2015   : Cycle ingénieur en Génie informatique, option Génie Logiciel, ENSIAS, Rabat. 
+ 2010/2012   : Classes préparatoires aux grandes écoles, Khawarizmi filière MP à Rabat. 
+ 2009/2010   : Baccalauréat en sciences mathématiques option B, mention assez bien au  
+          lycée Moulay Youssef à Rabat. 
+ Février–Juillet 2015 : Projet de Fin d’Etudes au sein de l’Administration de la Défense Nationale
+            Gestion et automatisation des tâches et services liés à l’Active Directory  
+            Outils : Eclipse, JEE, Spring, Hibernate, Maven, JNDI, JSF, MySQL,  
+            PowerShell, Active Directory, JasperReport 
+ Juillet-Août 2014     : Stage d’ingénieur au sein de l’Office National des Chemins de Fer - Rabat
+           Refonte du module de contrôle des recettes FRET en technologie .NET 
+           Outils : Visual Studio, SQL Server, SSRS, C# 
+ Juillet-Août 2013     : Stage d’initiation au sein de l’Office National des Chemins de Fer - Rabat
+           Elaboration d’une politique de sauvegarde de données SI.   
+ Projet de fin de 2éme année du cycle d’ingénieurs : Amélioration et mise à jour de l’application de 
+gestion des emplois du temps pour un collège. (SQL Server, Visual Studio, C#) 
+ Projet de fin de 1ère année du cycle d’ingénieurs : Conception et réalisation d’une application de 
+gestion des emplois du temps pour un collège. (SQL Server, Visual Studio, C#) 
+ Projet BI : Création et mise en oeuvre d’un Data Warehouse pour l’analyse des données de vente sur 
+Internet. (SSAS, SSIS, SSRS, Visual Studio, C#) 
+ Projet compilation : Réalisation d’un mini-compilateur du langage Oberon 2 (langage C, Lex).  
+ Projet Système d’Information : gestion de stock d’un internat (Oracle 10g, Oracle Forms, PL/SQL). 
+ Projet intégration des processus (Workflow) : Modélisation du processus d’octroi bancaire. (Bonita) 
+ Langages de Programmation : C, C #, JAVA, JEE, JavaScript, CSS3, HTML5, XML, PL/SQL, SQL 
+ Systèmes d’Exploitation        : Linux (Fedora, Ubuntu), Windows. 
+ Modélisation                   : UML, MDA, Merise, Réseaux de Pétri, Design Patterns. 
+ Base de Données              : Relationnelles, objets, réparties, multimédias. 
+ Génie logiciel           : Génie logiciel Empirique, Assurance qualité des SI, notion en CMMI,
+             Cobit et ITIL                                             
+ Architectures                         : J2EE, MVC, CORBA, SOA. 
+ Gestion des Données             : MySQL, Oracle Database, SQL Server. 
+ Administration                  : administration Windows, administration Unix/Bases de données. 
+ BI                                           : Data WareHouse, OLAP, OLTP, JasperReports, SSRS. 
+ Mobiles                        : Android. 
+ Outils                           : Eclipse, MS project, PowerAMC, Rational Rose, Oracle Forms. 
+Langues :   Français : Très bon niveau           Arabe : Langue maternelle               Anglais : bon niveau 
+Membre de la cellule Prospection du Forum GENI 2014. 
+Lecture, Sport : Taekwondo, natation 
+ACHOUR Narjiss 
+Marocaine                                                                  
+23 ans, célibataire. 
+Adresse : Immeuble A2 app. 11 Hay El
+    Menzeh C.Y.M Rabat.                                                                                                                                       
+Mobile   : (+212) 06 40 52 20 45  
+Email     : narjiss.achour@gmail.com 
+                                                                                                                                                                 
+Email    : ismail.lahbabi.20@gmail.com 
+                
+                
+Ingénieur de l’Ecole Nationale 
+Supérieure d’Informatique et 
+d’Analyse des Systèmes (ENSIAS)  
+(Option : Génie Logiciel) 
+Formations 
+Projets réalisés 
+               Compétences  
+Expériences professionnelles 
+Centres d’intérêts 

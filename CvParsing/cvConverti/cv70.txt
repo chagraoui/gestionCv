@@ -1,0 +1,67 @@
+ Chaabene Sadek 
+Ingénieur  Informatique 
+Informations personnelles 
+Adresse   Rue Mohamed Béjaoui, Metline 7034, Bizerte-Tunisie. 
+Téléphone +216 50973722 
+Courrier électronique chaabene.sadek@gmail.com 
+Nationalité  Tunisienne 
+Date de naissance  16.07.1989 
+Compétences informatique 
+Langages de programmation JAVA /JEE ( Swing,  Hibernate, Spring , JSF , Struts), C/C++, PHP, 
+Javascript, Json, jQuery, dojo, Flex, HTML5, CSS3, Python, SQL, PL SQL  
+SGBD  MySQL, Oracle, PostgreSQL 
+CPOO: UML Rational Rose, Power AMC 
+Design & Animation Adobe Photoshop, Illustrator, Flash 
+IDE    Eclipse, Visual Studio, Netbeans, CodeBlocks, Dev C++, Dreamweaver 
+3D  Autodesk Maya, Unity 3D 
+Expériences 
+Professionnelles 
+A partir d’octobre 2014: 
+Ingénieur d’étude et développement à PicoSoft. 
+Développement d'un projet de gestion et de suivi de documents avec une  
+dashboard réalisé avec Java, Hibernate, JavaScript, dojo, HTML5, CSS3 , 
+Web Socket, les APIs Google Maps,  Google Charts et Highcharts. 
+Développement  de composants d’applications web avec JavaScript, dojo, 
+HTML5 et CSS3 qui consomment des web services REST écrits en Java. 
+Développement de modules d'applications Web: une API de notification, un 
+composant carte visite (tooltip), un composant TODO list basés sur 
+JavaScript (nodejs, dojo, AMD), JSON, Hibernate, Spring et SQL. 
+Conception et développement d'un module de test unitaire similaire à Qunit. 
+Langages : Java, Hibernate, Spring, REST, JAVASCRIPT(Dojo, nodejs), 
+SQL, JSON , jQuery, HTML5 Web Socket, Google Maps API. 
+Technologies : Eclipse, EasyPHP, SVN 
+Education et formation 
+Etudes Juin 2014 : Diplôme nationale d’ingénieur en Informatique & Multimédia de 
+l’ISAMM  (Institut Supérieur des Arts de Multimédia De Manouba). 
+Juillet 2011 : Licence fondamentale en Informatique & Multimédia en ISAMM 
+avec la mention assez bien. 
+Juin 2008 : Baccalauréat en sciences de l’informatique avec la mention bien. 
+Projets académiques Jeu Duck Hunter à base de C++ & la librairie SDL. 
+Projet  gestion de location de voitures avec ORACLE, SQL3 & PL/SQL. 
+Projet  gestion de scolarité avec Java (Hibernate, Spring & Swing).  
+Projet  CRM avec JEE (Hibernate, Spring, JSF, Primefaces). 
+Jeu Snake avec C++ & OpenGL. 
+Stages Professionnels Février 2014-Juin 2014 : 
+Stage de fin d’études au sein de la DPTE du STEG 
+Développement  d’une application web de suivi des unités de production de 
+la Société Tunisienne de l’Electricité et du Gaz (STEG). 
+Langages : JAVA /JEE(Hibernate, Spring, JSF, Primefaces, JavaMail), SQL, 
+JasperReports 
+Outils : Eclipse, Power AMC, iReport 
+Juin 2013-Septembre 2013 : 
+Stage ingénieur dans le laboratoire de recherche RIADI à l’ENSI. 
+Développement  d’une application d’extraction de réponse (SQR). 
+Langages : Java, Hibernate, Spring, Jena, … 
+Outils : Eclipse, TreeTagger, WordNet, Protégé, Lemur. 
+Avril 2011-Juin 2011 : 
+Stage de fin d’études au sein de la société SQL Expert. 
+Développement  d’un site web dynamique de vente de produits d’assurance. 
+Langages : PHP, JAVASCRIPT, SQL 
+Outils : Dreamweaver, Power AMC 
+Langues   Arabe (Langue maternelle) 
+    Français (Courant) : Niveau C1 TCF  
+    Anglais (Courant) 
+Activités & Intérêts  Sports : Natation & Football. 
+    Passions : Navigation Internet. 
+    Membre actif sur StackOverflow :  
+    http://stackoverflow.com/users/3669624/chsdk 

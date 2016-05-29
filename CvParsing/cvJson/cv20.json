@@ -1,0 +1,47 @@
+{
+  "age": 29,
+  "name": "Nom et Prénom : Oueslati Mounir ",
+  "adresse": "tunis",
+  "mail": "mounir.oueslati@outlook.fr",
+  "studies": [
+    "ingénieur",
+    "licence",
+    "baccalauréat"
+  ],
+  "num": "96741796",
+  "skills": [
+    "c#",
+    "css",
+    "dreamweaver",
+    "c++",
+    "c",
+    "oracle",
+    "html5",
+    "jee",
+    "windows",
+    "eclipse",
+    "sql",
+    "java",
+    "uml",
+    "xml",
+    "linux",
+    ".net",
+    "php",
+    "html",
+    "mysql",
+    "ejb",
+    "jsf",
+    "css3"
+  ],
+  "keywords": {
+    "css": 3,
+    "servlet": 3,
+    "primefaces": 3,
+    "réseaux": 4,
+    "html": 3,
+    "hibernate": 3,
+    "wpf": 3,
+    "béja": 5,
+    "jquery": 3
+  }
+}

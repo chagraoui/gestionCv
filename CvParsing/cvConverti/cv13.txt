@@ -1,0 +1,110 @@
+RIAHI Marwa  
+Rue Etaeib elmhiri 6170 Bargou Siliana  
++21620353961  
+marwoiriahi.rh@gmail.com  
+25 ans 
+Ingénieure en Réseaux Informatique et télécommunication 
+Formations 
+Etude universitaire : 2009 _2014 
+ INSAT : Institut des sciences appliquées et des technologies Diplôme : Diplôme national d’ingénieur 
+Spécialité : Réseaux informatiques et télécommunication Option : Multimédia dans les réseaux  
+Etude secondaire 
+ 2009: Baccalauréat : sciences expérimentales, Session principal, Mention: Très Bien 
+Expériences 
+Expérience professionnelle :  
+Octobre 2014-aujourd’hui : Ingénieur réseaux informatique et télécommunication chez Tulipe 
+Telecom  
+Au sein de cette société j’ai occupé le poste d’un intégrateur, avant-vente et formateur.   
+- Installation et configuration des équipements réseaux  
+- Supervision de Réseau 
+- Préparation et suivi des déménagements d'utilisateurs et de plate-forme serveur  
+- Maintien opérationnel des locaux techniques  
+- Participer aux projets de l’équipe réseau, téléphonie et visioconférence 
+- Assurer la sauvegarde régulière des configurations 
+- Réaliser les mises à jour réguliers des OS des équipements 
+- Garantir une documentation complète et à jour 
+- Gérer au quotidien tous les problèmes de maintenance  
+- Assurer un suivi détaillé  des projets 
+- Organiser les ateliers techniques et assurer le bon suivi 
+- Participer activement aux compagnes de Marketing et apporter du support à l’équipe commercial 
+- Participer aux événements et séminaires assurés par notre société et nos partenaires 
+- Travailler sur des compagnes de prospection à la recherche des nouveaux clients et mettre à jour les 
+bases prospects existantes  
+- Etre force de proposition auprès des clients afin de les aider à améliorer leurs systèmes d’information 
+et leurs proposer de nouvelles solutions à valeur ajoutée 
+ Expérience universitaire (les projets) 
+ Réseaux sans fils : Définition d’un ordinateur comme étant un point d’accès à travers une connexion 
+en mode ad hoc et notion de proxy.  
+Protocoles réseaux TCP-IP : Développement du protocole RIP  
+UML : Modélisation du jeu « presque parfait »  
+JEE : Université en ligne Processus Unifiés : Exchange  
+IHM (Interface Homme Machine) : Implémentation de « jeux d’échecs » avec Android  
+Data Mining : Implémentation de l’algorithme de l’arbre de décision avec Java  
+QoS (Qualité de service) : les réseaux de capteurs  
+PPP (Projet Personnel Professionnel) : 2011/2012 Configuration LDAP sous linux 
+ :2012/2013 Les attaques sur le cloud computing: étude, simulation et mise en place d’une solution 
+sous linux 
+Stage : 
+Février 2014 – Mai 2014 : Stage PFE à Tunisie Télécom (Direction Centrale Technique Kasba ) 
+:Développement d’un outil décisionnel pour la mesure, le suivi et la gestion du réseau 3G. Mention : 
+Tés Bien 
+ Juillet 2013 : Stage d’été ingénieur à Tunisie Télécom (Direction Centrale Technique Kasba ) : Mise 
+en place d’une maquette IP/MPLS  
+Juillet 2012 : Stage d’été à SOTETEL : Installation et configuration des équipements IP_MSAN  
+Aout 2010 : Stage ouvrier à Tunisie Télécom : Direction Régionale de Télécoms de Siliana 
+Certification : 
+Cisco : CCNA routing et switching ; CCNA voice  
+Microsoft : MCSA ; MCSE Lync  
+Polycom : PCVE 
+Compétences : 
+Réseaux et protocoles :  
+- Systèmes d’exploitation : Windows XP/7/8/server 2008 & 2012 /UNIX/LINUX (Les distribution        
+Ubuntu, Fedora, centOS, debian , backtrack…), 
+- Réseaux: DHCP, DNS, IPv4, IPv6, TCP, VLSM, NAT, OSPF, VLAN, Routing, Switching,   Firewalling. 
+IP/MPLS 
+- Administration : Active directory, High Availability, load balancing, monitoring 
+- Virtualisation : Vmware Vsphere / Workstation, Microsoft System Center / Hyper-V 
+-Sécurité : IDS, IPS, Nagios, Nessus, OpenVas, Proxy, DDoS, IPSEC, VPN 
+- Outils de surveillance: Nagios, Nessus, Openvas , NetFlow, Syslog et SNMP 
+ -Outils d’accès à distance : putty et Annyconnect  
+-Réseaux mobiles : GSM, GPRS, 3G, UMTS… 
+-Voip : SIP, H323, RTP, RTCP… 
+-Visioconférence : Microsoft Lync, Polycom, Lifesize, cisco 
+Programmation :  
+-Programmation procédurale : C, SHELL (Unix).  
+-Programmation orientée objet : C++, JAVA. -Plate-forme : J2EE.  
+-Technologies web : HTML, XML, SVG, SMIL, CSS3 
+ -Méthodes de conception : UML  
+-Persistante : Hibernate, JPA 
+ Framework et logiciels :  
+-Environnements de développement: Eclipse, NetBeans, CodeBlocks, VisualStudio2010, Unity, 
+Android  
+-framework : VTK, Polyora, Spring, Struts -SGBD: Access, Microsoft SQL Server 2008, MySQL, 
+Postgres, 
+ -Big Data : Hadoop 
+ -Outils décisionnels : Talend, QLIKview, Birt, JasperReport…  
+-Logiciels de conception: ArgoUML, StartUML, Entreprise Architecte  
+Maîtrise linguistique :  
+Arabe : Langue maternelle.  
+Français : Très bien  
+Anglais : Bien  
+Russe : Niveau Scolaire. 
+INERETS PERSONNELS 
+Intégrer des clubs et associations : 
+ C’est à fin d’améliorer l’esprit de travail collaboratif et de partager des taches et des connaissances.  
+-Trésoriére et responsable Fecebook du club Securinets de l’INSAT. 
+ -Participation à l’organisation de la journée nationale de la sécurité informatique (session 2012 & 
+2013)   
+Mini-projet : Scan des ports sous Android 
+Mini projet : nessus/openvas : collecte d’informations et parsing des rapports 
+Mini projet : Anti-malware evasion 
+Mini projet : Anti-malware evasion 
+Présentation : Sécurité des DMZ 
+- Membre du club Android de l'INSAT   
+Mini projet : SmartAgenda 
+- Membre du club LibertySoft de l'INSAT   
+Mini projet : simulation du protocole FTP sur Ubuntu 
+ Autres centres d'intérêt :  
+Lecture  
+Développement humain  
+Participation à des associations 

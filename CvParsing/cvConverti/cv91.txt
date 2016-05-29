@@ -1,0 +1,79 @@
+Ingénieur Stockage & Réseaux 
+Zied BOURGOU 
+Tél : +216 97 172 172  
+Email : bourgou.zied@gmail.com 
+Expériences professionnelles 
+02 Juin 2014 – Aujourd’hui Société Advancia IT System : Ingénieur stockage & sécurité 
+ Projets d’installation des serveurs, configuration des baies de stockage, administration des 
+machines virtuelles, refonte de l’infrastructure existante 
+ Projets de mise en place des solutions de sécurité Symantec Endpoint Protection sur des serveurs 
+en réplication avec des bases de données Microsoft SQL, configuration des politiques de 
+protection, migration des plateformes existantes 
+ Rédaction des offres techniques d’avant-vente qui concernent l’acquisition de matériel 
+informatique et de solutions logiciels avec la définition de l’architecture cible 
+ Assistance technique et dépannage 
+30 Juillet 2012 – 30 Avril 2014 Société Hewlett-Packard (HP) : Ingénieur stockage 
+ Configuration des baies de stockage HP MSA, EVA lors de la première installation 
+ Assistance technique des clients, des partenaires et des installateurs HP lors des interventions    
+d’intégration ou de mises à jour des firmware des baies de stockage HP 
+ Résolution des problèmes complexes sur les baies de stockage HP, tel que les problèmes de loop 
+et de performance 
+ Analyse des problèmes sur le réseau SAN sur les environnements Windows, Linux et VMware 
+ Analyse de performance sur le réseau SAN sur les switches fibres optiques HP, Cisco et Brocade 
+ Résolution des problèmes complexes sur les Blades HP et Virtual Connect 
+ Assistance technique et dépannage sur les réseaux SAN End-to-End (serveur-switch-baie)  
+Stages et projets de fin d’études 
+07 mars 2011 – 18 juin 2011 Société de Concepts & Communication 
+Projet de fin d’études ingénieur réseaux : « La Voix sur IP (VoIP) : Etude de faisabilité et   
+exploitation » (Processus de traitement, protocoles, paramètres, architectures) et développement d’une 
+application « Visioconférence » avec Windev 14 sur Windows XP 
+17 juin 2010 – 21 aout 2010 Société Horizon Informatique  
+Stage ingénieur réseaux : Installation de fibre optique, configuration des réseaux. Maintenance, 
+dépannage et réparation des ordinateurs, installation et configuration des systèmes d’exploitation 
+04 février 2008 – 21 juin 2008 Centre de Formation Technologique de Tunis 
+Projet de fin d’études technicien réseaux : « Implémentation d'une Infrastructure à clé Publique 
+(PKI) sur Windows Server 2003 et Ubuntu 7 » (Utilisation d’Active Directory, IIS et Outlook Express 
+sous Windows; OpenLDAP, OpenSSL et  Postfix sous Ubuntu) 
+01 juillet 2007 – 30 juillet 2007 Centre de  Commutation  Automatique  d’Ezzahra 
+Stage technicien réseaux : Étude du réseau téléphonique et du matériel du centre. Développement 
+d’une application : Gestion du personnel avec Visual Basic 6 et Oracle 8 
+Certifications 
+SUSE Certified Linux Administrator 
+HP Accredited Technical Professional BladeSystem Solutions Integrator V8.1 
+HP Accredited Technical Professional Server Solutions V1 
+HP Sales Certified Converged Infrastructure Solutions 
+CCNA Network Fundamentals 
+CCNA Routing Protocols & Concepts 
+CCNA LAN Switching & Wireless 
+CCNA Accessing the WAN 
+SSE+ Symantec Endpoint Protection 12.1 
+SSE+ Symantec Endpoint Protection Small Business Edition 
+SSE+ Symantec Backup Exec 2014 
+SSE+ Symantec Backup Exec 3600 Appliance 
+TOEIC (Test of English for International Communication)  
+Domaines de compétence 
+ NAS, SAN et DAS HP, Serveurs Proliant, Blade, Tower ; Baies de stockage, Switches FC et 
+ Windows (Server 2008, 2012, XP, Vista, 7, 8), Linux (Redhat, Suse, Ubuntu), VMware ESXi 
+ Symantec Endpoint Protection 
+ HP Sales Builder 
+ C#, C++, Java, .net, PHP, Adobe Flash, Adobe Dreamwaver, Windev 
+ Oracle Database, MySQL, Microsoft Access 
+ Rationnel Rose, AMC Designer 
+ Adobe Photoshop 
+Formations 
+Février 2015 Barcelone, Espagne 
+HP ExpertOne Technology & Solutions Summit (ETSS) 2015 
+Juin 2014 Barcelone, Espagne 
+HP ExpertOne Technology & Solutions Summit (ETSS) 2014 
+2008  -  2011  Ecole Centrale Polytechnique Privée de Tunis  
+Diplôme National d'Ingénieur Réseaux 
+2005  -  2008  Institut Supérieur d’Informatique 
+Diplôme Universitaire de Technologie en Administration des Systèmes et des Réseaux 
+2001  -  2005  Lycée secondaire de Borj Cedria 
+Diplôme de Baccalauréat en Mathématique 
+Langues 
+Arabe : langue maternelle 
+Français : Lu, parlé et écrit 
+Anglais : Lu, parlé et écrit 
+Centres d’intérêt 
+ Jeux vidéo, football, Internet, musique 

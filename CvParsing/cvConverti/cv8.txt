@@ -1,0 +1,76 @@
+Sakouhi Ghassen 
+Adresse : Ariana, Tunisie 
+Date de naissance : 27/05/1990 
+Tel : (+216) 24 394 103 
+E-mail: sakouhighassen@gmail.com 
+Ingénieur Informatique 
+Etudes et Diplômes : 
+• 2011-2014                    Elève ingénieur à l'Ecole Nationale des Sciences de l'Informatique        
+                                       (ENSI) Cycle de formation ingénieur. 
+• 2009-2011                    Études préparatoires à l'Institut Préparatoire aux Études d’Ingénieurs               
+                                        Montfleury IPEIT. 
+• 2009                             Diplôme de Baccalauréat section Mathématiques. 
+                                        Session principale, Mention très Bien. 
+Expérience Professionnelle : 
+Septembre 2014 – Mars 2015 
+Ingénieur développeur chez IDEE 
+- Conception du projet et réalisation des scripts SQL de création des tables oracle 11g.  
+- Participation au développement du module "Référentiel nomenclature " qui gère des 
+Référentiels communs à tous les modules.  
+- Conception et développement du module "Référentiel produit " : Permet le paramétrage 
+des commissions, opérations génériques de la banque ainsi que les produits mis à la vente.  
+- Conception et développement du module "Référentiel garanties et documents " : Permet le 
+paramétrage des garanties et des documents associés aux produits mis à la vente.  
+- Conception et développement du module "Demande Crédit " : Permet le paramétrage des 
+demandes : définition des produits mis à la vente, les devises disponibles et les opérations 
+autorisées de chaque demande. 
+ - Conception et développement d’une application web "Internet Banking" : Permet de donner 
+les moyens au grand public de pouvoir soumettre des demandes de souscription à des produits. 
+Technologies utilisées : Oracle database11GR2, Oracle developer suite 11G, PL/SQL,eclipse 
+Java Jee/jsf. 
+Stages : 
+Février - Mai 2014      Projet de fin d’études 
+                                 Sujet : Réalisation d’un générateur générique des flux XML  
+                                       au sein de la société Worldsoftgroup. 
+                                       Technologies utilisées : Java Jee/jsf, xml,xslt 
+Juillet - Aout 2013       Stage d’ingénieur au sein de la banque Tuniso-koweitienne. 
+                                       Sujet : Réalisation d’une application d’automatisation des        
+                                       virements multiples. 
+                                       Technologies utilisées : Forms oracle 10g, SQL developer. 
+Mars - Mai 2013          Projet de conception et développement (2ème année ENSI). 
+                                       Sujet : Réalisation d’une application de prise de rendez-vous chez 
+                                       un médecin. 
+                                       Technologies utilisées : Java Jee/jsp, Android. 
+Juin-Septembre 2012   Projet d'été 
+                                       Sujet : implémentation du jeu Snake. 
+                                       Technologies Utilisées : Java. 
+Janvier - Mai 2012       Projet du module programmation (1ere année ENSI). 
+                                       Sujet : implémentation du jeu Mastermind. 
+                                       Technologies Utilisées : C 
+Janvier - Mai 2012       Création d’un site Web dynamique (1ere année ENSI). 
+                                       Technologies Utilisées : HTML, CSS, PHP, MySQL 
+Domaine de compétences : 
+Langages de programmation : 
+Assembleur: 8086, MIPS. 
+Programmation orientée objet: C / C++, JAVA/JEE, C #, ASP.NET. 
+Programmation procédurale: C, SHELL (Unix), Pascal, Matlab, Maple. 
+Technologies web: HTML, XHTML, XML, CSS, PHP/MySQL 
+Base de données: SQL, PL/SQL, Oracle 10g. 
+Méthodes et langages de conception et d'analyse: UML. 
+Intelligence artificielle: prolog, lisp. 
+Framework et logiciels : 
+Environnements de développement : Microsoft Visual Studio 2010, Eclipse, Dreamweaver 
+PacketTracer , NetBeans 7.1. 
+Logiciels de conception : Power AMC Designer, ArgoUML. 
+SGBD : Oracle, Mysql. 
+Langues : 
+Arabe : lu, écrit et parlé. 
+Français : lu, écrit et parlé. 
+Anglais : lu, écrit et parlé. 
+Allemand: niveau scolaire. 
+Activités culturelles, associatives et centres d’intérêts : 
+Clubs et Associations Membre de plusieurs clubs universitaires (Microsoft, junior            
+entreprise). 
+                                     Membre du club d’animation de l’école AnimENSI. 
+Sports                          Tennis, Natation, Football.  
+Loisirs                         Voyage, Lecture, Musique. 

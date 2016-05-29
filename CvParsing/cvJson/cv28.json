@@ -1,0 +1,22 @@
+{
+  "age": 0,
+  "name": "curriculum vitae ",
+  "certif": "Novembre 2011 : Certificat en Innovation et Création d’Entreprise  ",
+  "adresse": "tunis",
+  "mail": "dhiflaoui_besma@yahoo.fr",
+  "studies": [
+    "baccalauréat"
+  ],
+  "num": "21628815900",
+  "skills": [
+    "excel",
+    "c",
+    "pack office",
+    "word",
+    "sql"
+  ],
+  "keywords": {
+    "iga": 4,
+    "sousse": 5
+  }
+}

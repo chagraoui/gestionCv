@@ -1,0 +1,93 @@
+Curriculum vitae                                                                                                                     Rajhi Meher  
+  Page 1 / 3  
+INFORMATION PERSONNELLE Rajhi Meher  
+ Menzah 5, Ariana, Tunisie  
+   +216 23 88  72 20 
+ rajhi.meher17@gmail.com  
+Sexe Masculin | Date de naissance 17/09/1987 | Nationalité Tunisienne  
+EXPÉRIENCE 
+PROFESSIONNELLE   
+POSTE VISÉ 
+PROFESSION 
+EMPLOI RECHERCHÉ 
+Ingénieur informatique développement logiciel 
+Du 26 Janvier 2015 jusqu’au 
+Aujourd’hui 
+Ingénieur développement JAVA/JEE 
+OpenCap, Lac Tana Tunisie 
+▪ Participation aux activités de conception et développement des applications Web JAVA/JEE. 
+▪ Participation aux workshops de suivi de projet. 
+▪ Correction des bugs et amélioration. 
+Technologies  Spring Roo, Spring MVC, Spring Security, Spring WebFlow, Hibernate, JPA, Javascript, HTML, JSF, 
+CSV, SVN, Jenkins. 
+Février 2014-Mai 2014 
+Stage de fin d’étude 
+Dalian Group, Tunisie 
+▪ Conception et développement d’une applocation Web  JAVA/JEE pour la gestion des ressources 
+humaines. 
+▪ Implémentation des modules de gestion d’activités et rapport de suivi, gestion,  des congés et des 
+absences, gestion des projets, gestion des candidatures et  gestion du paiement. 
+▪ Réalisation des différents Templates user interface de l’application. 
+Technologies   JEE7 ( JSF2.2, JPA 1.2, DAO, Hibernate, Spring,  Spring Security, Spring WebFlow ), Maven2, 
+Java, XML, XHTML, Tomcat 7, MySQL. 
+Juin 2013-Août 2013 
+Stage de perfectionnement 
+Union Internationale des banques Société générale (UIB), Lafayette, Tunisie 
+▪ Conception et développement d’une applocation Melody pour la gestion actif/passif de la banque.  
+▪ Implémentation d’une solution pour la gestion ALM de la banque pour la  gestion de l’ensemble de 
+ses actifs, passifs et hors-bilan. 
+▪ Passage vers la norme IAS. 
+▪ Mouvement vers une gestion de risques plus globalisée 
+Technologies Java, Java Swing, Oracle 10g. 
+Juillet 2012-Août 2012 
+Stage d’initiation 
+Biome Solar Industry (BSI), Menzah 5, Tunisie 
+Curriculum vitae                                                                                                                               Rajhi Meher  
+  Page 2 / 3  
+ÉDUCATION ET FORMATION   
+COMPÉTENCES 
+PERSONNELLES   
+ 2012 – 2014 
+2008-2012 
+                                       2006-2008 
+                                        Juin 2006 
+                                           
+Diplôme national d’ingénieur informatique  
+Ecole polytechnique centrale privée de Tunis  
+ Cycle ingénieur génie informatique 
+Faculté des sciences de Tunis 
+Etudes préparatoires 
+Institut préparatoire des études de l’ingénieur ElManar  
+Baccalauréat Section Mathématiques (Mention Bien)  
+Lycée Ibn Khaldoun Siliana 
+Langue(s) maternelle(s) Arabe 
+Autre(s) langue(s) COMPRENDRE  PARLER  ÉCRIRE  
+Écouter  Lire  
+Prendre part à une 
+conversation  
+S’exprimer oralement 
+en continu   
+Français C2 C2 C2 C2 C2 
+Anglais B2 B2 B1 B1 C1 
+ Niveaux: A1/2: utilisateur élémentaire - B1/2: utilisateur indépendant - C1/2: utilisateur expérimenté 
+Cadre européen commun de référence pour les langues 
+Aptitudes et compétences sociales Sociable, rigoureux, Bon esprit de synthèse, dynamique, créatif.  
+            et organisationnelles   
+Systèmes d’exploitation Windows, UNIX / LINUX 
+Langages de programmation C / C++, Java, Java Script, PHP, HTML, XML, XHTML, VB.net, CSS, PL / SQL, HQL, Assembleur, 
+ ARM, Servlet, JSP. 
+Frameworks J2EE ( JSF, JPA, EJB ), Hibernate, SpringFramework(Spring Security, Spring WebFlow, Spring MVC, 
+Spring Roo), Maven2, JUnit. 
+Réseaux SNMP, TCP/IP, Ethernet, Réseaux sans fil / Cellulaires 
+SGBD Oracle, MySQL, Postgres. 
+ Oracle, MySQL, Postgres. 
+Serveurs                              
+Conception 
+PLateformes                             
+Tomcat, JBoss, GlassFish. 
+UML, Merise. 
+Oracle/MySql, Oracle Forms, Dev-C++, Netbeans, Eclipse, XILINX, Word, Latex, PowerPoint, Excel, 
+Photoshop, DreamWeaver. 
+                    Outils de conception Rational Rose, Power AMC, StarUML. 
+Curriculum vitae                                                                                                                     Rajhi Meher  
+  Page 3 / 3  

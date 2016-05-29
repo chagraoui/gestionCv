@@ -1,0 +1,42 @@
+{
+  "age": 0,
+  "name": "     Elève Ingénieur en Informatique   ",
+  "adresse": "tunis",
+  "mail": "ben.mahfoudh.med.aymen@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "skills": [
+    "css",
+    "c++",
+    "c",
+    "oracle",
+    "html5",
+    "ubuntu",
+    "assembleur",
+    "windows",
+    "javascript",
+    "sql",
+    "eclipse",
+    "java",
+    "uml",
+    "linux",
+    ".net",
+    "php",
+    "html",
+    "mysql",
+    "netbeans",
+    "jsf",
+    "ejb",
+    "css3"
+  ],
+  "keywords": {
+    "oracle": 3,
+    "c": 3,
+    "el": 3,
+    "jsf": 3,
+    "ccna": 3,
+    "sql": 3
+  }
+}

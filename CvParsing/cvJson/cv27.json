@@ -1,0 +1,49 @@
+{
+  "age": 0,
+  "name": "Ingénieur Informatique  ",
+  "certif": "- Certification Cisco CCNA 1 - 2 version 2 ",
+  "adresse": "tunis",
+  "mail": "mimouni.mahmoud@gmail.com",
+  "studies": [
+    "ingénieur"
+  ],
+  "num": "22756840",
+  "skills": [
+    "c#",
+    "dreamweaver",
+    "c++",
+    "c",
+    "oracle",
+    "ubuntu",
+    "windows",
+    "javascript",
+    "sql",
+    "excel",
+    "java",
+    "xml",
+    "linux",
+    "php",
+    "mysql",
+    "html",
+    "wamp",
+    "word",
+    "wampserver",
+    "powerpoint"
+  ],
+  "keywords": {
+    "sgbd": 4,
+    "tunet": 3,
+    "windows": 6,
+    "ingénieur": 3,
+    "technicien": 3,
+    "éditeur": 4,
+    "java": 3,
+    "web": 11,
+    "zend": 3,
+    "php": 6,
+    "oral": 3,
+    "mysql": 7,
+    "maintenance": 3,
+    "sfax": 4
+  }
+}

@@ -1,0 +1,61 @@
+
+
+<page-title ng-if="layoutOptions.pageTitles" title="Nouveau Mail" description="Composer votre Mail"></page-title>
+
+
+<section class="mailbox-env">
+
+
+    <!-- Compose Email Form -->
+
+    <div class="mail-compose">
+
+        <form method="post" role="form">
+
+            <!-- Header Title and Button Options -->
+            <div class="mail-header">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <h3>
+                            <i class="linecons-pencil"></i>
+                            Composer un Mail
+                        </h3>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="to">À :</label>
+                <input type="email" class="form-control" id="to" tabindex="1" ng-model="mail.to" required />
+            </div>
+
+            <div class="form-group">
+                <label for="subject">Sujet :</label>
+                <input type="text" class="form-control" id="subject" tabindex="1" ng-model="mail.subject" />
+            </div>
+
+
+            <div class="compose-message-editor">
+                <label> Message :</label>
+                <textarea class="form-control" name="sample_wysiwyg" id="sample_wysiwyg" ng-model="mail.body" required></textarea>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-3">
+                    <button type="submit" class="btn btn-secondary btn-block btn-icon btn-icon-standalone" ng-click="envoyerMail(mail)">
+                        <i class="linecons-mail"></i>
+                        <span>Envoyer</span>
+                    </button>
+                </div>
+
+                <br><br>
+                {{msg}}
+
+            </div>
+
+        </form>
+
+    </div>
+
+</section>

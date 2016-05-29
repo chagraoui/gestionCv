@@ -1,0 +1,48 @@
+{
+  "age": 0,
+  "name": " 2012/2015   : Cycle ingénieur en Génie informatique, option Génie Logiciel, ENSIAS, Rabat. ",
+  "adresse": "",
+  "mail": "ismail.lahbabi.20@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "0640522045",
+  "skills": [
+    "css",
+    "html5",
+    "android",
+    "jee",
+    "sql",
+    "spring",
+    "java",
+    "uml",
+    "xml",
+    "linux",
+    "j2ee",
+    "mysql",
+    "html",
+    "mvc",
+    "pl/sql",
+    "c#",
+    "c",
+    "oracle",
+    "ubuntu",
+    "windows",
+    "javascript",
+    "eclipse",
+    "shell",
+    ".net",
+    "jsf",
+    "css3"
+  ],
+  "keywords": {
+    "c#": 4,
+    "rabat": 6,
+    "c": 4,
+    "oracle": 4,
+    "ssrs": 3,
+    "jee": 3,
+    "sql": 7
+  }
+}

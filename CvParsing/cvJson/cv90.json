@@ -1,0 +1,46 @@
+{
+  "age": 0,
+  "name": "JEMLI ARAFA AMIRA       ",
+  "adresse": "tunis",
+  "mail": "arafa.amira.jemli@gmail.com",
+  "studies": [
+    "baccalauréat",
+    "ingénieur"
+  ],
+  "num": "21698752695",
+  "skills": [
+    "c#",
+    "c++",
+    "c",
+    "oracle",
+    "pascal",
+    "virtualisation",
+    "sql",
+    "eclipse",
+    "spring",
+    "java",
+    "uml",
+    "xml",
+    "j2ee",
+    "netbeans",
+    "jsf",
+    "ejb"
+  ],
+  "keywords": {
+    "erp": 3,
+    "c": 4,
+    "sap": 22,
+    "vmware": 3,
+    "bi": 3,
+    "valeo": 3,
+    "roll": 3,
+    "mrp": 4,
+    "out": 3,
+    "sql": 5,
+    "bw": 6,
+    "veille": 3,
+    "sage": 4,
+    "informatica": 7,
+    "logistique": 4
+  }
+}

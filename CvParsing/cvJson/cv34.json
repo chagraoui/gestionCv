@@ -1,0 +1,29 @@
+{
+  "age": 0,
+  "name": "Systèmes d\u0027exploitation:",
+  "adresse": "",
+  "mail": "zioudisofien@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "0021621371178",
+  "skills": [
+    "java",
+    "c",
+    "oracle",
+    "jboss",
+    "uml",
+    "linux",
+    "php",
+    "mysql",
+    "jee",
+    "netbeans",
+    "sql",
+    "eclipse"
+  ],
+  "keywords": {
+    "oracle": 3,
+    "sql": 5
+  }
+}

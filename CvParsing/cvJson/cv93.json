@@ -1,0 +1,22 @@
+{
+  "age": 34,
+  "name": "MAHJOUB HAMZA ",
+  "adresse": "tunis",
+  "mail": "mahjoubhamza81@yahoo.fr",
+  "studies": [],
+  "num": "21625337498",
+  "skills": [
+    "excel",
+    "c",
+    "ios",
+    "word"
+  ],
+  "keywords": {
+    "paris": 4,
+    "cnam": 3,
+    "owliance": 3,
+    "–morison": 4,
+    "mutua": 3,
+    "économiques": 3
+  }
+}

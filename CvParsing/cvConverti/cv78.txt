@@ -1,0 +1,72 @@
+JLASSI HAMDA              
+N°2 Rue Beb Jdid    
+2080 Ariana – Tunis 
+Tél: (+216) 21 055 613 
+        (+216) 53 055 613 
+Mail: jlassihamda@gmail.com      
+Né le 29 Janvier 1990  
+ÉTUDES ET DIPLOMES:   
+Juin 2015 Titulaire de Diplôme National d’Ingénieur en Génie 
+ Informatique  
+2012-2015 Etudiant en Cycle d’Ingénieur en Informatique à L’école 
+ Polytechnique Sousse (Polytech) 
+ Spécialité: Génie Logiciel 
+2009-2012 Licence Fondamentale en informatique de Gestion à Institut 
+ Supérieur de Gestion de Sousse 
+Juin 2008 Baccalauréat science expérimentale. 
+ Lycée Ibn Rachik Kairouan 
+EXPERIENCES ET PROJETS                                                                                                      j  
+D’Octobre Nox Développement & Référencement 
+2015 -Développement d’une interface web sous le réseau  
+   local "WorkReport-nox" avec AngularJS    
+ -Mise en production du site: expressplombier.fr  sous Wordpress 
+ -Intégration et conception Template. 
+ -Référencement SEO. 
+ -Référencement (méthode black hat SEO). 
+ -Maintenances correctives et évolutives des sites web existant. 
+Du Janvier Lézard_com 
+2015 à Mai Stage fin d'études au sein de Lézard_com a technopole El Ghazela.  
+2015 Mention: Très Bien 
+ Sujet: Intégration et développement d’un site web magasine et 
+ d’annonce de voiture avec symfony 2.5 
+Du Juin 2014   Lézard_com 
+à Aout 2014 Stage d’été au sein de Lézard_com a technopole El Ghazela. 
+ Sujet: Intégration et développement d’un site web 
+Aout 2012 TUNISIANA 
+ Stage technicien au centre de transmission de données 
+Du Février  Cyber I   
+2012à Avril  Projet Fin d’études au sein de la société Cyber I. Mention très Bien. 
+2012 Sujet: Conception et développement d’un site web marchand. 
+Du Juillet  Ecole forum  
+2011à Aout  une formation professionnelle en VB.NET 
+2011 Tâches effectuées: 
+  Conception et Développement d’une application de gestion 
+ des comptes postaux. 
+Du 23 Juin La POSTE 
+à 23 Septembre         Stage ouvrier 
+2010  
+Projets: 
+ Intégration et Développement d’un site web (HTML5, css3, symfony2.2)
+ Développement d’un site web marchand de vente en ligne (HTML, PHP)
+ Développement d’une application Android permettant de gérer mon calendrier 
+personnel (Rappel, Notification,...)
+ Mise en place d’un système de supervision Open source (Nagios)
+ mini projet Interconnexion et sécurité informatique (l'outil ZAP sous Back Box)
+ Gestion d’un complexe sportif (C)
+ Gestion d'une application de la poste (VB.NET)
+DOMAINES ET COMPÉTENCES 
+Systèmes: WINDOWS, LINUX, ANDROID 
+Langages: C/C++, Java, JavaScript, Assembleur, Vhdl, HTML, PHP, SQL, PL\SQL,           
+Asp.Net, XML ,UML 
+Logiciels: Eclipse, Netbeans, PHP Storm, Turbo C, Oracle, Emu8086,     
+Dreamweaver, Photoshop, Easy-PHP, Joomla, Visual Studio, 
+SublimeText, VisualParadigm, Microsoft Visio  … 
+LANGUES 
+Français: Bon niveau  
+Anglais: Bon niveau  
+Allemand: Basique 
+Italien : Basique 
+Arabe Native 
+LOISIRS  
+Sports pratiqués :      Football, Basketball 
+Intérêts : Cinéma, animation 

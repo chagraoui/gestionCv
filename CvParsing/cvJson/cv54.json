@@ -1,0 +1,49 @@
+{
+  "age": 0,
+  "name": "2011 : Master Professionnel en Génie Logiciel  ",
+  "adresse": "tunis",
+  "mail": "ben.aziza.abir@gmail.com",
+  "studies": [
+    "baccalauréat",
+    "ingénieur"
+  ],
+  "num": "21751382",
+  "skills": [
+    "dreamweaver",
+    "c++",
+    "android",
+    "assembleur",
+    "jee",
+    "ios",
+    "symfony",
+    "sql",
+    "java",
+    "uml",
+    "xml",
+    "pack office",
+    "linux",
+    "html",
+    "mysql",
+    "netbeans",
+    "pl/sql",
+    "c",
+    "oracle",
+    "photoshop",
+    "windows",
+    "eclipse",
+    "excel",
+    "scrum",
+    "php",
+    "word"
+  ],
+  "keywords": {
+    "web": 7,
+    "mathématique": 3,
+    "medianet": 4,
+    "android": 5,
+    "mobile": 9,
+    "testlink": 3,
+    "maintenance": 3,
+    "sql": 3
+  }
+}

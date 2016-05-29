@@ -1,0 +1,65 @@
+Mohamed MAJDEB 
+Ingénieur en informatique 
+Né le 22 mars 1990 
+Tunisien 
+(+216) 25 215 398 
+(+216) 21 966 957 
+mohamedmajdeb@gmail.com 
+Rue Sidi Jebeli, Ariana Ville 
+Ariana 2080, Tunisie 
+Février 2014 – juin 2014 Masterpiece Projet de fin d’études  
+Développement des Applications Winforms en Vb.net et C#.net : 
+ Saventio Monitoring : Logiciel de surveillance de machine de forage. 
+ Saventio Manager : Un serveur pour gérer les logiciels installé sur chantier. 
+Développement des Application Web en ASP.Net Webforms et MVC4 : 
+ Saventio Extranet : Site web pour consulter l’évolution des travaux sur 
+chantier. 
+Saventio Manager: Version Web du logiceiel précendent. 
+Réference: Visiter le site web: https://www.srinext.com/ 
+EXPERIENCE PROFESSIONNELLE MY JOBS 
+Février 2015 – Aujourd’hui 
+Skype: mohamed.majdeb 
+Juillet 2014 – Fév 2015 
+Mes Etudes 
+Srinext Ingénieur Développeur .Net 
+Freelancer 
+MY STUDIES 
+Sept 2009 – juin 2011 
+Institut Supérieur de Sciences Appliquées et Technologie de Sousse (ISSATSO) 
+Sept 2011 – juin 2014 
+Concours sur dossier d’entrée aux cycles d’ingénieurs  
+Cycle préparatoire 
+Diplôme Baccalauréat Informatique 
+Institut Supérieur de Sciences Appliquées et Technologie de Sousse (ISSATSO) 
+ Développement d’une application de gestion commercial en C#. 
+ Schedule And Prayer Notifier : application Androïde. 
+ Développement d’une Application de chat en Androïde. 
+Diplôme d’ingénieur en informatique   Cycle ingénieur 
+Sept 2008 – juin 2009 
+Freelance 
+Conception et développement d'un tableau de bord LCD pour un véhicule 
+électrique hybride basé sur la plateforme Mikromedia Plus pour Stellaris ARM de 
+MikroElektronika (sans OS) et la BEAGLEBONE Noir (Linux OS modifié). Le tableau 
+de bord contient un compteur de vitesse, voyants, jauge de la batterie, jauge de 
+carburant, lecteur MP3, radio FM et GPS. 
+Technologies : C/C++, Qt, C embedded, Linux 
+Lycée Ibn Khaldoun, Médenine 
+Linkedin: Mon Profile 
+Centre d’intérêts   
+Magazines d’informatique, Internet et actualité. 
+Lecture 
+Langages de programmation : ASP.net, C#, VB.net, Web Service, HTML5, CSS3, 
+PHP5, JS, SQL, MySQL, C/C++, java, Android 
+Conception : UML, Merise 
+Framework: Framework .NET 4.0/4.5, Entity Framework, Telerik, Devexpress, 
+Symfony2(php) ,Bootstrap(CSS)  
+Design: Photoshop  
+Outils: Visual Studio , SQL Server , MySQL, Netbeans, Eclipse 
+Systèmes embarqués : BeagleBoneBlack, ARM, Arduino, C embarqué 
+FootBall, Workout. 
+Langues : 
+Arabe 
+Français 
+Anglais 
+Sport 
+Compétences 

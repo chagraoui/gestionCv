@@ -1,0 +1,83 @@
+Nom et prénom : Ayari Dhouha  
+Numéro de téléphone: (00216) 97 297 965  
+Mail : dhouha.ayari@gmail.com  
+Age : 27 ans 
+Permis de conduire : Oui  
+Adresse : 14 Rue Nelson Mandela Tunis 1002 
+INGENIEUR EN TELE-INFORMATIQUE (TELECOMMUNICATION-
+INFORMATIQUE) 
+Diplôme et formation 
+ 2014 : Diplôme national d’ingénieur en informatique et télécommunication  
+Institut Supérieure d’Informatique et de Techniques de communication (IsitCOM Hammam 
+Sousse) Sousse. 
+ 2011 : Première année master professionnelle en réseau et applications distribuées   
+Institut Supérieure d’Informatique et de gestion (Kairouan). 
+ 2010: Licence appliquée en informatique de gestion spécialité service en ligne (E-
+service). 
+Institut Supérieure d’Informatique (ISI Kef). 
+Expérience professionnelle 
+En cours (A.U 
+2015/2016)  
+Octobre 2014- 
+juin 2015  
+2014  Février-Mai 
+Enseignante vacataire à l’institut supérieur des études 
+technologiques du Kef (ISET)  
+ Enseignante vacataire à l’institut supérieur d’informatique  du 
+Kef (ISIK) 
+ Enseignante vacataire à l’institut supérieur des études 
+technologiques du Kef (ISET)  
+ Encadrement de cinq projets professionnels à l’institut supérieur 
+d’informatique du Kef (ISIK) 
+Cadre : Projet Fin d’études  
+Organisme d’accueil : Société format expert Sousse 
+2013  Juin Cadre : Stage Ingénieur 
+Organisme d’accueil : Tunisie Télécom 
+2010  Février-Mai 
+Cadre : Projet Fin d’études 
+Organisme d’accueil : Radio Tunisienne 
+2009  Juillet 
+Cadre : Stage d’été 
+Organisme : La poste Tunisienne   
+Projets et réalisation 
+2014 IsitCOM H.Sousse  
+Développement d’une application mobile d’organisation d’événement 
+(Doodle) 
+Développement d’une application mobile de communication (PFE).    
+           2013 IsitCOM H.Sousse  
+Développement d’une application web de gestion d’une base de données 
+Oracle 
+2012 
+IsitCOM H.Sousse  
+1) Développement d’un outil d’aide au dimensionnement d’un réseau 
+WIMAX 
+2) Création d’une application de paiement et control d’accès RFID dans 
+les autoroutes à l’aide de l’outil Flowcode. 
+3) Réalisation d’un compilateur sous le langage C++.  
+4) Réalisation d’une antenne Wifi directionnelle « antenne ricoré ». 
+2010 
+ISIKEF 
+Conception et développement d’un site web de la radio tunisienne  
+2009 ISIKEF 
+Réalisation d’une messagerie électronique.  
+Compétence techniques 
+Réseaux: Réseaux informatiques(Réseaux LANs, MANs, WANs cablé et sans fils, les 
+réseaux TCP/IP et la technologie IP)  Réseaux de télécommunication( RTC, 2G, GPRS, 
+EDGE, 3G, 4G) réseaux de capteurs, maitrise de l’outil de simulation Packet tracer, routage 
+statique, routage dynamique, configuration des routeurs et Switchs, configuration des Vlans, 
+câblage réseau informatique, configuration des serveurs DHCP ,Ftp, Dns, Messagerie, et http ; 
+connaissance en VPN et partage.     
+Systèmes d’exploitation : Unix,windows.  
+Technologies Web : HTML, XML, JSP, PHP, JavaScript, CSS. 
+Bases de données : SQL (LDD, LMD, LCD), PL/SQL, MySQL, Oracle 
+Environnements de Développement : Eclipse, NetBeans, CMS (Joomla), Dreamweaver, Android. 
+Langages de programmation: Java, Pascal, Php, C. 
+Modèles de conception: UML, Merise. 
+Bureautique : Suite bureautique Microsoft 
+Connaissance générale : gestion, analyse et optimisation des projets, technologies 
+d’identification par radio fréquence, Algorithmique, codage, commutation, modulation et 
+multiplexage  
+Certifications 
+2014 : CCNA Exploration niveau 1.   
+2013 : C2i. 
+Langues  Français (bon niveau)  / Anglais (bon niveau)  

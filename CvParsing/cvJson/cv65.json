@@ -1,0 +1,38 @@
+{
+  "age": 0,
+  "name": "Experiences professionnels ",
+  "adresse": "tunis",
+  "mail": "jihed.jellali@gmail.com",
+  "studies": [
+    "licence",
+    "baccalauréat"
+  ],
+  "num": "21627794035",
+  "skills": [
+    "c",
+    "oracle",
+    "ubuntu",
+    "android",
+    "ios",
+    "windows",
+    "javascript",
+    "eclipse",
+    "sql",
+    "java",
+    "uml",
+    "xml",
+    "linux",
+    "html",
+    "mysql",
+    "centos",
+    "packet tracer"
+  ],
+  "keywords": {
+    "bouzid": 3,
+    "web": 3,
+    "réseaux": 4,
+    "telecom": 4,
+    "windows": 3,
+    "sidi": 3
+  }
+}

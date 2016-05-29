@@ -1,0 +1,40 @@
+{
+  "age": 0,
+  "name": "Ingénieur réseaux et télécommunication  ",
+  "certif": "2014 : Certificat CCNA 1 (2,3 et 4 en cours ) ",
+  "adresse": "tunis",
+  "mail": "zouhair.gouid@tunisietelecom.tn",
+  "studies": [
+    "ingénieur",
+    "licence",
+    "baccalauréat"
+  ],
+  "num": "21654191108",
+  "skills": [
+    "matlab",
+    "css",
+    "c",
+    "html5",
+    "windows",
+    "javascript",
+    "eclipse",
+    "java",
+    "uml",
+    "scrum",
+    "php",
+    "html",
+    "netbeans",
+    "packet tracer",
+    "css3"
+  ],
+  "keywords": {
+    "tounissiet": 3,
+    "télécommunication": 3,
+    "réseaux": 4,
+    "telecom": 6,
+    "lte": 3,
+    "ingénieur": 5,
+    "cisco": 3,
+    "technicien": 3
+  }
+}

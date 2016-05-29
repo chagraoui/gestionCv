@@ -1,0 +1,140 @@
+02/02/2016  Page 1/4 
+M HAMDI BACCOUCH 
+27 ans,  
+Célibataire 
+Tunisien 
+Baccouch.hamdi1@gmail.com 
+00216 25 392 483 
+Ingénieur logiciel  
+Conception et Développement Systèmes d’Information 
+1 an d’Expérience 
+PROFIL 
+  Analyse et étude des besoins fonctionnels et techniques. 
+ Conception et développement de solutions logicielles. 
+ Bonnes connaissances fonctionnelles et rédactionnelles. 
+ Bonne assistance à la mise en place de système d’information. 
+ Bonnes connaissances des outils de développement. 
+ Bonnes connaissances sur les technologies du Web. 
+ Bonnes connaissances sur les technologies Clients lourds. 
+DIPLOMES ET FORMATIONS 
+2013 
+2010  
+Diplôme Mastère Recherche en Informatique Mention (ISIG Kairouan) T-Bien 
+(rang : 2) 
+Diplôme Licence fondamentale en Science informatique (ISIM Monastir) 
+Mention T-Bien. (Majeur de classe)  
+Baccalauréat 2006 Baccalauréat Mathématiques –Mention Bien. 
+EXPERIENCE PROFESSIONNELLE  
+De 01/2015 à ce jour : Développeur logiciel    OXIA 
+Projet 
+Application web Oxia 
+Client  Oxia (projet en interne) 
+Responsabilités 
+: Solution web permettant de gérer : 
+- Le transport des collaborateurs des différents lieux : 
+ Gestion des inscriptions (ajout/modification/Suppression). 
+ Gestion des itinéraires 
+ Synthèse et suivi des collaborateurs, itinéraires, demandes 
+d’inscriptions 
+ Notifications et mailing 
+ Accès par badge pour chaque bus.  
+- Le covoiturage entre différents collaborateurs. 
+02/02/2016  Page 2/4 
+Environnement 
+ Gestion des collaborateurs 
+ Gestion des destinations et des accords 
+ Notifications et mailing  
+- Les demandes au coursier. 
+ Gestion des demandes. 
+ Gestions des priorités et des urgences 
+ Suivi et Synthèse des demandes 
+ Notification et Mailing 
+: Symfony2, Mysql, HTML, CSS, AJAX, Javascript, SVN 
+Projet 
+DVIOO: DataVIOO  
+Client   Oxia (projet en interne) 
+Responsabilités Solution d’entreprise reporting : 
+- Préparation et rédaction de la SPEC.  
+- Préparation de l’architecture et du modèle des données. 
+- Réalisation des jobs permettant l’intégration des données des différentes 
+sources des données. 
+- Maitrise des SGBD : Oracle, MySQL, PostgreSQL.    
+- Génération des rapports de statistiques et de suivi. 
+Environnement : MySql, Oracle 10g, Talend, JasperReports 
+Projet OPM : Oxia Project Manager  
+Client   Oxia (projet en interne) 
+Responsabilités Solution OPM - version client lourd: 
+-  Conception et développement de processus métiers en mode TMA 
+-  Conceptions et analyses techniques 
+Environnement 
+ - développement sur des logiciels applicatifs dont certains avec IHM. 
+-  développement de nouvelles fonctionnalités C++ QT, 
+-  conception et du développement des nouvelles interfaces, 
+-  prise en charge des tests, 
+-  intégration et de la validation du logiciel, 
+-  documentation technique associée. 
+: Environnement Centura GUPTA, Oracle 10g, JasperReports, Jenikins, SVN, 
+Mantis, C et C++ 
+Projet 
+Encadrement et suivi des projets 
+Responsabilités Encadrer des élèves ingénieurs dans leurs PFE. 
+De 09/2013 à 12/2014 : Enseignant vacataire  Iset Mahdia 
+Matières 
+enseignée 
+: Intelligence artificielle, base des données, base des données avancée. 
+Projets académiques 
+Projet Classification non supervisée basée sur la densité (Projet de recherche) 
+MIRACL (Multimedia Information systems and Advanced Computing Laboratory) 
+Sfax, Tunisie 
+02/02/2016  Page 3/4 
+Responsabilités - Etude détaillée des algorithmes évolutionnaire et ses différentes familles 
+(les algorithmes génétiques, la programmation évolutionnaire, les stratégies 
+d’évolution). Ainsi que leur application au problème de classification 
+automatique. 
+- Etude détaillée des différentes approches de classification non supervisée et 
+en particulier les algorithmes basés sur la densité. 
+- Proposer un nouvel algorithme basé sur l’algorithme DBSCAN pour la 
+détection des clusters de densité variables. 
+- Implémentation avec le logiciel R et évaluation sur des bases de données 
+réelles ainsi artificielles. 
+Projet Stage de Projet de Fin d’Etudes  
+SIMAC (Société de l’Informatique de Management et de Communication) 
+Tunis, Tunisie. 
+Responsabilités - Conception et développement d’un logiciel de gestion électronique des 
+documents (GED). 
+Technologies utilisés : Oracle 10g et JSF. 
+COMPETENCES TECHNIQUES 
+LANGUES MAITRISEES 
+Anglais Lu, écrit et parlé 
+Français Bilingue 
+Arabe Bilingue 
+Domaine Sous-domaine Nombre de 
+Projets 
+Nombre 
+d’année 
+Architectures Architecture Client/Server,  
+Architecture n-tiers 
+Langages C/C++ 
+HTML/CSS 
+Java/JEE 
+PHP(Symfony2) 
+Talend 
+R(Calcul Scientifique et traitement des bases des 
+données de grande taille ) 
+Méthodologies et 
+système de 
+qualité 
+Merise 
+Système Base de 
+données  
+Oracle 8i//10g/11g 
+MySQL 
+Firebird 
+      
+Systèmes 
+Exploitations 
+Win 7,8 Linux (ubuntu) 10 
+02/02/2016  Page 4/4 
+ Activités extra-professionnelles 
+Sport Football, Natation 
+Loisirs Music, Voyage 

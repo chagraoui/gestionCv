@@ -1,0 +1,209 @@
+
+
+<page-title ng-if="layoutOptions.pageTitles" title="Profil" description=""></page-title>
+
+<!-- **************** profile postulant ************* -->
+<section class="profile-env">
+
+    <div class="row">
+
+        <div class="col-sm-3">
+
+            <!-- User Info Sidebar -->
+            <div class="user-info-sidebar">
+
+                <a href="" class="user-img">
+                    <img src="assets/images/user-4.png" alt="user-img" class="img-cirlce img-responsive img-thumbnail" />
+                </a>
+
+                <a href="" class="user-name">
+
+                    {{profilData.profil.nom}}
+                </a>
+
+                <!--<span class="user-title">-->
+                <!--CEO at <strong>Google</strong>-->
+                <!--</span>-->
+
+                <hr />
+
+                <ul class="list-unstyled user-info-list">
+                    <li>
+                        <i class="fa-home"></i>
+                        {{profilData.profil.adresse}}
+                    </li>
+                    <li>
+                        <i class="fa-birthday-cake"></i>
+                        {{profilData.profil.age}}
+                    </li>
+                    <li>
+                        <i class="fa-envelope"></i>
+                        {{profilData.profil.email}}
+                    </li>
+                    <li>
+                        <i class="fa-phone"></i>
+                        {{profilData.profil.tel}}
+                    </li>
+                    <li>
+                    <div class="form-group">
+                        <input type="submit" name="submit" value="Contacter via Mail" ng-click="formEnvoyerMail()" class="btn btn-success" style="float: right; width:200px">
+                    </div>
+                    </li>
+                </ul>
+
+                <hr />
+</br>
+                <!-- *********** form pour envoyer un mail au postulant en utilisant ng-show *********** -->
+                <form role="form" method="post" class="validate" ng-show="myFormMail">
+
+                    <div class="form-group">
+                        <label for="to">À :</label>
+                        <input type="email" class="form-control" id="to" tabindex="1" ng-model="profilData.profil.email" required  />
+                    </div>
+
+                    <div class="form-group">
+                        <label for="subject">Sujet :</label>
+                        <input type="text" class="form-control" id="subject" tabindex="1" ng-model="mail.subject" />
+                    </div>
+
+
+                    <div class="compose-message-editor form-group">
+                        <label> Message :</label>
+                        <textarea class="form-control" name="sample_wysiwyg" id="sample_wysiwyg" ng-model="mail.body" required></textarea>
+                    </div>
+                        <div class="form-group" align="right">
+                            <button type="submit" class="btn btn-success" ng-click="envoyerMail(mail, profilData.profil.email)">
+                                Envoyer
+                            </button>
+                        </div>
+                    {{msg}}
+                </form>
+
+            </div>
+
+        </div>
+
+        <div class="col-sm-9">
+
+            <!-- User timeline stories -->
+            <section class="user-timeline-stories">
+
+
+                <!-- Timeline Story Type: Status -->
+                <article class="timeline-story">
+                    <i class="fa-paper-plane-empty block-icon"></i>
+                    <!-- User info -->
+                    <header>
+                        <a href="" class="user-img">
+                            <img src="assets/images/user-4.png" alt="user-img" class="img-responsive img-circle" />
+                        </a>
+
+                        <div class="user-details">
+                            <h3><strong>Diplômes :</strong> </h3>						</div>
+                    </header>
+                    <div class="story-content">
+                        <table style="width:100%">
+                            <tr>
+                                <td><strong>Diplôme</strong></td>
+                                <td></td>
+                                <td><strong>Année d'obtention</strong></td>
+                            </tr>
+                            <tr ng-repeat="dip in profilData.profil.diplomes">
+                                <td>{{dip.nom}}</td>
+                                <td></td>
+                                <td>{{dip.dateObtention}}</td>
+                            </tr>
+                        </table>
+                    </div>
+                </article>
+
+
+                <article class="timeline-story">
+                    <i class="fa-paper-plane-empty block-icon"></i>
+                    <!-- User info -->
+                    <header>
+
+                        <a href="" class="user-img">
+                            <img src="assets/images/user-4.png" alt="user-img" class="img-responsive img-circle" />
+                        </a>
+
+                        <div class="user-details">
+                             <h3><strong>Certifications :</strong> </h3>						</div>
+                    </header>
+                    <div class="story-content">
+
+                        <div ng-repeat="certif in profilData.profil.certifications">
+                            {{certif.nomCertif}}
+                        </div>
+
+                    </div>
+                </article>
+
+
+                <article class="timeline-story">
+
+                    <!-- User info -->
+                    <header>
+                        <a href="" class="user-img">
+                            <img src="assets/images/user-4.png" alt="user-img" class="img-responsive img-circle" />
+                        </a>
+
+                        <div class="user-details">
+                            <h3><strong>Compétences & Connaissances</strong> </h3>
+                        </div>
+                    </header>
+                    <div class="story-content">
+
+                        <div class="story-album">
+
+                            <ul>
+                                <li ng-repeat="experience in profilData.profil.technologies">
+                                    {{experience.nomTechno}}
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </article>
+
+
+
+                <article class="timeline-story">
+
+                    <i class="fa-paper-plane-empty block-icon"></i>
+
+                    <!-- User info -->
+                    <header>
+
+                        <a href="" class="user-img">
+                            <img src="assets/images/user-4.png" alt="user-img" class="img-responsive img-circle" />
+                        </a>
+
+                        <div class="user-details">
+                             <h3><strong>Expérience dans chaque domaine :</strong> </h3>						</div>
+                    </header>
+
+                    <div class="story-content">
+                        <table style="width:100%">
+                            <tr>
+                                <td><strong>Domaine</strong></td>
+                                <td></td>
+                                <td><strong>Expérience (nombre d'année)</strong></td>
+                            </tr>
+                            <tr ng-repeat="exp in profilData.profil.experiences">
+                                <td>{{exp.domaine}}</td>
+                                <td></td>
+                                <td>{{exp.nbrAnsExp}}</td>
+                            </tr>
+                        </table>
+                    </div>
+                </article>
+
+            </section>
+
+        </div>
+
+    </div>
+
+</section>
+
+

@@ -1,0 +1,26 @@
+{
+  "age": 29,
+  "name": "",
+  "adresse": "tunis",
+  "mail": "nabli.hatem@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "skills": [
+    "c",
+    "oracle",
+    "jee",
+    "ios",
+    "sql",
+    "eclipse",
+    "java",
+    "shell",
+    "uml",
+    "linux",
+    "j2ee",
+    "jsf",
+    "ejb"
+  ],
+  "keywords": {}
+}

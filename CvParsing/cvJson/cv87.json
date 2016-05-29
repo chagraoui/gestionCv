@@ -1,0 +1,53 @@
+{
+  "age": 0,
+  "name": "Chef De Projet / Développeur Web Sénior / Formateur ",
+  "adresse": "tunis",
+  "mail": "w.ourimi@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "0021622920458",
+  "skills": [
+    "css",
+    "html5",
+    "symfony",
+    "sql",
+    "java",
+    "xml",
+    "linux",
+    "html",
+    "mysql",
+    "netbeans",
+    "mvc",
+    "c#",
+    "rest",
+    "c",
+    "ubuntu",
+    "windows",
+    "javascript",
+    "eclipse",
+    "php",
+    ".net",
+    "angularjs",
+    "symfony2",
+    "word",
+    "css3",
+    "soap"
+  ],
+  "keywords": {
+    "rest": 5,
+    "ubuntu": 4,
+    "symfony": 8,
+    "ajax": 3,
+    "jquery": 3,
+    "apache": 4,
+    "web": 10,
+    "codeigniter": 3,
+    "php": 5,
+    "mysql": 7,
+    "doctrine": 3,
+    "netbeans": 4,
+    "webservice": 3
+  }
+}

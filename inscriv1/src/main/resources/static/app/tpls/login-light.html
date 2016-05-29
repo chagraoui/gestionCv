@@ -1,0 +1,119 @@
+<!--<div ng-style="{'background-image':'url(https://wallpaperscraft.com/image/moon_clouds_sky_black-and-white_6442_1920x1200.jpg)'}">-->
+<div class="login-container">
+
+	<div class="row">
+
+		<div class="col-sm-6">
+
+			<script type="text/javascript">
+				jQuery(document).ready(function($)
+				{
+					// Reveal Login form
+					setTimeout(function(){ $(".fade-in-effect").addClass('in'); }, 1);
+
+
+					 // Validation and Ajax action
+					 $("form#login").validate({
+					 rules: {
+					 username: {
+					 required: true
+					 },
+
+					 passwd: {
+					 required: true
+					 }
+					 },
+
+					 messages: {
+					 username: {
+					 required: 'Entrez votre login...'
+					 },
+
+					 passwd: {
+					 required: 'Entrez votre mot de passe.'
+					 }
+					 },
+
+					 // Form Processing via AJAX
+					 submitHandler: function(form)
+					 {
+					 showLoadingBar(70); // Fill progress bar to 70% (just a given value)
+
+					 var opts = {
+					 "closeButton": true,
+					 "debug": false,
+					 "positionClass": "toast-top-full-width",
+					 "onclick": null,
+					 "showDuration": "300",
+					 "hideDuration": "1000",
+					 "timeOut": "5000",
+					 "extendedTimeOut": "1000",
+					 "showEasing": "swing",
+					 "hideEasing": "linear",
+					 "showMethod": "fadeIn",
+					 "hideMethod": "fadeOut"
+					 };
+
+					 }
+					 });
+
+					// Set Form focus
+					$("form#login .form-group:has(.form-control):first .form-control").focus();
+				});
+			</script>
+
+			<!-- Errors container -->
+			<div class="errors-container">
+
+
+			</div>
+
+			<!-- Add class "fade-in-effect" for login form effect -->
+			<form method="post" role="form" id="login" class="login-form fade-in-effect">
+
+				<div class="login-header">
+					<a ui-sref="login-light" class="logo">
+						<img src="assets/images/tritux.png" alt="" width="180" />
+						<h4>Se connecter</h4>
+					</a>
+
+					<p>Cher utilisateur, connectez-vous pour accéder à votre espace !</p>
+				</div>
+
+				<p style="color: red">{{msgForgetPassword}}</p>
+				<div class="form-group">
+					<label class="control-label" for="username">Nom d'utilisateur</label>
+					<input type="text" class="form-control" name="username" id="username" autocomplete="off" ng-model="user.login" required/>
+				</div>
+
+				<div class="form-group">
+					<label class="control-label" for="passwd">Mot de passe</label>
+					<input type="password" class="form-control" name="passwd" id="passwd" autocomplete="off" ng-model="user.password" required/>
+					<p>{{msglogin}}</p>
+				</div>
+
+				<div class="form-group">
+					<button type="submit" class="btn btn-primary  btn-block text-left" ng-click="connexion(user)">
+
+						<i class="fa-unlock-alt"></i>
+						Se connecter
+					</button>
+<div align="right">
+	<a href ng-click="getforgotPassword()">Mot de passe oublié ?</a>
+</div>
+					</div>
+
+
+				<div class="login-footer">
+					<center>Vous n'avez pas un compte ?
+						<a ui-sref="inscri1">Inscrivez-vous gratuitement</a>
+					</center>
+				</div>
+
+			</form>
+
+		</div>
+
+	</div>
+
+</div></div>

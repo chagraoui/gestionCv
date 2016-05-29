@@ -1,0 +1,30 @@
+{
+  "age": 27,
+  "name": "Date de naissance : 02/06/1989. ",
+  "adresse": "tunis",
+  "mail": "G-Iheb@hotmail.fr",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "0021621950245",
+  "skills": [
+    "matlab",
+    "c++",
+    "c",
+    "isis",
+    "linux",
+    "assembleur",
+    "windows",
+    "vhdl"
+  ],
+  "keywords": {
+    "bus": 3,
+    "classicladder": 3,
+    "tache": 3,
+    "électronique": 5,
+    "électrique": 5,
+    "menzah": 3,
+    "adaptative": 3
+  }
+}

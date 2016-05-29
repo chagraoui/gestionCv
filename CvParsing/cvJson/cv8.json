@@ -1,0 +1,51 @@
+{
+  "age": 26,
+  "name": "Sakouhi Ghassen ",
+  "adresse": "tunis",
+  "mail": "sakouhighassen@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "24394103",
+  "skills": [
+    "matlab",
+    "css",
+    "c++",
+    "dreamweaver",
+    "c",
+    "oracle",
+    "android",
+    "pascal",
+    "jee",
+    "sql",
+    "eclipse",
+    "java",
+    "shell",
+    "uml",
+    "xml",
+    "asp.net",
+    "maple",
+    "php",
+    ".net",
+    "mysql",
+    "html",
+    "netbeans",
+    "pl/sql",
+    "jsf"
+  ],
+  "keywords": {
+    "ensi": 4,
+    "java": 5,
+    "c": 5,
+    "oracle": 6,
+    "web": 3,
+    "xml": 3,
+    "mis": 3,
+    "mysql": 3,
+    "\"référentiel": 3,
+    "jee": 4,
+    "ingénieur": 4,
+    "sql": 5
+  }
+}

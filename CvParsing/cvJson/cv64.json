@@ -1,0 +1,49 @@
+{
+  "age": 0,
+  "name": "Nov 2014             Technical Training (3S) ",
+  "certif": " Obtention de certificat CCNA (Cisco Certified Network Associate).  ",
+  "adresse": "tunis",
+  "mail": "ahmed.damak89@hotmail.com",
+  "studies": [
+    "licence",
+    "baccalauréat"
+  ],
+  "num": "21622055697",
+  "skills": [
+    "matlab",
+    "c++",
+    "css",
+    "c",
+    "oracle",
+    "ubuntu",
+    "pascal",
+    "virtualisation",
+    "windows",
+    "javascript",
+    "eclipse",
+    "sql",
+    "java",
+    "uml",
+    "xml",
+    "linux",
+    "j2ee",
+    "php",
+    "html",
+    "wamp",
+    "mysql",
+    "netbeans",
+    "pl/sql"
+  ],
+  "keywords": {
+    "informatiques": 3,
+    "ariana": 10,
+    "communicants": 3,
+    "c": 4,
+    "routage": 4,
+    "ip": 3,
+    "réseaux": 5,
+    "pratique": 3,
+    "embarqués": 3,
+    "sql": 3
+  }
+}

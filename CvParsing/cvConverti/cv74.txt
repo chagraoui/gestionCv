@@ -1,0 +1,62 @@
+Formation académique 
+• 2011-2014: Ecole Nationale Supérieure d’Ingénieurs de Tunis (ENSIT)
+Option : Electronique et techniques avancées
+2009-2011: Préparatoire MP (Mathématique-Physique) à l’Institut Préparatoire d’EL Manar
+2009: Lycée Carthage Présidence
+ Baccalauréat section Mathématique, 
+ Expériences professionnelles :
+• 0DUV- juin 2015 : Ingénieur projet� de l’entreprise Xpertos-it pour le client�Airliquide
+en Tunisie :
+� Gestion des projets de l’infrastructure et réseau de la zone MEA (Middle East and Africa):
+Analyser, définir OHV�VSpFLILFDWLRQV�GX�SURGXLW�VHORQ�les besoins de clients/6XLYL�HW�JHVWLRQ�GHV�SURMHWV
+� Support et assistance technique: troubleshooting /résoudre les problèmes techniques du client.
+� Packaging and repporting : déploiement des applications à distance via MARIMBA/UpDOLVDWLRQ
+GHV�GDVKERDUG
+Février- Mai 2014 : Projet Fin d’études (PFE) à TELNET Holding
+Titre : Génération automatique de code en temps réel pour bus CAN ciblant la carte automobile Freescale 
+MCF51CN128.
+Juin-Juillet 2013 : Stage ingénieur à CYNAPSYS (http://www.cynapsys.de/�
+Titre :Modélisation,conception,contrôle� Ht� commande� automatique� HQ� WHPSV� UpHO du membre inférieur 
+XQ�URERW�KXPDQRLGH
+• Juillet 2012 : Stage ouvrier à la Société Tunisienne d’Electricité et de Gaz
+Titre : Etude de la production de l’électricité, des systèmes de refroidissement, des 
+transformateurs haute tension, basse tension / système de protection et sécurité 
+   Projets académiques
+-Septembre -Décembre 2013: Mini Projets à l’ENSIT 
+Sur FPGA : Conception et réalisation d’un moteur pas à pas /Conception et réalisation de parking /Conception 
+réalisation de feu de carrefour / Codage et test d’un convertisseur analogique: numérique et implémentation sur 
+FPGA/Conception avec Nios et SOPC Builder d’un battement de coeur 
+Sur Psoc : réalisation d’un enregistreur de données de température 
+-Février-Mai 2013 : Projet Fin d’Année (PFA II) à l’ENSIT 
+Titre : Implémentation d’un cryptage chaotique sur FPGA (utilisation de Matlab/Simulink,C ,VHDL) 
+ −Février – Mai 2012 : Projet Fin d’Année (PFA I) en coopération avec l'allemande GIZ – ENSIT 
+(http://www.giz.de)
+Titre : Etude complète de conception et modélisation à grande échelle d’un système hybride résidentiel (photo 
+voltaïque –éolienne en utilisant (HOMER)) 
+Compétences et connaissances techniques
+Langages de programmation : C , C++, VHDl, ISIS, ARES, MATLAB (Simulink/.m), MPLAB, micro &�
+$WRXWV���JHVWLRQ�GH�SURMHW��UHSRWLQJ��UpDOLVDWLRQ�GHV�GDVKERDUG��pWXGH�GHV�DSSHOV�G
+RIIUHV���SDFNDJLQJ�YLD�
+PDULPED�
+Autre: TCP/IP, MPLS,Active directory/DHCP/BBCA
+Industrie: $50��FPGA, PSOC, automates Siemens, Freescale, DXWRPDWHV�SURJUDPPDEOHV�VLPHQV��VWHS��,
+HOMER, visual Studio, SOPC Builder, Nios, Code Worrior, SOPC Builder, Nios, Code Worrior
+Burautiques: Excel(très bien), word, power point,
+Langues
+Français (Très bien), Anglais (très bien), Arabe (Très bien), Espagnol (bien)
+Divers
+Musique, Sport, voyage, assister à des conférences, camping, SV\FKRORJLH�
+INGENIEUR ELECTRIQUE 
+Houda HAMOUDA
+���ans, célibataire
+Adresse : 07, rue du Soudan, 2015 
+Aéroport Kram, Tunisie 
+ E-mail�� houdahamouda90@gmail.com���������������
+���������������
+%FQVJT�+VJO��*OHÏOJFVS��QSPKFU�Ë�MhFOUSFQSJTF�TFSWJDPN�FVSPQF•
+�&UVEF�FU�SÒQPOTF�BVY�BQQFMT�EhPGGSFT�Eh�BTDFOTFVST�
+�(FTUJPO�EF�QSPKFUT d'ascenseurs :analyse structurale et suivi des differents stade du cycle du projet 
+Developper le portfeuil client de la société: contacter les sous traitants et les fournisseurs en europe  
+4QÏDJBMJUÏ��ÏMFDUSPOJRVF�FU�UFDIOJRVFT�BWBODÏFT�
+5FM�����������������
+������������������������

@@ -1,0 +1,76 @@
+Wajih WERIEMI 
+Chef De Projet / Développeur Web Sénior / Formateur 
+LAMP Server & Symfony2
+Adresse 12 Rue Abdalah Chokratsi. 2078 La Marsa Tunis. Tunisie
+Email w.ourimi@gmail.com
+Tél 00216 22 920 458
+Né le 19 Janvier 1985 à l'Ariana. Tunisie
+LinkedIn https://tn.linkedin.com/in/wajihweriemi
+Compétences
+OS Linux (Ubuntu), Windows
+Serveurs DNS (Bind), Samba, Http (Apache, Nginx), FTP(vsftpd), Mailing (Postfix)
+Développement Langages: PHP5, JavaScript 
+Frameworks: Symfony 2, CodeIgniter 2, jQuery, AngularJs 
+ORM/Persistance d'objet: Doctrine, Active Records, Yaml 
+Frameworks de test : Behat, PHPUnit 
+Web: AJAX, XML, HTML5/CSS3, Web Service (REST/SOAP) 
+Intégration continue: Capifony, Grunt
+Outils Package manager : Composer, npm, Bower, RubyGems 
+IDE : Netbeans, Eclipse 
+VCS : Git, Subversion (SVN) 
+Modélisation : MySQL Workbench 
+SGBDR : Mysql, SQL server, PostgreSQL 
+NoSQL : Mongodb 
+Autre : VMWare, VirtualBox, OpenSSH, Redis
+Langues Français: Lu, parlé, écrit 
+Anglais: Lu, parlé, écrit 
+Arabe: Lu, parlé, écrit
+Expériences professionnelles
+2011 - Présent PROXIMA, INC. 
+Directeur technique / Chef de projet
+Mission Etude conceptuelle et contribution aux choix techniques. 
+Elaboration des stratégies de développements. 
+Mise en place de version élémentaire des applications en MVC. 
+Participation au développement des taches complèxes et des web services. 
+Implémentation des tests unitiares et fonctonnels.
+Technologies Symfony2, Codeigniter2, Doctrine2, AJAX, jQuery, WebService REST, Mongodb, Redis
+Environnements Git, Ubuntu, Apache (PHP5), MySQL, NetBeans
+Mai 2015 - Présent ACCE 
+Collaborateur Externe / Formateur LAMP Server & Symfony 2.
+Thèmes Programmation Orientée Objets. 
+Administration Base de données MySQL. 
+Administration Système (Linux). 
+Administration Serveur (Web, DNS, Mail). 
+Framework PHP5 symfony2. 
+Webservice REST.
+Mai 2014 BRIGHT TECHNOLOGY CENTER. 
+Formateur Symfony2
+Mission Formation des employés de La Poste Tunisienne au framework Symfony2. 
+Niveau débutant.
+2010 - 2011 BOOST AUDIENCE. 
+Développeur web back-office
+Missions Participation à la phase de conception des applications web et modile et des sites web. 
+Développement des WebServices REST en MVC. 
+Développement des modules coté serveur pour les application mobile. 
+Implémentation des tests unitiares et fonctonnels.
+Technologies Symfony1.4, Codeigniter1.7, Doctrine1.2, AJAX, jQuery, WebService REST, XML
+Environnements SVN, Ubuntu, Apache (PHP5), MySQL, NetBeans
+2007 - 2009 INFOGRAPHIQUE21. 
+Développeur web
+Missions Développement des sites web. 
+Installation et maintenance des serveurs d'hébergement.
+Projet de fin d'étude Réalisation d'une application de gestion de paie avec VB.NET
+Technologies VB.NET, C#, PHP/MySQL, Wordpress, Joomla, Drupal, Prestashop
+Environnements APACHE, MySQL, Ubuntu, Windows, NetBeans, VisualStudio
+Formations
+2009 - 2011 ESPRIT 
+Cycle d'ingénieur en informatique 
+Option: Informatique (Développement & Réseaux)
+2005 - 2008 ISI (Institut Supérieur D'informatique) 
+Diplôme universitaire de technologie en informatique 
+Option: T.S.I.C (Génie logiciel)
+2004 Baccalauréat 
+Lycée technique de Zarzis 
+Option: Mathématiques
+Loisirs
+Nouvelles Technologies, Documentaires, Football, Mécanique Auto

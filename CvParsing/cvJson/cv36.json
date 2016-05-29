@@ -1,0 +1,39 @@
+{
+  "age": 25,
+  "name": "Ikram Guelbi                                                      Consultante Technique                                                                                                          ",
+  "certif": "TOEIC – Certificate of achievement- ETS ",
+  "adresse": "",
+  "mail": "ikram.guelbi@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "29621200",
+  "skills": [
+    "c#",
+    "c",
+    "symfony",
+    "sql",
+    "java",
+    "uml",
+    "asp.net",
+    "j2ee",
+    "php",
+    ".net",
+    "mysql",
+    "mvc",
+    "netbeans",
+    "symfony2"
+  ],
+  "keywords": {
+    "ucmdb": 3,
+    "framework": 3,
+    "software": 3,
+    "consultante": 3,
+    "hp": 13,
+    "savoir": 3,
+    "agile": 4,
+    "bsm": 6,
+    "utilisation": 3
+  }
+}

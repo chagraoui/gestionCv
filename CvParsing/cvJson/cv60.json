@@ -1,0 +1,39 @@
+{
+  "age": 0,
+  "name": "Cursus académique ",
+  "certif": " • Novell Certified Linux Administrator (CLA) le 2/05/2013,   Code d’inscription CLA-LPI925ndxkb5b  ",
+  "adresse": "tunis",
+  "mail": "bahaeddine005@gmail.com",
+  "studies": [
+    "ingénieur"
+  ],
+  "num": "27456901",
+  "skills": [
+    "c++",
+    "css",
+    "c",
+    "ubuntu",
+    "html5",
+    "android",
+    "ios",
+    "windows",
+    "sql",
+    "java",
+    "shell",
+    "linux",
+    "j2ee",
+    "html",
+    "mysql",
+    "centos",
+    "css3"
+  ],
+  "keywords": {
+    "metasploit": 3,
+    "web": 4,
+    "vmware": 3,
+    "linux": 5,
+    "réseaux": 4,
+    "insat": 4,
+    "win": 3
+  }
+}

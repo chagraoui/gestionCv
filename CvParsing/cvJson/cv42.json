@@ -1,0 +1,37 @@
+{
+  "age": 26,
+  "name": "INGENIEUR EN INFORMATIQUE",
+  "adresse": "tunis",
+  "mail": "salah.olfa.fst@gmail.com",
+  "studies": [
+    "baccalauréat",
+    "ingénieur"
+  ],
+  "num": "53694349",
+  "skills": [
+    "c++",
+    "c",
+    "oracle",
+    "html5",
+    "pascal",
+    "android",
+    "assembleur",
+    "jee",
+    "javascript",
+    "sql",
+    "eclipse",
+    "java",
+    "uml",
+    "xml",
+    "scrum",
+    "php",
+    "html",
+    "mysql",
+    "jsf"
+  ],
+  "keywords": {
+    "java": 4,
+    "ccna": 4,
+    "sql": 3
+  }
+}

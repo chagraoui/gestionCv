@@ -1,0 +1,33 @@
+{
+  "age": 26,
+  "name": "CURRICULUM VITAE ",
+  "certif": "- Cisco Certified Networking Associate CCNA1, CCNA2. ",
+  "adresse": "tunis",
+  "mail": "mourad.hamdeniii@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat",
+    "licence"
+  ],
+  "num": "21699188279",
+  "skills": [
+    "c#",
+    "c++",
+    "c",
+    "java",
+    "isis",
+    "xml",
+    "pascal",
+    "php",
+    "mysql",
+    "javascript",
+    "sql"
+  ],
+  "keywords": {
+    "c": 3,
+    "journalier": 4,
+    "ccna": 4,
+    "cisco": 3,
+    "reporting": 3
+  }
+}

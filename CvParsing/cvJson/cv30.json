@@ -1,0 +1,26 @@
+{
+  "age": 25,
+  "name": "Mehdi Chagraoui",
+  "certif": "Cisco CCNA (Cisco Certified Network Associate)",
+  "adresse": "tunis",
+  "mail": "mehdi.chagraoui@gmail.com",
+  "studies": [
+  {
+  	"date obtention":0,
+    "diplome":"ingénieur"
+   }
+    {
+    "date obtention":2012,
+    "diplome":"licence",
+    }
+    {    "date obtention":2009,
+    "diplome":"baccalauréat"}
+  ],
+  "num": "21653608534",
+  "skills": [
+    "android","virtualisation","sql","spring","java","uml","xml","linux","j2ee","mysql","html","mvc","pl/sql","rest","c","cloudstack",
+     "kvm", "ubuntu","windows","eclipse","excel","php", "openstack", "angularjs","jsf","centos"
+  ],
+  "keywords": {"rest": 3,"java": 3,"mvc": 3,"angularjs": 3
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "age": 0,
+  "name": "YOUNEB  MONOEM  ",
+  "certif": " 2015 : OCJP - Oracle Certified Professional, Java SE 6 Programmer  ",
+  "adresse": "tunis",
+  "mail": "monoem.youneb@gmail.com",
+  "studies": [
+    "ingénieur",
+    "licence"
+  ],
+  "num": "237434400",
+  "skills": [
+    "dreamweaver",
+    "c",
+    "oracle",
+    "html5",
+    "android",
+    "opensuse",
+    "photoshop",
+    "symfony",
+    "spring",
+    "java",
+    "uml",
+    "xml",
+    "linux",
+    "php",
+    "html",
+    "jsf",
+    "symfony2"
+  ],
+  "keywords": {
+    "java": 3,
+    "web": 5,
+    "android": 3,
+    "cck": 3,
+    "monoem": 3,
+    "symfony": 3,
+    "dell": 3
+  }
+}

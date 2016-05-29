@@ -1,0 +1,152 @@
+JEMLI ARAFA AMIRA       
+Téléphone : +216 98752695  
+32 Ans  
+Mariée 
+Mail : arafa.amira.jemli@gmail.com  
+Adresse : Fouchana, Ben Arous 
+Formation académique 
+ 2002- 2008 Ingéniorat  génie logiciel (INSAT Tunis)  Mention très bien 
+- Première années  [2002 - 2003] section Math Physique   
+Informatique 
+- Premier cycle génie logiciel [2003 – 2005] 
+  - Deuxième cycle génie logiciel [2005 – 2008] 
+2002                       Baccalauréat Scientifique spécialité sciences expérimentales,  Mention 
+bien 
+1998-2002 Secondaire 
+ (Lycée Assed Eben Alfourat  Oued Ellil)  
+                    Compétence technique et fonctionnelle 
+- Gestion des projets à large spectre et la gestion d’équipe 
+- Analyse & modélisation des problèmes 
+- ETL : informatica power center 8.1, 8.6. 9.0 et 9.1, SSIS/SSAS/SSRS 
+- MDM : Informatica data quality8.6, informatica analyste 9.1 
+- BI: SAP BW, SSAS, Cognos C8 et C10, SAP PCM, 
+- ERP: SAP 4.6, SAP6, ERP5 , CapitalH, capital BPCS, SAGE X3, SAGE XRT,  
+- Planification et ordonnancement :  Préactor 
+- SGBD: Oracle, Sql Server, Postgres SQL, my sql 
+- Force de vente et veille concurrentielle 
+- GMAO : Coswin, SAP PM 
+- Logicielle de gestion de temps 
+- Technologie VMware et virtualisation 
+- Infrastructure réseau et télécommunication 
+- Administration Lotus Notes 
+- GED : Gestion électronique de document et développement sur SharePoint 
+- Technologie de sauvegarde (Veeam Backup) et de stockage (NAS/SAN )  
+- Capacité de compréhension du problème client et rédaction de cahier de charge 
+- La maîtrise des différentes langages de modélisation Merise et UML : RUP, 2TUP UP  
+-  La maîtrise des différents outils de conception : Rational rose, MagicDraw,  AMC designer 
+- Langages de programmation orienté objet et structural: Java, C++, C#, Python, ZOPE, pascal, 
+C, la langage de balisage XML 
+- la technologie J2EE : EJB, Hibernate, JAXP, Ajax, Spring, JSF, GWT,  
+- La maitrise de L’IDE Eclipse et NetBeans. 
+Bonne notion sur le contrôle de gestion et la Logistique:  
+Analyse du document de contrôle de gestion liés au forecast, efficience, stock , CA .. 
+Document liée à la logistique client et fournisseur : Deleins PDP, PIC les gammes, Transit, MRP, 
+définition de flux logistique et gestion de nouveaux projets. 
+Formation professionnel 
+Juillet 2011 
+Formation PMS : Project management system 
+Octobre 2011 
+Formation sur l’administration de la plateforme informatica ( IDQ et Power Center) 
+Septembre 2011 
+Formation informatica data Quality et Analyst 9.1 (développement) 
+Formation Informatica Power Center niveau 2 9.1((développement) 
+Septembre 2014 
+Formation Cognos 10 (Transformer (administration), Framework manager, Web analyses et 
+administration) 
+Septembre 2015 
+Formation Mangement des projets selon la méthode prince2 
+Formation VMware  
+Formation Veeam Backup  
+Expérience professionnelle et Résumé des compétences 
+Du 07/01/20013 à aujourd’hui :  
+Responsable du département de la technologie d’information sur 5 sociétés 
+(CSMGIAS-GIASIND-GIASDIS-DOCKGIASCOM-GIASNEG) 
+- Gestion des projets informatique sur la Tunisie et hors du territoire Tunisien 
+Valide les choix et à l‘acquisition du matériel informatique et logiciels (Hard et Soft) 
+- Gère l’infrastructure du système de télécommunications. 
+- Responsable de la sécurité informatique. 
+- Responsable du système de gestion intégré sur tous les aspects techniques  
+et fonctionnels. 
+- Élabore le budget informatique, et veille sur son respect et son suivi. 
+- Participe aux réunions d’usines et aux revues de directions. 
+- Définie et suit les plans d’amélioration (Objectifs, Actions, Indicateurs et Tableaux de bord). 
+Projets réalisés : 
+- Migration Sage X3 du V5 au V6 (Base de donnée depuis 2002/ 500Go) 
+- Mise en place du module MRP de X3 avec un module Preactor d’ordonnancement  
+- Mise en place d’un module Sage-XRT de gestion de trésorerie ferme et 
+prévisionnel 
+- Industrialisation du système de gestion de la profitabilité et de coût à l’aide de 
+SAP-PCM 
+- Mise en place d’un Système de force de vente et de veille concurrentielle  
+- Mise en place du GMAO, Coswin 
+- Mise en place d’un logiciel de pointage et de gestion de temps Swib Time 
+- Mise en place d’un data Center en utilisant la technologie VMware  
+- Amélioration/optimisation de la plateforme BI existante 
+Du 01/07/2009 au 31/12/2012 
+Faurecia Informatique Tunisie. 
+Responsable service  Migration et Intégration des données des différents systèmes 
+erp vers SAP6 
+- Manager une équipe composée de 6 ingénieurs à fin de : 
+o Participer à des projets de roll out SAP en tant que responsable technico 
+fonctionnelle  
+o Participer dans les ateliers de migrations de données vers SAP  
+o Assurer la compréhension des besoins et de la spécificité SAP de chaque projet de 
+migration de données dans les 4 continents du monde 
+o Analyse de la qualité syntaxique et sémantique des données source à intégrer dans 
+o Développer, maintenir et mettre à jour les mapping de migration standard par 
+domaine (Manufacturing, Sales, Purchasing, Finance et cotrolling)  
+o L’intégration, simulation  et validation de l’intégration de données dans SAP en 
+collaboration avec Key users au niveau site 
+o Coordonner avec les différents intervenants du projet de roll out SAP  
+Projet réalisé: 
+- 30 projets de roll out SAP (USA, CHINA, Brésille, toute l’europe (Allemagne, France, 
+République check, Espagne, Bretagne..)  Afrique de sud. 
+- Industrialisation du process d’intégration des données source vers SAP, 
+- Gestion des données Maître (master data management) Projet : 
+- Administrer l’ETL Informatica 
+Du 03/2007-07/2009 
+VALEO, Jedeida 
+Chef de projet BW/ SAP 
+- Mise en place le module MM sur SAP  ( PDP, PIC, MRP2) 
+- Gérer des données Techniques cotées Logistique 
+- Développer et maintenir les Etats sur SAP  
+- Responsable achat généraux (informatique et automates) 
+VALEO, Benarous 
+Administration et expertise SAP6 et BW3.5, BI7 : 
+- Rédiger les nouvelles spécifications et besoin de reporting BW 
+- Développement des besoins spécifiques (Etats SAP, Interfaces, Query et formulaires) 
+- Création et activation des processus ALE des data sources coté système source SAP et 
+non SAP (ORACLE, SQL SERVER) 
+- Etude et intégration de nouveaux report (KPI) standard: FI (AP, GL, AR), LIS (MM, PM, 
+- Formation des utilisateurs sur l’utilisation du reporting à partir de BW. 
+- Développement de mapping de transformation de données en Abap  
+- Support 2ème niveau autour de BW pour le site Valeo Mondeville en France. 
+Projet réalisée 
+- Mise en place du Process EDI assurant l’échange électronique de la facture fournisseur 
+- Développement d’un module ABAP sur SAP pour la gestion des inventaires tournant 
+Du 07/2005 au 01/2006  
+ Protec, Ariana 
+           Stagiaire Informatique 
+ Développement d’une application en Python de pointage qui permet de : 
+- Extraire les données de la pointeuse XM3 et l’enregistre dans une base SQl server. 
+-   Générer un module de paye qui calcule les heures à payer à partir des heures badgées, les 
+motifs des absences et les fiches employés 
+ Administration déploiement et Arabisation de l’ERP5 (Zope) 
+Du 07/2004 au  09/2004  
+Cofat, Sidi Hessin 
+ Stagiaire Informatique 
+ Développement d’une application en java pour la gestion des écarts entre :  
+- le calcul MRP capitalH (Besoin en composant à partir de la commande)  
+- et la capacité de production à partir des nomenclatures et de la valeur théorique en stock 
+calculé par le GPAO Capital BPCS 
+Du 07/ 2003 au  09/ 2003         
+Tunisie transformateur, Oued Ellil 
+ Stagiaire Informatique  
+  - Développement d’une application en VB Access pour le calcul  et le suivi du chiffre 
+d’affaire 
+ - Développement d’une présentation multimédia (flash) de l’entreprise 
+Langues  
+Anglais :   lu écrit parlé 
+Français :   lu écrit parlé  
+Arabe :           langue maternelle 
+Profusion  

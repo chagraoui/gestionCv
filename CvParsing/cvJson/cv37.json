@@ -1,0 +1,31 @@
+{
+  "age": 29,
+  "name": "                  CCUURRRRIICCUULLUUMM    VVIITTAAEE                ",
+  "adresse": "tunis",
+  "mail": "yacoubi.insaf@gmail.com",
+  "studies": [],
+  "num": "50474318",
+  "skills": [
+    "rest",
+    "css",
+    "dreamweaver",
+    "c",
+    "photoshop",
+    "symfony",
+    "javascript",
+    "sql",
+    "excel",
+    "java",
+    "uml",
+    "php",
+    "html",
+    "mysql",
+    "word",
+    "symfony2",
+    "powerpoint"
+  ],
+  "keywords": {
+    "web": 3,
+    "employée": 3
+  }
+}

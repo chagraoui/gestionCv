@@ -1,0 +1,117 @@
+CURRICULUM VITAE 
+Mastere profssionnel en Ingénieurie des Systèmes Informatique 
+ENI Carthage : Ecole National d’Ingénieur de Carthage 
+   Nom  / prénom : ARFAOUI Rabeb  
+ Date de  naissance : 21-01-1990  
+ Nationalité :     Tunisienne 
+ Téléphone :+216 99 18 82 79 
+                                        +216 55 98 17 58 
+Expérience professionnelle 
+Organisme d’accueil Tiscircuits 
+Dates Aout  2012 – Octobre 2013 
+Poste Technicien Qualité Reporting  
+Descriptif  
+-     Participer  à la mise  en place d’une application d’automatisation et 
+standardisation des reporting qualité usine  
+- Respect des exigences relatives au système qualité et des exigences client tout 
+au long de la vie de produit. 
+- Alerter les responsables hiérarchiques et l’équipe qualité à des problèmes qualité 
+au niveau des indicateurs réalisés journalierment 
+ Présenter un rapport Journalier des indicateurs qualité  
+- Assurer le suivi en interne des problèmes qualité. 
+       -    Piloter les plans d’audit de poste. 
+       -    Participer à la préparation des audits de poste. 
+- Suivre  l’évolution des indicateurs qualité 
+- Auditer les postes de travail 
+- Appliquer les consignes 5S 
+- Suivre les évolutions et  les objectifs Qualité (Interne & Externe) 
+- Préciser le taux et la  Pareto de défauts de chaque phase de contrôle 
+- Présenter un rapport Journalier des indicateurs qualité 
+-     Assurer le suivi en interne des indicateurs qualité interne. 
+- Préciser le taux et la  Pareto de défauts de chaque phase de contrôle. 
+- Planifier les audits de poste . 
+-  Assurer la gestion de l’équipe qualité (techniciens et contrôleuses). 
+       - Assurer la mise à jour des indicateurs interne pour améliorer le   niveau qualité. 
+        
+     
+CERTIFICATION 
+Année Durée Qui Thèm
+2011 
+2012 
+2 ans 
+CISCO : Networking 
+Academy 
+- Cisco Certified Networking Associate CCNA1, CCNA2. 
+▪ CCNA 1 - Cisco - Introduction to Networks 
+▪ CCNA 2 - Routing and Switching Essentials 
+FORMATION 
+Année Institution ou diplôme 
+2015 Master Professionnel : Ingénierie des Système information 
+à (ENIC)   
+2012 License appliquée en informatiques : Administration des 
+réseaux et des services à (ESTI).  
+2009 Baccalauréat en Sciences Informatiques 
+Domaines de connaissances  
+Rebique Compétences 
+Base de données  Access, MySQL, SQL Server. 
+Qualité 
+QQOQCCP, (ISHIKAWA/5M/cause à effet), 8D, PDCA, échantillonnage, 5 pourquoi,  
+AMDEC produit/, QRQC. 
+Langages C, VB6, C++, Pascal, java, C# ,PHP, XML, JavaScript. 
+Logiciel technique 
+POWER AMC, MS Project, Gantt Project, ERP  
+STAGES 
+  Projet de fin d’étude  « Master » 
+Organisme d’accueil Tiscircuits 
+Dates Février - Mai 2015 
+Descriptif fonctionnel du 
+projet 
+Développement d’une application d’automatisation et standardisation des 
+reporting qualité usine en C # 
+Descriptif technique du 
+projet 
+- Automatiser la saisie des données qualité ,améliorer et standardiser les indicateurs 
+qualité présentés lors des différentes réunions. 
+- Mettre en place une interface graphique dans les postes de contrôle afin de pouvoir 
+saisir les défauts et les utiliser pour extraire les indicateurs qualité. 
+- Générer les indicateurs qualité et les sauvegarder 
+- Exploiter les indicateurs  par rapport à une plage horaire choisie (Journalier, 
+hebdomadaire, mensuel, trimestriel et annuel) automatiquement en choisissant 
+seulement l’intervalle de temps voulu. 
+- Un indicateur qualité devrait contenir : 
+  le taux de défaut global journalier pour chaque parc 
+  le Top 5 des références avec défauts (Somme de défauts)  
+ Un tableau mettant en place les défauts de top références à problèmes. 
+  Projet de fin d’étude « Licence » 
+Organisme d’accueil GNSS: Genius in Network and Software Services. 
+ Dates Février - Mai 2012 
+Descriptif du projet Réalisation d’une application de documentation d’un système de câblage et d’un 
+LAN. 
+Descriptif technique du 
+projet 
+- Etude théorique de l’environnement du travail 
+-  Saisie des entrées nécessaires pour développer le graphique. 
+- La schématisation détaillée du schéma synoptique du réseau (Fibre, câble, 
+autre....). 
+- L’établissement des fichiers descriptifs des switchers et des interconnexions 
+entre eux 
+  Stage d’été 
+Organisme d’accueil Sagem communication 
+Date Mois d’Aout 2011 
+Descriptif fonctionnel du 
+projet 
+Développement  d’une application de mise à jour de sécurité. 
+Descriptif technique du 
+projet 
+- Développer une solution automatique de mise à jour de sécurité. 
+- Blocage des ports USB (Flash) pour garantir la confidentialité des données de 
+l’entreprise. 
+LANGUES 
+Langues Niveau 
+Arabe Langue maternelle 
+Français Bien (lu, écrit, parlé) 
+Anglais Bien (lu, écrit, parlé) 
+Italien  Basique 
+DIVERS 
+    Qualités :   Esprit d’initiative, rigoureuse, esprit d’équipe, attentive et communicative. 
+    Centres d’intérêts : musique, sport. 

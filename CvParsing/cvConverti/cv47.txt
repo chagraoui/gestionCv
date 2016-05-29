@@ -1,0 +1,138 @@
+Juin 2011               Diplôme National de Mastère Professionnel en Technologies des  
+                               Réseaux  et des   Télécommunications. 
+                               Option : techniques avancées dans les réseaux  
+                               (Régime LMD) avec la mention assez bien. 
+                             Faculté des Sciences de Bizerte 
+Juin 2009                Licence Appliquée en Technologie des Réseaux et des   
+                                Télécommunications (Régime LMD) 
+                                Faculté des Sciences de Bizerte 
+Juin 2006               Baccalauréat section Mathématique - Lycée secondaire d’Ain Draham                                 
+Certifications 
+  Mai 2011                          Certification Cisco CCNA Exploration : Niveau 4 
+                       
+  Novembre 2010               Certification Cisco CCNA Exploration : Niveau 3 
+  Juin 2010           Certification Cisco CCNA Exploration : Niveau 2 
+  Avril 2010           Certification Cisco CCNA Exploration : Niveau 1   
+Expériences professionnelles 
+Mai 2015- Novembre 2015              Intercom Consulting  
+             Ingénieur réseaux et télécom                                                       
+  Missions :  
+ Ingénieur fibre optique  pour  Circet : Réseaux (Free et Numéricable) 
+  -Traitement de l’ingénierie déploiement s'appuyant sur les règles d'ingénierie fibre FTTx 
+communiquées par les opérateurs. 
+- Analyse et mise à jour des référentiels lors de la phase de Piquetage (PIQ) suivant le retour 
+des opérations terrain  
+Khaoula DABOUSSI 
+18/07/1987                                                                                      
+Résidence Karawen Houda 5, App 2 Avenue Tahar Ben 
+Ammar Menzah 9                                                                       
+Tél : 97 765 880 / 28 243 676 
+E-mail : khaouladaboussi@gmail.com 
+Ingénieur réseau et télécomunication 
+FORMATIONS 
+- Mise à jour des plans d'infrastructure de la partie Génie Civil sur Corolle/ Autocad 
+- Saisi des FOA  (Fiche  occupation  alvéole)   des chambres FT. 
+- Analyse  et mise à jour des référentiels lors de la  Phase APS (Avant Projet Sommaire) 
+- Préparation  des commandes FT (les commandes France Telecom)  
+-Préparation du DTI  (Dossier Technique d’Immeuble)  qui se compose  du :  
+ DTE (Dossier Technique d’étude)  
+ DTD (Dossier Technique Détaillé)  
+ -01/08/2015- 31/08/2015 : Former et encadrer  une stagiaire  (stage technicien chez 
+intercom- consulting) en lui présentant  toutes les procédures et Les méthodes de travail de 
+l’unité ingénierie de déploiement de la fibre optique.  
+ - Analyse  et mise à jour des référentiels lors de la  Phase APD (Avant Projet Détaillé)  
+-  Formation sur le  Fibrage optique. 
+   Ingénieur Radio  pour Circet : Réseaux (SFR) 
+-Participation  au  projet COMSIS pour l’opérateur  SFR  
+- Vérification des  plans COMSIS ( plan d’élévation, plan de masse,plan cadastre ..) 
+- Participation au projet radio  pour SFR : ajout  de L800 (4G), ajout de porteuse dans 
+le cas du système UMTS (3G), ajout de CE   en utilisant Océan  
+- Formation Radio sur les antennes,  les FH  les types d’installations Feeder et 
+Feederless, les TMA, modules radio, les Baies… 
+-Utilisation de quelques outils SFR : Océan pour les antennes, IQLink pour les FH, 
+ISTAR, Ellipse  
+-Participation à la préparation des  demandes  de supervision  des FH (microwave) 
+SFR  en vérifiant les informations  nécéssaires(débit, configuration, détermination du 
+PTC)  en utilsant le logiciel RRCAP.  
+- Traitement des dossiers AFOM (Association Française des Opérateurs 
+Mobiles) pour SFR. 
+Octobre 2013 –Mai  2015               UAPS (Université Arabe Privée  des Sciences) 
+Enseignante vacataire  
+J’ai assuré les cours intitulés : Fondements des réseaux, Réseaux locaux filaires et sans fils, 
+Réseaux radio mobiles1, Réseaux radio mobiles 2 pour les classes 1
+ année , 2
+ année et 
+ année  licence en réseaux informatiques  et telecom  
+Décembre 2013- Novembre 2014     Helpline Tunisie                                                    
+                                                            IT helpdesk pour KPMG France 
+-Assurer le support techniques de tous les employeurs de KPMG France 
+-Assurer le support de l’application IBS ( application SAP) utlisée  principalement chez 
+KPMG 
+-Créer, gérer et assurer le suivi des  incidents en utilisant les tickets. 
+-Accéder à distance au poste des utilsateurs.  
+- Escalader en cas de besoin les tickets crées vers le support niveau 2 ou 3 basé  en Italie ou en 
+Alemagne  en envoyant des ticktes ou des emails rédigés en anglais. 
+- Formation sur l’AD (création, suppresion des comptes.. ), la console RSU, microsoft 
+outlook , connexion VPN,.. 
+Décembre 2011-Juin 2013    STREAM GLOBAL SERVICES   
+                                                  Technicien support  pour SFR 
+-Résoudre les problèmes liés à la connexion Internet pour les clients (les particuliers) de 
+l’opérateur SFR 
+-Assurer le support technique de l’ADSL, VOIP, TV,Wifi 
+-Configuration des Box SFR ( Neufbox, BoxEvolution). 
+-Assurer la satisfaction des  clients. 
+Stages de Formations  
+Janvier- Mai  2011         Entreprise HITS( Pole technologique El Ghazela) et en    
+                                         collaboration avec  Tunisie Télécom (Bizerte) 
+                                         Stage pratique pour la réalisation du Projet de Fin d’Etudes pour  
+                                          L’obtention d’un mastère professionnel en TRT :Ingénierie de 
+                                         modernisation et de développement des réseaux d’accès fixes  
+                                         d’un  Opérateur historique selon le concept IMS.   
+Septembre 2010              Société Nationale d’Exploitation et de Distribution des Eaux  
+                                          (SONEDE): Stage pratique d’ingénierie  
+Juillet 2008                      Agence Tunisie Télécom – Tabarka : Stage  technicien                                          
+Juillet 2007                      Agence Tunisie Télécom – Tabarka : Stage d’initiation 
+                                          
+Compétences  
+Réseaux informatiques 
+ Les Réseaux sans fils (Wifi, ad hoc….) 
+ Routage dans les réseaux (RIPV1/V2, OSPF, EIGRP.) 
+ Architecture des Réseaux  
+ Protocoles réseaux : TCP/IP, UDP, …. 
+ Evaluation des performances des réseaux 
+ Réseaux étendus et d’opérateurs 
+ LAN, WAN, PAN, VPN… 
+ Configuration  des équipements réseaux : routeur, switch,…. 
+ Sécurité dans les réseaux des télécommunications 
+ les VLAN : Les réseaux locaux virtuels 
+ la technologie xDSL 
+ La Voix sur IP 
+Télécommunications    
+ FTTH ( Fiber To The Home)  
+ Réseaux radio-mobiles 2G, 3G et 4G (GSM, GPRS,  
+                                               EDGE, UMTS, HSDPA, HSUPA, HSPA+, LTE) 
+ WiMax 
+ Tvws, radio cognitive  
+ RTCP (Réseau  Téléphonique Commuté  Public) 
+ Techniques d’accès : FDMA, TDMA, CDMA, OFDMA 
+ Traitement de signal, communications numériques, codage 
+source Et codage canal 
+ Les équipements radio mobile : les antennes, les BTS, Les FH 
+ SIG : Systèmes d’information géographique (SIG) 
+ Architecture des systèmes radio de communications  
+ Planification des réseaux cellulaires 
+ Les réseaux de nouvelle génération : Concept NGN, IMS,…. 
+Informatiques : Environnement  bureautiques : Microsoft Office (Word, Excel,   
+                                                         Power point) 
+                           Logiciels: Matlab, Packet tracer,  
+               
+             Système d’exploitation: Windows XP, Linux, …    
+                                         
+Langues:  
+Arabe       Maternelle                                        Divers : musique, sport, lecture… 
+Français   écrit et parlé couramment.              Atouts personnels : Dynamisme, Motivation,     
+Anglais     Bon                                                   mobilité, sens du relationnel, organisation                                                                                                                             
+(Du 28 avril 2015 au 28 juin 2015 : British Council : General english)  
+( Du 10 octobre 2015 au 14 decembre 2015 :Minerva consulting :American Buisness 
+english) 
+Informations complémentaires 

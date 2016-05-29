@@ -1,0 +1,69 @@
+Curriculum Vitae Dhekra   +21697831505         dhekrabenncir@gmail.com    Mise à jour : 01/10/2015 
+Formations académique 
+2014             Diplôme National d’ingénieur géni réseau et télécommunication 
+Sousse-Tunisie      Polytechnique de Sousse 
+2011          Cycle préparatoire scientifique intégré(MPI) 
+Sousse-Tunisie     Institut supérieure des sciences appliquées et technologie 
+2008              Diplôme baccalauréat Technique 
+Mahdia-Tunisie      Lycée Ibnou Sina 
+Compétences 
+ Très bonne connaissances algorithmique.  
+ Langages impératifs et orientés objet : Assembleur, C, C++, JAVA, Andoid, 
+Asp.net,C#. 
+ C#.  bases des données : ORACLE, MySQL, SQL Server. 
+ Systèmes d'exploitation : Fedora Core, CentOS, RedHat, Debian, BackTrack5, et 
+toutes les versions Clients et serveurs de Windows.   
+ Réseaux et sécurité : ARP, TCP/IP, SSL VPN, VLAN, switching, firewalling, ACLs, 
+MPLS, IEEE802.1x, IDP-IPS, NAT/PAT.   
+ Certification: Cisco Certified Network Associate,Toic. 
+ Cartes embarquées : Arduino, Raspberry, BeagleBone, FPGA . 
+Expériences professionnelle et projets réalisés 
+Du 12/12/2014 au 31/03/2015 Tunis Berge du lac – Tunisie 
+             Ingénieur développeur chez l’entreprise welcom internationale 
+             Missions et tâches réalisées:   
+ Développer sous ASP.net, web service et SQL Server. 
+                                Langage : Asp.net, SQL Server. 
+                                Documentation :SQL server 2013,asp.net. 
+Nom et prénom : Ben Ncir Dhekra 
+Date de naissance: 04/09/1988 
+Numéro de téléphone : +216 97 831 505 
+Adresse mail : dhekrabenncir@gmail.com 
+Adresse postale : Citer olympique Tunis  
+             Ingénieur Développeur Réseau et Telecom 
+Curriculum Vitae Dhekra   +21697831505         dhekrabenncir@gmail.com    Mise à jour : 01/10/2015 
+ Réaliser un site web commercial avec BOOTSTAP, PHP5, HTML5, JavaScript 
+(jQuery). 
+                  Langage : html5.  
+                  Outils utilisés : PHP, MySQL, Wampserver. 
+Du 01/02/2014 au 01/04/2014 Sousse – Tunisie Stage Ingénieur chez l’entreprise 
+PixelDrone, Missions et tâches réalisées:   
+ Mise en place d’un 3G HUAWEI sous un drone. 
+ Réaliser d’une application streaming en temps réel avec la carte Raspberry Pi. 
+ Maitriser le système d’exploitation Raspbian. 
+Du 01/08/2013 au 01/09/2013 Mahdia - Tunisie Stage Technicien chez Orange, Secteur 
+Télécommunication  
+Mission effectuée: Conception et réalisation d’un outil de gestion de projet. 
+Serveur Web : Jboss 
+Langage : Java 
+Plateforme : J2EE 
+Framework : JSF 
+Base de données : MYSQL. 
+Logiciels: 
+Eclipse, .NET Metadata Expert, Visual Studio 2005. 
+Du 01/07/2012 au 01/08/2012 Monastir – Tunisie Stage ouvrier chez Aéroport Habib 
+Bourguiba, Secteur Télécommunication  
+Missions et tâches réalisées:   
+ Mise en place d’une solution VoIP déployé, Serveur Asterisk,wireshark. 
+ Installer BackTrack5, cracker les réseaux wifi. 
+Du 01/06/2011au 01/07/2011 Mahdia– Tunisie Stage ouvrier chez STEG, Secteur 
+Télécommunication  
+Mission effectuée: Développer une application de gestion d’agence  en C ++. 
+Outils utilisés: Dev, UML, Base de données en Access. 
+Langues : 
+  Arabe maternelle. 
+ Français: Bilingue.   
+ Anglais : Compétence professionnelle complète. 
+ Allemand: Niveau Moyenne. 
+Centres d’intérêts 
+ Linux, logiciel libre, nouvelles technologies, sécurité systèmes et réseaux.   
+ Sports, Formations, Sortie en groupe. 

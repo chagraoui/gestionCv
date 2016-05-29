@@ -1,0 +1,39 @@
+{
+  "age": 23,
+  "name": "Mohammed El Hadki ",
+  "adresse": "",
+  "mail": "elhadkimohammed@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "skills": [
+    "c#",
+    "c++",
+    "css",
+    "c",
+    "oracle",
+    "android",
+    "jee",
+    "javascript",
+    "sql",
+    "java",
+    "uml",
+    "xml",
+    "php",
+    "mysql",
+    "html",
+    "mvc",
+    "pl/sql"
+  ],
+  "keywords": {
+    "casablanca": 4,
+    "java": 3,
+    "web": 4,
+    "webfocus": 3,
+    "mvc": 3,
+    "logicielle": 4,
+    "object": 3,
+    "sql": 3
+  }
+}

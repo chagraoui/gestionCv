@@ -1,0 +1,68 @@
+Hatem Nabli 
+IT Operations Engineer 
+23, rue 2 Mars 1934  
+2090 Ben Arous, Tunisie 
+Tél ​: 55 34 10 71 
+Email ​: ​nabli.hatem@gmail.com 
+Célibataire, 29 ans   
+Résumé 
+Ingénieur I.T. Operations avec une expérience de 4 ans dans le web crawling et le web scraping et 
+plusieurs autres tâches opérationnelles. Un ingénieur opérationnel doit organiser, superviser et optimiser le 
+fonctionnement de la production informatique (infrastructures, services et applications) en collaborant 
+avec l'équipe de l'administration système et l'équipe de développement, ainsi qu'assurer un support aux 
+clients. 
+Expérience : 
+Depuis Octobre 2011 
+● Poste ​: Web crawl engineer chez IMR Tunisie. 
+● Tâches​ : Mes principales missions sont la gestion et le développement de l'infrastructure et 
+l'exploitation de nos produits en mode SaaS. Pour cela, je suis en charge de : 
+­ La compréhension de l'infrastructure et l'analyse des problématiques système 
+­ Le développement dans le but d'assurer et optimiser l’industrialisation de la production 
+(normalisation et automatisation) 
+­ Assurer un monitoring en temps réel des systèmes et des applications 
+­ Analyser et gérer les incidents d’exploitation 
+­ Assurer un support technique aux clients et gérer les priorités (Jira) 
+­ Anticiper les besoins et les évolutions système 
+­ La mise en place des dispositions nécessaires dans l'intérêt de l'équipe et des clients 
+● Compétences​ : Python, Shell, Système, Réseaux, Support, … 
+­ Connaissance solide sur le web crawling et le web scraping 
+­ Connaissance solide des environnements Linux et l’administration système (Debian) 
+­ Connaissance solide sur le développement et le scripting Python, Shell (Selenium, Scrapy, API 
+Twitter, API Youtube…) 
+­ Connaissance des outils de supervision des infrastructures (Nagios, Ganglia...) 
+­ Connaissance des bases de données relationnelles (Postgresql) 
+­ Connaissances de base sur les réseaux informatiques 
+Septembre 2010 – Avril 2011 :  
+● Poste​ : Stagiaire PFE 
+● Tâche​ : A la société Cynapsys, le sujet était la conception et réalisation d’une solution bancaire de 
+création des interfaces web de gestion dynamiquement en JEE (EJB, JSF, Richfaces). 
+● Compétences​ : J2EE, Eclipse 
+Janvier – Mars 2010 :  
+● Projet de fin d’année à ESPRIT ayant pour sujet la conception et le développement d’une 
+application mobile en J2ME d’envoie des requêtes USSD et traitement de la réponse reçue 
+● Projet de sécurité des réseaux : Administrer et sécuriser un réseau local : pfSense, OpenVPN, 
+OpenSSH 
+● Projet des services réseaux : Installation et configuration des services DHCP, DNS, Streaming, 
+serveur de messagerie Postfix, serveur web et FTP, outil de supervision Nagios 
+Février – Juin 2008 :  
+● Poste​ : Stagiaire PFE 
+● Tâche​ : Chez la société ITIC (International Télécommunication Information company) et ayant 
+pour sujet la conception et la réalisation d'une application de gestion de la pharmacie d'un hôpital, 
+en utilisant J2EE comme architecture de développement et la méthodologie UML pour la 
+conception de la base des données en utilisant ORACLE 10g. 
+● Compétences​ : Java, UML, Oracle 
+Formation/Diplômes : 
+● Juillet 2011: Obtention du diplôme national d’ingénierie en informatique à l’École Supérieure 
+Privée d'Ingénierie et de Technologie, ESPRIT. 
+● Juin 2008: Obtention du diplôme universitaire des technologies spécialité technologies des 
+systèmes d'information et de communication à l'ISI (Institut Supérieur d'Informatique). 
+● Juin 2005: Obtention du diplôme de baccalauréat section mathématiques. 
+Langues : 
+● Arabe : langue maternelle 
+● Français : lu, écrit et parlé 
+● Anglais : lu, écrit et parlé (Anglais technique) 
+Divers : 
+● Aquariophilie 
+● Observateur électoral 
+● Internet 
+● Permis B 

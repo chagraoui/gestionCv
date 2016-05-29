@@ -1,0 +1,32 @@
+{
+  "age": 27,
+  "name": "Bouhlel Rochdi ",
+  "certif": "2014 Certification de Formation – Centre de formation professionnel CIFOP-",
+  "adresse": "tunis",
+  "mail": "rochdi.bouhlel@hotmail.fr",
+  "studies": [
+    "baccalauréat"
+  ],
+  "num": "21620323557",
+  "skills": [
+    "c#",
+    "rest",
+    "css",
+    "dreamweaver",
+    "c",
+    "oracle",
+    "html5",
+    "javascript",
+    "sql",
+    "java",
+    "php",
+    "html",
+    "word",
+    "css3"
+  ],
+  "keywords": {
+    "web": 6,
+    "html": 3,
+    "sousse": 3
+  }
+}

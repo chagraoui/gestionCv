@@ -1,0 +1,73 @@
+Dhouaifi Anis  
+Ingénieur informatique   
+Cité El Ghazala  
+Ariana, Tunisie  
+  Téléphone : (+216) 24 565 790 
+  Email: anisDev.dhouaifi@gmail.com 
+anis.dhouaifi@esprit.tn 
+  Né le : 06/01/1992 à Bizerte 
+Etat Civil : Célibataire 
+  CURSUS UNIVERSITAIRE 
+ Ecole Supérieure Privée d’Ingénierie et de Technologies 
+ 2012 - 2015  
+          Diplôme National d’Ingénieur en Informatique 
+2010 - 2012   Institut Préparatoire aux Etudes d’ingénieur de Bizerte 
+          Admis au concours national d’entrée aux cycles de formation d’ingénieur 
+2010   Lycée Ibn Mandhour Béja 
+          Baccalauréat scientifique, Section sciences expérimentales (Mention : Bien)  
+  EXPERIENCE PROFESSIONNELLE  
+Juillet  – Décembre  Développeur Web à Metam 
+2015  
+Missions : 
+Analyse et spécification des besoins clients, conception et planification des projets. 
+Rédaction des propositions techniques (Responsive Web Design, Référencement,..). 
+Développement des applications : 
+          Ajout de nouvelles fonctionnalités au module de « Gestion de projets » (ERP)   
+          telle que la possibilité de facturer des projets à un client. 
+          Conception et développement d’un module de Gestion des achats. 
+Février – Juin 2015  Stage de fin d’études à Metam 
+  Missions : 
+Concevoir et développer un module de gestion des ressources humaines et l’intégrer 
+dans un ERP.  
+Technologies et outils : Php 5, Symfony 2, Ajax, Netbeans, Bootstrap 3.5 
+Octobre  – Novembre  Projet « Events Online » à ESPRIT 
+2015 
+  Missions : 
+Réalisation d’une application web qui permet aux organisateurs de planifier, 
+promouvoir  et vendre des billets pour toutes sortes d’événements. Les utilisateurs 
+peuvent participer et évaluer ces événements ainsi de les partager à travers les réseaux 
+sociaux (Facebook, Google +). 
+Technologies et outils : .NET MVC 5, SQL Server, Visual Studio 2013  
+Juillet – Août 2014       Projet « Mushup Smart Office » à ESPRIT 
+ Mission : 
+Réalisation d’une application web qui intègre plusieurs APIs (Google calencar, 
+Google drive) afin de faciliter les tâches et les services au sein d’une entreprise. 
+ Technologies et outils: Eclipse, JavaScript, RESTful API 
+Février –Mai 2014 Projet « Cineast » à ESPRIT 
+Missions :  
+Réalisation d’un réseau social de divertissement dont le but est de fournir des 
+informations cinématographiques en ligne. Il offre à ses utilisateurs la possibilité de 
+noter et discuter à propos d’un film ou d’une série soit dans un forum soit par 
+discussion Visio (outil hangouts). Les amateurs peuvent aussi publier leurs propres 
+films et les commercialiser.  
+Technologies et outils: Java, Swing, JSF, Primefaces, Hibernate 
+Octobre–Janvier 2013   Projet « SOS Animaux » à ESPRIT 
+Missions : 
+Réalisation d’un projet intégrant une application bureautique, une application mobile 
+et un site web dynamique dont le but est de lutter contre la maltraitance animale. 
+Technologies et outils : Java, Swing, J2ME, Symfony 2 
+Compétences 
+- Langages: c#, Java, HTML 5, CSS 3, SQL, JavaScript, Ajax, JQuery, XML, PHP 5.  
+- Frameworks: EJB, Spring, JSF, Primefaces, Hibernate, Symfony 2, Bootstrap. 
+- Outils : Eclipse, NetBeans, Git, Maven,     
+ - Outils de test: JUnit, SoapUI, Postman. 
+- SGBD : PL/SQL, MySQL, SQL Server  
+- Modélisation : UML.  
+- Méthodologie : Méthode Agile (Srcum), ISO 29110 
+ Langues 
+Anglais : Lu, Parlé, Ecrit. 
+Français : Lu, Parlé, Ecrit. 
+Arabe : Langue maternelle. 
+                                                   Loisirs et vie associative                                                                                                            
+          Ancien membre à Google Student Ambassador Club à ESPRIT.  
+                                              Internet et actualité, lecture, musique. 

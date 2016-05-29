@@ -1,0 +1,67 @@
+Ingénieur  Téléinformatique
+Formation
+2012-2015
+Institut Supérieur d’Informatique et des Techniques de Communication de Hammam Sousse (ISITCom) : Ingénieur 
+Télécommunication Informatique,
+Certification : CCNA (Cisco Network Associate),
+2009-2012
+Faculté de Science de Monastir :Licence Appliquée en Technologie des Réseaux Informatiques,
+Lycée secondaire de Boumerdes Mahdia : Baccalauréat en Science Informatique,
+Expériences professionnelles
+1/02/2015 au 31/05/2015
+Ingénieur, Stage
+My Team, Tunisie, Monastir
++ •Chef de projet : Développement d’une application web ERP (Enterprise Resource Planning), utilisant ASP.NET MVC, 
+SQLServer, • 
++ •Etude et Réalisation du projet GMAO (Gestion de Maintenance Assisté par Ordinateur),
+1/02/2014 au 31/05/2014
+Ingénieur, Stage
+AMS,Tunisie, Sousse
++ •Administrateur Système et Réseaux, •
++ •Mise en place d’un réseau VPN au sein de l’entreprise,
+1/02/2012 au 31/05/2012
+Technicien, Stage
+CSFMI, Tunisie, Khniss-Monastir, Centre de formation
++ •Développement d’un outil pour la Gestion de la Maintenance Assistée Par Ordinateur (GMAO), en utilisant C# 
+(CSharp), et PostgreSql,
+Projets Académiques
+Novembre 2013•:•
+Évaluation de Performance : Conception et implémentation d’une application d’évaluation de performance d’un 
+système "MIMO", sous c#.
+M. HAMZA HAWARI
+Nationalité Tunisienne
+Célibataire
+25 ans
+Né le 21/05/1990 à MAHDIA
+AMIRAT TOUAZRA MOKNINE
+5054 MONASTIR Tunisie
+Tel. mobile: 40438716
+Email: hamzahawari@gmail.com
+Novembre 2013 : •
+Administration SGBD Oracle 10g : Implémentation d’une application d’administration de l’SGBD Oracle 10g, sous c#.
+Mars 2014 : •
+RFID Detector : Réalisation d’un système "RFID" pour le pointage d’employé.
+Avril 2014• : •
+Administration et sécurité réseaux : Les attaques réseaux : SQL Injection, XSS, et Phishing, sous Kali Linux.
+Février 2015 •: •
+Veille Technologie : Implémentation d’une application mobile Android dans le domaine d’e-commerce.
+Compétences Informatiques
+Programmation : C, C++, CSarp (c#), Asp.net, Asp.net MVC, Java, J2EE, Android, Matlab, Pascal, VB.net, VbScript, 
+HTML, XML, PHP, Java Script, Css, 
+Gestion de données : Oracle, MySQL, PostgreSQL, SQLServer, Sybase,
+Méthode de conception : UML, Mérise,
+Système d’exploitation : Windows, Linux, Kali Linux,
+Réseaux : WAN, LAN, MAN, ATM, Cisco, GPRS, GSM, RNIS, RTC, TCP/IP, UMTS, X25,
+Compétences•particulières
+Très motivé, Caractère sociable, Patient, Capacité d’écoute,
+Divers
+Administrateur  de club IT Creators (ISITCOM 2013-2014)
+Club de développement informatiques et télécommunication...
+Langues
+Arabe Langue maternelle
+Français Courant
+Bonne maîtrise aussi bien à l’écrit qu’à l’oral,
+Anglais Intermédiaire
+Usage Professionnel
+Centres d’intérêt
+Sport, Musique, Internet

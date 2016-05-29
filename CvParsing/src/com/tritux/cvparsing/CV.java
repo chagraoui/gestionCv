@@ -11,15 +11,20 @@ import java.util.Set;
 
 public class CV {
 	
+	//private Long id;
 	private int age;
 	private String name;
 	private String certif;
+	//private List<String>certif;
+	//private String gender;
 	private String adresse;
 	private String mail;
 	private ArrayList<String> studies;
 	private Set<String> skills;
 	private String num;
 	private HashMap<String, Integer> keywords;
+	//private Map <string,integer> experience;
+	
 	
 	private BufferedReader in;
 	

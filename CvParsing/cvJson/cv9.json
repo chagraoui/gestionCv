@@ -1,0 +1,26 @@
+{
+  "age": 29,
+  "name": "Habibi Ines ",
+  "adresse": "tunis",
+  "mail": "habibiines87@gmail.com",
+  "studies": [
+    "baccalauréat"
+  ],
+  "num": "09159663",
+  "skills": [
+    "excel",
+    "c",
+    "oracle",
+    "uml",
+    "asp.net",
+    ".net",
+    "html",
+    "windows",
+    "word",
+    "powerpoint",
+    "sql"
+  ],
+  "keywords": {
+    "modélisation": 3
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "age": 28,
+  "name": "ay Al Andalous,OUJDA                                          ",
+  "adresse": "",
+  "mail": "Reda.chouiba@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "skills": [
+    "c#",
+    "css",
+    "c",
+    "oracle",
+    "javascript",
+    "sql",
+    "java",
+    "uml",
+    "xml",
+    "asp.net",
+    ".net",
+    "scrum",
+    "html",
+    "mysql",
+    "mvc",
+    "pl/sql"
+  ],
+  "keywords": {
+    "c#": 4,
+    "linq": 3,
+    "rabat": 6,
+    "web": 8,
+    "dot": 5,
+    "mysql": 4,
+    "cdiscount": 3,
+    "mvc": 3,
+    "net": 16,
+    "ingénieur": 4,
+    "asp": 7,
+    "sql": 10
+  }
+}

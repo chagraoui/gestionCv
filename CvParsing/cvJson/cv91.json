@@ -1,0 +1,41 @@
+{
+  "age": 0,
+  "name": "Ingénieur Stockage \u0026 Réseaux ",
+  "certif": "SUSE Certified Linux Administrator ",
+  "adresse": "tunis",
+  "mail": "bourgou.zied@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "21697172172",
+  "skills": [
+    "c#",
+    "c++",
+    "c",
+    "oracle",
+    "ubuntu",
+    "photoshop",
+    "windows",
+    "sql",
+    "java",
+    "linux",
+    "php",
+    ".net",
+    "mysql"
+  ],
+  "keywords": {
+    "san": 4,
+    "endpoint": 4,
+    "sse": 4,
+    "ubuntu": 3,
+    "linux": 3,
+    "réseaux": 9,
+    "hp": 14,
+    "adobe": 3,
+    "symantec": 6,
+    "windows": 5,
+    "ingénieur": 5,
+    "ccna": 4
+  }
+}

@@ -1,0 +1,48 @@
+<page-title ng-if="layoutOptions.pageTitles" title="Offres Disponibles" description="Choisissez des offres et postulez."></page-title>
+
+<p class="well text-center">
+    <span class="text-primary">Ici vous pouvez consulter tous nos offres et postulez.</span>
+</p>
+
+
+<form role="form">
+
+    <div class="row">
+        <div ng-repeat="offre in offres">
+            <div class="col-sm-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <div class="panel-title"><strong> Titre : </strong> {{offre.titreOffre}}</div>
+                    </div>
+                    </br>
+                        <div class="form-group">
+                            <strong> Description :</strong>
+                            </br>
+                            <div class="panel-body">
+                            <label>{{offre.descOffre}}</label>
+                            </div>
+                            </br></br>
+
+                            <strong>Technologies nécessaires :</strong>
+                            </br>
+                            <div class="panel-body">
+                                <label>{{offre.technologiesOffre.nomTechno}}</label>
+                            </div>
+                            <br/><br/>
+
+                            <div class="form-group" align="right">
+                                <button type="submit" class="btn btn-success" ng-click="postuler(offre)" ng-disabled="offre.selected">
+                                    <i ng-class="{'glyphicon':true, 'glyphicon-ok':offre.selected}"> </i>
+                                    {{offre.selected?'Postulé':'Postuler'}}
+                                </button>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</form>

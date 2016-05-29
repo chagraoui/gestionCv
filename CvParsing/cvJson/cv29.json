@@ -1,0 +1,26 @@
+{
+  "age": 29,
+  "name": "Née le : 26/09/1987 ",
+  "adresse": "",
+  "mail": "jihane.karich26@gmail.com",
+  "studies": [
+    "ingénieur"
+  ],
+  "num": "662400747",
+  "skills": [
+    "excel",
+    "rest",
+    "c",
+    "word"
+  ],
+  "keywords": {
+    "chaîne": 3,
+    "charge": 3,
+    "l’atelier": 4,
+    "elaboration": 3,
+    "fournisseurs": 3,
+    "logistique": 9,
+    "cahiers": 3,
+    "cadence": 4
+  }
+}

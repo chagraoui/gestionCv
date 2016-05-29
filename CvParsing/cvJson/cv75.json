@@ -1,0 +1,34 @@
+{
+  "age": 0,
+  "name": "EXPERIENCES PROFESSIONNELLES ",
+  "adresse": "tunis",
+  "mail": "houda.kardoun@gmail.com",
+  "studies": [
+    "ingénieur",
+    "licence",
+    "baccalauréat"
+  ],
+  "num": "21622797644",
+  "skills": [
+    "excel",
+    "matlab",
+    "c",
+    "oracle",
+    "uml",
+    "linux",
+    "php",
+    "mysql",
+    "windows",
+    "word",
+    "sql"
+  ],
+  "keywords": {
+    "régulation": 3,
+    "réseaux": 5,
+    "elévateurs": 3,
+    "servicom": 4,
+    "maintenance": 3,
+    "ascenseurs": 3,
+    "sfax": 4
+  }
+}

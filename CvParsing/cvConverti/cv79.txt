@@ -1,0 +1,75 @@
+Rim MAHJOUB
+1 Rue de reservoir
+1008 Tunis, Tunisie
+H +216 52 82 82 47
+B rym.mahjoub@gmail.com
+Diplômes et Études
+Mars. 2015 –
+Juill. 2015
+Certificat en ’Security Management International’,
+Berlin School of Economics and Law, Allemagne,
+Modules : International risk analysis, protection of critical infrastructures, disaster and crisis management,
+International Aspects of Security Management with a special focus on West Africa (ECOWAS),
+Intercultural competence and conflict management,
+Security services on international and national level,
+Leadership and decision-making,
+Data protection.
+2012 – 2013 Master en Sciences Économiques et de Gestion mention Informatique,
+Ecole Polytechnique, Nantes, France.
+Spécialité Extraction des connaissances à partir des données
+Modules : Méthodes pour la fouille de données et l’apprentissage,
+Méthodes avancées pour la fouille de données,
+Cours dans la formation ingénieur
+2011 – 2013 Master en Sciences et Techniques de l’Informatique Décisionnelle,
+Institut Supérieur de Gestion, Tunis, Tunisie.
+Spécialité Informatique et Gestion de la Connaissance
+Modules : Modèles graphiques, Apprentissage automatique, Gestion des connaissances, Data minning,
+Mobile data modeling and analyis, Systèmes d’information et intelligence economique
+2008 – 2011 Licence en Informatique de Gestion,
+Institut Supérieur de Gestion, Tunis, Tunisie.
+2007 – 2008 Baccalauréat Mathématique, Lycee SADIKI, Tunisie.
+Expériences Professionnelles et Stages
+Févr. 2015 –
+Mai 2014
+Test et Validation, Focus & Focus International, Tunisie.
+Tester le logiciel embarqué sur les produits multimédia, détecter les anomalies et reporting
+Mai 2014–
+Oct.2013
+Enseignante vacataire, Institut Supérieur de Gestion, Tunisie.
+Cours: Algorithmique et langage C et Tp: vb.net
+Févr. 2013 –
+Juin 2013
+Recherche et développement, Laboratoire LARODEC, (ISG de Tunis).
+Sujet de recherche: Data Cleaning for Protein Sequence Pattern Mining
+Technologies: JAVA
+Mention: Bien
+Févr. 2011 –
+Mai 2011
+Développement web, Banque Internationale Arabe de Tunisie.
+Stage de fin d’études
+Titre : Outil d’aide à la décision pour l’implantation de nouvelles agences
+Technologies: PHP, JS, MySQL
+Mention: Trés Bien
+Juill. 2009 Stagiaire, Carthage assistance, Tunisie.
+Stage d’initiation à la vie professionnelle
+Compétences Informatique
+Outils SSIS, Talend Open Studio, Eclipse, Netbeans, Visual Studio, Oracle Forms, EasyPHP, Rational Rose, Flash, Apache,
+Wamp, Weka, Packet Tracer, Mantis, matlab.
+Programmation Java, HTML, CSS, PHP, JAVASCRIPT, VB, Pascal, C, C++, Python, Assembleur
+SGBD Oracle, SQL Server, MySQL
+Conception Processus Unifié (UP), MERISE
+Autres LATEX, Beamer, Microsoft Office (Excel/Word/PowerPoint)
+Langues
+Français lu, parlé, écrit Anglais English for Management
+Arabe Langue Maternelle Allemand Niveau A2.1
+Projets Universitaires
+{ Projet recherche et développement: Etude des Ontologies WordNet
+{ Projet POO Avancée: Développement :
+- Application de gestion de bibliothèque universitaire (langage de programmation: Visual Basic (vb))
+- Application de gestion d’une agence de location de voitures (langage de programmation: Java)
+- Algorithmes génétiques pour le problème de bi-partitionnement des graphes (langage de programmation: c)
+Divers
+Permis de
+conduire
+Permis de type B
+Loisirs Basketball, peinture, natation, randonnée, activités associatives

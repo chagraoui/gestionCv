@@ -1,0 +1,26 @@
+{
+  "age": 0,
+  "name": "Mejri karima                                                                                                  ",
+  "adresse": "tunis",
+  "mail": "Mejri_k@yahoo.fr",
+  "studies": [
+    "baccalauréat"
+  ],
+  "num": "21621197527",
+  "skills": [
+    "excel",
+    "c",
+    "java",
+    "pascal",
+    "linux",
+    "php",
+    "mysql",
+    "windows",
+    "word",
+    "sql"
+  ],
+  "keywords": {
+    "informatiques": 3,
+    "matériels": 3
+  }
+}

@@ -1,0 +1,56 @@
+      
+                
+ Formation 
+2012-2015 : Diplôme Nationale d'Ingénieur en Informatique 
+(option réseaux) 
+Ecole  Nationale d’Ingénieurs de Carthage-ENICar 
+(auparavant ESTI) 
+                       
+Curriculum vitae 
+ Expériences Professionnelles : 
+      Février/2015-Mai/2015 
+         Stage de PFE au sein d’Orange Tunisie 
+      Conception et réalisation d’un outil de monitoring de checkup        
+      systèmes et des OSS équipementiers :   
+ Automatisation  de ces checkups via des scripts shell. 
+ Analyse des outputs de ces scripts pour détecter la 
+présence ou non d’alertes et les classer suivant leurs 
+niveaux de criticité (critique, majeur, mineur). 
+ Suivie de ces alertes via une interface web centralisée.  
+      Juin/2014-Juillet/2O14             
+        Stage d’été à Bourse des Valeurs Mobilières de Tunis 
+     Etude, mis en place et manipulation d’un serveur d’intégration                
+     continue : Team Foundation Server 2013.  
+      
+Langages de développement :C, C++, Java, Environnement 
+Linux, UML, PHP5, HTML5, CSS3, SQL, XML, JavaScript, 
+AJAX, Android 
+Outils de développement et logiciels : Team Foundation 
+Server 2013, Elastix, Visual Studio 2013, NetBeans, Eclipse, 
+Fedora 12, Cisco Packet Tracer,  Citrix, Putty, MySQL 
+Langue Anglais : Courant 
+Français : Expert (TCF) 
+Arabe : maternel 
+Italien : scolaire  
+Italien : scolaire                                                         
+ Centre d’intérêt  
+Jeux Vidéos, Bibliophile  
+     
+         Juillet/2013    
+          Stage d’été à Tunisie Télécom El Kasba 
+         Etude et mis en place d’une solution de communication   
+         unifiée : Elastix                                                  
+              Firas Chérif 
+Residence Riadh1, Bloc B 
+apt 1, rue Midoun  
+                    2074, ElMourouj5 
+                                23547063 
+       firasch9@gmail.com 
+24  ans 
+Célibataire 
+ Compétences 
+2010-2012 : Cycle Préparatoire aux études d’ingénieurs –MP 
+                    Institut Préparatoire aux Etudes d’ingénieurs El Manar 
+                    IPEIM 
+2010       : Baccalauréat Scientifique : Bac Math – Mention Bien 
+                 Lycée Mourouj 6 

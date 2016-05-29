@@ -1,0 +1,28 @@
+{
+  "age": 0,
+  "name": "Adresse: 3 Rue 8720 App 4B Bloc 57 1003 cité olympique ",
+  "certif": "Octobre2014 : (200-120) CCNA Cisco Certified Network Associate (Routing and Switching) ",
+  "adresse": "tunis",
+  "mail": "jemaii.nizar@gmail.com",
+  "studies": [
+    "baccalauréat"
+  ],
+  "num": "29404947",
+  "skills": [
+    "c",
+    "oracle",
+    "linux",
+    "windows",
+    "sql"
+  ],
+  "keywords": {
+    "oct": 3,
+    "backup": 4,
+    "switchs": 4,
+    "réseaux": 5,
+    "windows": 3,
+    "ccna": 6,
+    "cisco": 6,
+    "maintenance": 4
+  }
+}

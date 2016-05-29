@@ -1,0 +1,29 @@
+Mohamed Raouadi                                                                             
+40, Rue Hortensia ARIANA                                                                                                                  
+Tel : 52207851 
+Email: mohamedraouadi@gmail.com  
+25 ans Nationalité : Tunisienne 
+Expériences professionnelles 
+ Fév.2014- juil.2014 Stage chez BFI: Conception et Développement d’une plateforme de gestion de 
+projets. (JEE6, Spring, Hibernate, PostgreSQL, JSF, PrimeFaces, JavaScript). 
+ Oct.2012- jan.2013 Projet à ESPRIT: Projet de mise en œuvre d’une application pour la gestion de 
+l’entreprise IKEA en Tunisie en assurant la communication régulière avec l’entreprise mère au Suède.  
+             (utlisation de la technologie du Cloud computing, Backbone et VPN). 
+ Fév.2013- juil.2013 Projet à ESPRIT : Conception et Développement d’une application web pour la 
+gestion d’une banque en ligne (JEE6, EJB3, JPA, JSF, PrimeFaces, MySQL). 
+Etudes et Diplômes 
+• 2009                          Baccalauréat section mathématiques  
+• Juil. 2014                  Diplôme national d’ingénieur en informatique de l’école supérieure privée 
+d’ingénierie  et de technologies   
+Compétences Techniques 
+Langages: Java, C, C++, ASP.Net, C#, JEE6, HTML, CSS, PHP, JavaScript, JSF, Spring, Hibernate, EJB, JPA. 
+Base de données: MySQL, PostgreSQL. 
+Systems :Windows (XP, 7,8, SQL Server 2005,2008), Linux(Ubuntu, Backtrack, CentOS) 
+Outlies: Eclipse, NetBeans, Dreamweaver, Notepad++, Microsoft Visual Studio 2010 
+Langues 
+Arabe                            (lu, écrit et parlé) 
+Français                        (lu, écrit et parlé) 
+Anglais                          (lu, écrit et parlé) 
+Divers 
+Sports                           Football, Basket-ball, natation 
+Autres intérêts              Voyage, peinture 

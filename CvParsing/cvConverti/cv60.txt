@@ -1,0 +1,71 @@
+Cursus académique 
+• 2010-2015 : Diplôme d’ingénieur en Réseaux Informatiques et Télécommunications 
+                       Tunis - INSAT, Institut National des Sciences Appliquées et de Technologies 
+Expériences professionnelles 
+• Juillet-Présent 2015 : Web Hosting Canada (Tunisie) 
+          - Gestion des comptes d’hébergement web des clients. 
+                      - Résoudre les problèmes des clients par téléphone, chat, et helpdesk (système de billets). 
+                      - Gérer, enregistrer, et transférer des noms de domaines et effectuer la gestion des entrées DNS. 
+                        - Effectuer une surveillance proactive de l'état des serveurs. 
+           • Février – Juin  2015 : Projet de Fin d’Etudes INSAT à Orange Tunisie 
+                       Sujet : Conception et implémentation d'une plateforme pour le support d'un SOC à base de solutions      
+                                   Open Source 
+                       Technologies: SOC, SIEM, Splunk, OSSIM, Logs,  
+• Juin – Juillet 2014 : Stage ingénieur à Tunisie Télécom 
+                       Sujet : Mise en place d’une solution open source sur un boitier de sécurité dédiée (StoneSoft Alliance)      
+                       Technologies : Linux, Pfsense, Syslog  
+• Juillet – Aout 2013 : Stage technicien à l’Office National de la Télédiffusion 
+                       Sujet : Réalisation d’une plate-forme d’audit sécurité et mise en place d’un honeypot 
+                       Technologies : Linux, honeyd, Nmap, Snort, LOIC 
+Projets réalisés 
+                      
+• 2013-2014 : Projet de Fin d’Année INSAT 
+                       Sujet : Simulation d’un Backbone MPLS avec GNS3. 
+                       Technologies: MPLS, GNS3 
+                        
+• 2012-2014 : Securiday – 4éme et 5éme Journée Nationale de la Sécurité Informatique 
+                     - Conception et mise en place d’une architecture réseau dédié à un challenge informatique Attaque /Défense                  
+                      (Configuration d’un switch catalyst 3560x) et administration des serveurs. 
+                     - Administration d’un serveur dédié DELL PowerEdge 1950 et mise en place d’un hyperviseur VMware ESXI.  
+• 2010-2013 : Membre Club SecuriNets – INSAT 
+                               - Réalisation des ateliers : Social Engineering (Metasploit), Sécurité dans un réseau local (Metasploit), Man In       
+                                 The Middle (arpoisonning, ettercap), et Session Cookies Hijacking (Ettercap, Wireshark). 
+                               - Participation à des épreuves de pénétration, d’audit et de sécurité (CTF : capture the flag). 
+Domaines de compétences 
+Réseaux:                    -Bonne connaissance des technologies LAN et WAN, des mécanismes de commutation et de     
+                                     routage et des Protocoles (IP, TCP, UDP, HTTP). Habile dans la configuration des routeurs et  
+                                     Switch CISCO.    
+                                    -Capacité de plannifier et cabler un réseau local et à mettre en place une solution de supervision    
+Bahaeddine BOUKHZAR 
+3 Rue El Fahs  
+8070 korba, Nabeul 
+Portable: (+216) 27 456 901 
+Skype: bahaeddine05  
+Email: bahaeddine005@gmail.com 
+Spécialiste Web chez Web Hosting Canada 
+Devenir un Expert en Administration et 
+Sécurité des Systèmes et des Réseaux  
+                                     réseau (Nagios). 
+Sécurité:                     -Recherche et identification des vulnérabilités (nmap, nessus, openvas, acunetix, nexpose), Pentest    
+                                     (Kali, backtrack, metasploit, SET), et analyse réseaux (wireshark).  
+                                   -Déploiement de solution de gestion et monitoring des événements de sécurité logs (SIM/SEM/   
+                                                SIEM) tel que OSSIM, Splunk, ELK. 
+OS:                              -Â l'aise avec les environnements Linux (Debian, Ubuntu, CentOS, Red Hat), familier avec les    
+                                     environnements Microsoft (Win 7, Win8 et Win10) et habitué au déploiement de services sous      
+                                    -Microsoft Windows Server2008 (DHCP, DNS, Active Directory). 
+Virtualisation:            -Vmware/Vmware Esxi server, VirtualBox. 
+Programmation:        -JAVA/J2EE, C/C++, HTML5, CSS3, Android, Python, Bash, SHELL UNIX.  
+Base de données:     -SGBD MYSQL, SGBD PostgreSQL, SQLAlchemy. 
+Langues 
+Français: bilingue, Anglais : Bonne connaissance, Arabe: langue maternelle, Allemand : Connaissances scolaires  
+Certifications 
+ • Junior level Linux certification LPIC-1 le 15/04/2013,  Identifiant LPI000280265 code de vérification 925ndxkb5b   
+ • Novell Certified Linux Administrator (CLA) le 2/05/2013,   Code d’inscription CLA-LPI925ndxkb5b  
+Vie associative 
+  •                          
+                             • Responsable Technique à SecuriNets (Club de Sécurité Informatique à l’INSAT) (2013-2014).                                 
+                             • Participation à l’organisation de Tunirobots14 (La 5ème édition de la Journée Nationale Tunisienne de Robotique). 
+              • Participation à la journée « Software Freedom Day 2014 » (octobre, 2013) 
+Intérêts et loisirs   
+           
+             Lecture, Musique, Football, Voyage, Randonnée  

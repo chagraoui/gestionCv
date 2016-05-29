@@ -1,0 +1,56 @@
+Andolsi Ramzi 
+Age : 25 ans 
+Mobile : 22 49 35 47 
+@Mail: andolsiramzi@gmail.com 
+@ :   Cité El Bassatine 
+       Testour  9060 , Béja 
+Formations____________________________________________________
+_____________ 
+2012-2013 : Licence en science de télécommunications et de l’informatique à institut supérieur 
+des études technologiques en communications (IsetCom) Tunis . 
+2008-2009 : Baccalauréat – section science de l’informatique – Béja (Testour) 
+Compétences techniques : 
+ Configuration des  équipements actifs réseaux . 
+ Maitrise tous les   topologies et les technologies réseaux.  
+ Langages de programmations : Pascal, C, C#, ASP.Net, J2EE, VHDL, Visual Basic. 
+ Développement WEB : HTML, CSS, JavaScript, PHP, WordPress.  
+ Conception et Traitement des multimédias : adobe Photoshop, animations Flash, 
+traitement son et vidéos. 
+ Voix sur IP : TrixBox, Elastix et Asterisk. 
+ Systèmes d’exploitation: Windows (XP, Vista, Seven, Server 2008); Linux (Ubuntu, 
+fedora, Backtrack).      
+ Logiciels: Wireshark, Nmap, Packet tracer, Opnet, GNS3, MS-office (SharePoint ,word, 
+PowerPoint, excel) 
+A propos de Moi : Un licencié spécialiste en télécommunication  et 
+administration réseaux, Je maitrise bien les outils informatiques, 
+réseaux, et développement des sites web. 
+Expériences professionnelles __________________________________ 
+Mai 2014 jusqu’à  Octobre 2015 : - un ans et demi -  Novatel 
+ - Technicien réseaux telecom 2G/3G (Drive Test Engineer : faire des mesures instantanées pour les 
+NodeB et les BTS tel que  couverture , throughput , qualité signale et voix ...) SSV et Cluster, chaine 
+de mesure Huawei ( Assistant, Prob, Actix, Tems ) .  
+- Préparation des rapports avec   Huawei Genex Assistant ( SSV et Cluster). 
+2013 (mars) : Projet de fin d’études – six mois – 
+Au sein Tunisie Telecom au Berge de Lac :  Création d’une solution de virtualisation à l’aide des outils 
+de virtualisation tel que  VMWARE  ESXi, VSphere, FreeNas (Serveur de stockage)  et l’UTM  Pfsense. 
+ 2013 (février) : stage – un mois – 
+Au sein de l’office national des postes, Stimuler et configurer le réseau de La poste avec GNS3 et 
+assurer l’administration avec l’outil de supervision WhatsUpGold. 
+ 2012 (janvier) : Mini-Projet – quatre mois –  
+Développement d’un module de gestion des CV pour une entreprise à l’aide du Pro-logiciel Microsoft 
+MS-SharePoint sous Windows server 2008. (Langage Microsoft  utilisé ASP.net) 
+2011 (février) : stage  – un mois–  
+Au sein du Bureaux d’expert réseaux et machine électronique (Monplaisir) : Création, Configuration et 
+administration des réseaux  (réseau Wimax et réseau  ADSL) via OPNET. 
+2010 (février) : stage  – un mois–  
+Au sein de Tunisie Télécom, exactement Centre de création des lignes (CCL) Mjaz EL Beb, 
+Administration et Amélioration des topologies réseaux RTC. 
+Anglais : 
+            Lu : Bien                             Ecrit : Moyen                             Parlé : Moyen 
+Français : 
+            Lu : Bien                             Ecrit : Bien                                  Parlé : Bien 
+Activités Sportive: Football, Handball, Basketball. 
+Participation au club : Enactus IsetCom (club pour les jeunes entrepreneurs)  
+                                 Meilleur Team leader dans la compétions national. 
+                                  
+Informations complémentaires_________________________________ 

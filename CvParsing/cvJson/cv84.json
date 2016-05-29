@@ -1,0 +1,29 @@
+{
+  "age": 0,
+  "name": "Curriculum Vitae  ",
+  "adresse": "nabeul",
+  "mail": "jemaa.rania@gmail.com",
+  "studies": [
+    "licence"
+  ],
+  "num": "21620001153",
+  "skills": [
+    "excel",
+    "css",
+    "c",
+    "html5",
+    "php",
+    "html",
+    "photoshop",
+    "windows",
+    "word",
+    "powerpoint",
+    "css3",
+    "sql"
+  ],
+  "keywords": {
+    "marketing": 5,
+    "nabeul": 3,
+    "carthage": 4
+  }
+}

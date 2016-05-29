@@ -1,0 +1,107 @@
+FORMATIONS 
+2011 : Master Professionnel en Génie Logiciel  
+Institut Supérieure d’Informatique et de Mathématique de Monastir -Tunisie 
+2009 : Maîtrise en Informatique 
+Institut Supérieure d’Informatique et de Mathématique de Monastir -Tunisie 
+2007 : Diplôme d’étude du 1er cycle universitaire, spécialité : Math-informatique  
+Institut Supérieure d’Informatique et de Mathématique de Monastir –Tunisie 
+2005 : Baccalauréat section science expérimentale 
+ Lycée de Moknine  Monastir -Tunisie 
+EXPERIENCES PROFESSIONNELLES 
+Septembre 2014 – Octobre 2015 : Chef de département de Test et Validation -Société LOGISOFT-
+Monastir 
+Activités : 
+ Coordonner et organiser les activités du groupe de test (Application de la méthode agile Scrum). 
+ S’engager sur la réalisation des objectifs et des budgets établis avec la direction. 
+ Suivre, contrôler et corriger quotidiennement les résultats des activités de Test. 
+Janvier  2012 – Août 2014 : Ingénieur de Test -Société MEDIANET-Tunis 
+Activités :  
+ Créer les tests et les scénarios de test à partir des exigences et des spécifications fonctionnelles. 
+ Exécuter des tests fonctionnels et techniques (manuels et/ou automatiques) afin de vérifier la conformité 
+des produits d’une part aux  normes standards et aux bonnes pratiques et d’autre part  aux spécifications  
+des clients. 
+ Détecter les anomalies et les non-conformités des produits par rapport aux attentes des clients. 
+ Rédiger des rapports de test (en utilisant l’outil Testlink). 
+ Interfacer Testlink avec Mantis BugTracker pour gérer la correction des bugs dégagés.  
+ Assurer le traitement des anomalies (en utilisant l’outil Mantis BugTracker). 
+ Automatiser les tests des produits en maintenance (en utilisant l’outil Selenium IDE).  
+Quelques références réalisées  dans ce domaine : Nordnet ,Geant, Banque Zitouna, BIAT,  Watania1, 
+Watania2, UTICA, ISLAIN, JawharaFM, FATALES Ennadhafa_JUDY, Gourmandise, Remax, H.A, Sigma 
+Conseil, Ennakl, ANME, MSB_Groupe, Afek_Tounes,  GroupeHachicha,  Ges_Xerox, SAME, GAT ,… 
+Abir BEN AZIZA 
+02 rue IbnElHaythem 5050 Monastir-TUNISIE   
+Tel : 21 751 382 / 54 676 933 - Mail : ben.aziza.abir@gmail.com 
+Célibataire / 29 ans  
+Février 2011 – Décembre 2011 : Développeur Mobile (Android) - Société  MEDIANET-Tunis 
+Activité : conception et développement des solutions m_boutique, m_shop , m_journal et des solutions de 
+transport sur la plateforme « android » . 
+ Formation dans le développement Android assisté par Mr Arnaud Farine. 
+Quelques références réalisées dans ce domaine : Application Mobile de ScoopInformatique, 
+Application mobile de Tunisiana, Application mobile de journal tunisien Alchourouk, Application 
+Mobile l’SRTGN   
+Août 2010 – Janvier 2011 : Stage de développement Mobile – Société MEDIANET-Tunis (Projet de 
+fin des études de Master) 
+Activité : conception et développement d’une application « Android » qui permet aux utilisateurs de consulter 
+des catalogues sauvés dans une base de données en ligne et d’effectuer des achats (Scoop Mobile). 
+Février 2010 – Juin 2010 : Enseignement supérieur – ISIM Monastir 
+Activité : mettre l’accent sur la conception orientée objet en utilisant  UML 2.0 comme outil de modélisation 
+unifié. 
+Janvier 2010 – Mars 2010 : Enseignement préparatoire – Ecole préparatoire - Monastir 
+Activité : enseigner les outils bureautiques aux élèves de cycle préparatoire. 
+Août 2009 – Décembre 2009 : Stage de développement Web – Société MS Informatique  
+Activité : conception et réalisation  des sites Web. 
+Février 2009 – Juin 2009 : Stage de développement Web – Société MEDIANET-Tunis (Projet de fin 
+des études de maîtrise informatique) 
+Activité : conception et développement d’une solution WebTV (améliorer les moteurs de recherche utilisés 
+pour indexer un ensemble de fichiers sur le Web). 
+La solution permet d’indexer un ensemble de vidéos et des images classées par thèmes, par mots clés, etc. La 
+solution permet également d’afficher en temps réel (Streaming) une vidéo recherchée dans la base de données. 
+Juillet 2008 – Septembre 2008 : Stage au service de maintenance informatique - Société SEF 
+Informatique-Monastir 
+Activité : installation de système informatique. Maintenance des ordinateurs du Hard Ware et du Soft Ware. 
+MISSIONS ADOPTEES AU COURS DE CARRIERE PROFESSIONNEL 
+Tester des projets web et mobile 
+Appliquer les outils des tests fonctionnels et techniques et rédiger  les rapports de test. 
+Assurer des formations et des réunions mensuelles internes dans le cadre de l’amélioration de la 
+qualité de produit 
+Mettre à jour la liste des bugs répétitifs et des non-conformités dégagées par rapport à la procédure de Test. 
+Gérer des projets web et mobiles 
+Conception des projets et préparation des structures et des zoning des différentes interfaces. 
+Assurer le suivi de l’équipe au cours de la réalisation du projet  
+Coordination entre les membres de l’équipe afin d’assurer l’avancement dans  la réalisation du projet. 
+Encadrer des étudiants dans des projets de fin d’études   
+ Encadrer des étudiants de différents niveaux dans leurs PFE et assister à leurs soutenances.  
+Conseiller dans des séminaires  
+Préparation des réunions de lancement et d’avancement des projets. 
+Suivre les réclamations clients   
+Prendre en charge l’accueil et le traitement des réclamations des clients dans les délais. 
+COMPETENCES TECHNIQUES 
+Outils de Test et de Validation  
+ Testlink, MantisBugTracker, JIRA, Jenkins, Selenium IDE… 
+Outils de gestion des projets   
+ Mindjet, Balsamiq Mockups… 
+Systèmes d’exploitation   
+ Linux, Windows, Android 
+Technologies Web   
+ HTML, XML, java script, PHP, PHP5 (framework symfony) 
+Outils Multimédia 
+ Photoshop, Dreamweaver 
+Outils de gestion de contenu 
+ CMS, CMS Drupal, Typo3 
+Méthodologies de conception 
+ UML, Merise 
+Bases de données 
+ ORACLE, SQL SERVER, ACCESS,MYSQL 
+Langages de programmation 
+ C, C++, Visual Basic, Java(JEE), Sql, Assembleur, PL/SQL 
+Télécommunication et réseaux 
+ Connaissances en OSI, TCP/IP (Administration et sécurité des réseaux) 
+Logiciels  
+ Rational Rose, Jcreator, NetBeans, Eclipse, EasyPHP, ORACLE, VB 6.0, etc.  
+COMPETENCES SPECIFIQUES  
+Langues: Français, Anglais et Allemand  
+Informatique : Adhérant d’un club universitaire de développement mobile 
+Bureautique : Pack office (Word, Excel, Power Point) 
+CENTRES D’INTERET 
+La certification ISTQB   
+Peinture, Voyage et Photographie  

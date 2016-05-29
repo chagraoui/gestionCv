@@ -1,0 +1,39 @@
+{
+  "age": 0,
+  "name": "Diplômée en Mastère en Informatique ",
+  "adresse": "tunis",
+  "mail": "imen.allagui@gmail.com",
+  "studies": [
+    "baccalauréat"
+  ],
+  "skills": [
+    "matlab",
+    "c++",
+    "dreamweaver",
+    "c",
+    "oracle",
+    "pascal",
+    "photoshop",
+    "windows",
+    "javascript",
+    "sql",
+    "excel",
+    "java",
+    "uml",
+    "xml",
+    ".net",
+    "php",
+    "mysql",
+    "html",
+    "word",
+    "packet tracer"
+  ],
+  "keywords": {
+    "c": 6,
+    "web": 5,
+    "php": 3,
+    "essalem": 3,
+    "net": 3,
+    "boumhal": 4
+  }
+}

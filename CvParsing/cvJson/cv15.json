@@ -1,0 +1,18 @@
+{
+  "age": 27,
+  "name": "Kchouk Rakez Thouraya ",
+  "adresse": "tunis",
+  "mail": "Mejri_k@yahoo.fr",
+  "studies": [
+    "licence",
+    "baccalauréat"
+  ],
+  "num": "21624522276",
+  "skills": [
+    "c",
+    "pack office"
+  ],
+  "keywords": {
+    "campagnes": 4
+  }
+}

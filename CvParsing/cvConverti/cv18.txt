@@ -1,0 +1,89 @@
+Rue El Mawsili – 8075 
+Dar Chaabane Plage  
+Tel : +(216)  55 261 452 
+Email : alachemingui@gmail.com 
+Alaeddine CHEMINGUI 
+SAB2i – Ingénieur Développeur JAVA /JAVA EE  
+Les Berges du Lac, Tunis–03/11/2014 – Actuellement 
+Projet AEOI : Automatic Exchange of Information 
+Développement de traitement de génération des XML conformes aux schémas de 
+référence AEOI.   
+Développement de traitement d’extraction à partir du référentiel Sab et Samic Gestion 
+des retours clients. 
+Développement JAVA EE  (X3S Framework: EJB3, Hibernate, Maven).Talend 
+GUI Développent (X3 Framework : WorkFlow, Processus par étapes) 
+Projet LIT : Gestion des Litiges des cartes bancaires pour la banque d’Algérie. 
+Développement des fonctions standard pour déclarer et gérer une réclamation  d’un 
+porteur de carte ou  un impayé. 
+Développement des fonctions standard pour recevoir  et  traiter une réclamation ou un 
+impayé. 
+Développement JAVA EE  (X3S Framework: EJB3, Hibernate, Maven). 
+GUI Développent (X3 Framework) 
+Projet TWIGA : Génération des rapports d’audit PDF pour une banque Tanzanienne. 
+Développement des services batch pour l’extraction des données en appelant une 
+procédure stocké (PL/SQL). 
+Développement des maquettes Birt. 
+Génération des rapports PDF. 
+Développement JAVA EE  (X3S Framework: EJB3, Hibernate, Maven). 
+Key skills:  
+- Développement  JAVA / JAVA EE,  XML APIs 
+- JavaScript, JSON, AJAX, HTML5 
+- SQL, PL/SQL 
+SAB2i –Stage de fin d’études  
+Les berges du lac, Tunis – 01/02/2014 – 30/06/2014 
+Projet Réalisation d’un tableau de bord pour le module Gestion Centralisé de 
+Souscription (GCS) 
+Etude et conception d’une base de données dédiée (entrepôt de donnée)   
+Développement d’un traitement batch  pour l’alimentation de l’entrepôt de données par 
+extraction des données nécessaire. 
+Alimentation du tableau de bord selon les concepts de l’informatique décisionnel.  
+Développement JAVA / JAVA EE (X3S Framework: EJB3, Hibernate, Maven, SOA). 
+GUI Développent (X3 Framework) 
+GUI Develpment (X3 Framework) 
+SAB2i – Stage Ingénieur 
+Les Berges du Lac, Tunis –01/07/2013 –15/09/2013 
+Développement d’une application pour la gestion des anomalies et patchs correctifs. 
+Développement JAVA EE  (X3S Framework: EJB3, Hibernate, Maven). 
+GUI Développent (X3 Framework) 
+ Expériences Professionnelles 
+  Ingénieur  Informatique   
+ Cursus Académique 
+• 2013-2014 :   Diplôme National d’Ingénieur en Informatique –  
+ Ecole supérieure des sciences appliqués et de Management SESAME -Tunis  
+• 2008-2010 :  Réussite en Concours National d’entrée aux écoles d’ingénieur –  
+ Institut Préparatoire aux Etude d’ingénieur de Nabeul 
+• 2006-2007 :  Baccalauréat  Mathématique (Mention très Bien) 
+      
+ Cursus Académique : Projets 
+2013: Conception et implémentation d'une application mobile pour la gestion d'un data-center basé 
+sur la suite cloud vSphere. 
+2013: Conception et développement d’une application JAVA EE pour la gestion de la médiathèque 
+de SESAME. 
+2012: Conception et Développement d’une application VHDL pour la simulation du comportement 
+d’un micro-processeur. 
+2012: Formation en développement mobile sur la plateforme Phonegap chez Orange Tunisie 
+ Certifications 
+• Novembre 2015 : Oracle Certified Expert, Java Platform, EE 6 Web Component Developer 
+• Novembre 2014 : Oracle Certified Professional, Java SE 6 Programmer      
+     
+ Compétences Techniques 
+ Langues 
+JAVA / JAVA EE, EJB, JSF, JUnit, Spring, Hibernate, JPA, 
+Maven, Swing, Struts 
+XML, XSLT 
+JavaScript, AJAX, JSON 
+HTML5, CSS3, PHP, JQuery 
+SQL, PL/SQL, Oracle, MySQL, SQL Server, DB2 
+C, C#, VB.NET, WPF, Entity Framework, WCF Services 
+Cloud Computing: Vmware VSphere Suite 
+Data Integration: Talend TOS 
+Tomcat, Websphere, Glassfish, SVN, CVS, GIT 
+Visual Studio 2012, TFS 
+Eclipse, RAD, NetBeans 
+Linux/Unix, Ubuntu Server 
+SCRUM 
+ Anglais   : Capacité professionnelle   complète 
+Français : Bilingue 
+Arabe     : Native 
+ Centres  d’intérêt  
+Nouvelles Technologies, Cinéma,  Voyage.  

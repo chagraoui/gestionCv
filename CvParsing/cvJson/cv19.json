@@ -1,0 +1,45 @@
+{
+  "age": 26,
+  "name": "Ingénieur en Informatique ",
+  "adresse": "tunis",
+  "mail": "hassene.chrif@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "0021696595550",
+  "skills": [
+    "rest",
+    "css",
+    "c++",
+    "c",
+    "oracle",
+    "html5",
+    "pascal",
+    "assembleur",
+    "symfony",
+    "javascript",
+    "sql",
+    "java",
+    "shell",
+    "uml",
+    "php",
+    "html",
+    "mysql",
+    "pl/sql",
+    "symfony2",
+    "word",
+    "css3"
+  ],
+  "keywords": {
+    "ensi": 4,
+    "css": 4,
+    "c": 6,
+    "web": 6,
+    "réseaux": 3,
+    "php": 7,
+    "html": 4,
+    "symfony": 3,
+    "javascript": 3
+  }
+}

@@ -1,0 +1,73 @@
+Curriculum vitae 
+Hamdeni Mourad 
+Né le 23/04/1988 (26 ans), Kasserine,  Tunisie 
+Etat civil : célibataire 
+Adresse : 11 rue Tabooub 2080 Ariana Tunisie 
+Tél : +216 96.953.358     /  +216 24.810.266 
+E-mail : mourad.hamdeniii@gmail.com 
+Ingénieur Génie Logiciel et Système d’Information 
+Diplômes et Formations 
+2014 
+ Diplôme national d'ingénieur en informatique ; 
+ Spécialité : Génie du Logiciel et des Systèmes d’Information ; 
+ Mention : Bien ; 
+ Institution: Institut Supérieur d'Informatique, Université Tunis El Manar. 
+2011 
+ Licence Appliquée en informatique ; 
+ Spécialité : Systèmes Informatique et Logiciels ; 
+ Mention : Bien ; 
+ Institution: Institut Supérieur d'Informatique, Université Monastir Mahdia. 
+2008   
+ Baccalauréat Mathématique. 
+Expérience et Projets  
+          Janvier 2015 
+                      Développeur web chez j-achete.net 
+          2014 
+              Formateur JEE chez Open TIC, école privée de formation. 
+          2014 
+             Développeur web en Freelance. 
+          2014 
+            Projet de Fin d'Etudes au sein  de Bureau de comptabilité et Fiscalité BCF MARZOUK 
+              Projet :   Conception et  développement d’une application pour cabinet de comptabilité 
+            et intégration des fonctionnalités mobile. 
+            Technologies : Conception: UML ; SGBD: MySQL ; langage de programmation :  
+            JAVA, J2EE, Android framework: Spring, Hibernate 
+2013 
+   Stage au sein de la Société Icone; 
+              Projet : Conception et développement d’une application J2EE de gestion du Bordereaux 
+  Technologies : Java/JEE , Spring, JSF2, Primefaces, Hibernate. 
+2012 
+   Mini projet de Net-Trading ; 
+  Technologies: Java/JEE , Spring, JSF2, Primefaces, Hibernate, Swing, itext. 
+ Mini projet GPAO ; 
+ Technologies : Java, Hibernate/JPA, Swing, itext. 
+ Réalisation d'un outil de modélisation du réseau de Petri ; 
+  Technologie : Java, EMF, GMF.  
+2011 
+  Stage au sein du Foyer Universitaire; 
+             Projet : Réalisation d'une application web J2EE de gestion d'un foyer universitaire  
+                     et inscription à distance. 
+          
+ 2010 
+                       Stage au sein du Société Tunisie Télécom; 
+ Projet : Maintenance et manipulation du hardware et du software de la  
+            Familiarisation avec systèmes de commutation et système de transmission et de signalisation. 
+         
+Technologies de programmation : Java, JEE, Android, C, C++, SQL, SQL3, PL/SQL, PHP, XML, 
+CSS, Javascript. 
+Framework de développement: Spring, Spring Security, EJB, Hibernate, JPA, JSF2, Primefaces, 
+Swing... 
+OS de programmation : Android. 
+IDE : Eclipse, Netbeans, Visual Studio. 
+Base des données : Oracle, Microsoft Access, MySQL, PostgreSQL. 
+Méthode d’Analyse : Merise. 
+Méthodologie de développement : RUP ,SCRUM. 
+Serveurs : Apache Tomcat, GlasFish. 
+        OS : Windows, Linux Windows Server 2003. 
+Langues 
+  Arabe : langue maternelle 
+Français : lu, écrit et parlé  
+Anglais : notions de bases 
+Loisirs 
+ Sport, Internet, Films. 
+Connaissances Informatique 

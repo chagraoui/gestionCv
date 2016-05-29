@@ -1,0 +1,197 @@
+
+
+	<page-title ng-if="layoutOptions.pageTitles" title="Profil" description="Profil Candidat"></page-title>
+
+
+<section class="profile-env">
+	
+	<div class="row">
+	
+		<div class="col-sm-3">
+			
+			<!-- User Info Sidebar -->
+			<div class="user-info-sidebar">
+				
+				<a href="" class="user-img">
+					<img src="assets/images/user-4.png" alt="user-img" class="img-cirlce img-responsive img-thumbnail" />
+				</a>
+				
+				<a href="" class="user-name">
+
+					{{profilData.profil.nom}}
+					<span class="user-status is-online"></span>
+				</a>
+				
+				<!--<span class="user-title">-->
+					<!--CEO at <strong>Google</strong>-->
+				<!--</span>-->
+				
+				<hr />
+				
+				<ul class="list-unstyled user-info-list">
+				<li>
+					<i class="fa-home"></i>
+					{{profilData.profil.adresse}}
+				</li>
+				<li>
+					<i class="fa-birthday-cake"></i>
+					{{profilData.profil.age}}
+				</li>
+				<li>
+					<i class="fa-envelope"></i>
+					{{profilData.profil.email}}
+				</li>
+					<li>
+						<i class="fa-phone"></i>
+						{{profilData.profil.tel}}
+					</li>
+
+
+			</ul>	
+					
+				<hr />
+
+			</div>
+			
+		</div>
+		
+		<div class="col-sm-9">
+			<!-- User Post form and Timeline -->
+		<!--	<form class="profile-post-form">
+
+				<textarea class="form-control input-unstyled input-lg autogrow" placeholder="Dites quelque chose à propos de vous ..." ng-model="apropos" ng-show="editorEnabled"></textarea>
+				<div ng-show="!editorEnabled">{{apropos}}</div>
+				<button ng-click="editorEnabled = !editorEnabled" class="btn btn-single btn-xs btn-success post-story-button">Post</button>
+
+			</form>-->
+			<form class="profile-post-form">
+				<textarea class="form-control input-unstyled input-lg autogrow" placeholder="Dites quelque chose à propos de vous ..." ng-model="apropos" ng-show="editorEnabled"></textarea>
+				<textarea class="form-control input-unstyled input-lg autogrow" readonly ng-show="!editorEnabled">{{apropos}}</textarea>
+				<br>
+				<button ng-click="editorEnabled = !editorEnabled" class="btn btn-single btn-xs btn-success post-story-button">Publier</button>
+			</form>
+
+
+
+			<!-- User timeline stories -->
+			<section class="user-timeline-stories">
+
+				
+				<!-- Timeline Story Type: Status -->
+				<article class="timeline-story">
+					<i class="fa-paper-plane-empty block-icon"></i>
+					<!-- User info -->
+					<header>
+						<a href="" class="user-img">
+							<img src="assets/images/user-4.png" alt="user-img" class="img-responsive img-circle" />
+						</a>
+						
+						<div class="user-details">
+							 <h3><strong>Diplômes :</strong> </h3>						</div>
+					</header>
+					<div class="story-content">
+						<table style="width:100%">
+							<tr>
+								<td><strong>Diplôme</strong></td>
+								<td></td>
+								<td><strong>Année d'obtention</strong></td>
+							</tr>
+							<tr ng-repeat="dip in profilData.profil.diplomes">
+								<td>{{dip.nom}}</td>
+								<td></td>
+								<td>{{dip.dateObtention}}</td>
+							</tr>
+						</table>
+						</div>
+				</article>
+
+
+				<article class="timeline-story">
+					<i class="fa-paper-plane-empty block-icon"></i>
+					<!-- User info -->
+					<header>
+
+						<a href="" class="user-img">
+							<img src="assets/images/user-4.png" alt="user-img" class="img-responsive img-circle" />
+						</a>
+
+						<div class="user-details">
+							 <h3><strong>Certifications :</strong> </h3>						</div>
+					</header>
+					<div class="story-content">
+
+							<div ng-repeat="certif in profilData.profil.certifications">
+								{{certif.nomCertif}}
+							</div>
+
+					</div>
+				</article>
+
+
+				<article class="timeline-story">
+
+					<!-- User info -->
+					<header>
+						<a href="" class="user-img">
+							<img src="assets/images/user-4.png" alt="user-img" class="img-responsive img-circle" />
+						</a>
+
+						<div class="user-details">
+							 <h3><strong>Compétences & Connaissances</strong> </h3>
+						</div>
+					</header>
+					<div class="story-content">
+
+						<div class="story-album">
+
+							<ul>
+								<li ng-repeat="experience in profilData.profil.technologies">
+									{{experience.nomTechno}}
+								</li>
+							</ul>
+						</div>
+					</div>
+				</article>
+
+
+
+				<article class="timeline-story">
+
+					<i class="fa-paper-plane-empty block-icon"></i>
+
+					<!-- User info -->
+					<header>
+
+						<a href="" class="user-img">
+							<img src="assets/images/user-4.png" alt="user-img" class="img-responsive img-circle" />
+						</a>
+
+						<div class="user-details">
+							 <h3><strong>Expérience dans chaque domaine :</strong> </h3>						</div>
+					</header>
+
+					<div class="story-content">
+						<table style="width:100%">
+							<tr>
+								<td><strong>Domaine</strong></td>
+								<td></td>
+								<td><strong>Expérience (nombre d'année)</strong></td>
+							</tr>
+							<tr ng-repeat="exp in profilData.profil.experiences">
+								<td>{{exp.domaine}}</td>
+								<td></td>
+								<td>{{exp.nbrAnsExp}}</td>
+							</tr>
+						</table>
+					</div>
+				</article>
+				
+			</section>
+			
+		</div>
+		
+	</div>
+	
+</section>
+
+

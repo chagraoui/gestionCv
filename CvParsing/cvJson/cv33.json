@@ -1,0 +1,41 @@
+{
+  "age": 0,
+  "name": "AYMEN DAMAK ",
+  "adresse": "tunis",
+  "mail": "damakaymen@hotmail.com",
+  "studies": [
+    "baccalauréat"
+  ],
+  "skills": [
+    "excel",
+    "c",
+    "oracle",
+    "java",
+    "xml",
+    "linux",
+    "j2ee",
+    "pl/sql",
+    "windows",
+    "word",
+    "powerpoint",
+    "sql"
+  ],
+  "keywords": {
+    "gl": 5,
+    "banques": 3,
+    "sungard": 6,
+    "spécialiste": 3,
+    "elaboration": 3,
+    "office": 3,
+    "principaux": 3,
+    "sql": 4,
+    "bank": 5,
+    "conduite": 3,
+    "trade": 4,
+    "pologne": 5,
+    "linux": 3,
+    "résolution": 3,
+    "pl": 3,
+    "finance": 3
+  }
+}

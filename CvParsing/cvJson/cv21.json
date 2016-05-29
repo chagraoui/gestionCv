@@ -1,0 +1,48 @@
+{
+  "age": 24,
+  "name": "SAIDI Sarra ",
+  "adresse": "tunis",
+  "mail": "sarrasaidi6@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "25243556",
+  "skills": [
+    "css",
+    "c++",
+    "html5",
+    "symfony",
+    "sql",
+    "spring",
+    "java",
+    "jboss",
+    "uml",
+    "j2ee",
+    "html",
+    "mysql",
+    "mvc",
+    "netbeans",
+    "ejb",
+    "pl/sql",
+    "c#",
+    "c",
+    "oracle",
+    "ubuntu",
+    "windows",
+    "eclipse",
+    "shell",
+    "php",
+    ".net",
+    "scrum",
+    "jsf",
+    "symfony2",
+    "css3"
+  ],
+  "keywords": {
+    "d’enfidha": 3,
+    "java": 4,
+    "jee": 3,
+    "ingénieur": 3
+  }
+}

@@ -3,6 +3,7 @@ package org.tritux.restController;
 import java.util.Collection;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.access.annotation.Secured;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -51,6 +52,7 @@ public class AdminRestService {
 	}
 
 	// liste des recrutuer
+	//@Secured(value={"ROLE_admin"})
 	@RequestMapping(value = "/listRecruteur", method = RequestMethod.GET)
 	public Collection<Recruteur> listRecruteur() {
 		return recruteurRepo.findAll();

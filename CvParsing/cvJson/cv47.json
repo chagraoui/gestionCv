@@ -1,0 +1,51 @@
+{
+  "age": 0,
+  "name": "Juin 2011               Diplôme National de Mastère Professionnel en Technologies des  ",
+  "certif": "  Mai 2011                          Certification Cisco CCNA Exploration : Niveau 4 ",
+  "adresse": "tunis",
+  "mail": "khaouladaboussi@gmail.com",
+  "studies": [
+    "licence",
+    "baccalauréat",
+    "ingénieur"
+  ],
+  "num": "97765880",
+  "skills": [
+    "excel",
+    "matlab",
+    "c",
+    "scala",
+    "linux",
+    "windows",
+    "word",
+    "packet tracer"
+  ],
+  "keywords": {
+    "traitement": 3,
+    "fh": 4,
+    "télécom": 4,
+    "bizerte": 3,
+    "ingénieur": 4,
+    "ajout": 3,
+    "kpmg": 3,
+    "télécommunications": 4,
+    "informatiques": 3,
+    "mobiles": 4,
+    "france": 3,
+    "cisco": 4,
+    "phase": 3,
+    "exploration": 4,
+    "référentiels": 3,
+    "consulting": 3,
+    "dossier": 3,
+    "optique": 3,
+    "technicien": 3,
+    "lors": 3,
+    "antennes": 3,
+    "réseaux": 25,
+    "fibre": 3,
+    "ccna": 4,
+    "support": 5,
+    "sfr": 9
+  }
+}

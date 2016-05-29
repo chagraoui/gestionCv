@@ -1,0 +1,27 @@
+{
+  "age": 27,
+  "name": "Curriculum Vitae ",
+  "certif": " Janvier 2015 : Formation Certifiante « Responsable Management Qualité selon ISO ",
+  "adresse": "tunis",
+  "mail": "hamidayaakoubi1@hotmail.fr",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "21653151559",
+  "skills": [
+    "excel",
+    "c++",
+    "c",
+    "oracle",
+    "word"
+  ],
+  "keywords": {
+    "tpm": 3,
+    "optimisation": 3,
+    "iso": 3,
+    "lean": 5,
+    "ingénieur": 3,
+    "maintenance": 4
+  }
+}

@@ -1,0 +1,206 @@
+Anis FERCHICHI
++216 21 813 929
+ferchichi.anis@gmail.com
+DÉVELOPPEUR EXPERT PHP
+• Développement des applications et des outils de gestion.
+• Expertise en PHP (Zend framework 1 et 2, Symfony 2).
+• Expertise en javascript (Jquery, AngularJS).
+• Expertise en HTML5 (Bootstrap, Material Design).
+• Développement des applications mobiles hybrides (phonegap).
+• 10 ans d’expérience.
+Certifications
+Zend Certified PHP Engineer
+Zend Framework 2 Certified Architect
+Formation
+Juin 2004  
+- Diplôme de maîtrise en informatique appliquée à la gestion à la Faculté 
+des Sciences Économiques et de Gestion de Sfax. 
+Juin 1999 
+- Baccalauréat en mathématiques
+Langues
+Français : Très bon. 
+Anglais : Professionnel.
+Outils et environnements
+Système 
+d'exploitation
+• Window server.
+• Unix Debian, Ubuntu
+• Mac OS
+Langages • PHP 5.x, 7.x
+• Zend Framework 2.x
+• Zend Framework 1.x
+• Symfony 2.x
+• Symfony 1.x
+• Doctrine
+• PHPUnit
+• Behat
+• Javascript, Jquery,  AngularJS
+• Bootstrap, Material Design
+• Phonegap
+• Perl
+• Asp .Net
+Architecture et 
+protocoles
+• MVC
+• MVVM
+• REST api
+• SOAP Client, SOAP Server
+IDE • PHPStorm
+• Zend Studio
+• Netbeans
+• Eclipse
+• Visual Studio .Net
+Base de données 
+et moteur 
+d'indexation
+• Postgresql
+• Mysql
+• Oracle, PL/SQL
+• MS SQL Server
+• Mongodb
+• Elastic Search
+• SOLR
+Outils de gestion • Redmine
+• JIRA
+• Mantis
+Environnement • Zend Server, Z-Ray
+• Vagrant, Doker
+• Jenkins
+Expériences professionnelles
+Vesperia (Expertise PHP et développement full-stack )
+Sep 2013 – Déc 2015
+Consultant expert PHP (Zend Framework 2, Symfony 2)
+Missions et projets:
+ParisTech (Institut des Sciences et des Technologies de Paris).
+Juil 2015 – Déc 2015.
+- Maintenance évolutive de l'outil de gestion de l'institut.
+- Développement du module de planification des salles.
+- Développement des connecteurs des api's externes : adaptateurs 
+solr.
+- Développement d'un REST pour l'usage de l'application en mode 
+web service.
+- Tests unitaires (PHPUnit).
+- Mise en place des tests fonctionnels avec Behat.
+- Technologies: Symfony 2, postgresql, Behat, Solr, Jquery, 
+bootstrap 3, git, redmine, Zend Server, Z-Ray.
+Men Invest (Vente de produits de mode en ligne), 
+Septembre 2015 – Octobre 2015
+- Accompagnement technique d'une équipe de trois développeurs 
+pour  d'un outil d'aide à la vente.
+- Conception et spécifications techniques.
+- Mise en place de l'architecture de la solution:
+• Formation des développeurs en Symfony 2.
+• Adaptation des api Demandware.
+• Mise en place du process de gestion du code Javascript, css et 
+des ressources de l'application (grunt et bower).
+• Mise en place du process d'intégration continue avec Jenkins.
+- Technologies: Symfony 2, Demandware Api, node Js, grunt, bower,
+Angular JS, bootstrap 3.
+Le Point (Magazine française, actualités, politique, économie), 
+Jan 2015 – Juin 2015
+- Maintenance corrective du site de la magazine.
+- Développement d'un outil d'import de données multi-sources (csv, 
+xml, api).
+- Conception et développent d'un gestionnaire de quiz.
+- Développement d'une application mobile de quiz.
+- Développement d'une version de l'application quiz adaptée au 
+format Portofolio.
+- Développement d'une applications de gestion des medias du site.
+- Installation et paramétrage du serveur d'intégration continue 
+(Jenkins). 
+- Technologies: Symfony 2, postgresql, Doctrine, AngularJS, 
+bootstrap, Phonegap, Material Design, git, redmine, Zend Server, Z-
+Ray, Jenkins.
+Kapia Solutions (éditeur de progiciel d'assurance vie)
+Jan 2014 – Déc 2014
+- Maintenance de la solution KELIA.
+- Développement des adaptateurs SOA.
+- Refonte ergonomique de la solution KELIA (migration de bootstrap 
+2 vers 3 et adaptation au Responsive Design).
+- Technologies: Zend Framework 2, Oracle, AngularJS, bootstrap 3, 
+svn, Jira.
+SPIR (Outils de marketing)
+Sep 2013 – Déc 2013
+- Développement du portail neuf.logic-immo.com.
+- Développement de l'application mobile du portail (application 
+mobile hybride basée sur HTML5 et Javascript).
+- Développent du module de gestion des inscriptions au portail.
+- Tests unitaires (PHPUnit).
+- Mise en place des tests fonctionnels (Behat).
+- Paramétrage du moteur d'indexation solr pour les sources de 
+données des biens immobiliers et de leurs propriétés .
+- Mise en place des plans de déploiements sur les différents 
+environnements (développement, test, recette ...). 
+- Technologies: Symfony 2, Solr, Jquery, bootstrap 3, Phonegap, 
+Vagrant, git, redmine, Jenkins, Zend Server.
+ADP (Solutions de ressources humaines)
+Juil 2012 – Août 2013
+Développeur R&D
+- Mise en place des scénarios de tests fonctionnels.
+- Administration du serveur IIS 7.
+- Développement des objets standards (surcharge des contrôles des
+formulaires en Zend Framework 1).
+- Développement d'une nouvelle version du produit PEGASE 
+ENTREPRISE (produit de gestion de la paie française).
+- Technologies : Zend Framework 1, Zend Framework 2, Oracle, IIS 
+7, Test Complete, HP Quality Center.
+ITIPART (Partenaire de solutions web)
+Jan 2012 – Juin 2012
+Référent technique PHP5 
+Missions:
+FONCIA (Administration de biens et de transaction immobilière )
+Jan 2012  - Juin 2012
+- Maintenance corrective et évolutive des outils internes de 
+gestion et des portails de Foncia.
+- Développement du module de geolocalisation des biens 
+immobiliers.
+- Intégration de google maps dans les portails.
+- Technologies : PHP, Zend Framework 1, postgresql, Jquery, 
+mantis, svn.
+EDATIS (Outils de marketing en ligne)
+Jan 2010 - Déc 2011
+Référent technique  PHP5
+- Rédaction des spécifications techniques des évolutions.
+- Analyses des demandes de dysfonctionnement des applications et 
+préparation des plans de maintenance et d’optimisation.
+- Refonte d'un outil de génération de formulaire dynamiques pour la 
+collecte de données en Zend Framework 1.
+- Refonte du module de tracking multi-sources :
+• ouverture et click sur les bannières publicitaires,
+• ouverture et click sur les campagnes de mailing,
+• ouverture des pages et mesure d'audience,
+- Développement de l'analyseur des transformations :
+• Inscriptions et commandes.
+• Analyse de l'ROI.
+- Maintenance du module des statistiques multi-sources.
+- Migration majeure de la version de l'api ADWORS :
+développement et adaptation des connecteurs pour les opértions de 
+synchronisation et de réplication des données de paramétrages des 
+campagnes. 
+- Développement d'un générateur automatique des exports des 
+statistiques des campagnes publicitaires :
+• Paramétrage de l'export : période, source, aggrégation.
+• Mode de l'export : télechargement, notification par mail, 
+upload sur ftp.
+- Conception de l'api de l'application pour un usage en web service.
+Technologies : PHP, Zend Framework 1, Mysql, ADWORDS Api, SOAP,
+PERL, Jquery, Extjs, Active MQ, svn, Mantis.
+Nov 2005 – Déc 2009
+Développeur PHP
+- Développement d'un module ETL pour la gestion de données 
+massives :
+• import des données csv et xml
+• import des données issues des formulaires des inscriptions
+• import des données de mise à jour des inscrits.
+- Développement et maintenance d'une solution de gestion des 
+campagnes publicitaires en ligne:
+• Paramétrage des campagnes des bannières.
+• Paramétrage des campagnes de mailing.
+• Gestion des tags de tracking.
+- Développement d'un module de statistiques multi-sources:
+• reporting des bannières publicitaires.
+• reporting du mailing.
+• reporting des annonces ADWORDS et YAHOO SEARCH 
+MARKETING.
+Technologies : PHP, Mysql, JQuery, SOAP, ADWORDS Api, YAHOO 
+SEARCH MARKETING Api, PERL.

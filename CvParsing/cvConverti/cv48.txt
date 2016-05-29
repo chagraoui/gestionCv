@@ -1,0 +1,157 @@
+BEN BELGACEM Manel                                                               
+Née le 16/10/1985 à Tunis Célibataire, 
+Tunisienne 
+Tel : (00216) 55 16 10 24 
+Tel : (00216) 21 03 25 17 
+Email: 
+Manel.tn2006@yahoo.fr 
+Adresse: 
+14, Rue Chadliya Boukhris 1008 tunis 
+EXPÉRIENCE PROFESSIONNELLE  
+2013-                ADP 
+Aujourd’hui      Ingénieur développeur R&D 
+                        Mission effectuée : Conception et développement des 
+solutions RH. 
+2013          mcMEDIA Agency http://mc-media.be/ 
+(9mois)       Ingénieur développeur Web (poste actuel) 
+         Mission effectuée : Conception et réalisation des sites 
+web e-commerce et des sites web mobile, gestion des bases de données. 
+2013-                MAG Ingénierie 
+2011(2ans)       Ingénieur développeur PHP5/Zend 
+          Mission effectuée : Conception et réalisation des 
+applications web de gestion, réalisation des sites web. 
+2010          Compagnie Tunisienne de Navigation (CTN)  
+(4mois)       Développeur PHP5 
+         Mission effectué : Conception et réalisation d’un projet. 
+2010          Télé-performance  
+(9mois)       Assistante technique 
+         Mission effectuée : Assister les clients SFR afin de 
+résoudre leurs problèmes de connexion internet.    
+2009          STREAM (DELL)   
+(6mois)       Assistance technique 
+         Mission effectuée : Assister les clients DELL afin de 
+résoudre leurs problèmes de leurs ordinateur DELL. 
+2009          ESSTT   
+(4mois)       Développeur C/MATLAB   
+          Mission effectuée : Conception et réalisation d’une 
+application de Reconnaissance Automatique des Visages. 
+2008        Générale Informatique Télématique et Informatique   
+(2mois)     Développeur WINDEV 
+       Mission effectuée : Développement d’un logiciel de 
+gestion. 
+2008        ESSTT   
+(1mois)     Designer 
+       Mission effectuée : Création d'un catalogue interactif. 
+CERTIFICATIONS  
+CCNA (1, 2, 3, 4), CCNA wireless, CCNA security 
+Préparation pour LPI 
+Certification d’Audit de sécurité informatique  
+Certification en Oracle (oradist) 
+FORMATIONS & DIPLÔMES  
+2011 Mastère pro en Sécurité des Systèmes Informatiques 
+               SUP’COM 
+               Mention bien /Session principale 
+2009  Maîtrise en informatique 
+                Ecole supérieur des Sciences et Techniques de Tunis 
+                Mention assez bien / Session principale 
+2005       Baccalauréat Mathématiques 
+                 Mention assez bien / Session principale 
+TRAVAUX RÉALISÉS  
+- Réalisation du site mobile de la société avec jQuery mobile  
+Conception et réalisation du site mobile de la société http://mc-media.be (en 
+cours de construction). 
+- Réalisation d’un site e-commerce d’un fleuriste avec prestashop  
+Conception et réalisation d’une boutique de fleurs en ligne 
+www.lapaquerette.be (en cours de construction). 
+- Réalisation d’un site web de la société DCT (consultance dans 
+les zones à risque d’explosion) 
+Conception et réalisation du site web de la société http://www.dct-dubois.be/ 
+(en cours de construction). 
+- Réalisation progiciel interne de gestion « PGI MAG » réalisé 
+avec zend Framework et Extjs  (Sencha)  
+Ce progiciel permet de gérer les congés des prestataires, présenter un 
+tableau de bord pour l’utilisateur, effectuer des récapitulatifs des coûts et 
+des frais … etc. 
+- Conception et réalisation du progiciel de comptabilité réalisé 
+avec Zend Framework et Extjs (Sencha)  
+Ce progiciel permet de gérer la caisse de l’entreprise, les bordereaux, les 
+comptes bancaires, les factures à payer, les budgets des charges….  
+- Conception et Réalisation du progiciel « ECO-OLEO » réalisé 
+avec Zend Framework et EXTjs (Sencha)  
+Ce progiciel permet la gestion des employés, du bureau d’ordre, des 
+entretiens annuels des véhicules de l’usine… etc.  
+- Conception et réalisation du projet « Gestion des candidatures à 
+l’embauche » réalisé avec Zend Framework et EXTjs (Sencha) 
+Ce projet progiciel qui permet la gestion des tests, la gestion des 
+candidats, la gestion du déroulement des tests et la gestion des 
+documents administratifs (mention très bien). 
+- Conception et réalisation du projet « gestion des cotations de 
+transport de marchandise » réalisé avec PHP et JQUERY 
+Ce projet gère les cotations de transport maritime, cette gestion traite 
+l'aspect multimodal de transport de marchandises, elle peut couvrir 
+différents types de transport, le maritime, le routier, le ferroviaire  
+- Réalisation du projet « Reconnaissance automatique des 
+visages» en utilisant MATLAB 
+Le problème de la reconnaissance de visages est défini comme suit : étant 
+donné une image de visage, on souhaite déterminer l’identité de la 
+personne correspondante. Dans ce travail, j’ai développé un système de 
+reconnaissance automatique de visage par la méthode de « Eigen Faces » 
+qui est une approche de type « image ». Chaque image de visage est 
+considérée comme un vecteur dans un espace ayant autant de dimensions 
+que de pixels dans l’image. Les caractéristiques de l’image sont extraites 
+par une méthode mathématique de réduction de dimensionnalité basée 
+sur une analyse en composantes principales (ACP) (Mention bien). 
+- Réalisation du projet « gestion des Fournisseurs» en utilisant 
+Windev  
+Ce logiciel permet de gérer les fournisseurs et la facturation.  
+- Réalisation du projet « Catalogue Interactif» en utilisant Flash 
+et Action Script  
+Ce catalogue permet d’insérer les images et les descriptions des produits 
+commercialisés de la société. 
+- Mini Projets   
+Gestion de bibliothèque en utilisant WINDEV 
+Réalisation d'un jeu MOTUS en utilisant le langage C 
+Ordonnancement des processus en utilisant le langage C 
+Gestion d'une bibliothèque en utilisant le Visual C++ 
+Réalisation d'un jeu PICROSS avec JAVA 
+Réalisation d'un site web dynamique "Partage de référence" avec PHP et 
+dreamwever 
+Réalisation d'un site web dynamique "Ventre de matériel informatique" 
+avec PHP et dreamwever 
+CONNAISSANCES  
+- Languages  de programmation: 
+PHP, Python, MATLAB, J2EE, C, C#, C++, JAVA, Javascript, prototype 
+HTML, JSP, VB, J2ME, WINdev, AJAX.  
+- Frameworks 
+Zend PHP, Symphony, YII, Extjs, Jquery, Django. 
+- CMS 
+WordPress, Magento, DRUPAL, JOOMLA. 
+- Outils  de développement: 
+PHP5, ASP.NET, MATLAB, Bloodsheld dev C++, Microsoft Visual Studio, 
+Eclipse, NetBeans, SublimeText, Microsoft DREAMWEAVER, Visual Basic, 
+Putty, Pascal, Broland C++, Boa.  
+- System et gestion base de données 
+Access, Oracle 10g, Mysql, PostgreSQL, SQLSERVER 2005, SQLSERVER 
+2008, Oracle Spatiale 
+- Méthodologie Agile : Agile (Formation effectuée en france), Extreme 
+Programming 
+-Outils de gestion des  ressources : SVN, TFS 
+- Outils  de traitement des images et multimédias 
+ MATLAB, Adobe Flash Player, Photoshop, Microsoft DREAMWEAVER 
+- Systèmes d’exploitations 
+Linux, Windows (XP, Vista…), MAC OS. 
+- Outils de  modélisation  
+ Analyse SI, ArgoUML, Rational Rose, PowerAMC 
+-Autres connaissance : Intelligence artificielle, Algorithmique, 
+Parallélisme, Théorie de Graphe, Cartographie, GPS, GPS Mobile, 
+Télédétection, SIG, Topographie, Génie logiciel, Interface homme-
+machine,Assembleur, MS-DOS, réseaux. 
+- Langues 
+Langues Ecrit Parlé 
+Français Bien Bien 
+Anglais Bien Bien 
+Arabe Très bien Très bien 
+- Autre centres d’intérêts  
+Sport : Escrime, Equitation, Natation, jeux vidéo. 
+Informatique : internet. 
+Autres : nouvelles technologies, films documentaires, voyages, technologie 3D.  

@@ -1,0 +1,66 @@
+Iheb GANDOUZ 
+Date de naissance : 02/06/1989. 
+Adresse : Boite postale 17 el Menzah 6 code postale 2091.  
+Téléphone : 00216 21950245. 
+Adresse E-MAIL : G-Iheb@hotmail.fr 
+Niveau: Diplômé du cycle ingénieur : génie électrique (spécialité électronique et technologie avancée). 
+Formation : 
+• 2014: Diplôme national d'ingénieur en génie électrique (spécialité électronique et technologie
+avancée) de l’école Nationale Supérieure d'Ingénieurs de Tunis (ENSIT).
+• 2011: Diplôme de l’institut préparatoire aux études d’ingénieurs d'el Manar.
+• 2008: Baccalauréat technique au lycée Menzah 6.
+Expériences Professionnelles: 
+• Novembre 2014 jusqu'à aujourd'hui : Ingénieur avant-vente ascenseur au sein de l'entreprise Servicom 
+Europe.
+-Prospection et analyse du marché.
+-Préparation et soumission des candidatures aux Appels d'offre publique.
+-Contact clients.
+-Négociation.
+-Formation et intégration des nouvelles recrues.
+• Février 2014-Juin 2014 Stage de 4 mois au sein de l'entreprise NERBA Robotic&IT
+Réalisation du PFE intitulé : Conception d’une plateforme de commande industrielle basée sur un
+module I/O « coupleur de Bus de Phoenix contact »
+Tache:
+-Développement d'une application pour commander et afficher l'état du coupleur de Bus avec le
+langage Python.
+-Modification du Code source du logiciel ClassicLadder fonctionnant sous Linux pour l'adapter à nos
+besoins.
+-Réalisation d'une Interface Homme Machine en langage C sous Windows pouvant communiquer avec
+le Logiciel Classicladder grâce au protocole TCP/IP.
+-Automatisation d'une Centrale à Béton grâce au Logiciel ClassicLadder.
+• Juillet 2013: Stage d'un mois au sein du laboratoire d’Électronique et Instrumentations Nucléaires du
+centre national des sciences et technologies nucléaires
+Participation à la réalisation d'une chambre de calibration du gaz Radon
+Tache: Conception des cartes électroniques d'alimentation de commande et d'acquisition des données.
+• Juillet 2012: Stage d'un mois au sein de la société tunisienne de l'électricité et du gaz
+Tache: Assistance aux travaux de maintenances de la centrale électrique.
+Projets académiques: 
+• 2013: Gestionnaire de Carrefour (sur carte Altera DE2)
+• 2013: Gestionnaire de  parking (sur carte Altera DE2)
+• 2013: Filtrage et classification des signaux ECG (Filtrage du signal ECG et détection des piques R-R)
+• 2012: Commande adaptative des systèmes linéaires (Étude de la commande classique puis de la
+commande adaptative et la simulation d'une commande adaptative à modèle de référence).
+Connaissances Techniques: 
+• Système d'exploitation temps réel : Linux embarqué, microC/OS .
+• Langages de  programmation : Visual basic, C\C++, Python, Assembleur, VHDL.
+• Logiciels: ISIS, ARES, Mplab, Matlab/Simulink, Quartus II, STEP7, Psoc designer, Dev-cpp.
+• Électronique: Capteurs Intelligents, Hyperfréquence et Optoélectronique, électronique embarqué,
+Mesure et instrumentation. 
+• Communication des données: Transmission numérique et analogique, Réseau Informatique, Bus CAN,
+Modbus, TCP/IP. 
+• Électrotechnique: Moteur électrique (CC, Asynchrone, Synchrone), électronique de puissance,
+Installation électrique. 
+• Automatique: Asservissement et régulation, Automatisation, GRAFCET, GEMMA.
+Langue: 
+• Français : C1
+Arabe : C1•
+Anglais : B1
+• Espagnol: A1
+Vie Associative: 
+• Créateur et responsable du club culturel "Culturalis Club ENSIT".
+• Responsable sponsoring du club élec ENSIT.
+• Membre  de l’ONG ENACTUS.
+• Membre de l’association citoyenneté de Jardin d'el Menzah 2.
+Centres d'intérêts : 
+• Loisir : randonnée, camping, voyage, Lecture, Musique.
+• Sport : planche à voile, vélo.

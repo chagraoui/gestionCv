@@ -1,0 +1,109 @@
+CURRICULUM VITAE
+Nom :  Mansouri
+Prénom     :  Lamine
+Adresse :  Ibn-Sina Tunis
+Etat civil :  Célibataire
+Téléphone :  ( +216) 55 .583.475
+Mail : mansourilamine19@gmail.com
+Ingénieur d’études et développements Symfony
+(Disponibilité immédiate)
+Expériences professionnelles
+Depuis Janvier 2015
+Ingénieur d’études et développements  Symfony2
+• Développement d’une application web d’annonce (module annonce véhicules,
+module annonce entrepôts, module annonce allocation moyens de transports,
+module annonce marchandises)
+(Symfony2,Doctrine, Wamp, MySQL, Git , NetBeans, Php,Jquery, Ajax ,html, css, Bootstrap)
+• Spécifications fonctionnelles/Conception technique.
+• Installation de l’environnement  de développement  (serveur d’applications,  Framework
+Symfony2…)
+• En cour de développement de l’application web d’annonce (module annonce véhicules, module
+annonce entrepôts, module annonce allocation moyens de transports, module annonce
+marchandises)
+Mars-Avril 2014  stage à SQLIServices
+Ingénieur d’études et développements  Symfony2 (junior)
+• Développement d’un CRM
+(Symfony2,WebService soap,twig,yaml,php5,Json,Ajax,html5,css3,Jquery ,Git, MySQLWorkbench,
+Wamp,NetBeans ,structy)
+• Spécifications fonctionnelles/Conception technique.
+• Installation de l’environnement  de développement  (serveur d’applications,  Framework
+Symfony2…)
+• Développement d’un CRM avec webserveice soap en PHP5 et symfony2
+Fevrier 2014 stage à SQLI
+Ingénieur d’études et développements  Symfony2 (junior)
+• Participation au développement d'une application web d'entreposage
+(Symfony2,WebService soap,twig,yaml, html5,css3,SVN,Wamp,MySQL,xml)
+Mars-Juin 2013      The WebSide
+Ingénieur d’études et développements  Symfony2 (Junior)
+• Étude, conception et développement d’un site marchand
+(Symfony2, html, Twig, JavaScript, NetBeans,CSS, YAML, MySQL,
+Doctrine2, Apache,WAMPServer,Git)
+• Spécifications fonctionnelles/Conception technique.
+• Installation de l’environnement  de développement  (serveur d’applications,  Framework
+Symfony2…)
+• Installation du Bundle FOSUserBundle.
+• Développement du Front-end du Bundle ShoppingBundle (Recherche des produits, mettre des
+produits dans le panier, commander des produits…).
+• Développement  du Bac k-end.
+Stage d’été en Juin 2012      Tunisie Télécom
+Etudiant en cycle ingénieur
+• Conception et développement d’une application web pour la gestion d'un parc-
+informatique.
+(plateforme J2EE avec les frameworks JSF, Richfaces, Hibernate et Spring )
+• Spécifications fonctionnelles/Conception technique.
+• Mise en place de l’environnement  technique (Eclipse,Richfaces…..).
+• Développement de l’application.
+Février 2013      I.S.I
+Etudiant en cycle ingénieur
+• Conception et développement dune application web pour la « BOURSE »
+(Plateforme J2EE avec le Framework JSF)
+• Spécifications fonctionnelles/Conception technique.
+• Mise en place de l’environnement  technique (Eclipse…..).
+• Développement de l’application.
+Novembre 2012      I.S.I
+Etudiant en cycle ingénieur
+• Conception et développement d’une application web pour la gestion des rendez-vous
+des patients pour les médecins
+(Plateforme J2EE avec le Framework JSF)
+• Spécifications fonctionnelles/Conception technique.
+• Mise en place de l’environnement  technique (NetBeans…..).
+• Développement de l’application.
+Mai 2011      I.S.I
+Etudiant en cycle ingénieur
+• Conception et développement d’une application de gestion des employés
+(Langage de développement C++)
+• Spécifications fonctionnelles/Conception technique.
+• Mise en place de l’environnement  technique (VisualStudio2008,MySql…..).
+• Développement de l’application.
+2011      I.S.I
+Etudiant en cycle ingénieur
+• Conception et développement d’un site de commerce électronique
+(PHP 4, Html, CSS, MySQL,WAMPServer)
+• Spécifications fonctionnelles/Conception technique.
+• Mise en place de l’environnement  technique (NetBeans,MySql…..).
+• Développement de l’application.
+2011      I.S.I
+Etudiant en cycle Licence
+• Mise en place d’un outil de gestion électronique de document
+• (Ubuntu,alfresco, lampp,)
+Formation académique
+2010 - 2013 : Ingénieur informatique, spécialité génie logiciel et Systèmes
+d’informations à  l’Institut Supérieure d’Informatique(I.S.I).
+2007 - 2010 : licence appliquée en sécurité et administration des réseaux informatiques.
+2005 - 2006: Baccalauréat  Sciences Expérimentales.
+Compétences
+• Langues                               : Arabe , Français courant, Anglais professionnel
+• Environnement de travail    : Unix(Ubuntu),Windows
+• Programmation                   : Php,C/C++, SQL, JAVA/J2EE, Spring  , Hibernate
+• SGBD                                      : Oracle10g, MySQLworkbench
+• Serveur local                         : Wamp, Lampp
+• Programmation web            : PHP5, Symfony2,Doctrine2 ,Git,HTML5,CSS3,
+TWIG, XML, YAML,  JSF,Richfaces, JavaScript,
+Jquery ,Ajax
+• WebServeice                       : Soap
+• Modélisation                       : UML, Design Pettern MVC
+• IDE                                      : NetBeans, Eclipse, Dreamweaver ,Visual Studio ,
+Matlab, photoshop
+• CMS : Joomla , Wordpress
+Centres d’intérêts
+Internet, Football

@@ -1,0 +1,27 @@
+{
+  "age": 0,
+  "name": "RAMZI AYADI ",
+  "adresse": "tunis",
+  "mail": "ayadi.ramzi@gmail.com",
+  "studies": [
+    "ingénieur"
+  ],
+  "num": "21622741559",
+  "skills": [
+    "c++",
+    "c",
+    "java"
+  ],
+  "keywords": {
+    "c": 6,
+    "définition": 4,
+    "telnet": 3,
+    "audit": 3,
+    "mobiles": 4,
+    "avioniques": 5,
+    "réseaux": 5,
+    "office": 4,
+    "monitoring": 3,
+    "ingénieur": 3
+  }
+}

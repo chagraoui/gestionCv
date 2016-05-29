@@ -1,0 +1,34 @@
+{
+  "age": 23,
+  "name": "ASMA KRIMI ",
+  "adresse": "tunis",
+  "mail": "asma.kriimi@gmail.com",
+  "studies": [
+    "licence",
+    "baccalauréat"
+  ],
+  "num": "21658463286",
+  "skills": [
+    "c#",
+    "matlab",
+    "css",
+    "c",
+    "oracle",
+    "android",
+    "windows",
+    "vhdl",
+    "sql",
+    "java",
+    "uml",
+    "xml",
+    "linux",
+    "php",
+    "html",
+    "mysql"
+  ],
+  "keywords": {
+    "web": 3,
+    "ardia": 3,
+    "technicien": 3
+  }
+}

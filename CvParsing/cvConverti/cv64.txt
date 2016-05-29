@@ -1,0 +1,100 @@
+Page 1 
+Nov 2014             Technical Training (3S) 
+Ariana - Tunisie   Formation professionnelle pour l’obtention d’une certification CCNA   
+(ICND1, ICND2). 
+2012-2013            I.S.I (Institut supérieur D’Informatique) 
+Ariana - Tunisie   Obtention du mastère professionnel en : sécurité des Systèmes   
+Informatiques, Communicants et Embarqués. Mention très Bien. 
+2011-2012            I.S.I (Institut supérieur D’Informatique) 
+Ariana - Tunisie   Première années Mastère Professionnel en Spécialité sécurité des 
+Systèmes   Informatiques, Communicants et Embarqués  
+2008-2011            I.S.I (Institut supérieur D’Informatique) 
+Ariana – Tunisie   Obtention de la licence appliquée en systèmes informatique et 
+logiciels (SIL) Mention Bien. 
+Juin 2008              Lycée secondaire El Wafa Ariana 
+Ariana – Tunisie   Obtention du Baccalauréat spécialité Science de L’informatique, 
+Mention très Bien. 
+Mars-Juin 2013    Amen Bank, sous la direction sécurité système informatique 
+Ariana – Tunisie   Stage pratique pour l’obtention du diplôme Mastère professionnel en :   
+sécurité des Systèmes  Informatiques, Communicants et Embarqués. 
+Missions et tâches réalisées:  
+Mise en place d’un Plan de Continuité Informatique (Site de Secours) 
+pour assurer la continuité des activités en cas d’un sinistre. 
+Février- juin 2011 Orange Tunisie, sous direction réseaux et services. 
+Ariana – Tunisie    Stage pratique pour l’obtention du diplôme licence appliqué en 
+informatique parcours Système Informatique et Logiciel. 
+Missions et tâches réalisées: 
+ La mise en place de développement de Dashboard évolutif pour le 
+suivi des services à valeur ajoutée 
+Nom Prénom : Damak Ahmed abd ellatif  
+Age : 25 
+Adresse : Rue Nkhilet 34 cité el Montazah 
+Ville – Pays : Ariana Tunisie 
+Tél : +216 22 055 697 
+E-mail : ahmed.damak89@hotmail.com 
+EXPERIENCES PROFESSIONNELLES 
+FORMATIONS 
+Curriculum Vitae 
+Page 2 
+Juillet-Sep 2010    ITBS (International Technics and Business Services) 
+Ariana – Tunisie   Stage pratique  
+Missions et tâches réalisées:  
+Mise en place  d’une application pour la reservation du billet d’avion 
+en ligne. 
+ Systèmes d’exploitation : 
+ Microsoft Windows : XP, 2000, 2003 Server, 2008 server, Seven 
+ Linux (Ubuntu, Mandriva, Fedora). 
+ Réseaux informatique : 
+ Application: SMTP, DNS, HTTP, FTP, SNMP, SSL, SSH, IPSec 
+ Conception des réseaux TCP/IP: modèle hiérarchique, LAN, MAN, WAN. 
+ Routage : Routage statique, Routage dynamique (OSPF single area, Ospf 
+Multierea, EIGRP), routage interVlan 
+ Securite d’acces aux équipements réseaux, haute diponibilité (HSRP, 
+VRRP), Etherchannel, Spanning Tree Protocl, NAT et PAT, DHCP. 
+ Langages de programmation : 
+ Langages procéduraux : C, C++, JAVA-J2EE, Pascal, VB6 
+ Programmation Web : HTML, XML, PHP, JavaScript, CSS 
+ Programmation logique : Prolog 
+ Autres : Matlab 
+Compétences techniques 
+Page 3 
+ Environnement et plateformes : 
+ Microsoft Visual Studio 2008 
+ NetBeans, Eclipse 
+ Dev C++, Turbo C, Turbo Pascal 
+ Easyphp, Macromedia Dream Weaver 
+ Apache, Tomcat, WAMP Server 
+ Conception et base de données : 
+ Méthodologies et langages : UML 
+ SGBD : Oracle, SQL Server 2005 et 2008, MySQL, Postgres, Access 
+ Langages de requête : SQL, PL/SQL (Procédure stockée, Trigger, etc.) 
+ Outils: Power AMC Designer, Rationnel Rose. 
+ Sécurité : 
+ Sécurité des applications :  
+ Serveurs Web : Apache, IIS Exchange 
+ Base de données : Mysql, PostgreSQL, Oracle  
+ Virtualisation : Vmware, Virtualbox  
+ Méthodologie:  
+ Les tests d'intrusion (Pentesting)  
+ Analyse des risques : Mehari  
+ Réseaux:  
+ ARP, l'attaque IP / protection (spoofing, MITM, etc)  
+ le filtrage IP  
+ Outils:  
+ Nessus, Nmap, Netcat, BackTrack, iptables ,snort, wireshark,Netflow 
+,Kiwi syslog,Mib F17. 
+Page 4 
+ Obtention de certificat en  Anglais GE Beginner (A1-0) Britsh council. 
+ Obtention de certificat CCNA (Cisco Certified Network Associate).  
+ Arabe   : Langue maternelle. 
+ Français : Lu, écrit et parlé. 
+ Anglais : Lu, écrit et parlé. 
+ High-tech : Recherche sur les nouvelles technologies. 
+ Atouts personnels :  
+ Dynamisme, Motivation, Mobilité 
+ Sens du relationnel,. Organisation, Goût du travail en équipe 
+ Une grande capacité d’apprentissage 
+ Permis de conduite 
+Certification 
+Compétences linguistiques 
+Loisirs et intérêts 

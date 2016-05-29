@@ -1,0 +1,91 @@
+                                 ​   ​CURRICULUM VITAE 
+Ingénieur en Télécom et Informatique  
+Informations personnelles 
+Nom et prénom        : KHATERCHI Wajdi   
+Poste                        : Ingénieur Informatique   
+Situation familiale   : Célibataire 
+Date de naissance    : 01 /08/1987 
+Nationalité               : Tunisienne 
+Email                       : wejdi.khaterchi2010@gmail.com 
+N° téléphone            : (+216) 97 929 142 
+Expériences professionnelles 
+  YessClever                                                           YessConsulting  
+Janvier 2015 – Mai 2015 
+Solution ERP qui tient en consideration la Gestion Ressource Humaine ,Stock et la Comptabilité. 
+Technologies : Java, J2EE,  Webservices REST, Maven, Socket, Tomcat, JavaScript, Jsf, 
+Spring,Hibernate­Jpa, PostgreSql, Eclipse, SVN... 
+ Géotrack                                                                          Skopeo Tunisie 
+Janvier 2015 – Mai 2015 
+Skopeo souhaitait adopter une solution de géolocalisation lui permettant une aide à la gestion 
+optimale pour la localisation des Véhicule cette solution lui permet d’assurer: 
+               • Suivi en temps réel des Véhicules. 
+               • Manipulation pertinente des données collector a partir des BUS CAN . 
+Technologies : Java, J2EE,  Webservices REST, Maven, Socket, Tomcat, JavaScript, Html5, 
+Eclipse … 
+    StockManager/StockPharma                                           Skopeo Tunisie 
+mai 2014 – janvier 2015  
+Skopeo souhaitait adopter une solution RFID lui permettant une aide à la gestion optimale du 
+parc des ressources physiques qui y seront installées. Pour cela, le groupe Skopeo recherche une 
+solution à même d’assurer: 
+         • l’enregistrement plus rapide du matériel dès la livraison sur le site du Datacenter. 
+         • l’étiquetage et repérage des équipements préalablement enregistrés. 
+         • l’aide un inventaire rapide et fiable, en fonction des demandes. 
+         • l’historique des mouvements réalisés par cet outil. 
+         • une gestion des utilisateurs de cet outil. 
+Phases et livrables 
+          ​  • Analyse fonctionnelle et technique / Rédaction de spécifications. 
+            • Estimation de charge de la solution complète. 
+            • Participation aux phases de développement et d’intégration. 
+            • Contact permanent avec le client. 
+Technologies : Java, J2EE,  Webservices SOAP, Maven, CXF, XML, Fosstrak, Tomcat, 
+EPCglobal (EPC, ECSpec, EPCIS), NFC, JavaFx, Spring,Hibernate­Jpa,Eclipse … 
+ NFC-POC                                                                        Skopeo Tunisie 
+Octobre 2014 – Décembre 2015  
+NFC­POC est  une solution basé sur la technologie NFC qui permet d’assurer: 
+         • l’enregistrement plus rapide du matériel Mobile. 
+         • l’étiquetage et repérage des équipements préalablement enregistrés. 
+         • l’aide un inventaire rapide et fiable, en fonction des demandes. 
+         • l’historique des mouvements réalisés par cet outil. 
+         • une gestion des utilisateurs de cet outil. 
+Technologies : Java, J2EE,  Webservices REST, Maven, JavaFx, Tomcat, Spring,Hibernate­Jpa, 
+Eclipse … 
+ Formations  et Stages 
+Stages 
+Janvier 2013 – Juin 2013                  : Développement J2EE et RFID (ATFP) 
+Juillet 2012 – Août 2012                   : Développement J2EE (SAGEM­COM) 
+Janvier 2010 – Février 2010             : Etude AMDEC (SAEE) 
+Septembre 2009 – Décembre 2009   : Amélioration d’un processus D’injection plastique (SAEE) 
+Janvier 2008 – Février 2008              : Technique d’administration(S2I) 
+Formations  
+Juin 2013         : Diplôme National d’Ingénieur en Téléinformatique (ISITcom Hammam Sousse) 
+Janvier 2009    : Technicien Supérieur en Administration et Communication (ISETch) 
+Juin 2006         : baccalauréat Mathématique 
+Connaissance Linguistiques et Informatiques 
+Langues​ ​: Français (Courant) 
+                  Anglais (Courant) 
+Connaissances Informatiques​ : 
+System d’exploitation : Windows, Lunix/Unix, VM. 
+web : JavaScript, HTML5, CSS3, jQuery , SSL, HTTP, MVC, JSON, XML. 
+Programmation : MATLAB, JAVA, Assembleur, FlowCode. 
+Développement J2EE:​ Spring (MVC), Ejb, hibernate, JPA, Maven, JSF(2.0, 2.1, 2.2), vaadin, 
+webFlow, Jsp, html, xhtml, Web Services (SOAP, REST). 
+Technique de Géolocalisation ​: NFC, RFID, Géolocalisation. 
+Base de données​ : MySQL, PL/SQL, Oracle 11g, SQLite, PostgreSQL. 
+Conception​ : Merise, UML 
+Environnement Logiciels ​: ADS, ISIS, Java­Eclipse­Netbeans, Matlab, Suite Microsoft Office, 
+Visual Paradigme. 
+Connaissances Réseaux et Télécoms : 
+Sécurité Réseau: ACL, IPTables, Firewalls, IPSec, VPN, SSL, IDS/IPS, Tunnels 
+Réseaux :Réseaux téléphoniques, RTCP, TCP/IP, LAN/WLAN, VOIP, RNIS, ATM, SDH, 
+XDSL, Frame Relay 
+Communication sans fil : IEEE 802.11a/b/g, WiMAX, Communication optiques 
+Réseaux Mobile : GSM, GPRS, EDGE, UMTS, HSPA, HSPDA, LTE, 3/4G 
+Transmission: Multiplexage FDM, TDM, Modulation AM/FM/QM/FSQ/PSQ/ASK/MIC 
+Conception Réseaux Télécoms/Réseaux Mobiles 
+Aptitudes et compétences 
+Ponctuel, très organisé, avoir un plan clair pour son futur 
+De bonne compétence de communication : esprit d’équipe, une bonne capacité d’apprentissage. 
+Compétences organisationnelles : sens d’organisation, sens d’observation. 
+Centres d’intérêts : Lecture (Magazines scientifiques et informatiques, livres informatiques) 
+Internet (participation à des Forums, Jeux vidéo) 
+Sport (Football, Handball, Natation) 

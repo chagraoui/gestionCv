@@ -1,0 +1,46 @@
+{
+  "age": 25,
+  "name": "RIAHI Marwa  ",
+  "adresse": "tunis",
+  "mail": "marwoiriahi.rh@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "21620353961",
+  "skills": [
+    "c++",
+    "css",
+    "c",
+    "ubuntu",
+    "android",
+    "virtualisation",
+    "windows",
+    "ios",
+    "eclipse",
+    "sql",
+    "spring",
+    "java",
+    "shell",
+    "uml",
+    "xml",
+    "linux",
+    "j2ee",
+    "html",
+    "jpa",
+    "mysql",
+    "netbeans",
+    "centos",
+    "css3"
+  ],
+  "keywords": {
+    "télécom": 3,
+    "android": 4,
+    "linux": 3,
+    "télécommunication": 3,
+    "ip": 3,
+    "réseaux": 11,
+    "openvas": 3,
+    "nessus": 3
+  }
+}

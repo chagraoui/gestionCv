@@ -1,0 +1,34 @@
+{
+  "age": 24,
+  "name": "Curriculum vitae............................................................. Ben Mefteh Zaineb ",
+  "adresse": "tunis",
+  "mail": "zaineb.benmefteh@hotmail.fr",
+  "studies": [
+    "licence",
+    "baccalauréat"
+  ],
+  "num": "27316466",
+  "skills": [
+    "matlab",
+    "c++",
+    "css",
+    "c",
+    "assembleur",
+    "excel",
+    "java",
+    "linux",
+    "j2ee",
+    "php",
+    "html",
+    "jsf",
+    "word",
+    "powerpoint"
+  ],
+  "keywords": {
+    "java": 4,
+    "réseaux": 4,
+    "jee": 3,
+    "zaineb": 3,
+    "structure": 3
+  }
+}

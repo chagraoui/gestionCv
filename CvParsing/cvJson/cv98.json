@@ -1,0 +1,47 @@
+{
+  "age": 0,
+  "name": "EXPERIENCE PROFESSIONNELLE ",
+  "adresse": "tunis",
+  "mail": "zayanioumaima@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "21650135248",
+  "skills": [
+    "c#",
+    "rest",
+    "css",
+    "c++",
+    "c",
+    "oracle",
+    "html5",
+    "android",
+    "jee",
+    "sql",
+    "eclipse",
+    "spring",
+    "excel",
+    "java",
+    "uml",
+    "asp.net",
+    "linux",
+    ".net",
+    "php",
+    "mysql",
+    "html",
+    "netbeans",
+    "angularjs",
+    "css3"
+  ],
+  "keywords": {
+    "java": 7,
+    "c": 5,
+    "web": 8,
+    "android": 3,
+    "jee": 6,
+    "esti": 3,
+    "net": 3,
+    "eclipse": 4
+  }
+}

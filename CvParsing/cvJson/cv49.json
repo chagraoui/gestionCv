@@ -1,0 +1,51 @@
+{
+  "age": 1,
+  "name": "Curriculum Vitae Meher TAIEB                                                  Analyste Développeur ",
+  "adresse": "tunis",
+  "mail": "meher.taieb@gmail.com",
+  "studies": [
+    "ingénieur",
+    "baccalauréat"
+  ],
+  "num": "21650479321",
+  "skills": [
+    "c#",
+    "css",
+    "dreamweaver",
+    "c",
+    "dotnet",
+    "oracle",
+    "android",
+    "javascript",
+    "sql",
+    "eclipse",
+    "spring",
+    "java",
+    "asp.net",
+    "j2ee",
+    ".net",
+    "mysql",
+    "mvc",
+    "netbeans",
+    "ejb"
+  ],
+  "keywords": {
+    "poulina": 3,
+    "workflow": 5,
+    "taieb": 6,
+    "jee": 3,
+    "ingénieur": 5,
+    "sql": 5,
+    "spring": 3,
+    "pgh": 3,
+    "meher": 7,
+    "java": 3,
+    "web": 6,
+    "struts": 3,
+    "mysql": 3,
+    "mvc": 5,
+    "net": 8,
+    "compiere": 4,
+    "asp": 5
+  }
+}
