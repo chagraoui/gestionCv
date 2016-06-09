@@ -34,6 +34,19 @@
 	<!-- Right links for user info navbar -->
 	<ul class="user-info-menu right-links list-inline list-unstyled">
 
+		<li class="search-form" ng-init="isFocused = false" ng-class="{focused: isFocused}"><!-- You can add "always-visible" to show make the search input visible -->
+
+			<form name="userinfo_search_form" ng-submit="userinfo_search_form.$valid" novalidate>
+				<input type="text" name="s" class="form-control search-field" placeholder="Type to search..." ng-blur="isFocused = false;" required />
+
+				<button type="submit" class="btn btn-link" ng-click="isFocused = ! isFocused; setFocusOnSearchField();">
+					<i class="linecons-search"></i>
+				</button>
+			</form>
+
+		</li>
+
+
 	<li class="dropdown user-profile">
 		<a href="" class="dropdown-toggle" data-toggle="dropdown">
 			<img src="assets/images/user-4.png" alt="user-image" class="img-circle img-inline userpic-32" width="28" />
@@ -44,16 +57,15 @@
 		</a>
 
 		<ul class="dropdown-menu user-profile-menu list-unstyled">
-
 			<li>
-				<a href="#settings">
+				<a href="">
 					<i class="fa-wrench"></i>
 					Paramètres
 				</a>
 			</li>
 
 			<li>
-				<a href="#help">
+				<a href="">
 					<i class="fa-info"></i>
 					Aide
 				</a>
@@ -67,17 +79,7 @@
 		</ul>
 	</li>
 
-		<li class="search-form" ng-init="isFocused = false" ng-class="{focused: isFocused}"><!-- You can add "always-visible" to show make the search input visible -->
 
-			<form name="userinfo_search_form" ng-submit="userinfo_search_form.$valid" novalidate>
-				<input type="text" name="s" class="form-control search-field" placeholder="Type to search..." ng-blur="isFocused = false;" required />
-
-				<button type="submit" class="btn btn-link" ng-click="isFocused = ! isFocused; setFocusOnSearchField();">
-					<i class="linecons-search"></i>
-				</button>
-			</form>
-
-		</li>
 
 				<li class="fullscreen" ng-show="isFullscreenSupported">
 			<a href="" ng-click="goFullscreen()" title="Fullscreen">

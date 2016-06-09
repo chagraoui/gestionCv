@@ -29,14 +29,18 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter{
 	}
 
 	protected void configure(HttpSecurity http) throws Exception{
-		http
-			.csrf().disable();
+		http.csrf().disable();
 //		.authorizeRequests()
 //			.antMatchers("/app/**","/assets/**","/auth1").permitAll()
 //			.anyRequest()
 //				.authenticated()		
-//				.and()
+//				.and(),
 //				.formLogin()
-//				.loginPage("/index.html").permitAll();				
+//				.loginPage("/index.html").permitAll();	
+		
+		http.formLogin().loginPage("/index.html").permitAll();
+		http.authorizeRequests().antMatchers("/app/**","/assets/**","/**").permitAll().anyRequest().authenticated();
+	//	http.formLogin().loginPage("/index.html").permitAll().and().logout().permitAll();
+		
 	}
 }

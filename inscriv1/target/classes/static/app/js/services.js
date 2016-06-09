@@ -254,13 +254,13 @@ service('userIdService', function(){
 
 		this.prepareSidebarMenu = function()
 		{
-			var offreGestion   = this.addItem('Gestion des offres', 	'',		'linecons-user');
+			var offreGestion   = this.addItem('Gestion des Offres', 	'',		'linecons-user');
+			var tousLesCand   = this.addItem('Chercher un Profil', 	'/appR/tousLesCandidats',		'linecons-search');
 			var mail     = this.addItem('Envoyer um Mail', 			'/appR/composeMail', 			'linecons-mail');
 
 
             offreGestion.addItem('Consulter mes Offres', '/appR/epsaceRecruteur', 'linecons-eye'); // "-/" will append parents link
 			offreGestion.addItem('Ajouter une Offre', '/appR/ajouteroffre', 'fa-plus');
-
 
 			return this;
 		};

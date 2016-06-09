@@ -31,7 +31,7 @@
                 <td>{{candidat.profil.email}}</td>
                 <td>
 
-                    <button type="button" class="btn btn-danger btn-sm btn-icon icon-left" ng-click="supprimerCand(candidat)">
+                    <button type="button" class="btn btn-danger btn-sm btn-icon icon-left" ng-click="confirmClick('Vous voulez vraiment supprimer ce candidat ' + candidat.login +' ?') && supprimerCand(candidat)" confirm-click>
                         Supprimer
                     </button>
 

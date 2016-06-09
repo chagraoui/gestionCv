@@ -58,7 +58,7 @@
                 <div ng-form="certifForm">
                     <div class="form-group">
                     <div class="col-xs-9">
-                        <input type="text" class="form-control" name="newCertification" autocomplete="off" ng-model="certification.newNomCertif" required/>
+                        <input type="text" class="form-control" name="newCertification" autocomplete="off" ng-model="certification.newNomCertif" />
                     </div><div>
                     <button class="btn btn-dark" type="button" ng-click="addCertif()" ng-disabled="certifForm.$invalid">Ajouter</button>
                 </div>
@@ -98,10 +98,10 @@
                         <font color=’#000000′> Expérience : </font>
                         <div class="form-group" >
                             <div class="col-xs-6">
-                                <input type="text" name="domaine" ng-model="user.experiences.domaine" class="form-control" required/>
+                                <input type="text" name="domaine" ng-model="user.experiences.domaine" class="form-control" />
                             </div>
                             <div class="col-xs-3">
-                                <input value="1" type="number" class="form-control" placeholder="ans" min=1 max=20 ng-model="user.experiences.nbrAnsExp" required/>
+                                <input value="1" type="number" class="form-control" placeholder="ans" min=1 max=20 ng-model="user.experiences.nbrAnsExp" />
                             </div>
                             <button type="submit" class="btn btn-dark" ng-disabled="skillForm.$invalid" ng-click="addSkill()">Ajouter</button>
                         </div></div>
@@ -121,6 +121,7 @@
                     <button type="submit" class="btn btn-primary  btn-block text-left" ng-click="inscription(user)">
                        <i class="fa-check-square"></i>
                         Confirmer
+                        <span show-during-resolve class="glyphicon glyphicon-refresh loading-icon"></span>
                     </button>
                 </div>
 

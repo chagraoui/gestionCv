@@ -1,6 +1,8 @@
 package org.tritux.restController;
 
+import java.io.BufferedOutputStream;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -25,8 +27,24 @@ public class ParsingCvRest {
 
 	@RequestMapping(method = RequestMethod.POST, value = "/upload")
 	public CV handleFileUpload(@RequestParam("file") MultipartFile file)
-			throws IOException, SAXException, TikaException {
+			throws IOException, SAXException, TikaException ,FileNotFoundException{
 
+		
+		
+		String orgName = file.getOriginalFilename();
+		String filePath = "C:/Users/mehdi/Pictures/Screenshots/" + orgName;
+		System.out.println(filePath);
+		File  dest = new File(filePath);
+		
+		
+		 try {
+	       file.transferTo(dest);
+		 }
+		 catch (FileNotFoundException e1 ){
+			 System.out.println("errure que j'ai pas compris la cause ");
+		 }
+		
+		
 		InputStream cv = file.getInputStream();
 
 		// ParseContext Used to pass context information to Tika parsers.
@@ -52,4 +70,6 @@ public class ParsingCvRest {
 
 		return cvfinale;
 	}
+
+	
 }

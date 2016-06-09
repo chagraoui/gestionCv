@@ -34,10 +34,14 @@ angular.module('xenon.controllers', []).controller('LoginCtrl', function ($scope
 
                 if (role == "recruteur") {
                     //$location.path("/recruteur");
+                    $scope.connecte = userInscriService.getValue().nomRecruteur;
+                    console.log($scope.connecte);
                     $state.go('appR.recruteur');
+
 
                 } else if (role == "candidat") {
                     $http.get("http://localhost:8080/profilCand/" + id).success(function (respons) {
+                        $scope.connecte = userInscriService.getValue().profil.nom;
                         console.log(respons);
                         var profileData = respons;
                         profilDataService.setValue(profileData);
@@ -726,7 +730,6 @@ controller('SettingsPaneCtrl', function ($rootScope) {
 
 }).controller('recruteurCtrl', function ($scope, $http, $state, userIdService, userInscriService, listPostulantService) {
 
-
     var user = userInscriService.getValue();
     console.log(user.id);
 
@@ -817,6 +820,14 @@ console.log($scope.offre.selectedTechno);
             })
     }
 
+    $scope.tousLesCandidats = function () {
+
+        $http.get("http://localhost:8080/listCandidat").success(function (respons) {
+            $scope.listTousCand = respons;
+            console.log($scope.listTousCand);
+        })
+    }
+    $scope.tousLesCandidats();
 
 }).controller('recruteurListPostulant', function ($scope, $state, $http, listPostulantService, profilDataService) {
     $scope.listPostulant = listPostulantService.getValue();

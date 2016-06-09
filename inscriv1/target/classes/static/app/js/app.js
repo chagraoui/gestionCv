@@ -236,6 +236,12 @@ app.config(function($stateProvider, $urlRouterProvider, $ocLazyLoadProvider, ASS
 		url: '/ajouteroffre',
 		templateUrl: appHelper.templatePath('users/recruteur/ajouterOffre'),
 		controller: 'recruteurCtrl',
+	}).
+
+	state('appR.tousLesCandidats', {
+		url: '/tousLesCandidats',
+		templateUrl: appHelper.templatePath('users/recruteur/tousLesCandidats'),
+		controller: 'recruteurCtrl',
 	})
 });
 
